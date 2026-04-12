@@ -1,0 +1,13 @@
+targets:
+  us_equities: SPY
+  europe_equities: FEZ
+  japan_equities: EWJ
+  us_10y_yield: US10Y
+  europe_10y_yield: EU10Y
+  uk_10y_yield: UK10Y
+  japan_10y_yield: JP10Y
+  canada_10y_yield: CA10Y
+  gold: GLD
+  oil: USO
+  cdx: CDX
+  dollar: UUP

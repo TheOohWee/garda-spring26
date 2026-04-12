@@ -1,0 +1,37 @@
+common_columns:
+  - as_of_date
+  - effective_date
+  - region
+  - pillar
+  - subpillar
+  - score_raw
+  - score_std
+  - coverage
+  - source_count
+
+regions:
+  - US
+  - Europe
+  - Japan
+  - UK
+  - Canada
+
+pillars:
+  macro:
+    - growth
+    - inflation
+    - labor
+  policy:
+    - inflation
+    - growth
+    - labor
+    - rates
+    - forward_guidance
+  earnings:
+    - demand
+    - pricing
+    - hiring
+    - capex
+    - credit
+    - ai
+    - productivity_labor
