@@ -4,6 +4,7 @@ import argparse
 import csv
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
 from datetime import UTC, datetime
 from pathlib import Path
@@ -117,7 +118,11 @@ def pick_best_fool_link(urls: Iterable[str], fiscal_year: int) -> str | None:
     return None
 
 
-def create_driver(headless: bool, wait_seconds: int) -> tuple[webdriver.Chrome, WebDriverWait]:
+def create_driver(
+    headless: bool,
+    wait_seconds: int,
+    driver_path: str | None = None,
+) -> tuple[webdriver.Chrome, WebDriverWait]:
     chrome_options = Options()
     if headless:
         chrome_options.add_argument("--headless=new")
@@ -126,7 +131,7 @@ def create_driver(headless: bool, wait_seconds: int) -> tuple[webdriver.Chrome, 
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
     chrome_options.add_argument("--log-level=3")
-    service = Service(ChromeDriverManager().install())
+    service = Service(driver_path or ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service, options=chrome_options)
     wait = WebDriverWait(driver, wait_seconds)
     return driver, wait
@@ -568,9 +573,15 @@ def parse_args() -> argparse.Namespace:
         "--pause-for-robot-check",
         action=argparse.BooleanOptionalAction,
         default=True,
-        help="Pause and wait for Enter when Google robot-check/CAPTCHA is detected.",
+        help="Pause automatically when Google robot-check/CAPTCHA is detected.",
     )
     parser.add_argument("--retries", type=int, default=2, help="Retry attempts per query.")
+    parser.add_argument(
+        "--workers",
+        type=int,
+        default=5,
+        help="Number of concurrent browser workers (default: 5).",
+    )
     parser.add_argument(
         "--headful",
         action="store_true",
@@ -594,25 +605,63 @@ def main() -> int:
     output_root.mkdir(parents=True, exist_ok=True)
     manifest_path = output_root / args.manifest_name
     fiscal_years = list(range(args.fy_start, args.fy_end + 1))
+    jobs = [(ticker, fy) for ticker in tickers for fy in fiscal_years]
+    total = len(jobs)
 
     print(f"Tickers: {tickers}")
     print(f"Fiscal years: {fiscal_years}")
     print(f"Output directory: {output_root.resolve()}")
 
+    if args.workers < 1:
+        print("Error: --workers must be >= 1", file=sys.stderr)
+        return 2
+
+    worker_count = min(args.workers, total)
+    print(f"Concurrent browser workers: {worker_count}")
+
     try:
-        driver, wait = create_driver(headless=not args.headful, wait_seconds=args.wait_seconds)
+        driver_path = ChromeDriverManager().install()
     except Exception as exc:  # noqa: BLE001
-        print(f"Failed to start Chrome WebDriver: {exc}", file=sys.stderr)
+        print(f"Failed to install/find Chrome WebDriver: {exc}", file=sys.stderr)
         return 1
 
-    rows: list[ScrapeResult] = []
-    total = len(tickers) * len(fiscal_years)
-    counter = 0
-    try:
-        for ticker in tickers:
-            for fy in fiscal_years:
-                counter += 1
-                print(f"[{counter}/{total}] Scraping {ticker} FY{fy}...")
+    indexed_jobs = list(enumerate(jobs, start=1))
+    chunks: list[list[tuple[int, tuple[str, int]]]] = [indexed_jobs[i::worker_count] for i in range(worker_count)]
+
+    def run_chunk(worker_id: int, chunk: list[tuple[int, tuple[str, int]]]) -> list[tuple[int, ScrapeResult]]:
+        if not chunk:
+            return []
+        try:
+            driver, wait = create_driver(
+                headless=not args.headful,
+                wait_seconds=args.wait_seconds,
+                driver_path=driver_path,
+            )
+        except Exception as exc:  # noqa: BLE001
+            failed_rows: list[tuple[int, ScrapeResult]] = []
+            for index, (ticker, fy) in chunk:
+                failed_rows.append(
+                    (
+                        index,
+                        ScrapeResult(
+                            ticker=ticker,
+                            fiscal_year=fy,
+                            query_used="; ".join(build_queries(ticker, fy)),
+                            url="",
+                            status="error",
+                            text_path="",
+                            char_count=0,
+                            error=f"Worker {worker_id} failed to start browser: {exc}",
+                            fetched_at_utc=datetime.now(UTC).isoformat(),
+                        ),
+                    )
+                )
+            return failed_rows
+
+        results: list[tuple[int, ScrapeResult]] = []
+        try:
+            for index, (ticker, fy) in chunk:
+                print(f"[{index}/{total}] Worker {worker_id} scraping {ticker} FY{fy}...")
                 result = scrape_single_transcript(
                     driver=driver,
                     wait=wait,
@@ -624,11 +673,24 @@ def main() -> int:
                     manual_pause_seconds=args.manual_pause_seconds,
                     pause_for_robot_check=args.pause_for_robot_check,
                 )
-                rows.append(result)
-                print(f"  -> {result.status} ({result.char_count} chars)")
-    finally:
-        driver.quit()
+                results.append((index, result))
+                print(f"[{index}/{total}] Worker {worker_id} -> {result.status} ({result.char_count} chars)")
+        finally:
+            driver.quit()
+        return results
 
+    indexed_results: list[tuple[int, ScrapeResult]] = []
+    with ThreadPoolExecutor(max_workers=worker_count) as executor:
+        futures = [
+            executor.submit(run_chunk, worker_id + 1, chunk)
+            for worker_id, chunk in enumerate(chunks)
+            if chunk
+        ]
+        for future in as_completed(futures):
+            indexed_results.extend(future.result())
+
+    indexed_results.sort(key=lambda item: item[0])
+    rows = [result for _, result in indexed_results]
     write_manifest(manifest_path, rows)
 
     ok_count = sum(1 for r in rows if r.status == "ok")

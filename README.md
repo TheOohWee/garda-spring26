@@ -44,6 +44,8 @@ Use Selenium to search and scrape earnings call transcript pages from Motley Foo
    `python scrape_motley_fool_transcripts.py --tickers MSFT,AAPL,NVDA --fy-start 2020 --fy-end 2025`
 4. If search engines block headless traffic, run visible Chrome and optionally wait on search pages:
    `python scrape_motley_fool_transcripts.py --headful --manual-pause-seconds 6`
+5. Run five concurrent browser workers:
+   `python scrape_motley_fool_transcripts.py --workers 5 --headful`
 
 Output is written under:
 - `data/raw/earnings/motley_fool_transcripts/<TICKER>/FY<YEAR>.txt`
