@@ -32,3 +32,19 @@ Every exported score table should include:
 - `score_std`
 - `coverage`
 - `source_count`
+
+## Motley Fool Transcript Scraper
+
+Use Selenium to search and scrape earnings call transcript pages from Motley Fool.
+
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run default batch (10 tickers, FY2020-FY2025):
+   `python scrape_motley_fool_transcripts.py`
+3. Custom run example:
+   `python scrape_motley_fool_transcripts.py --tickers MSFT,AAPL,NVDA --fy-start 2020 --fy-end 2025`
+4. If search engines block headless traffic, run visible Chrome and optionally wait on search pages:
+   `python scrape_motley_fool_transcripts.py --headful --manual-pause-seconds 6`
+
+Output is written under:
+- `data/raw/earnings/motley_fool_transcripts/<TICKER>/FY<YEAR>.txt`
+- `data/raw/earnings/motley_fool_transcripts/manifest.csv`

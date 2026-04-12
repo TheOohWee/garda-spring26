@@ -1,0 +1,2 @@
+ticker,fiscal_year,query_used,url,status,text_path,char_count,error,fetched_at_utc
+MSFT,2022,msft fy22 earnings call transcript motley fool,https://www.fool.com/earnings/call-transcripts/2022/07/27/microsoft-msft-q4-2022-earnings-call-transcript/,ok,data\raw\earnings\motley_fool_transcripts\MSFT\FY2022.txt,57587,,2026-04-12T19:46:58.521796+00:00
