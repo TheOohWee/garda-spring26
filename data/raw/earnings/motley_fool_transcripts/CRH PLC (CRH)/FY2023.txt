@@ -1,0 +1,459 @@
+Ticker: CRH PLC (CRH)
+Fiscal Year: FY2023
+Query Used: CRH PLC (CRH) FY23 earnings call transcript motley fool
+Source URL: https://www.fool.com/earnings/call-transcripts/2021/08/28/crh-plc-crh-q2-2021-earnings-call-transcript/
+Title: CRH PLC (CRH) Q2 2021 Earnings Call Transcript
+Fetched At (UTC): 2026-04-13T00:39:24.152965+00:00
+
+CRH earnings call for the period ending June 30, 2021.
+
+Image source: The Motley Fool.
+
+CRH PLC 
+(
+CRH
++0.00%
+)
+
+Q2 2021 Earnings Call
+Aug 27, 2021, 3:30 p.m. ET
+
+Operator
+
+Ladies and gentlemen, welcome to the CRH plc Interim Results. [Operator Instructions]
+
+The next voice you will be Albert Manifold.
+
+Albert Manifold -- Chief Executive
+
+Good morning, everyone. Albert Manifold here, CRH Group's Chief Executive, and you're all very welcome to our conference call and webcast presentation, which accompanies the release of our 2021 interim results this morning. Joining me on the call is Jim Mintern, our Group Finance Director; David Dillon, Executive Vice President; Frank Heisterkamp, Director of Capital Markets and ESG; and Tom Holmes, Head of Investor Relations.
+
+Now, at the outset, I'd like to take this opportunity to recognize the ongoing dedication and resilience of our people across the Group, as we navigate our way through the challenges and continuing uncertainties presented by the COVID-19 pandemic. As always, the health and safety of our employees, contractors and customers remain our number one priority and is a core focus in everything that we do.
+
+So, over the next 30 minutes or so, Jim and I will take you through a brief presentation on the results we've published this morning, highlighting key drivers of our trading performance for the first six months of 2021, as well as providing you with indication of expectations for the remainder of the year. We'll update you on the progress we're making in reshaping and repositioning our business to deliver superior growth and performance going forward. We'll also outline the importance of a unique range of integrated value-added products and solutions in the delivery of a more sustainable future for our business and that enables us to support our customers in delivering a more sustainable built environment. Afterwards, we'll be available to take any questions you may have and all told, we should be done in about an hour or so.
+
+So, at the outset, on Slide 2, let me take you through some of the key messages of the year so far. I'm pleased to report a good first half performance for CRH, with sales, EBITDA and margins all well ahead of prior year. We've also continued to deliver strong levels of cash generation across our business. During the first six months of the year, we generated $1.6 billion of operating cash flow, a record performance that further underpins the strength of our balance sheet and provide significant opportunities to create further value for our shareholders going forward. As you've heard us say many times before, the efficient and disciplined allocation of capital is a key focus for CRH, and this year again is no different.
+
+In the year-to-date, we've invested $1.1 billion to support further growth in our business. Approximately $900 million of that was spent on 11 bolt-on acquisitions, representing an average acquisition multiple of 7 times EBITDA and that's before the benefits of the integration synergies and savings that we have identified. We've also invested approximately $200 million on expansionary capital expenditure projects to support further organic growth in our existing businesses, high-returning, low-risk investments that will deliver significant value for the years to come. But such is the strength of our cash generation, we have the capacity, not just to grow the business, we also have the capacity to increase our cash returns to shareholders. In this regard, I am pleased to report that we're declaring an interim dividend of $0.23 per share, a 4.5% increase on the prior year and in line with our progressive dividend policy. In addition, our ongoing share buyback program is now running at an annualized rate of approximately $1 billion. The current tranche of our program is well underway and will be completed no later than October 1.
+
+Finally, as we look ahead to the remainder of the year, underlying demand outlook across our markets continues to improve, and notwithstanding a challenging prior year comparative and an inflationary input cost environment, we expect Group EBITDA in the second half of the year to be ahead of 2020.
+
+Turning now to Slide 3 and our financial highlights for the first six months of the year. Overall, a good performance with sales, EBITDA, margin and cash generation all well ahead of the prior year period, which experienced a heavily disrupted second quarter due to pandemic-related restrictions across a number of our key markets. Total sales of $14 billion were 15% ahead, reflecting the positive underlying demand environment across Europe and North America during the first six months of the year. This translates into $2 billion of EBITDA, 25% ahead, reflecting the strong operating leverage across our business. And I'm pleased to see further improvement in our margins, 120 basis points ahead of prior year period. And cash, as I mentioned, another strong performance with a 55% increase year-on-year.
+
+On Slide 4, I'd like to take a moment to reflect on the key drivers of that improved performance. Yes, our businesses continue to work hard and perform well, but the real driver has been the significant reshaping and repositioning of our business over the last number of years. The CRH that delivered this performance is a very different business than the one we were before. Through the careful and strategic repositioning of our businesses, we have increased our exposure to higher-growth markets, such as the South and Western part of the United States and Central and Eastern Europe, markets with strong fundamentals, growing populations and significant construction needs. We've also increased our focus on more resilient forms of construction demand, primarily large-scale horizontal construction, above and below the ground, including publicly funded infrastructure and residential construction.
+
+We continue to move away from being a sole supplier of commodity products and base materials to become a fully integrated provider of materials, products and services, value-added solutions for our customers, which today represent approximately 65% of Group revenues. These are the changes that are behind the consistent improvement in our performance, delivering structurally higher sales, profits, margins, cash and returns, always with an eye to advancing the sustainability in construction across the whole of the supply chain and the full lifecycle of the project, and I'll expand on this in more detail a little later in the presentation.
+
+Turning to Slide 5, and before I take you through our divisional trading performance, I'd like to give you a brief update on the market backdrop and the operating environment across our major markets.
+
+Looking at Slide 6, and beginning with North America, where, against a favorable economic backdrop, construction activity continues to experience improving levels of demand. There's positive momentum with regard to infrastructure funding in the United States. Negotiations in Congress are progressing well. And while there are still uncertainties, we are increasingly confident that a vital multi-year program will be put in place. And, of course, as the largest building materials business in North America, we are very well positioned to benefit from increased infrastructure investment going forward.
+
+US residential construction activity remains robust, supported by strong demand, low mortgage rates and ongoing migration to the South and West. RMI activity also continues to experience good growth as people invest more into their homes and outdoor living areas. Despite being one of the sectors most impacted by the pandemic, non-residential construction is showing early signs of recovery with a number of positive leading indicators in recent months.
+
+Turning to Slide 7 and the trading performance of Americas Materials. Our business delivered a strong first half with like-for-like sales and EBITDA 3% and 6% ahead, respectively. Despite some weather disruption in parts of the US Midwest and Texas, our like-for-like aggregates, ready-mixed concrete and cement volumes were well ahead of 2020, while our asphalt volumes were broadly in line. Pricing momentum also remain positive with progress across all lines of business during the first half of the year. Overall, our like-for-like EBITDA margin increased by 40 basis points, a good outcome in the context of an inflationary input cost environment and some weather-related disruption during the period. Indeed, this was a record first half performance for Americas Materials business, reflecting the continued delivery of our uniquely integrated end-to-end solutions model. As we look ahead to the remainder of the year, we're pleased to see good momentum in our backlogs and expect a continuation of the positive underlying demand environment across our markets.
+
+Next to Building Products on Slide 8, which has delivered further growth and margin expansion in the first six months of the year. Good pricing and an ongoing focus on cost control, contributed to a 12% increase in like-for-like EBITDA and a 50 basis point improvement in our margin, reflecting strong operating leverage in the business. Our Architectural Products business delivered a strong performance in the first half, benefiting from continued robust demand across our main markets. Here too, we can see the benefits of the repositioning of that business in recent years. Now, providing a complementary range of integrated products and solutions, a one-stop shop for retailers and contractors with a full suite of concrete house kit [Phonetic] and outdoor living products.
+
+Our Infrastructure Products business also delivered a good first half performance, with sales and EBITDA ahead of prior year. This business is driven by increasing demand for engineered and value-added solutions for critical utility infrastructure in both Europe and North America, an area where we see significant growth going forward. So, for Building Products overall, another good performance with good momentum in our order books which bodes well for the remainder of the year.
+
+Turning to Slide 9 and to Europe. And here too we're seeing improving demand backdrops. Eastern Europe continues to experience good growth with our businesses in Poland, Romania and Ukraine performing well. Activity levels in Western Europe and the UK heavily impacted, of course, by pandemic-related shutdowns in the second quarter of last year are also improved. We continue to see good demand for infrastructure and residential construction across our major markets, benefiting from significant long-term needs and substantial support in the form of government stimulus measures and EU funds.
+
+Turning to the performance of Europe Materials on Slide 10. And overall, our like-for-like sales and EBITDA were 17% and 52% ahead, respectively. Of course, these year-on-year percentage changes are somewhat distorted by a low base of comparison given the impact of COVID restriction on activity levels in a number of our Western European markets during the first half of 2020. But if we set 2020 aside for a moment and compare our performance to the first half of 2019, a much more normalized trading period, our sales and EBITDA were also both ahead, demonstrating good growth and delivery from Europe Materials during the first six months of the year. I'm also encouraged to see positive pricing momentum continue in Europe, reflecting good commercial discipline across our businesses in the generally inflationary input cost environment. Of course, our business also continue to benefit from ongoing cost control measures and operational improvements, contributing to a strong recovery in our underlying margin, up 230 basis points compared to 2020.
+
+In the United Kingdom, activity levels are continuing to improve with volumes well ahead across all products. We've taken significant steps in recent years to reshape and reposition our UK business, and I'm pleased to see significant improvement in profitability coming through in the first six months of this year.
+
+Turning finally to Asia and our business in the Philippines. Here too we've had a good first half performance with sales, EBITDA and margin all well ahead of the prior year.
+
+Now, at this point, I'd like to hand over to Jim to take you through the financial performance in further detail.
+
+Jim Mintern -- Finance Director
+
+Thank you, Albert, and good morning, everyone. As Albert mentioned earlier, we have had a solid first half and this is reflected in our financial performance as outlined on Slide 12. Let me briefly take you through the main drivers of our EBITDA performance moving from left to right on the slide. Starting with organic growth of $300 million, 19% ahead on a like-for-like basis, a strong improvement against the prior year-end, which experienced a heavily disrupted second quarter due to pandemic-related restrictions across a number of our markets.
+
+Moving next to our development activity. As you can see on the slide, acquisitions, net of divestments, contributed $12 million of EBITDA in the first six months of the year. This consists of a number of small- and medium-sized bolt-on acquisitions, as well as the impact of the divestment of our Brazil cement business, which completed in April. Finally, our year-on-year EBITDA comparison also reflects a small currency tailwind of $28 million and the non-recurrence of $65 million of one-off restructuring charges, taken in response to the impact of the pandemic on our business during the first half of 2020.
+
+Turning now to our cash generation Slide number 13, a very strong performance, $1.6 billion of operating cash flow in the first six months of the year, an increase of 55% on prior year and representing the conversion rate of 80% from EBITDA. Our continued strong delivery again reflects the significant reshaping and repositioning of our business in recent years to become a structurally better business and really highlights the quality of the Group's earnings and cash-generating capability. We continue to focus on the efficient management of our cash across our businesses, as this is reflected in our strong working capital performance, an improvement of over $230 million compared to the prior year. Our strong cash generation continues to underpin our financial strength and flexibility and provides us with significant optionality to create future value for shareholders, whether that's through investments in our existing businesses, acquisition opportunities or increasing cash returns to shareholders through dividends and share buybacks.
+
+On Slide 14 you can see a strong cash generation on financial discipline continues to underpin our balance sheet strength, delivering a $1.8 billion reduction in our net debt over the last 12 months. Looking at the key components of this performance, we ended the first half of 2020 with net debt of $7.8 billion and over the period, we have generated $4.5 billion of operating cash, including $1.6 billion in the first half of 2021. Over the same period, we have continued to invest in our business to support future growth, capex and acquisitions, net of divestments, resulted in a net outflow of approximately $1.5 billion over the last 12 month. In addition, we have returned over $1.2 billion in the form of dividends and share buybacks over the period. Overall, our net debt position at the half-year stage is $6 billion, representing a net debt-to-EBITDA of 1.2 times on a trailing 12-month basis, a further improvement in our debt metrics and a reflection of the strong financial position the Group is in.
+
+Turning to Slide 15, I would also like to briefly take you through our thought process on capital allocation, an item that is high on our strategic agenda. We take a careful and disciplined approach to the allocation of our capital. Every capital deployment decision is analyzed and assessed in the context of finding the best use of our cash to maximize value for shareholders. You can see this in our approach to M&A. In the year-to-date, we have spent approximately $900 million on a 11 bolt-on acquisitions and the average multiple of these deals were 7 times EBITDA before synergy, a reflection of our disciplined and value-focused mindset. The pace of acquisition activity has increased as visibility continues to improve across our market. And while we have the pipeline of opportunities and the balance sheet capacity to execute, we will not compromise on the strong financial discipline that has been a hallmark of CRH for many years.
+
+We are also very keen to support further organic growth in our existing businesses through expansionary capex investment. These are high-returning, low-risk investments and so far this year, we have invested approximately $200 million, expanding capacity in markets where we see strong future growth prospects. We will also continue to return significant amounts of cash to shareholders in the form of dividend and share buybacks. This morning, we have announced a 4.5% increase in our interim dividend, building upon the significant increases delivered in recent years. We continue to see share buybacks as an efficient means of increasing cash returns to shareholders. And following the completion of the current tranche of our share buyback program, we will update you on our plans for subsequent phases of the program. All of this together, disciplined M&A, growth capex and cash returns to shareholders demonstrates our focused approach to capital allocation with a view to maximizing value for our shareholders.
+
+Albert Manifold -- Chief Executive
+
+Thanks, Jim. And a good summary there of our first half performance and really highlighting the financial strength and discipline of the Group. Over the next few minutes, I'd like to expand on the points I made earlier and update you on the progress we're making as we continue to reshape and reposition our business to deliver superior growth and performance going forward.
+
+On Slide 17, we outlined how we repositioned our business to focus on higher-growth regions and sectors of the construction market. The Southern and Western regions of the United States and Central and Eastern Europe now represent approximately 50% of Group sales. These are markets with attractive long-term fundamentals, growing populations, and significant construction needs. We've also increased our exposure to large-scale infrastructure and residential construction, which today represents approximately 70% of our sales. Again, these are markets with significant levels of under-build and long-term investment needs. In infrastructure alone, it is estimated that our core markets of Europe and North America will need to increase their annual investment by 25% to keep pace with the needs of their populations. This underpins the demand for our products in our two core regions for many years to come.
+
+Turning to Slide 18, we've also refocused our business on more resilient sectors of the construction market. Shifting toward more publicly funded types of construction, which today represent approximately half our sales and positions us well to capitalize on the various government stimulus programs that have been put in place to support economic recovery across our major markets. We've also increased our exposure to the repair and maintenance demand, an area with significant current and future needs, supported by growing populations, increasing urbanization, and aging infrastructure. By 2050, the global population is expected to increase by a further 2 billion people, and an estimated 70% of the world will live in city. There will be a significant need to upgrade critical utility infrastructure to conserve, protect and transport vital utilities, while supporting the development of a more resilient and sustainable built environment.
+
+On Slide 19, we've also focused our efforts on developing our fully integrated end-to-end solutions model, providing value-added products and services around our traditional base materials, allowing us to better serve our customers' needs while capturing more value in the process. Today, these businesses represent approximately two-thirds of our revenues and we will continue to build on that as we go forward. We've increased our focus on large-scale horizontal construction, developing innovative products and solutions that build quicker, cleaner and better, listening to our customers and adapting our business model to address their needs. All of this has enabled us to become a more deeply embedded part of our customers' life, creating long-term partnerships and building barriers to switching.
+
+The reshaping and repositioning of our business is a continuous process. It's been behind the consistent improvement in our performance in recent years and will be fundamental to delivering higher growth, increased profitability, improved returns and higher cash generation in the future.
+
+Now, let me take you through a few examples of the types of solutions that we provide for our customers. First to Americas Materials business on Slide 20, where we provide fully integrated end-to-end infrastructure solutions to connect communities across our markets. As the largest building materials business in North America, our size and scale, combined with our integrated model, gives us the unique capability to provide a full service offering to our customers from base rock to the finished road. Not only can we provide the base materials of aggregates and cement, but we also provide the asphalt and the paving goods, as well as all the ancillary works required for large-scale infrastructure projects like the one you see here, including bridges, culverts, pipes and drainage systems. And to ensure the quality of the finished solution, we prefer to carry out the installation work ourselves. We are now involved in the complete lifecycle of the infrastructure project from design and manufacturing, to installation, maintenance and recycling. Today, infrastructure solutions represent 50% of our Americas Materials business, of which 75% is essential and recurring repair and maintenance and improvement activity.
+
+On Slide 21, another example of our solutions model in action. Here, you can see the installation of a storm water management system, a prime example of an engineered system to collect, connect and protect vital utility infrastructure. Our infrastructure projects provide a fully integrated offering of value-added products, services and solutions to solve complex real world problems in the area of water management technology and energy transportation. Large-scale projects where we are involved right from the beginning at the planning stages understand the objectives and what the planners and contractors are trying to achieve, whether as a retention, detention, treatment or transportation of fresh water, storm water, wastewater, sewage or indeed the protection of the environment. These are specific applications that need different types of products, unique situations where we have to innovate and work hand in glove with planners and contractors to design either new bespoke solutions or adapting existing solutions to their particular needs on that particular project.
+
+Likewise in technology, so we're dealing with equipments worth tens of millions of dollars, which had to be protected from the environment, while at the same time, providing ease of access for people to operate, inspect and maintain the equipment. We're talking about the protection and transportation of the vital utilities and the products and solutions we provide will depend on whether it needs to be above or below ground. Each situation is unique and the systems and solutions we provide all have to be designed and adapted for specific environments, protecting against water, flooding, excess heat, mudslides, even earthquakes. We deal with a wide range of complex situations and large-scale challenges. Some of the units we deal with can be extremely large between 120 cubic meters and underground as well. What I'm describing here is just part of what we do. But all of these solutions and many others like them will be key in addressing the needs to futureproof our infrastructure for the world of tomorrow.
+
+Turning to Slide 22, and here you can see some examples of how we're continuing to build out our integrated solutions model through our ongoing development activity with $1.1 billion investment so far this year. Our acquisition of Angel Brothers in July, a vertically integrated asphalt paving and infrastructure business in the high-growth Texas market. This business integrates well with our existing materials business, enhances our customer offering in the region and adds specific concrete recycling capabilities, which we'll be able to leverage across our businesses. Angel Brothers is primarily an asphalt paving business. But by integrating this business with CRH, we will be able to bring in more of our concrete products knowledge and expertise to the work that they do, providing more complete solution for their customers in the marketplace.
+
+In June, we acquired EP Henry, a leading provider of hardscapes and masonry products serving the Mid-Atlantic region of the United States and up into New Jersey and Pennsylvania. This is a strong regional infill for our Architectural Products business, further expanding our customer offering of innovative and sustainable products. This is also a big win for our customers. Two of the major retailers in the United States that we worked in close partnership with have been looking for us to broaden our supply footprint and with EP Henry we solve that problem for them. Now they can supply both EP Henry and CRH products in their stores across the region and provide deeper national coverage for their product offering.
+
+In March, we acquired Hancock Concrete, specialist in water treatment in the Upper Midwest region of the United States. A specialist provider of engineered products and solutions, which will expand our storm water and wastewater management capabilities in the region. But again, by integrating with CRH, we can bring a broader range of concrete products and technologies that they can offer to their customers, not only in water transportation, but now with engineered solutions for telecommunications infrastructure, which is a big part of the ongoing expansion in the Upper Midwest.
+
+We've also continued to invest in our existing businesses, expanding capacity in high-growth regions and end use markets, including concrete products manufacturing facilities and technology enclosure systems in the United States and Europe.
+
+On to Slide 23, not only is that our integrated solutions model behind our improved financial performance, it's also key to delivering a sustainable future. Through our unique offering of value-added products and solutions, we are addressing the changing needs of construction and taking responsibility as the leader in our industry to reduce the impact of construction on our world. We know we must continue to improve the quality of construction, making building safer, cleaner and better, improving terminal [Phonetic] efficiency, prolonging life cycles and increasing the use of recycled materials. This is where the world is going. As we continue to build out and develop our integrated model in line with these trends, we are futureproofing our businesses by delivering a more resilient and sustainable build environment for everyone.
+
+We also recognize the importance of decarbonization in addressing the challenges of climate change. In this regard, we will continue to make good progress on our carbon reduction efforts and I'm pleased to report that we now expect to achieve our 2030 carbon reduction targets by 2025. As ever, we will continue to strive for further improvements in emissions reductions across our businesses, and we'll remain fully committed to achieving our ambition of carbon neutrality by 2050.
+
+Turning now to outlook on Slide 25 and our expectations for our business during the second half of the year. In terms of trading outlook, overall, we expect the positive underlying demand environment across our key markets to continue for the remainder of the year. Notwithstanding the inflationary input cost environment and a record prior year comparative, we expect second half Group EBITDA to be ahead of prior year. As you've seen, our good first half performance reflects the benefits of the continued reshaping and repositioning of our business and we expect this to continue as we further develop our integrated and value-added solutions model into the future. We have a strong and flexible balance sheet, the lifeblood of our business, which provides us with significant optionality to create further value for our shareholders. We have strong pipeline of growth opportunities, both organic and inorganic. And through dividends and share buybacks, we are providing significant cash returns to shareholders. We are relentlessly focused on creating value through the efficient allocation of capital. We're in a strong financial position with significant firepower at our disposal, but you can rest assured, we will never lose our discipline.
+
+So, that concludes our presentation this morning. And we're now happy to take your questions.
+
+May I ask you, please state your name and the institution you represent before posing your questions? In consideration of others in the line, and to make the best use of time we have available, could I please ask you to limit your questions to one each where possible?
+
+I'll now hand you back to the moderator to coordinate the Q&A session of our call.
+
+Operator
+
+Thank you very much, sir. [Operator Instructions] Our first question today is from Robert Gardiner from Davy. Please go ahead.
+
+Robert Gardiner -- Davy -- Analyst
+
+Good morning, all. Well done on the numbers, and thanks for taking the question. I'll limit myself to one and I'll ask on guidance. So, you've guided EBITDA up year-on-year in the second half. So, maybe can you give us some sense of what you're expecting? And maybe as part of that, give us some indication of how you traded through July, August? Thanks.
+
+Albert Manifold -- Chief Executive
+
+Hi, Bob. Good morning. Look, quarter three has been continuation of the trends we saw in the first half of the year. Europe has continued very much similar to the first half, good strong underlying growth and good momentum and good delivery, and the weather has been reasonably normal. The US has been slightly different, particularly with regards to the weather. The markets are fine. Demand levels are there. We're getting products out as best we can. The challenge has been particularly on the Eastern -- East Coast -- Eastern Seaboard has been extremely wet in July and August, and that has impacted upon our ability to get work done. Now, we're managing it. It's not a problem, but it got its challenges. And as well people have seen exactly what the weather system is like. So, look, it's been a challenging quarter three. We've managed it well and things are going OK.
+
+The second half of the year we said it's going to be ahead, but let me remind you ahead of a record second half last year. And last year was a very strange year because we had a lot of workforce from the first half of the year into the second half year, particularly in our European operations by the way. So, we're saying we'd be ahead the second half of the year. But again, and I just remind you, the weather is challenging at the moment. Still continue to be so.
+
+I've been around this business a long time and I know that when we have got disturbed weather patterns during the most of July and August, work get compressed into September and October. And quite frankly, the whether just seems to continue on more challenging as well. So, we're just watching that very carefully. It's tough out there. It's difficult with the weather [Indecipherable]. We have inflationary cost wins. And of course, we have the complex unwind of COVID out there. And while we are going to be ahead in the second half of the year, we're not going to say we're biased. But we will be ahead. And so, absent any catastrophic weather damages because if it really gets bad in September, we don't expect. We expect sort of normal continuation of what we're seeing, we will be ahead. So it's challenging. It's tough. We can manage us. We just watch any for really, really bad weather in September, October, because a lot of work is being compressed in that period.
+
+Robert Gardiner -- Davy -- Analyst
+
+Okay, great. Thank you.
+
+Albert Manifold -- Chief Executive
+
+Thanks, Bob. Thank you.
+
+Operator
+
+Our next question is from Gregor Kuglitsch from UBS. Please go ahead.
+
+Gregor Kuglitsch -- UBS -- Analyst
+
+Hi. Good morning. I'll also limit myself to one and I'll ask on cash, which I thought was actually excellent, particularly working capital control. I think I would expected a much larger outflow. So, I guess, I would -- the question is, could you just give us a sense of the sustainability of that cash generation in the first half and maybe give us some pointers alongside some of the key variables such as capex and working capital as we think about the second half and the year as a whole? Thank you.
+
+Albert Manifold -- Chief Executive
+
+Thanks, Gregor. Good morning to you. I'll pass that over to Jim. But just to say that, like, we have invested significant time, effort and energy in recent years, not only in technology, but also in planning and setting out our expectations with regards to demand levels and that has allowed us to manage our stock levels and indeed our other working capital variables on a much more active basis and that has been behind the delivery of the numbers that are there. With regard to the specifics in terms of this year and the quantum of where we are, Jim, and how that journey has been over the last couple of years.
+
+Jim Mintern -- Finance Director
+
+Sure, good morning, Gregor. What we're seeing in the first half, Gregor, is not really just from actions obviously taken in the last six months, but really we're seeing the benefit coming through of the repositioning of and reshaping of the business over the last number of years, reshaping into structurally better businesses and these businesses are generating higher growth, higher margins, higher returns and crucially, higher cash flows and we're seeing that coming through in the first half of this year.
+
+That, combined with a very strong focus on working capital management over the last number of years has both contributed to a very strong cash performance, cash performance of 55% and an 80% conversion from EBITDA. Just in terms of some of the specifics for the full year, in terms of capex. Capex guidance for the full year, we are predicting to be around $1.6 billion for the full year in terms of capital expenditures.
+
+Gregor Kuglitsch -- UBS -- Analyst
+
+Thank you.
+
+Albert Manifold -- Chief Executive
+
+One other point worth making there, Gregor, of course as Jim referred to reshaping of the business. I think over time, you'll have seen we've become a much less capital-intensive business as well which really is behind the delivery of the cash performance.
+
+Gregor Kuglitsch -- UBS -- Analyst
+
+Excellent. Thank you very much.
+
+Albert Manifold -- Chief Executive
+
+Thanks, Gregor.
+
+Operator
+
+Our next question is from David O'Brien from Goodbody. Please go ahead.
+
+David O'Brien -- Goodbody -- Analyst
+
+Good morning, guys. Thanks for taking my question and two parts, but look you've given great color, Albert on the integrated solution based model. I guess the first part of the question is how is that model and approach helped you navigate the challenges that were faced in the first half when we think about supply chain disruptions, labor availability costs etc. So how has it benefited nearer-term. And then the second part really, where can you bring that model to if we think five years into the future. What is the scope to grow organically and inorganically to deploy capital there just to give us what is the blue sky outlook?
+
+Albert Manifold -- Chief Executive
+
+David, good morning. Hi, two questions there. One on sort of the integrated solutions model and the supply chain, the disruption on that and secondly maybe sort of setting out our stall is where we see this developing and I'll ask David, my colleague to take you through some thoughts on that as well, but maybe if I can just talk to you upfront about it.
+
+David, with regard to supply chain disruption, it's not really an issue for us. We are, as you know, much more of a local business and we don't really have long supply chains, probably only in our coal or coke and maybe some of our bitumen, but they are all long-term planning for us and we're always ordering in advance.
+
+So it's not a major issue for us at all in terms of supply chain and no extra complexity with regard to the integrated solutions model because that's more about how we take the base product and then add additional value and services and maybe to give some color around that in terms of what it is, we've tried to flesh it out this morning in the presentation but maybe ask David to talk about his thoughts in terms of currently what we do and also how that can roll forward in the coming years and provide further opportunity for us.
+
+David Dillon -- Executive Vice President, Chief of Staff to the Chief Executive
+
+Yes sure, Albert. Good morning, David. It's worth putting some color on this a bit because like we've been developing this over the last decade plus as a business David. If you go back a decade plus, we used to provide basic materials, dig it out of the ground, commodity product, sell it by the tonne, but as needs of our customers changed and that means we changed along with that and customers today have specific needs for specific applications and it's become complex due to higher and more sophisticated sustainability or regulatory and indeed technical standards.
+
+So today every construction project is unique and the solutions that we provide or any provider must provide must be strictly designed for each unique project. So that's -- whether it's a road or the transportation of utilities or even in your own backyard, that's impacted by specific needs and limitations with ground and soil conditions whether the climate is cold or warm or whether it is dry, the type of use, the wear and tear over time, the [Indecipherable] or maybe even the lifespan the customer wants to achieve.
+
+So if it's water project for example, what type of water are you trying to move or move from where for what reason, whether it's fresh water, waste water, sewage. What volume of water is going to pass through it, how quickly you wanted to us through and what protections are in place, how to treat it and again climatic conditions and the lifespan and the customers' budget. So the road project that Albert set out on Page 20 or the water management systems on Page 21, each one of these projects is specific to that area and for that particular application.
+
+So all of this from a materials perspective impacted the type of products and services and the solutions we provide and so our job is to provide that for our customers. We apply our knowledge and our expertise from decades of manufacturing and providing services for different applications, working with our customers where we interface, we create, we manufacture specific solutions for their specific project needs and I suppose that's what you get in converting base materials into value-added products and solutions, which today as we said sets 65% of our business.
+
+Interestingly, it's the fastest growing part of our business and we're going to continue to build that out as we move forward. And in terms blue sky thinking, you can see it already, David in this year's development activity. Each one of those projects we set out is partnered to build out that solutions business in various different regions and different product groups and we see that being a great road ahead for us. You can also see it in our margins, in the delivery of our margins over the last number of here is and that continues again pleasingly this year.
+
+Albert Manifold -- Chief Executive
+
+I'll tell you, David, 25 years ago when I joined CRH, we used to sell stones to road builders. Today, we sell the road to the road owners and we don't sell the stone, we sell the pavement, the asphalt. We pave it, we sell the foundation, the drainage systems. We do the medium strips, the landscape and the off-ramps, the on-ramps, the overpasses, the underpasses. We sell the complete solutions and we often maintain the road as well. That's what the future is about. People want complete solutions to their project problems and CRH provides that and that's what's driving the numbers with regard to margin and cash for us for the next 10 years.
+
+David O'Brien -- Goodbody -- Analyst
+
+Great, thanks for that.
+
+Operator
+
+Our next question today is from Paul Roger from Exane BNP. Please go ahead.
+
+Paul Roger -- Exane BNP -- Analyst
+
+Good morning guys, hope you're well. Thanks for taking the question. So my question is on the U.S. I mean I guess it's almost certain now where we're going to get the infrastructure package. It's probably at the higher level of funding. Really two parts to the question. Firstly, have you done any internal sensitivity in terms of what that could mean to the American materials volumes and EBITDA. And I guess the second part to it is do you have sufficient capacity across the different business lines to meet any extra demand?
+
+Albert Manifold -- Chief Executive
+
+Thanks, Paul. Look, almost certain, who knows, there's politics here, but we are increasingly confident that we will see a stimulus package approved through Congress sometime in the fall. With regards to sensitivity in terms of volumes and profitability, yes, we do, but of course, until you see the final shape of the package, who knows what it is going to be and not only where it's going to go and how we are going to see that. I think that we are seeing that the big states where we are states like Florida and Texas, New York to be very strong beneficiaries. I think those three states alone are going to get 20% of the funds allocated to them, which is really good for us.
+
+And with regards to the size and quantum of the increase, look, it depends on what they finally agree in terms of the shape of the package not about the quantum. We estimate we could see over a five-year period an increase in overall activity levels of between 35% and 50% over a five-year period. I should say that's put a dimension on timing on this as well. The reality of life is if something goes through Congress this year, it will be probably the end of 2022 before we start to see projects hitting the ground because it just takes time to allocate, award, and plan and the real volumes will start to come through in '23 and '24, but they will come through.
+
+I think you'll find people are holding back on contract awards, which is slightly been nothing this year because there is an expectation that there is money coming and therefore they are holding back on longer term planning, also to get some clarity with regard to that, but I expect that once the money is allocated and awarded you then see contract awards tip off quite a bit.
+
+And your last question is with regard to capacity in the industry and I can only talk about CRH the one I know well. We have no problems on capacity. I mean we are largely speaking in aggregates business in North America. I mean we can go double shift, triple shift. There is no problem with regard to the supply in the market on aggregates. On cement, broadly speaking, again there is [Indecipherable] that will continue to be the situation. So I don't see it being a problem on the supply side of materials.
+
+Down the road, I would keep an eye on the labor constraints but that's not an issue for us. We're not a particularly labor intensive industry, but our industry that we sell into is and I do think that plays into the strength of CRH because we're moving more and more toward construction sites, are moving work to the building sites to the assembly sites whereby more and more product has been manufactured offsite in factories and I think that helps us because, again, we're more capital intensive than labor intensive and we're taking labor out of the construction process. Again, that plays to the types of products that we do as well. So I don't think it's going to be a capacity issue. Actually think is an advantage to us if there is a tightness on labor, it pushes more business our way and look we watch the developing situation in Washington with great interest and we'll see how it goes but we are becoming increasingly confident like yourself that we will see passage of the bill early in the fall.
+
+Paul Roger -- Exane BNP -- Analyst
+
+That's great. Thank you very much.
+
+Albert Manifold -- Chief Executive
+
+Thank you.
+
+Operator
+
+Our next question is from Elodie Rall from JPMorgan. Please go ahead.
+
+Elodie Rall -- JPMorgan -- Analyst
+
+Hi, good morning. Thanks for taking my one question then. It will be on cost inflation, you mentioned the backdrop is increasing obviously for the remaining of the year. So can you quantify the magnitude that you're seeing and the price increases that you have set most recently to offset this and if you're comfortable seeing a positive price cut for the remaining of the year. Thank you.
+
+Jim Mintern -- Finance Director
+
+Hi, Elodie, Jim here, I'll take us. Yeah, in the first half of this year, we did see cost inflation mainly you have seen in energy, Albert talked about labor and also on the material side of it, but we had in the first half of the year a very good commercial performance, a good pricing environment across all our three divisions and as you saw in the H1 result, our actual margins for the first half of the year were up 120 basis points.
+
+Looking into the second half, cost inflation is also going to continue into the second half, but what we're seeing is that the cost price environment that burden in cost of businesses we're getting good price increases in some of the businesses, second price increases and indeed in some of them, third price increases as necessary to offset that inflation. So looking toward the full year's margin again we're looking for year '21 of further margin expansion for the Group. So in summary, a good pricing environment which is offsetting that inflationary headwind.
+
+Elodie Rall -- JPMorgan -- Analyst
+
+Okay, very clear. Thanks very much.
+
+Operator
+
+Our next question today is from Arnaud Lehmann from Bank of America. Please go ahead.
+
+Arnaud Lehmann -- Bank of America -- Analyst
+
+Thank you very much. Good morning, gentlemen. My question is related to CO2. I guess the first part is around your -- the fact that you're stating you're going to reach your 2030 target by 2025. Can you please confirm that is 522 kilos per tonne and related to that, what would be your new target for 2030 and also if you could comment on the recent Fit for 55 announcement by the European Union, the reduction in free allowances going forward and whether you are properly prepared for it. Thank you.
+
+David Dillon -- Executive Vice President, Chief of Staff to the Chief Executive
+
+Hi, Arnaud, David here. I'll take this one. In terms of the 2030 by 2025, yes, confirming on a cement basis the 520 kilos. It's worth going into what's behind us and why we advising it. We developed our targets in 2019, published in 2020 and as we work through this on a very detailed basis, we've accelerated a number of items. Some of those are permitting when that comes through for us in terms of alternative fuels, clinker factor reductions, better processes within our business, etc.
+
+Indeed in the commercial side as well, we've been again promoting lower carbon cement through the market as well. So again, good progress made and again we're accelerating. We should point out, we've already delivered the earlier plan one year early as well. So it's kind of a continuum of CRH delivering on our targets.
+
+In terms of the Fit for 55. I mean the Phase 4 that is coming into force in that regard in 2021, relatively small change from our perspective. I would say we're not as exposed to the Southern European countries as others would be. So it is less of an issue in terms of pre-allocations from the higher production times and also I would say in general, it's worth pointing out that 15% of our sales are from cement and 8% from the ETS, and as Jim said, we're having good positive momentum on pricing to cover over all of our CO2 issues.
+
+Albert Manifold -- Chief Executive
+
+Just add that, again, as David said, I mean cement is a small part of CRH's overall activity. It makes up 15% of our revenues and really what we've done is, we're drawing a line under the targets that we have previously set to 2030 because I think the idea, I'm just talking about the kgs per tonne of clinker. It's a little bit of a misnomer.
+
+I think companies have to face up to the reality and be straight with investors and stakeholders and talk about total CO2 emissions, total carbon emissions. I think as we go forward and we've got to reset our targets in 2030. We're going to talk about our total Scope 1, Scope 2, and Scope 3 emissions and look what are our plans to reduce those total emissions. We can't hide behind kgs per tonne of clinker anymore. That's just a little bit of a playing games with technology.
+
+At the end of the day, society needs an absolute reduction in carbon as we go forward and companies as part of society should be honest with people and say, this is our total emissions, our Scope 1, 2 and 3 and here our plans to reduce them and this is the scale of reduction of we're going to have and I think you'll see that in a very open and transparent way from CRH in the next six to 12 months and we said we'll lead with our chin, we take this very, very seriously.
+
+Arnaud Lehmann -- Bank of America -- Analyst
+
+Very clear. Thank you very much.
+
+Albert Manifold -- Chief Executive
+
+Thanks, Arnaud.
+
+Operator
+
+Our next question is from Will Jones from Redburn. Please go ahead.
+
+Will Jones -- Redburn -- Analyst
+
+Thanks, good morning. Perhaps I could ask about Europe Materials and particularly the pricing side. Clearly, margins and profits, very strong in the first half, but could you give us any color around cement price change in percentage terms. And then just how the downstream is I guess performed against that cement performance and just specifically on two countries there I think in a table you showed that prices in France and the U.K. are both obviously big countries for you were flat in the first half versus strong volume growth. Can you just I guess explore that for us and outline whether you think that's going to change from here? Thanks.
+
+Albert Manifold -- Chief Executive
+
+Thanks, Will and good morning to you. Look, I'll pass it up to David. He'll issue the details with regard to that, but just to remind you that of course Europe Materials has seen progressive price increases for the last number of years but we are flat on pricing in Europe for several years effective in the rest of world, and particularly the United States and we have seen a dislocation occurring between U.S. pricing and European pricing and what we're seeing now and I think we'll continue for number of years is that recovery in European pricing is to get back to more normalized global pricing levels across Europe and we expect that to continue going forward specifically within the country, would you might just take us through those.
+
+David Dillon -- Executive Vice President, Chief of Staff to the Chief Executive
+
+Yeah, well, look, in general we made I think good progress across all of our European markets in 2021. Again, as you say, Albert, in terms of U.K. and France, I mean the indication in the presentation is equal which is which plus up to 2%. So we have actually increased prices in both the U.K. and France. I will say as well that there is a mix effects between the years between the first half when a lot of people were stuck at home in both of those countries particular.
+
+So our bagged cement mix was a bit different but important to point out that we are seeing price increases and indeed in terms of momentum, not only are we looking at one price increase in many of our markets this year, we're looking for major price increases in many of them as well. In terms of downstream, we're seeing ready-mix prices move on in most countries as well and again we're part of driving that as well. Albert said we need to get price increases through from dislocation from a number of years ago and we'll continue to do that.
+
+Albert Manifold -- Chief Executive
+
+I think actually when I think about it, to follow the level of investments that the European cement industry are going to have to make going forward to decarbonize the cement industry, which we are all committed to do, we're going to have to see investments making returns and therefore we are going to have see those price increases allowing us to pay for those investments.
+
+Will Jones -- Redburn -- Analyst
+
+Great, thank you.
+
+Operator
+
+Our next question is from Lars Kjellberg from Credit Suisse. Please go ahead.
+
+Lars Kjellberg -- Credit Suisse -- Analyst
+
+Thank you and thanks for taking my questions. Just on, coming back to one of your comments Albert where you spoke about some investor or core clients are holding back. The Board is expecting more funding to become available and backlogs are still up. So if you can give us a sense of those backlogs. And just on Europe specifically you talk about stimulus and funding packages in play. Can you share with us any visibility you have on that and how we should think about that in terms of actual business in balance of this year and '22?
+
+Albert Manifold -- Chief Executive
+
+Yeah, thanks, Lars. Two questions there both on sort of forward-looking order books and order levels with regard to both North America and indeed Europe. Let me talk about Europe first, well publicized figures of EUR750 [Phonetic] billion of European funding coming through to support industry in terms of cement factors coming through. Principally that seems to be focused on Central and Eastern Europe and continue to build of the economies in there on top of the existing funding problems we face.
+
+So we're starting to see that coming through as increased spend on infrastructure and indeed ancillary works out there and that's the spine of our business where we look basically from the Baltic States all the way down to the Black Sea being the main beneficiary of that and that's going to continue for the next decade as well.
+
+And with regards to North America, my comments on awards is just by experience, it's common sense really. If states believe the federal government are going to increase funding to pay for their road and they will hold back on medium to longer scale contracts until they see the color of the federal money because basically the feds pay for 50% of all of the roads they are going to build in their state. So what they'll do is they'll hold back on hold back on longer-term projects and not use their own valuable state money on smaller term work because like all business economies are built around the infrastructure and what they want to do is build out their economy. So I think normally what will happen is at the start of the stimulus package, we see a bit of a slowdown and then we used to see in the early part of that stimulus package when the money gets allotted or awarded, we see an increase with regard to that.
+
+In saying that we have made -- we commented our backlogs are ahead even at this period where there is a little bit of vaccum. Our backlogs are not only ahead of the volume ahead, they are ahead in margins within that and that's pretty much across all of our businesses in North America probably ahead in some of the high-single teen in double-digits versus last year, which is very good to see and not only just the scale of us and the breadth of it, it is the fact that some of those are reaching well into next year the length of it as well. So some larger projects coming through which bodes well sort of for long-term commitment to the industry.
+
+Lars Kjellberg -- Credit Suisse -- Analyst
+
+Thank you, very clear. Thanks.
+
+Operator
+
+Our next question is from Harry Goad from Berenberg. Please go ahead.
+
+Harry Goad -- Berenberg -- Analyst
+
+Yeah, good morning. Thanks very much for taking the question. And I've got another one, I'm afraid, on U.S. infrastructure. It's just really about the mechanics of how the funding may work. I mean I guess the number that we're sort of looking at or what's being talked about is that $110 billion of incremental funding. Is the right way to think about that as it's effectively the funding that will fund the increase in the FAST Act program? Should we be thinking about it like that or should we be thinking about the renewal of the FAST Act as a sort of separate program? Just to get some feel of how those two programs effectively work together, whether they will end up being the same issue.
+
+Albert Manifold -- Chief Executive
+
+Hard to know, but I think what we're seeing is, we see the renewal of the FAST Act and we'll see the extra stimulus packages incremental on top of that. That's the way it looks that it is going to be. So it's the two together. It's the way that they seem to be getting support in the Senate for that. So those two additional programs what I refer to getting an increase of between 35% and 55% is a combination of both of those and I think we will parse the bills to go down through it because infrastructure is a broad embracing statements. We'll go down through that and look specifically how much of that is for highways, how much of that is for bridges, how much of that is for infrastructure on the ground in terms of water, water sewage, water treatment all of that, which is exactly where the deep proper tools for us within CRH, but we broadly would be supportive of a statement that says, look, we think this will be in the region of between 35%, 55% of an increase in our business, in our footprint. I think you've also got to watch footprints. That's why I referred to three big states of Texas, Florida, and New York, which will -- those three states alone are, it looks like they're going to get about 20% of all the funding, which is very encouraging to see. Obviously, the New York repair and maintenance, but Florida and Texas because it is a big states in terms of population booms and that's the reason why we really be focused on those two states over the last decade to build out our business down there.
+
+Harry Goad -- Berenberg -- Analyst
+
+Okay. And so sorry, just to be clear, your point around 35% to 55% increase, that's over -- that's from a sort of starting point today over, let's say, sort of five to, six-year time horizon, is that the right way to think about it?
+
+Albert Manifold -- Chief Executive
+
+It's over a future looking five-year period. Normally, one of our five-year period with the co-terms will be the FAST Act can be a 5-year period. So it's 35% to 55% over the previous five years.
+
+Harry Goad -- Berenberg -- Analyst
+
+Got it, OK. Thank you.
+
+Albert Manifold -- Chief Executive
+
+And Harry, good thing to remember is, people will starting poking this is in 2022. Actually it is really going to start year two, year three. You'll get 75% of it coming through in '23 and '24. It will rise up quickly, you'll get the peak years because it takes a while for this work to hit the road, but that's good for us because we can plan and we can coordinate capacities and deliveries associated with that.
+
+Harry Goad -- Berenberg -- Analyst
+
+Thank you.
+
+Operator
+
+Through it. Our next question is from Tobias Woerner from Stifel. Please go ahead.
+
+Tobias Woerner -- Stifel -- Analyst
+
+Yes, good morning gentlemen. Thanks for taking my question. Just a general question about inflationary pressures. I mean the last time we've seen high levels of inflation is probably 30 years, 40 years ago so I probably have or you may have to refer to corporate memory here or history, how do you feel you're placed in terms of pricing power in such an environment. I have a view, but it would be good to hear what the long-term CRH experiences were?
+
+Albert Manifold -- Chief Executive
+
+Tobias, I remember when I used to be the young kid that had no experience and now I'm the old guy. There you go. Thanks very much. Some I do remember. I remember many inflation environments. Look, I think the situation at the moment is that we've seen significant COVID bounce back growth in our two major markets of Europe and the U.S., first thing. Secondly is you've heard is that supply is tight everywhere and I think the mantra out there in our customer is just get me the product. Don't put me on an allocation, don't put me at the end of a long line. So in that environment, we see the opportunity to price through the cost increases that we are seeing and therefore I have been in tougher places in my own experience with regard to inflationary cost environment and that's why we've seen the margin expansion in the first six months of the year, we expect to see broadly speaking as David has mentioned a positive pricing environment in the second half albeit cost inflationary environment continue but we're in a good place because of demand is there and the marketplace capacity is tight and I see that continuing for quite some time. Yes.
+
+Tobias Woerner -- Stifel -- Analyst
+
+Thank you very much.
+
+Operator
+
+And your final question for today is from Christen Hjorth from Numis. Please go ahead.
+
+Christen Hjorth -- Numis -- Analyst
+
+Thank you, good morning guys. So my question is just on the 120 bps margin expansion in the first half. I was just wondering if you could break down the moving parts, perhaps between volume, benefits, price versus cost inflation and maybe sort of internal action like cost rationalization, etc. Thank you.
+
+Albert Manifold -- Chief Executive
+
+Christen that's very hard one. All of the above and Of course we've got tailwinds. Markets are good, volumes are a hedge, we are seeing that for ourselves and from our peers but what you're seeing in CRH also is the fact we are properly managing our cost base and we have set out our margin improvement programs over the years and we've talked to you about how you should think about CRH being in the business about continuous business improvement that's been reflected in margin.
+
+You're also seeing and probably the most important part of all of this is the shift away from being a material supplier and base commodity provider of materials. You dig it out to set up by as tonne to being a provider of integrated solutions, less capital intensive, getting more of our customers purse and building barriers to switching. That shift in our business focus over the last decade has also been behind the improvement in margin and you're talking about in 120 bps in this particular six months, but I ask you to go back and look at the bps increase over the last five to six years. That didn't just come through because of tailwinds. In fact, we have no tailwinds for many of those years. It came through improvement in our efficiencies, reshaping of our businesses, repositioning of our businesses, good cost control, good price control, a proper commercial launch.
+
+The change in strategy is good pricing, is good cost control, is good tailwinds, it's all of those together and we focus on a six-month window, we focus on six-year windows, where we come from and where we're going from and I'm going to and I think as we look forward, I think this year we will see a continuation of improvement in our margins and again, you should think about CRH year-on-year as a business that is growing profitability, growing cash, and growing margins.
+
+Christen Hjorth -- Numis -- Analyst
+
+Excellent, thanks very much.
+
+Albert Manifold -- Chief Executive
+
+Thank you very much indeed. Look, we've come to the end of our time today. And I'd like to thank you for your attention. I hope that we've managed to answer all of your questions but as always if you have any follow-up questions, please feel free to get the touch with our Investor Relations team and we look forward to talking to you again in November where we will provide you with a trading update for the first nine months of the year. Thank you very much and have a good day.
+
+Operator
+
+[Operator Closing Remarks]
+
+Duration: 61 minutes
+
+Albert Manifold -- Chief Executive
+
+Jim Mintern -- Finance Director
+
+David Dillon -- Executive Vice President, Chief of Staff to the Chief Executive
+
+Robert Gardiner -- Davy -- Analyst
+
+Gregor Kuglitsch -- UBS -- Analyst
+
+David O'Brien -- Goodbody -- Analyst
+
+Paul Roger -- Exane BNP -- Analyst
+
+Elodie Rall -- JPMorgan -- Analyst
+
+Arnaud Lehmann -- Bank of America -- Analyst
+
+Will Jones -- Redburn -- Analyst
+
+Lars Kjellberg -- Credit Suisse -- Analyst
+
+Harry Goad -- Berenberg -- Analyst
+
+Tobias Woerner -- Stifel -- Analyst
+
+Christen Hjorth -- Numis -- Analyst
+
+More CRH analysis
+
+All earnings call transcripts
+
+This article is a transcript of this conference call produced for The Motley Fool. While we strive for our Foolish Best, there may be errors, omissions, or inaccuracies in this transcript. As with all our articles, The Motley Fool does not assume any responsibility for your use of this content, and we strongly encourage you to do your own research, including listening to the call yourself and reading the company's SEC filings. Please see our Terms and Conditions for additional details, including our Obligatory Capitalized Disclaimers of Liability.
+
+The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy.
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+
+Don't wait — this offer ends soon.
