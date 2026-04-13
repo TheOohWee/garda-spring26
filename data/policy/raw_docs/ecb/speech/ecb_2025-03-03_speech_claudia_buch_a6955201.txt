@@ -1,0 +1,207 @@
+SPEECH
+
+## Ten years of the banking union: laying the groundwork for the next decade
+
+Speech by Claudia Buch, Chair of the Supervisory Board of the ECB, 'Finanzplatztag 2025' event organised by Börsen-Zeitung
+
+Frankfurt am Main, 3 March 2025
+
+It has been more than 15 years since the global financial crisis, but its lessons are as relevant as ever. [ ] Europe reacted to the financial crisis and the European debt crisis by strengthening its institutions and regulations, with the banking union as a key element. Today's challenges are different, but we still need more European integration and a deeper internal market to face these challenges. 1
+
+Let's look back at what has been achieved in the past ten years. The global financial crisis caused substantial damage to the real economy, with gross domestic product in Europe falling by 4.3% in 2009 alone. [ ] Significant state intervention was necessary to stabilise the financial system and prevent even greater losses. Providing direct assistance to banks put a major fiscal strain on the euro area - even more so than the international financial assistance for individual countries during the euro area sovereign crisis. 2
+
+[ ] 3
+
+Banks in Europe today are more stable and better capitalised than they were ten years ago when the banking union was created, and non-performing exposures have fallen significantly. We now have European banking supervision which can apply common standards, assess risks consistently and take measures when banks show vulnerabilities. The Single Resolution Mechanism - the second pillar of the banking union - ensures that stress in the banking sector can be managed with funds provided by industry, without recourse to taxpayers' money.
+
+All of this improves risk management - and the provision of banking services is not possible without taking risk. Banks transform short-term deposits into long-term loans and they diversify risk, which contributes to growth and prosperity. We as supervisors do not want to impede risk-taking. But it is our task to protect depositors and ensure that the financial system runs smoothly. And the larger the risks, the more capital banks need to absorb unexpected shocks so that when crises hit, deposits are secure and funding for the real economy is ensured.
+
+The stability of the financial system we have seen in recent years has been the success of many: the political decisions on the banking union have given us better regulation and a better institutional framework. The ECB is responsible for directly supervising the largest banks in the euro area, in close cooperation and a spirit of mutual trust with national supervisory authorities. Many banks have improved their governance and risk management, and we are working at addressing the remaining deficiencies.
+
+But it is also true that the shocks of recent years - the COVID-19 pandemic, the energy crisis - have been largely mitigated by policymakers. In view of the steep fall in GDP and the rise in prices, fiscal measures stabilised the financial situation of households and firms. Corporate insolvencies were contained, as were credit losses.
+
+And a stable financial sector benefits the real economy. Banks with a better capital position can lend more and support their customers in difficult times. This is particularly visible in those countries that were most affected by the financial and sovereign debt crises. In those countries, high levels of non-performing loans and low capitalisation weakened banks and economic growth. Today, banks are better capitalised and are in a better position to promote growth. In Greece, for example, the level of non-performing exposures has fallen from almost 50% in 2016 to just over 3%, with economic growth at 2.4%, which is well above the EU average of around 1%. [ ] Economic dynamics are similarly positive in Spain, Ireland, Portugal and Cyprus. [ ] 4 5
+
+The next decade will bring new challenges throughout Europe. Geopolitical risks have increased. The energy transition, digitalisation and shifting patterns of global trade require structural adjustments in the real economy and will ultimately also be mirrored in banks' balance sheets. But there are new opportunities, too - for example, banks can take advantage of digitalisation, which could help them build scale within the internal market. At the same time, new financial service providers are entering the market, and these are often less well regulated. All of these factors may increase pressure on banks to take on additional risks.
+
+So it is now up to policymakers, supervisors and banks to make the European banking sector future-proof. We need to look to the future - to the risks and challenges for banks, to the political choices necessary to strengthen the banking union and the internal market, and to a strong regulatory and supervisory framework that protects banks' resilience.
+
+## Taking stock: resilience of the European banking sector
+
+Strong, competitive banks are resilient - a term that has been much used since the pandemic and that covers many aspects. The economist Markus Brunnermeier defines resilience as the capacity to react to shocks without taking lasting damage - much like a reed, which bends in the storm but doesn't break. [ ] Banks' resilience has two dimensions. First there's the financial resilience. Do banks have enough capital and liquidity to absorb shocks on their own? The numbers are clear: the banks are much more resilient financially now than at the start of the banking union, and the quality of capital has improved. [ ] Market confidence in European banks has increased. [ ] Bank profitability has improved in recent years, no doubt driven to a large extent by higher interest rates. 6 7 8
+
+In Germany, too, the banks have a better capital and liquidity position than they did ten years ago (see Figures 1 and 2). [ ] As in the rest of the euro area, the leverage ratio has increased less than the riskweighted capital ratio. [ ] 9 10
+
+## CET1 ratio and leverage ratio, 2015-24
+
+Source: ECB supervisory banking statistics and ECB calculations.
+
+## Liquidity coverage ratio and net stable funding ratio, 2015-24
+
+Source: ECB supervisory banking statistics and ECB calculations.
+
+But financial resilience is not everything. Banks may be very well capitalised and very liquid, but their existence may still be threatened when a serious cyberattack hits, when they breach financial sanctions or are suspected of money laundering.
+
+So resilience also means sufficient operational resilience and good risk management. Here's an example: the number of cyberattacks on European banks almost doubled between 2022 and 2024 while the complexity and number of successful attacks grew. [ ] 11
+
+This is why last year we conducted a cyber resilience stress test to check whether banks are well prepared to respond to successful cyberattacks. It turns out that banks are prepared and can react to cyberattacks. [ ] But we did identify deficiencies across banks and so are now working with them on concrete solutions to remedy those vulnerabilities. 12
+
+I would like to highlight one important point here: banks need IT systems that operate 24/7 so that their customers trust these systems. Good IT requires long-term investment. When banks invest too little in their IT systems, they may be able to boast good financial figures in the short run, but this can hurt their long-term competitiveness. This is why we as supervisors look at banks in their entirety - we identify deficiencies in IT and information systems, [ ] risk provisioning and internal governance so that financial metrics reflect reality and that banks are sufficiently resilient. Banks' decisions on capital planning and payouts should, ultimately, be driven by the objective to maintain their long-term resilience. 13
+
+## Challenges in the coming decade
+
+Resilient banks will be able to cope with future challenges better than banks facing concerns about negative market developments owing to a weak capital base, tight liquidity or vulnerabilities in their IT systems.
+
+## What are these challenges?
+
+Structural change affecting the real economy due, among other things, to the energy transition and the new geopolitical realities may have an impact on banks' balance sheets. In their risk management, banks will need to take into account not only the direct impact, for example lower sales in the automotive industry, but also the effects on suppliers along the value chain.
+
+At 2.3%, the level of non-performing loans is still low. [ ] But we are already seeing slight deteriorations though, interestingly, not in the countries where banks have registered high loan defaults in the past. Nonperforming loans are rising notably in Germany and Austria, and to a lesser extent in France. Across sectors, commercial real estate and small and medium-sized enterprises are particularly affected. 14
+
+On top of this come geopolitical risks - one of the priorities for European banking supervision. [ ] Geopolitical risks are not a new risk category, but they affect credit, market, liquidity and operational risks. Precisely because these risks - or rather, fundamental uncertainties - are not easy to capture in traditional risk models, they require particular attention from banks' management. Internal stress tests should consider relevant adverse scenarios, and vulnerabilities should be tackled in a timely manner. 15
+
+We will not lose sight of increasing climate and environmental risks that need to be managed by banks. [ ] Let me be clear: we don't make climate policy. But we must ensure that banks adequately address climate and environmental risks and build up resilience. Since making this topic a supervisory priority in 2019, we have made significant progress. Almost all banks now consider climate-related and environmental risks to be material financial risks and have adapted their risk management practices. To this end, they are reliant on sound information from their customers and good climate reporting. But we have not reached our goal yet. More needs to be done to ensure that all banks manage climate and environmental risks well. 16
+
+Last but not least, the digitalisation of finance affects the competitive landscape in the banking sector. By using artificial intelligence, for example, banks can make better use of information, reduce costs and work more efficiently so as to remain competitive. New providers of financial services are pushing into the market, often with innovative ideas. Big tech firms that are well capitalised and strong in terms of IT systems are offering financial services. But the digitalisation of finance also brings new risks, not least in the area of outsourcing. And other financial services providers often operate in a far less regulated environment - this can intensify the pressure on banks to likewise resort to risky business activities. Risks for financial stability may increase.
+
+Our perspective as European banking supervisors is very clear. We are open to new digital business models, but we cannot decide which technologies are best suited. That is up to the market. But in the financial sector, market forces alone reach their limits. Supervision and regulation create a framework to ensure that competition does not lead to excessive risks, so that depositors are protected and that the financial sector can contribute sustainably to growth and prosperity.
+
+## What needs to be done over the next decade
+
+We can't achieve these goals alone. We need a strong regulatory framework that facilitates our work. We have this today - and we need a continued consensus in society that deregulation and weaker resilience would ultimately weaken stability and growth. We need banks that are well capitalised and have sound risk management systems - that's how banks can remain strong partners for the real economy. The debate on competitiveness should not be used as a pretext for watering down regulation. Because resilient banks are a key factor shaping competitive advantage.
+
+Given the changed environment and greater risks, all stakeholders need to prepare for the coming decade.
+
+As regards banks, their current good profitability offers them an opportunity to build more resilience, both financially and operationally. Moreover, a generational change is now occurring at many banks. Especially for German banks, which recorded a low number of loan defaults in recent years, it will be important to retain sufficient expertise in managing crises and dealing with loan defaults.
+
+The response of the public sector to the changed environment has, in my view, three elements: supervision, reporting and regulation itself.
+
+As supervisors, we adopted a comprehensive reform last year to make our processes leaner and more efficient. [ ] At the same time, we will ensure that supervisory findings result in concrete improvements at banks more swiftly than they have done up to now. In addition, a pilot project is currently under way to accelerate supervisory approvals for standardised securitisations - without losing sight of the risks arising from securitisations. [ ] 17 18
+
+Moreover, we can reduce the costs of regulatory reporting by making better use of supervisory technology (suptech) tools and by better integrating supervisory and statistical reporting systems. [ ] Many banks could improve their internal information and reporting systems, an aim which is one of the current supervisory priorities. Besides improving the banks' internal risk management, this simultaneously reduces the costs of responding to supervisory requests. 19
+
+Discussions are under way whether the complexity of the current regulatory framework could be reduced. For me, such discussions should be guided by two main principles. First, any modification of the regulatory framework should not come at the expense of resilience. Second, debates on the effects and side effects of regulations should be based on systematic evidence, including evidence from our supervisory work. This evidence paints a rather clear picture - greater financial sector resilience does not come at the expense of lending or growth. [ ] 20
+
+Meanwhile, policymakers should do all they can to complete the banking union. Now is the right time to make the system robust and to close gaps in the resolution regime. The more credible the resolution regime, the lower the incentives for banks to take on excessive risks and the lower the costs if difficulties nonetheless arise.
+
+It has now been almost two years since regional banks in the United States ran into problems and required policy support. We should not forget this experience: for medium-sized banks, too, it may make sense to use resolution procedures rather than insolvency if financial stability would otherwise be jeopardised.
+
+We therefore see the European Commission's proposal to improve the crisis management framework as going in the right direction. [ ] The Single Resolution Board (SRB) needs sufficient resources to extend the resolution regime to cover medium-sized banks. Moreover, contrary to international standards, Europe currently lacks an effective public sector backstop mechanism to provide temporary liquidity funding in resolution. [ ] 21 22
+
+And we now need to make progress on the European deposit insurance scheme. Digital business models and risks are not bound by national borders. Depositors in Europe must have confidence that the banks to which they entrust their savings are not only subject to single supervision, but are also covered by a common deposit insurance scheme. Not least, European deposit insurance is essential to loosening the bank-sovereign nexus.
+
+Finally, the capital markets union can help lower barriers to cross-border activities that are relevant for banks. European banking supervision applies common standards, such as when assessing mergers or granting licences. [ ] However, there are marked differences across countries in many national rules affecting banks, for example in the area of insolvency or real estate law. That makes it more difficult to tap the full potential of the internal market. 23
+
+## Conclusion
+
+With the banking union, Europe has provided a strong common response to past crises. Legacy assets were reduced, banks' resilience has increased and European banking supervision ensures uniform standards across Europe.
+
+More Europe and a stronger banking union should be the answer to the risks and uncertainties of the future. Neither banks nor supervisors can influence future shocks to banks and the economy. Sufficient capital and sound risk management increase the safety and soundness of banks. But even the best supervision cannot prevent future stress situations. Policymakers should therefore act now to close any remaining gaps in the European resolution regime. The better we can deal with future stress situations, the better depositors and taxpayers will be protected.
+
+Calls for a relaxation of banking regulation to boost competitiveness and growth may sound tempting. But at the end of the day, reforms need to address the root causes of weak growth, stimulate innovation and allow companies to more fully reap the benefits of the Single Market - the reports by Mario Draghi and
+
+Enrico Letta identify key policy areas. [ ] 24
+
+We will of course have to make supervision, regulation and reporting as efficient as possible. However, the hope that looser supervision and regulation would pay off in the form of more growth is likely to remain illusory.
+
+In fact, we need effective regulation and supervision to preserve financial stability as a basis for sustainable growth. The severe economic and social consequences of financial crises can easily be forgotten. We therefore need to be prepared now for the challenges of the future.
+
+1.
+
+I would like to thank Sharon Donnery, Thomas Jorgensen, Conny Lotze, Massimiliano Rimarchi, John Roche and Sascha Titze for their helpful comments and input on an earlier draft. All remaining errors are my own.
+
+2.
+
+Source: Eurostat.
+
+3.
+
+Ferdinandusse, M. and Lichtenauer, B. (2023), ' ', Economic Bulletin , Issue 6, ECB. The fiscal impact of financial sector support measures 15 years after the great financial crisis
+
+The figures refer to the third quarter of 2024. Growth is calculated relative to the corresponding quarter of the previous year. See . Eurostat
+
+5.
+
+Most recent growth figures for these are: +3.3% (Spain), +2.5% (Ireland), +1.9% (Portugal) and +3.8% (Cyprus). See . Eurostat
+
+6. Brunnermeier, M.K. (2021), The Resilient Society, Endeavor Literary Press, Colorado Springs 7.
+
+Enria, A. (2023), , speech at the press conference on the 2023 SREP results and the supervisory priorities for 2024-26, Frankfurt am Main, 19 December. Introductory statement
+
+8.
+
+Avgeri, I., Dendramis, Y. and Louri, H. (2021), 'The Single Supervisory Mechanism and its implications for the profitability of European banks', Journal of International Financial Markets, Institutions and Money , Vol. 74, September.
+
+9.
+
+The CET1 ratio of significant banks in Germany increased from 13.21% in the third quarter of 2015 to 16.33% in the third quarter of 2024.
+
+10.
+
+The leverage ratio of significant banks in Germany increased from 4.85% in the third quarter of 2016 to 5.75% in the third quarter of 2024.
+
+11.
+
+Tuominen, A. (2025), ' ', The Supervision Blog , ECB, 17 January 2025. Between 2022 and 2024 the number of cyber incidents almost doubled from 77 to 153. One of the reasons behind this rise is dependence on third-party suppliers. If they fall victim to an attack, this has direct implications for the banks that use their services. Operational resilience in the digital age
+
+- 12.
+
+Buch, C. (2024), , speech at the press conference on the 2024 SREP results and the supervisory priorities for 2025-27, Frankfurt am Main, 17 December. Introductory statement
+
+13.
+
+Risk reporting deficiencies may mean that banks' management do not have an up-to-date and comprehensive picture of relevant risks. This is why the ECB is increasingly calling on banks to improve their information systems and address IT security and cyber risks. See ECB (2024), , May. Guide on effective risk data aggregation and risk reporting
+
+14.
+
+ECB, , Non-performing loans ratio (excluding cash balances at central banks and other demand deposits). Supervisory banking statistics
+
+15. Buch, C. (2024), ' ', speech at the eighth European Systemic Risk Board annual conference on 'New Frontiers in Macroprudential Policy', Frankfurt am Main, 26 September; and ECB, . 16. Global rifts and financial shifts: supervising banks in an era of geopolitical instability Supervisory priorities for 2025-27
+
+ECB (2020), , November; Elderson, F. (2024), ' ', The Supervision Blog , 8 May; Elderson, F. (2023), Guide on climate-related and environmental risks You have to know your risks to manage them - banks' materiality assessments as a crucial precondition for managing climate and environmental risks
+
+'
+
+Policymakers as policy takers - accounting for climate-related and environmental factors in banking supervision and monetary policy
+
+', speech at the Peterson Institute for International Economics,
+
+Washington D.C., 21 April ; Elderson, F. (2025), , 17 January; Elderson, F. (2024), ' ', speech at the Sustainable Finance Lab Symposium on Finance in Transition, Amsterdam, 4 October. Interview with Het Financieele Dagblad Sustainable finance: from "eureka!" to action
+
+17.
+
+Buch, C. (2024), ' ', The Supervision Blog , 28 May. Reforming the SREP: an important milestone towards more efficient and effective supervision in a new risk environment
+
+18.
+
+ECB (2025), ' ', Supervision Newsletter , 19 February. Securitisations: a push for safety and simplicity
+
+19.
+
+ECB (2023), ' ', Supervision Newsletter , 15 November; ECB, . Suptech: thriving in the digital age Integrated Reporting Framework (IReF)
+
+20.
+
+Buch, C. (2024), ' ', speech at the Eurofi Financial Forum 2024 in Budapest, 12 September. Building a resilient future: how Europe's financial stability fosters growth and competitiveness
+
+21.
+
+For details of the crisis management and deposit insurance framework (CMDI) see Enria, A. (2023), ' ', opening remarks at The CMDI package: a vital building block to improve our crisis management framework the SRB-ECB CMDI Seminar, 16 October.
+
+22.
+
+Financial Stability Board (2024), , Attribute 6 'Funding of firms in resolution', 25 April; ECB (2024), . Key Attributes of Effective Resolution Regimes for Financial Institutions Written overview for the exchange of views of the Chair of the Supervisory Board of the ECB with the Eurogroup on 4 November 2024
+
+23.
+
+ECB (2019), , 5 April; Elderson, F. (2025), , 17 January; ECB (2020), ; ECB (2018), , March. What is the ECB's role in bank mergers and acquisitions? Interview with Het Financieele Dagblad Guide on the supervisory approach to consolidation in the banking sector Guide to assessments of fintech credit institution licence applications
+
+24.
+
+Draghi, M. (2024), , The future of European competitiveness - A competitiveness strategy for Europe
+
+9 September; Letta, E. (2024), , April. Much more than a market - Speed, Security, Solidarity
+
+Reproduction is permitted provided that the source is acknowledged.
+
+Media contacts

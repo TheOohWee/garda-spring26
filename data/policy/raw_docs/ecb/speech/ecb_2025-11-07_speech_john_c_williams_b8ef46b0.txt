@@ -1,0 +1,110 @@
+## FEDERAL RESERVE BANK of NEW YORK Serving the Second District and the Nation
+
+## SPEECH
+
+## Theory and Practice of Monetary Policy Implementation
+
+November 07, 2025
+
+John C. Williams, President and Chief Executive Officer
+
+## Remarks at the ECB Conference on Money Markets 2025, European Central Bank, Frankfurt, Germany
+
+As prepared for delivery
+
+## Introduction
+
+Good morning. It's wonderful to be with you here in Frankfurt. In our interconnected global economy, it's important to have opportunities like this to learn from the perspectives and experiences of others, whether we are academics, market participants, or practitioners of central banking.
+
+The theme of my talk is the theory and practice of monetary policy implementation. Central banks differ in their objectives, strategies, and approaches to monetary policy implementation—all of which influence how they supply reserves, manage balance sheets, and control short-term interest rates.
+
+But like Neapolitan and New York-style pizzas, central banks also share similarities. These were spotlighted in the ways they responded to the global financial crisis and the onset of the COVID-19 pandemic. Many central banks expanded their balance sheets through various quantitative easing programs funded in large part by increases in central bank reserves.
+
+These experiences fundamentally changed the ways many central banks approach the provision of reserves while maintaining control of short-term interest rates. As a result, central banks have reviewed, and in some cases modified, their strategies for supplying reserves and controlling interest rates in ways that reflect the unique features of their jurisdictions. Although their approaches differ in specifics, they share common elements that reflect the fundamental factors that shape the supply and demand for reserves."
+
+Today I will talk about the monetary policy implementation frameworks that central banks use to manage the supply and demand for reserves, emphasizing the common features and mechanisms of these approaches. I'll also discuss in more detail the Federal Reserve's ample reserves framework.
+
+Before I go any further, I must give the standard Fed disclaimer that the views I express today are mine alone and do not necessarily reflect those of the Federal Open Market Committee (FOMC) or others in the Federal Reserve System.
+
+## Framing the Frameworks
+
+Monetary policy implementation frameworks are critically important to the conduct of monetary policy. They encapsulate the mechanisms and tools used to steer operational targets in line with the desired policy stance and provide liquidity to the financial sector."
+
+In supplying reserves to the banking system, central banks have multiple goals that frequently involve trade-offs.3 First and foremost, they target a level of the policy interest rate and aim to minimize the variability of the policy rate around that target. In addition, they have objectives related to supporting financial stability and the smooth functioning of financial markets. For example, central banks may see advantages or disadvantages to interbank lending in money markets, as well as costs and benefits related to central bank lending into markets.
+
+The core of any operational framework is the central bank's supply of reserves, which ranges from a low level, or "scarce," to "ample" and "abundant." The "price" of reserves is the spread between the market interest rate and the rate earned for holding reserves at the central bank. When reserves are scarce, the slope of the demand curve for reserves is steep, as illustrated in Figure 1. Asmall change in the quantity of reserves results in a meaningful change in the spread. When reserves are ample, the slope of the demand curve flattens but still slopes downward, so that small changes in the quantity of reserves have modest effects on the spread. And when reserves are abundant, the demand curve is essentially flat.
+
+A central bank has two sets of tools it can use to supply reserves. These are illustrated in Figure 2. First, it chooses an ex ante aggregate level of reserves to supply to the banking system, labeled "X" in the figure. Second, it may make available a lending facility to the banking system that offers loans to financial institutions at an interest rate determined by the central bank. This is labeled "L" in the figure. If the ex ante supply of reserves is sufficiently low, the additional demand at rate L will be met by the lending facility. Note that both tools are a means to supply reserves: In the first, the supply is set in advance, while with the latter, it adjusts endogenously to market conditions.
+
+Central banks deploy various combinations of tools depending on the institutional and market structures in their jurisdictions as well as preferences over the trade-offs involved in their use.4 These choices represent different points among the set of options for using the two tools. Despite differences in tactics, each of the approaches can achieve the goals of strong interest rate control and
+
+For example, lending facilities limit upward movements in interest rates on days of high demand, thereby reducing the ex ante supply of reserves needed to control short-term rates.&gt;
+
+The European Central Bank, the Bank of England, and the Reserve Bank of Australia have chosen to operate with a relatively small amount of ex ante reserves supply and provide additional reserves as demanded at a rate near the policy target rate. Counterparties can then draw upon as much or as little as they choose based on their needs, subject to their ability to provide eligible collateral.° In this way, even with a smaller ex ante supply of reserves, tight interest rate control is maintained amid significant movements in the demand for reserves. In the case of the Bank of England, its weekly Short-Term Repo facility sees regular sizable use. In October of this year, it averaged around £85 billion."
+
+## Federal Reserve: Ample Reserves and Tools
+
+Like that of other central banks, the Fed's operational framework has evolved over time, reflecting its experience with large balance sheets since the global financial crisis.8 In January 2019, when the decline in the Fed's asset holdings implied that the quantity of reserves would soon fall below an "abundant" level, the FOMC formally adopted an ample reserves strategy.?
+
+The FOMC has defined this framework as one in which "control over the level of the federal funds rate and other short-term interest rates is exercised primarily through the setting of the Federal Reserve's administered rates, and in which active management of the supply of reserves is not required."!° Accordingly, the ex ante supply of reserves is chosen to be sufficiently large to meet the demand for reserves on most days.
+
+One important tool the FOMC has established to ensure interest rate control is the overnight reverse repo facility (ON RRP), which, alongside the interest paid on reserve balances (IORB), helps set a floor for the federal funds rate. Through the ON RRP, eligible counterparties "lend" to the Federal Reserve at the rate set by the FOMC, currently at the bottom of the target range for the federal funds rate. Usage of the ON RRP adjusts automatically to market conditions, rising and falling with supply and demand, which is particularly important in a dynamic market.
+
+The ON RRP has proven to be a very effective and flexible tool to support interest rate control to the downside. When Federal Reserve asset holdings push reserves above ample, the ON RRP relaxes the tight relationship between balance sheet size and reserves and acts as a safety valve in supporting smooth transmission of monetary policy to markets. As the size of the balance sheet falls, market rates rise above the rate offered at the ON RRP and, as a result, usage of the ON RRP declines to very low levels. This dynamic is seen in Figure 3, which shows average monthly usage of the ON RRP from 2016 through October of this year. The ON RRP was used extensively when it was economically sensible for the Fed's counterparties to do so. By contrast, it has very limited usage when repo rates are well above the ON RRP rate, as is the case today.
+
+In 2021, the Federal Reserve introduced the Standing Repo Facility (SRF), which nicely complements the ON RRP by providing interest rate control to the upside." The SRF rate is set at the top of the FOMC's target range for the federal funds rate. This combination of an ample supply of reserves and an SRF rate at the top of the target range reduces the day-to-day reliance on the facility except during periods of significant upward pressure on rates resulting from strong liquidity demand or market stress.
+
+By ensuring that adequate liquidity will be available in a wide variety of circumstances, the SRF plays a critical role in capping temporary upward pressure on rates and assures markets of effective interest rate control and smooth market functioning. It is best thought of as a way of making sure that the overall market has adequate liquidity consistent with the FOMC's desired level of interest rates. In that regard, it differs from other lending facilities—such as the discount window—that aim to provide individual banks with liquidity when the need arises.
+
+The SRF has been effective as reserves have moved from abundant toward ample. Over the past two months, SRF usage has risen from essentially zero to having greater frequency and higher volume of take-up, especially on days of temporary repo market pressures, as shown in Figure 4. Like the ON RRP facility, the SRF's effectiveness relies on market participants availing themselves of the SRF based on market conditions, free of worries about stigma or other impediments. I fully expect that the SRF will continue to be actively used in this way and contain upward pressures on money market rates.
+
+## Federal Reserve: The Way Forward
+
+At the onset of the pandemic, the Fed, along with central banks around the world, responded quickly to restore market functioning,'? causing reserves to rise well above ample, as they did in many jurisdictions.
+
+In June of 2022, the Fed began the process of reducing the size of its balance sheet to transition toward an ample level of reserves.'3 The FOMC said it intended to stop balance sheet runoff when it deemed reserves were somewhat above ample, and then allow reserves to decline further as other liabilities, such as currency, grow.
+
+The process has worked according to plan. The Fed's securities holdings have shrunk from a peak of about $8-1/2 trillion in 2022 to $6-1/4 trillion today. At its meeting last week, the FOMC decided it would conclude the reduction of its aggregate securities holdings on December 1.'4 This decision was based on clear market-based signs that we had met the test of reserves being somewhat above ample.'5 In particular, repo rates have increased relative to administered rates and have exhibited more volatility on certain days. Accordingly, we have been seeing more frequent use of the SRF. And the effective federal funds rate has increased somewhat relative to the IORB after years of that spread being at a stable level. These developments were expected as the supply of reserves closed in on ample.!©
+
+liabilities grow and underlying demand for reserves increases over time. Such reserve management purchases will represent the natural next stage of the implementation of the FOMC's ample reserves strategy and in no way represent a change in the underlying stance of monetary policy.
+
+Determining when we are at ample reserves is an inexact science. I am closely monitoring a variety of market indicators related to the fed funds market, repo market, and payments to help assess the state of reserve demand conditions. Based on recent sustained repo market pressures and other growing signs of reserves moving from abundant to ample, I expect that it will not be long before we reach ample reserves.
+
+## Conclusion
+
+The FOMC's implementation framework combines an ample supply of reserves with facilities to maintain strong interest rate control and flexibility regarding changes in the size of its balance sheet. This operational framework has proven to be highly effective—and it continues to work as designed.
+
+Other central banks use different approaches that operate equally well. We all face common goals and issues. Like the delicious delicacies particular to individual countries, the similarities outweigh the differences.
+
+## Figures por
+
+1 John C. Williams, "On the Optimal Supply of Reserves," remarks at the New York Fed — Columbia SIPA Monetary Policy Implementation Workshop, Federal Reserve Bank of New York, New York City, May 22, 2025.
+
+2 See Cavallino, Paolo, Mathias Drehmann, Richard Finlay, and Julie Remache, 2025. "Monetary policy operational frameworks -a new taxonomy," Bank for International Settlements, BIS Quarterly Review, September, pp. 49-65.
+
+3 See Afonso, Gara, Gabriele La Spada, Thomas M. Mertens, and John C. Williams. 2023. "The Optimal Supply of Central Bank Reserves under Uncertainty." Federal Reserve Bank of New York Staff Reports, no. 1077, revised December, for discussion and references to the relevant literature.
+
+- 4 See the policy implementation frameworks descriptions for the Bank of Canada, the Bank of England, the European Central Bank, Federal Reserve System, and the Reserve Bank of Australia.
+- 5 Afonso, Gara, Gabriele La Spada, Thomas M. Mertens, and John C. Williams. 2023. "The Optimal Supply of Central Bank Reserves under Uncertainty," Federal Reserve Bank of New York Staff Reports, no. 1077, revised December, for discussion and references to the relevant literature.
+
+6 Roberto Perli, "The Evolution of the Federal Reserve's Monetary Policy Implementation Framework," remarks at the New York Fed — Columbia SIPA Monetary Policy Implementation Workshop, Federal Reserve Bank of New York, New York City, May 22, 2025.
+
+7 Bank of England, Bank of England Market Operations Guide: Our tools, as updated July 3, 2025.
+
+8 For a history of FOMC operating tools, see Kevin Clark, Dina Marchioni, Julie Remache, and Will Riordan, "Federal Reserve Repo and Reverse Repo Market Operations: Before the Global Financial Crisis to 2015," The Teller Window, July 16, 2025; and Kevin Clark, Dina Marchioni, Julie Remache, and Will Riordan, "Federal Reserve Repo and Reverse Repo Market Operations: 2015 to Now," The Teller Window, July 17, 2025.
+
+- ° Board of Governors of the Federal Reserve System, Statement Regarding Monetary Policy Implementation and Balance Sheet Normalization, January 30, 2019.
+
+10 See Board of Governors, January 30, 2019, Statement. The FOMC's discussion of monetary policy implementation frameworks is summarized in the minutes of the November 2018, December 2018, and January 2019 FOMC meetings.
+
+- 1 Board of Governors of the Federal Reserve System, Statement Regarding Repurchase Agreement Arrangements, July 28, 2021.
+
+12 Board of Governors of the Federal Reserve System, Federal Reserve announces extensive new measures to support the economy, March 23, 2020.
+
+13 Board of Governors of the Federal Reserve System, Plans for Reducing the Size of the Federal Reserve's Balance Sheet, May 4, 2022.
+
+14 See Board of Governors of the Federal Reserve System, Federal Reserve issues FOMC statement, October 29, 2025.
+
+15 See Chair Powell's prepared remarks in his October 29th FOMC press conference: Transcript of Chair Powell's Press Conference, October 29, 2025.
+
+46 See Roberto Perli, "Balance Sheet Reduction: Progress to Date and a Look Ahead," remarks at 2024 Annual Primary Dealer Meeting, Federal Reserve Bank of New York, New York City, May 8, 2024; and Gara Afonso, Kevin Clark, Brian Gowen, Gabriele La Spada, JC Martinez, Jason Miu, and Will Riordan, "A New Set of Indicators of Reserve Ampleness," Federal Reserve Bank of New York Liberty Street Economics, August 14, 2024.

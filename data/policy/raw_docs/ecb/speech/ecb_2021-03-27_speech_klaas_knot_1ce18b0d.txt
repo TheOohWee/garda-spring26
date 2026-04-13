@@ -1,0 +1,54 @@
+## International spillovers and the ECB's monetary policy
+
+Klaas Knot
+
+CF40, PIIE, Euro50 Group -'The Dollar, the Euro and the Renminbi in the new geopolitical environment', March 27th, 2021
+
+Introductory remarks -talking points
+
+## 1. Setting the stage
+
+- In my remarks, I want to discuss the international setting within which monetary policy inevitably will have to be assessed. In that regard, I will also focus on the role of international spil lovers in the conduct of ECB's monetary policy.
+- To set the stage, let me review the recent developments in the US. Then I will address the question how higher US inflation expectations and bond yields affect euro area financing conditions and how this relates to the ECB's policy response.
+
+## 2. US financial market developments
+
+- Perhaps the most widely debated topic within financial markets over the last weeks centers around the effects of the fiscal package passed by the Biden administration. As a result, market participants have taken into account the possibility of a high inflation scenario once again. This is -amongst others -reflected in the slope of the US yield curve, as measured by the spread between 10-year and 2-year rates. This spread currently resides at its steepest level since 2015.
+- The recent steepening is, in fact, a story of two tales. In the short end of the curve the Federal Reserve's commitment to keep front -end rates lower for longer plays an important role. Simultaneously the upward pressure on the longer end signals a brighter economic outlook, which is -at least in part -driven by the surprisingly large fiscal stimulus package.
+- Decomposing the recent yield curve dynamics -as done here on Chart 1 -confirms that inflation expectations (corrected for the inflation risk premium in light blue) have been increasing substantially in the short end. In combination with the Fed's forward guidance, this has led to a fall in real rate expectations (depicted in grey).
+- Chart 1 also shows that the increase of the longer end of the curve, where inflation expectations are arguably better anchored, was instead largely driven by an increase in the real term premium (blue) and the inflation risk premium (in dark blue).
+- First, the observation that real term premia increased is consistent with the fact that the fiscal stimulus will be, by and large, deficit-financed.
+
+- Second, recall that the inflation risk premium is the compensation demanded by investors to hold financial assets that are subject to inflation risks. The inflation risk premium is therefore highly correlated with economic growth. An upward shift in the perception of potential economic growth, as driven by outsized fiscal stimulus, therefore first trickles into the inflation risk premium component. This is because there is still a lot of uncertainty surrounding the effects and definitive composition of the fiscal package.
+
+Source : DNB staff calculations. Note : Decomposition based on an affine term structure model for the US treasury and inflation-linked swap curve. Weekly data. Last observation 19-032021.
+
+## 3. Spillovers to the euro area
+
+- Now a crucial question in the conduct of our monetary policy is if and how these developments spillover to the euro area. I will argue that the rise in longer-term interest rates in the euro area since the beginning of this year reflects, at least in part, spillovers from the US arising from the improved prospects for global growth.
+- To illustrate this, chart 2 shows a historical decomposition of the changes in the euro area 10-year OIS rate based on a two-country time series model. 1 This model tries to disentangle several driving factors behind the recent rise in euro area risk free yields, such as the effect of policy and macro news on both sides of the Atlantic.
+
+1 The Chart is based on a two-country Bayesian Vector Autoregression Model estimated on daily data with identification of structural shocks based on sign restrictions .
+
+- Three observations stand out. First, an important factor behind the increase in euro area yie lds might be a continued decline in what is here called 'global risk'. This decline in the global risk component is still a reversal from the initial flight-to-liquidity flows observed at the onset of the Covid-19 crisis. Specifically, against the backdrop of an improved economic outlook, investors increasingly switch from fixed income into more risky asset classes.
+- The second and third observation are that both US macro news (the dark blue component) and US policy (the light blue component) are driving factors behind the recent rise in yields. More specifically, these two factors turn positive in early January when the Democrats gained control over the Senate by the surprise win in Georgia. As of that moment, the expectations surrounding the size of a potential fiscal package have significantly grown, which resulted via both the US macro and US policy component in upward pressure on euro area yields.
+
+Chart 2: Decomposition daily changes in the 10-year euro area OIS rate
+
+Source : DNB staff calculations. Note : Decomposition based on a two-country BVAR. Shock identification based on sign and magnitude restrictions. Daily data. Last observation 23-03-2021.
+
+- Another channel via which an improved global economic outlook affects the euro area are oil prices and ultimately via expected inflation. Charts 3 and 4 illustrate this by highlighting that the rise in oil prices was largely driven by demand side factors. The dominance of demand-side factors behind the rise of oil prices confirms that the improving economic outlook is an important driver. Driven by the rising oil prices and the improving outlook, market-based measures of inflation expectations have surged as well, as depicted in Chart 4.
+
+Chart 3: Decomposition daily changes in oil price Chart 4: Euro area ILS and oil prices
+
+Source : DNB staff calculations. Note : Decomposition of the oil price into demand and supply factors based on a VAR model. Identification based on sign restrictions. Daily data. Last observation: 23-032021.
+
+## 4. The ECB's policy response
+
+- Not every rise in yields is inconsistent with our pledge to maintain favorable financing conditions. For instance, a rise in nominal rates due to better growth and inflation prospects may not cause immediate worries. In contrast, rising interest rates due to for example dysfunctioning markets warrants a corresponding policy intervention.
+- The recent increase in yields was largely driven by benign factors. Taken at face value, the rise in inflation expectations is a welcome development. Yet the sizeable and persistent rise in euro area yields due to a faster economic recovery in the US could prematurely tighten financing conditions for the euro area economy, which is inconsistent with countering the downward impact of the pandemic on the projected path of inflation. This has led to the decision by the Governing Council to frontload some of its purchases under PEPP until the improved growth outlook for the euro area itself would stand on firmer ground. Chart 5 shows that the upward pressure on the real rate component has been neutralized.
+- That being said, however, it is important to note that we stand ready to adjust our monthly purchases in either direction, if required, to maintain favourable financing conditions.
+
+Chart 5: Decomposition of the 10-year OIS rate into inflation and real rate
+
+Note : Graph shows the cumulative change since 1 December 2020 (in percentage change). The real rate is calculated by subtracting the inflation-linked swap rate from the nominal OIS rate of the same maturity. Daily data. Last observation: 2603-2021.

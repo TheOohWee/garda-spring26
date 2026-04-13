@@ -1,0 +1,259 @@
+SPEECH
+
+DATE:
+
+25 June 2025
+
+SPEAKER:
+
+First Deputy Governor Anna Breman
+
+VENUE:
+
+Centre for Central Banking Studies, Bank of England, London
+
+## Daring to think differently -on the Riksbank ' s monetary policy communication *
+
+Thank you for inviting me to this conference focusing on transforming monetary policy, and asking how we should think about uncertainty and risks. It is indeed an important topic in today's turbulent times.
+
+Central banks often say that economic developments are uncertain or highly uncertain. This has definitely applied during the last five years. During that short time, we have experienced a pandemic, Russia's illegal invasion of Ukraine and the sharpest global inflation spike in decades. Added to this we now have escalating geopolitical conflicts and increased trade barriers. The new challenge is that the economic policy uncertainty in the world has increased (Figure 1) and that central banks need to take this into consideration.
+
+Whether global disruptions will continue to be as common in the future, we cannot know. But there are nevertheless good reasons to be prepared for the fact that monetary policy may need to be conducted and communicated in a politically and economically more uncertain world in the future.
+
+Central banks can do little about the uncertainty in the global economic and political environment in which they operate. Central banks shall, however, represent stability when other things are unsteady, not least through the task of
+
+* Speech at the conference ' Transforming Monetary Policy: How should we think about uncertainty and risks? ' , organised by the Centre for Central Banking Studies, Bank of England. I would like to thank Mikael Apel and Charlie Nilsson for excellent help with the speech, Carl Andreas Claussen, Charlotta Edler, Mattias Erlandsson, Jens Iversen, Caroline Jungner, Ann-Leena Mikiver, Åsa Olli Segendorf, Maria Sjödin, Ulf Söderström and Anders Vredin for valuable comments, and Elizabeth Nilsson for an excellent English translation.
+
+Telephone: +46-(0)8-787 00 00, Website: riksbank.se
+
+keeping inflation low and stable. 1 What we as policymakers can do is reduce uncertainty among households, firms and market participants about how the central bank assesses the situation, what key trade-offs it believes it faces, what risks it sees, and what it judges to be the most reasonable monetary policy path forward -in other words, to be as transparent as possible. The Riksbank often ranks highly in surveys of central bank transparency, which I am proud of. 2
+
+In particular, it is the combination of three components in our communication that sets us apart from many central banks -where, if you like, we have dared to think a little differently and pushed transparency a little further. More specifically, we publish:
+
+- a policy rate forecast
+- alternative scenarios, and
+- attributed minutes from the monetary policy meetings.
+
+I intend to give you a review of our experiences with these three communication tools, hoping that it may provide some useful perspectives following the Bernanke review.
+
+## Transparency facilitates communication and accountability
+
+Being transparent is not always easy. Being transparent is not always easy. A high degree of transparency means showing forecasts that may need to be substantially revised later on, and exposing nuances across committee members that may be seen as division within a committee. One concern is that this in turn reduces the confidence that households, firms and market participants have in the central bank, making both monetary policy and its communication more difficult. I believe that this concern is exaggerated and that transparency is a facilitator, not least in turbulent times.
+
+The Riksbank began publishing a forecast for its policy rate in 2007. In the same year, we started to include the names of the Board members with their contributions to the discussion in the minutes of the monetary policy meetings. Once you have a forecast for the policy rate, it is natural to start analysing alternative scenarios as well. We have therefore been using scenarios in our internal work and in our communication more or less since then. We have used
+
+1 This role has also been increasingly emphasised by central bankers around the world, see, for example, Macklem (2025), Mann (2025) and Cippolone (2025).
+
+2 See, for instance, Dincer, Eichengreen and Geraats (2022).
+
+them both to illustrate what the expected consequences would be of a slightly different monetary policy than the one we intended to conduct in our main scenario, and to illustrate how policy would change if developments in the economy were to be different from what we had expected. Since 2023, scenarios have been a central and integral part of our Monetary Policy Report.
+
+Transparency is important for accountability to the principal, in the Riksbank ' s case the Riksdag, the Swedish parliament. Transparency also serves the function of making it easier for households, businesses and markets to understand and predict how the central bank will react in different situations.
+
+Before I turn to the Riksbank ' s experiences of the three communication tools it is worth emphasising that central banks are all different. Their mandates are different, monetary policy committees differ in size and structure, as do the processes by which a monetary policy is developed. This means that what works well for one central bank may not work as well, or even at all, for another. I shall return to this.
+
+## The Riksbank's policy rate path -a forecast, not a promise
+
+The Riksbank is one of few central banks that publishes a forecast for its policy rate that all or a majority of the Executive Board supports. Norges Bank and the Reserve Bank of New Zealand also publish policy rate forecasts, and the Federal Reserve gives an indication of how the policy rate will develop through its 'dot plots'. 3
+
+In contrast, many central banks publish forecasts for other key variables, usually inflation and various measures of the real economy, such as GDP and unemployment. These forecasts are based on the central bank pursuing a particular monetary policy. In 2007, the Riksbank decided to both produce its own forecast for the interest and to communicate this forecast externally, and not just the forecasts for inflation and the real economy that this monetary policy is expected to result in. 4 We wanted to show that the entire forecast is consistent and saw few reasons to omit a forecast that we make anyway, and for such a
+
+3 In a recommendation to the Federal Reserve, Ben Bernanke (2025) suggests that the Fed should start publishing a quarterly Economic Review, forecasting key macro variables, including the policy rate. The forecast would be ' owned ' by the staff, but could be based on input and comments from FOMC members.
+
+4 One alternative, which the Riksbank applied prior to the changeover to our own policy rate forecast, is that forecasts for inflation and the real economy are based on the policies that the market expects the central bank to pursue, as measured by financial market pricing.
+
+central variable. An evaluation we conducted after ten years also concluded that internal analytical work had improved with the introduction of a policy rate path. 5
+
+From the point of view of accountability, it is also an advantage if it is clear what judgements the central bank has made on each occasion. An important part of ongoing monetary policy assessments is to examine whether interest rate forecasts appear reasonable on the basis of the information available at the time of the decision.
+
+What possible reason could there be for not publishing an interest rate forecast, especially if one publishes forecasts for other variables? One may be that, as I mentioned earlier, central banks may have an institutional set-up that makes this more complicated. For example, some countries ' monetary policy committees have a number of members with their own economic secretariats that produce data and forecasts. This applies, for example, to the members of the Federal Reserve ' s Federal Open Market Committee from the various district banks. 6
+
+Another reason may be the fear that the forecast will not be perceived as a forecast, but as a promise of the policy that will be conducted. If economic agents interpret it in this way, they may make decisions based on the published policy rate path in the belief that it will apply now and in the future. If conditions then change, as they almost always do, then monetary policy needs to change. The central bank may then be criticised for having 'tricked people'.
+
+It is therefore crucial that it is made clear that the policy rate path is indeed a forecast - and that the transparency applies to the forecast, not the policy going forward. The latter is simply very difficult to be transparent about far in advance. The fact that the interest rate forecast is a 'forecast and not a promise' has been something of a mantra in the Riksbank ' s communication over the years.
+
+This leads to a related potential problem with publishing an interest rate forecast, namely that the forecast is almost never accurate. As I have already mentioned, this in itself is not particularly remarkable. Monetary policy usually aims to bring inflation back to target within a reasonable time after a deviation. The forecast for inflation is therefore almost always that it will end up close to the target at some point within the forecast horizon. However, as the economy is constantly hit by various shocks, the policy rate path that is expected to produce this inflation trend
+
+5 Sveriges Riksbank (2017).
+
+6 However, see the recommendation and suggestion by Bernanke (2025) on how the Federal Reserve can still publish an interest rate forecast.
+
+will need to be changed more or less constantly. The fact that interest rate forecasts are not seldom wrong is therefore 'a feature, not a bug'.
+
+If you plot the interest rate forecasts over time, the results can sometimes be quite spectacular. In the years before the pandemic, it was quite common for a chart like the one below to be published in, for example, market newsletters, often with the head line 'the Riksbank hedgehog' or 'the rikshog' (Figure 2, left).
+
+It is important to analyse the systematics in the forecasting errors. But the market ' s own interest rate expectations also follow a similar pattern (Figure 2, right). This is not because the market passively accepts the Riksbank ' s forecasts. It may well have a slightly different view of what monetary policy the Riksbank will pursue -as has often been the case -and this would then be reflected in market pricing. But the fact that both the Riksbank and the market often make roughly the same systematic forecasting errors may indicate that the uncertainty has tended to lead to a follow-the-leader behaviour where no one wants to stand out.
+
+While it would have been desirable for the forecasts to be more closely aligned with actual outcomes and less systematically inaccurate, I think these figures are still a pretty good illustration of the quote usually attributed to John Maynard Keynes: 'When the facts change, I change my mind - what do you do, sir?'.
+
+An important message here is that it is natural that interest rate forecasts turn out to be wrong, and that there is no drama in this. We have not found that this has affected public confidence in our ability to fulfil our mandate. The fact that we actually change our policy when circumstances change can be regarded as a sign that we take our mission seriously. Households, firms and market participants realise that it would be much worse if we did not adjust our policy, but instead strictly followed a policy rate path that was for some reason fixed once and for all, and which over time would lead to constantly worsening policy.
+
+Evaluation of the impact of the policy rate on market pricing shows that there is a high degree of alignment in the short run, but less so in the longer run (Figure 3). It is, however, difficult to assess causality as market participants react in advance of a monetary policy meeting, often anticipating when a rate hike or rate cut will be delivered, even if it was not fully forecasted in the policy rate path. This is an example of market participants understanding the central bank reaction function.
+
+It is of course important to continuously evaluate the effectiveness of monetary policy communication and be prepared to make changes. Recently, we made an important change in the communication of the policy rate path. Starting with the Monetary Policy Report in March 2024, the Riksbank began to communicate the forecast for the policy rate in a new way that clarifies the difference in how the Executive Board views the forecast for the policy rate in the near future and the
+
+forecast for the longer term. The uncertainty of the forecast naturally increases in line with the forecast horizon, as the likelihood of new shocks hitting the economy increases.
+
+In the section of the Monetary Policy Report that discusses the monetary policy deliberations, we focus on the Executive Board ' s assessment of the policy rate over the next three quarters (see Figure 4). As there is more information about economic developments in the near future, the Executive Board can forecast the near-term monetary policy decisions with greater certainty. The longer term policy rate path (three years ahead), which is also published, should rather be seen as a technical input to the long-term economic projections.
+
+## Scenarios are important -even if you can ' t predict the unpredictable
+
+A further advantage of a policy rate forecast is that it makes it easier to work with alternative scenarios, as it is a natural reference point for such scenarios. The combination of an interest rate forecast and alternative scenarios helps to emphasise that the forecast is indeed a forecast and not a promise.
+
+Working with scenarios has become particularly important in recent years, when major disruptions have proven to be able to change conditions quickly and significantly. This is a conclusion that more and more people seem to be drawing. In his assessment of the Bank of England ' s forecasting process and related processes, Ben Bernanke advocated an expanded use of alternative scenarios, as a way of facilitating comparisons of possible policy options and making it easier to illustrate risks in the forecast. 7
+
+As I noted earlier, alternative scenarios have been a tool in the Riksbank ' s internal analysis and external communication for about as long as we have published a policy rate path, that is, since 2007. 8 Until 2015, scenarios were described in a separate chapter. When we reviewed the design of the Monetary Policy Report, we subsequently switched to including scenarios when we wanted to specifically emphasise particular risks and uncertainties. In an environment of large and frequent macroeconomic shocks, there is an increasing need to be able to illustrate alternative paths for the economy. Starting with the April 2023
+
+7 Bernanke (2024). The Bank of England has also started to introduce scenarios more in its communication, see for example Lombardelli (2025a). Bernanke (2025) also recommends that the Federal Reserve includes alternative scenarios and their implications in the proposed new quarterly Economic Review.
+
+8 Leeper (2003) recommended early on that the Riksbank should start using alternative scenarios, in an evaluation of the Inflation Reports as they were then called.
+
+Monetary Policy Report, we routinely present alternative numerical paths for inflation, GDP and the policy rate in each Monetary Policy Report. 9
+
+The exact form that the scenarios should take is not obvious. They do not necessarily have to be quantified. The important thing is that they give a good picture of a development that central banks believe could occur and indicate how monetary policy will be conducted in such a case -that they tell a fairly detailed story.
+
+Working with scenarios has its challenges. One purpose of alternative scenarios is to prepare households, firms and market participants for the fact that developments may be significantly different from the main scenario of the forecast. But the scenarios can only reflect known risks - you cannot predict the unpredictable. For example, at the end of 2019, no one probably considered including a scenario where a pandemic would suddenly break out. Similarly, by the end of 2021, few people were likely to consider analysing the economic impact in a scenario where Russia would attack Ukraine. But like most things, it is a matter of degrees and nuances, and with careful analysis and a certain amount of imagination, it is often possible to construct scenarios that are quite different from the main scenario.
+
+Sometimes it even becomes inevitable to use scenarios when communicating monetary policy. For example, in its April Monetary Policy Report, the Bank of Canada chose not to present any main scenario at all, but instead two possible scenarios for future developments. 10 The reason was the uncertainty surrounding US tariff policy - what tariffs will ultimately apply and for how long, the extent of the retaliation by Canada and other countries, and what future trade negotiations could result in.
+
+It may be worth emphasising that alternative scenarios for the policy rate, to the extent that they are quantified, are no more a promise of the policy that will be pursued in different situations than the policy rate path in the main scenario. It is unlikely that an alternative scenario will look exactly as it is described in advance, as there are always other things happening that also need to be taken into account.
+
+9 The Account of Monetary Policy 2022 (Sveriges Riksbank, 2023) contains a section entitled 'Lessons from the upturn in inflation in 2022', in which one conclusion is that alternative scenarios should be integrated to a greater extent into the monetary policy strategy and communication. Increased use of scenarios was also a recommendation in the 2022 evaluation of monetary policy by Hassler et al. (2023).
+
+10 Bank of Canada (2025). During the pandemic, the great uncertainty meant that the Riksbank also initially chose to publish alternative scenarios and no main scenario.
+
+We have a clear example of this in the Riksbank ' s Monetary Policy Report from December last year. At that time, an alternative scenario was that inflation would rise towards 3 per cent (see Figure 5). It was based on the assumption that geopolitical concerns would increase further in the context of the trade conflict, leading to rising commodity prices and increased protectionism. We did not see this scenario as particularly likely, but at the beginning of the year inflation still rose to just below 3 per cent. 11 At the time, some observers wondered whether we should not raise interest rates in line with this scenario. But there was little evidence of the kind of indirect disruptions and secondary effects on which the scenario was based. Also, the higher inflation was largely the result of basket effects in the calculation of the CPI basket. We therefore chose not to react to the higher inflation.
+
+To summarise, my assessment is that it will become increasingly common for scenarios to play a role in monetary policy communication. This is, of course, particularly true if the global macroeconomic environment continues to be characterised by large and frequent shocks. Scenarios become a natural way for the central bank to analyse and communicate different risks. 12 And, as is the case with most other communication tools, the more central banks use them, the more economic agents will become accustomed to and familiar with alternative scenarios.
+
+The alternative scenarios also help the Board members discuss the nuances and differences in their views on the economic outlook. As far as the Riksbank is concerned, these are shown in the individual statements by the various members in the monetary policy minutes.
+
+## Names in the minutes also increase transparency
+
+In June 2007, the Riksbank started to record in the minutes of the monetary policy meetings who had said what. This is still unusual in the central banking world. To my knowledge, the only central bank that also includes names in its minutes is the Czech National Bank, which started doing so in 2020. 13
+
+11 Inflation measured by the CPIF target variable amounted to 2.9 per cent in February and to 3 per cent excluding energy prices.
+
+12 It is also possible that the use of scenarios and the internal discussion around them can reduce the risk of groupthink, where the Monetary Policy Committee becomes fixated on a single scenario. I discuss the risk of groupthink in Breman (2024).
+
+13 Filáček and Kokešová Matějková (2022) report on the Czech National Bank' s experience of publishing names in the minutes. These are positive and similar to those of the Riksbank.
+
+The Riksbank ' s research shows that the most notable effect has been that members take greater pains to explain their positions in detail. 14 This has led to an increase in the average length of the minutes (see Figure 6). However, this does not reflect that the discussion itself has become more extensive; on average, the contributions are longer but fewer. 15
+
+It has also led to Board members referring more often to their own previous contributions and judgements, which was of course possible even when the minutes were anonymous. This could possibly be seen as an expression of Board members feeling greater responsibility for their stances over time, and changing their minds only if they have a good and well-founded justification for doing so. 16 This will make monetary policy more consistent and probably more predictable. A possible disadvantage could be if members stick too long to a view they have previously expressed.
+
+My assessment is that the advantages outweigh the disadvantages, mainly because everyone can see how all the members have reasoned, what considerations they have made and what motives they emphasise. Outside observers can then decide for themselves how reasonable they think the arguments are.
+
+The monetary policy decision is the end result of a several-week long analysis and thought process, with interaction between the Executive Board and the staff, and between the Executive Board members themselves. My impression is that this way of arriving at a monetary policy decision is far from unique to the Riksbank. It is probably more the rule than the exception that the members of most central banks have decided how to vote at some point during this process, even before the monetary policy meeting. To provide more insight into the previous policy process, the Riksbank ' s minutes contain a brief summary of the discussions during the preparatory meetings. It should also be emphasised that the Riksbank ' s
+
+14 See Apel et al. (2025). One circumstance worth bearing in mind here is that we also began publishing the interest rate forecast in 2007. While it is reasonable to assume that the incentive for members to explain their individual positions in detail increased when their names started to be printed in the minutes, discussions on the interest rate forecast may also have contributed to the speeches and minutes becoming longer.
+
+15 Former Executive Board member Martin Flodén describes it as follows: 'The fact that the minutes are published in this way has meant that we Executive Board members carefully prepare our contributions. There is therefore rarely any spontaneous exchange of views at the meeting. The important discussions and exchanges of views tend to take place instead at a number of meetings between the Executive Board and Riksbank employees in the weeks prior to the monetary policy meeting.' (Flodén, 2024). Another former Executive Board member Lars E.O. Svensson has described it in a similar way: 'The discussion at the final monetary policy meeting, which leads to the minutes with names in them, does not start from scratch, but is a culmination and summary of these meetings. Therefore, one would not expect too much spontaneity but rather the presentation of the essential summaries and the reasons for the decision by each member.' (Svensson, 2009, p. 27).
+
+16 See Flodén (2024).
+
+principal, the Riksdag, is satisfied with this arrangement from the point of view of the possibility of holding the Riksbank accountable.
+
+Whether the names of the members should appear in the monetary policy minutes is probably a choice that the central bank can often make itself. Compared with publishing a representative policy rate forecast, this is likely to be less dependent on the institutional set-up. But the fact that so few central banks have chosen to publish the names in the minutes suggests that they fear there are some problems associated with this. It may be, for instance, that the central bank generally recognises the value of 'speaking with one voice' and believes that it would only add to uncertainty and confusion if individual, identifiable members were to detail their personal views on various issues - especially if they differ from those of the majority. Here I can only note that this is not something that the Riksbank has experienced as a problem, and that economic agents regard it as completely normal.
+
+Of course, I can only account for the Riksbank ' s experiences during the almost eighteen years that we have included names in the minutes. In my view, this has increased the transparency of the judgements made by different members of the Executive Board on different issues, and this in turn has made it easier for households, firms and market participants to understand both the policies we are pursuing and how they might change. The media also routinely report on the discussion in the minutes. The minutes of the meetings are now regarded as one of the Riksbank ' s natural communication tools.
+
+## Transparency builds trust
+
+Let me summarise by emphasising three main points.
+
+Firstly, in my experience, we build trust among both market participants and the general public by being transparent. The Riksbank ' s strategy of publishing a forecast for the policy rate, alternative scenarios and attributed minutes creates an understanding of monetary policy, and of the often difficult trade-offs it faces. Such an understanding increases confidence in monetary policy, rather than reducing it, which in turn makes the policy easier to conduct.
+
+Secondly, 'one size does not fit all'. Central banks are different. These differences may have historical, political or cultural reasons. How transparent a central bank is, and can be, is not just a matter of its own ambitions or those of its principals. It also involves factors such as the design of the monetary policy framework and the composition of its Monetary Policy Committee. The fact that the Riksbank can be so transparent is explained not only by the fact that we have the ambition to be
+
+so, but also by the fact that we have good conditions to be so. 17 Nevertheless, I believe that one should strive to attain the highest possible degree of transparency and, above all, that it should not be abstained from because of fears that something bad might happen if ' too much is revealed ' .
+
+Third, of the three communication tools I have discussed, the use of alternative scenarios is the least dependent on the institutional set-up. Any central bank that presents forecasts, whether quantified or merely described in words, can also present scenarios of what might happen if events occur that prevent the main scenario from being realised. As I have already mentioned, this is something that I think more and more central banks will do, especially if the economic policy uncertainty we are experiencing today continues.
+
+The theme of this conference is how we should think about uncertainty and risk. As I stated earlier, central banks cannot do much about the uncertainty in the global economic and political environment in which they operate. If this should prove to remain as turbulent in the future, the best thing central banks can do is to contribute to stability by trying to fulfil their mandate. I believe that a high degree of transparency is something that facilitates that work.
+
+## References
+
+Apel, Mikael, Marianna Blix Grimaldi, Lars Ahrenberg, Daniel Holmer and Arne Jönsson (2025), 'The effect of increased transparency on an individualistic monetary policy committee', forthcoming working paper, Sveriges Riksbank.
+
+Bank of Canada (2025), Monetary Policy Report -April 2025 .
+
+Bernanke, Ben S. (2024), 'Forecasting for monetary policy making and communication at the Bank of England: a review', Bank of England.
+
+Bernanke, Ben S. (2025), 'Improving Fed Communications: A Proposal', Hutchins Center Working Paper #102, Hutchins Center on Fiscal &amp; Monetary Policy, Brookings Institution.
+
+17 The Riksbank is a relatively small central bank. Everyone involved in the policy process works in the same building, the Executive Board is relatively small - five people, the members are full -time employees and individually accountable and they are involved in the process more or less from the start. There is an almost continuous dialogue on the economic outlook, forecasts, risks and considerations in a series of meetings throughout the process. This arrangement is probably a prerequisite for publishing a Monetary Policy Report in connection with the interest rate decision, with forecasts for the policy rate and other variables that are supported by a majority of the members of the Riksbank ' s Executive Board. For a description of the Riksbank ' s policy process, see Sjödin (2022).
+
+Breman, Anna (2024), ' Monetary policy decisionmaking', speech at Lund University, 30 May, https://www.riksbank.se/globalassets/media/tal/engelska/breman/2024/tal-30maj-2024-breman-eng.pdf
+
+Cippolone, Piero (2025), 'Navigating a fractured horizon: risks and policy options in a fragmenting world', speech at the conference 'Policy challenges in a fragmenting world: Global trade, exchange rates, and capital flow', Frankfurt am Main, 29 April.
+
+Dincer, N. Nergiz, Barry Eichengreen and Petra Geraats (2022), 'Trends in Monetary Policy Transparency: Further Updates', International Journal of Central Banking 18, No. 1, pp. 331- 348.
+
+Filáček, Jan and Lucie Kokešová Matějková (2022), 'Disclosing Dissent in Monetary Policy Committees', Research and Policy Notes 2/2022, Czech National Bank.
+
+Flodén, Martin (2024), "Communicating future monetary policy", speech at Nordea, Stockholm, 17 April, Sveriges Riksbank.
+
+Hassler, John, Per Krusell and Anna Seim (2023), 'Evaluation of monetary policy 2022' (only in Swedish), Report from the Riksdag 2022/23:RFR5.
+
+Leeper, Eric (2003), 'An Inflation Reports Report', NBER Working Paper 10089.
+
+Lombardelli, Clare (2025a), 'What if things are different?', speech at the Bank of England Watchers Conference, London, 12 May.
+
+Lombardelli, Clare (2025b), "Central bank communications and uncertainty", speech at the Second Thomas Laubach Research Conference, Federal Reserve Board, Washington DC, United States, 16 May.
+
+Macklem, Tiff (2025), 'Navigating tariff uncertainty', speech Calgary Economic Development, Calgary, Alberta, Canada, 20 March.
+
+Mann, Catherine L. (2025), 'Holding the anchor in turbulent waters', speech at the conference "35 years of flexible inflation targeting: Opportunities and challenges' at the Reserve Bank of New Zealand', Wellington, New Zeeland, 6 March.
+
+Sjödin, Maria (2022), 'The path to a monetary policy decision', Economic Commentary No. 3 2022, Sveriges Riksbank.
+
+Svensson, Lars E. O. (2009), 'Transparency under flexible inflation targeting: experiences and challenges', Economic Review, 1/2009 Sveriges Riksbank.
+
+Sveriges Riksbank (2017b), 'The Riksbank's experiences of publishing repo rate forecasts', Riksbank studies, June 2017.
+
+Sveriges Riksbank (2023), Account of monetary policy 2022 .
+
+Figure 1. Economic Policy Uncertainty Index
+
+Note. Refers to the whole world. The index is based on mentions of economic policy uncertainty in newspaper articles. The global measure is a GDP weighted average of national indices. These indices are standardised so that 100 corresponds to the average of mentions in the period 1997-2015.
+
+Source: Economic Policy Uncertainty.
+
+Figure 2. The Riksbank's forecasts and market expectations of the policy rate Per cent
+
+Note. Market expectations refer to expectations according to forward pricing the day prior to the monetary policy meeting. Quarterly data.
+
+Source: The Riksbank.
+
+## Figure 3. Difference between t he Riksbank's forecast and market expectations of the policy rate
+
+Percentage point differences
+
+Note. Differences between the Riksbank's forecast for the policy rate and market -based expectations of the policy rate according to forward pricing at each monetary policy meeting during 2008-2025. Market expectations refer to expectations according to forward pricing the day prior to the monetary policy meeting, and have been converted to quarterly data. Differences in the 1- and 2-year horizon are moving averages of the past three observations, and differences in the 3-year horizon are moving averages of the past 6 observations.
+
+Source: The Riksbank.
+
+Figure 4. Policy rate forecast in the long and short term
+
+Per cent
+
+Note. From the Monetary Policy Report in March 2025. Solid line refers to outcome and dashed/dotted lines represent the Riksbank's forecast. Outcomes for the policy rate are daily data and the forecasts refer to quarterly averages. The upper image shows the forecast for the policy rate in the short run and is based on the long-term policy rate path in the lower left figure. The dotted line illustrates the fact that the forecast for the policy rate in the longer run is very uncertain.
+
+Sources: Statistics Sweden and the Riksbank.
+
+## Figure 5. The Riksbank's scenarios for inflation and the policy rate
+
+Annual percentage change (left) and per cent (right)
+
+Note. Scenarios from the Monetary Policy Report in December 2024. Solid line refers to outcomes, and stretches to the first quarter of 2025. Inflation refers to the CPIF. Quarterly data.
+
+Sources: Statistics Sweden and the Riksbank.
+
+## Figure 6. Number of sentences in the minutes
+
+Number
+
+Note. Data in the paper only cover the period 2000-2018.
+
+Source: Apel et al. (2025).

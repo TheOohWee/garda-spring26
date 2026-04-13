@@ -1,0 +1,167 @@
+Remarks by Toni Gravelle Deputy Governor of the Bank of Canada VersaFi (formerly Women in Capital Markets) January 16, 2025 Toronto, Ontario
+
+## The end of quantitative tightening and what comes next
+
+## Introduction
+
+Good afternoon. Thank you, Tanya, for the kind introduction. And thank you to VersaFi for hosting this event.
+
+The Bank of Canada's balance sheet has been larger than normal for a few years now. That's because of the role it played during the COVID-19 crisis, in making sure financial markets could work properly and in setting the economy on a path to recovery.
+
+As we began to emerge from the worst of the pandemic, we ended quantitative easing (QE) in October 2021. Six months later, in April 2022, we started shrinking the balance sheet through quantitative tightening (QT), a process that continues today. Under QT, we have been letting our bond holdings roll off the balance sheet as they mature, without replacing them.
+
+Last year, I said we thought that QT, also known as balance sheet normalization, would end sometime in 2025. Well, it's 2025. And since I had also promised to deliver any news about QT ahead of time, that is why I am here today.
+
+When QT ends, we will be back to business as usual for how we manage the balance sheet. This will look a lot like how we managed it before the pandemic, which I outlined in a speech last March. 1 Essentially, we'll be purchasing assets mainly to offset the growth of currency in circulation-the cash in your wallets.
+
+But some things have changed in the five years since the start of the pandemic. In particular, the payment system has evolved, and so has our monetary policy implementation framework. As a result, some evolution in how we manage our balance sheet is needed. So, today I'll give you an update on:
+
+1
+
+See T. Gravelle, 'Going back to normal: The Bank of Canada's balance sheet after quantitative tightening,' (speech to CFA Society Toronto, Toronto, Ontario, March 21, 2024).
+
+- when, roughly, we expect QT to end
+- how we will manage the balance sheet after QT ends and we resume our business-as-usual asset purchases
+- what the likely drivers are of recent pressures in overnight funding markets
+
+## Our estimate of demand for settlement balances
+
+Let me start with a bit of background about a crucial element of our balance sheet, one that is key to guiding our QT process. I'm talking about settlement balances-what most other jurisdictions call central bank reserves.
+
+These represent a liability on our balance sheet. 2 They are interest-bearing deposits held at the Bank of Canada that belong to members of Lynx, Canada's high-value wholesale payment system, who use them to settle large payments with each other. Lynx members include the biggest banks, which process the bulk of payments in Canada and, as a result, hold most of the settlement balances.
+
+The interest rate that we pay on settlement balances is called the deposit rate. Due to arbitrage in overnight funding markets, the rate for overnight repurchase-or repo-agreements in these markets tends to be at or close to our deposit rate. And since the deposit rate moves one-for-one with our target policy rate, this helps ensure that the one-day or 'overnight' market rate used by financial institutions is also at, or close to, our target rate.
+
+When we change our policy rate, this implies an equivalent change in the deposit rate, leading to changes in the overnight rate and, in turn, influencing longer-term interest rates, such as on mortgages or business loans. This is how we implement our monetary policy and ensure that it is reflected in borrowing and lending rates throughout the economy.
+
+Now, as I discussed in my speech last March, because we now operate in a floor system, our aim in steady state is to supply just enough settlement balances to satisfy the demand for them from banks and other Lynx participants. 3 Currently, though, the amount of settlement balances on our books is higher than our best estimate of that demand because of the balance sheet measures that we took during the pandemic. So, as we shrink our balance sheet through QT, we are lowering the supply of settlement balances toward our best estimate of demand. This lower level is really a range, because we use a few different approaches to estimate the demand for settlement balances.
+
+In estimating the overall demand for settlement balances in the financial system, we look at two types of demand. The first is payments-driven demand, which is the amount needed for Canada's high-value payments system to operate
+
+2 For more detail about how our balance sheet works and its role in the Canadian financial system and economy, see the dedicated page on the Bank's website.
+
+3 For a detailed discussion of why we switched to a floor system for implementation of our monetary policy, see my speech from March 2024.
+
+smoothly. In other words, the amount of settlement balances that Lynx members want to keep on hand so that they can settle daily payments with each other.
+
+The second type is precautionary demand. This is where risk-free and liquid assets, such as Government of Canada (GoC) bonds or settlement balances, are held as a buffer against unexpected funding or liquidity shocks.
+
+But measuring either payments- or precaution-driven demand for settlement balances is difficult. So, to come up with the best estimate that we can, we regularly survey and speak with banks and other Lynx participants to help us understand how much demand there is. And in the latter part of 2024, we determined from these discussions and our own subsequent analysis that precautionary demand had grown beyond the level we had previously estimated.
+
+Earlier last year, we thought QT would end when our settlement balances declined to a $20 billion to $60 billion range. This was based on our estimate of Lynx participant demand at the time.
+
+Due to our updated assessment of precautionary demand, we have revised the range upward to between $50 billion and $70 billion. Of this, we continue to see about $20 billion to $30 billion being needed to support the payments system. The rest of the range is what we now expect precautionary demand to be.
+
+Currently, we have about $130 billion in settlement balances, down from a peak of around $395 billion during the pandemic.
+
+As you can see from the chart ( Chart 1 ), we expect settlement balances to reach our new estimated range around mid-year.
+
+Chart 1: Historical and projected settlement balances
+
+- —— Actual level of settlement balances
+- see Forecast level of settlement balances until fiscal year-end 2024-25
+- --Forecast level of settlement balances with constant RG (government cash balance) level
+
+Note: The settlement balance forecast is highly uncertain and depends on many factors including, for example, the level of Receiver General (RG) cash balances deposited at the Bank of Canada. The forecast assumes a constant level of RG cash balances after fiscal year-end 2024-25. This could overstate settlement balances by the amount of funding that the government may need ahead of a large maturity. The forecast also does not include the value of any potential routine overnight repurchase agreement (repo) operations (or overnight reverse repo operations) conducted to reinforce the Bank's policy target, which would increase (or decrease) the projected level of settlement balances. Source: Bank of Canada calculations and projections
+
+So that brings me to when we will end QT and start buying assets again as part of our business-as-usual balance sheet management process.
+
+Based on the maturity profile of our assets, settlement balances are expected to fall well below the $50 billion to $70 billion range in the third quarter, due to a very large GoC bond maturity coming due on September 1, 2025 ( Chart 2 ).
+
+Chart 2: The Bank of Canada's asset maturity profile until 2030
+
+Source: Bank of Canada calculations and projections Last observation: January 15, 2025
+
+To achieve a smoother glide path for settlement balances as they fall ahead of that large maturity, we will need a transition process where asset purchases help to offset the sharp and sudden drop. That means we will need to restart our normal-course asset purchases gradually, and well before September.
+
+As a result, we expect to announce the end of QT and the associated restart of our business-as-usual asset purchases in the first half of this year. When we make that announcement, we will also publish a market notice with more details about the asset acquisition process, including the timing of our initial purchases and expected amounts. Given this timeline, I expect we will be the first major central bank, or among the first, to finish unwinding its pandemic-related QE asset purchases. That reflects three considerations. First, going into the pandemic, our balance sheet was smaller as a proportion of gross domestic product relative to other central banks because we hadn't used QE before. Second, we ended QE earlier than others. And third, the maturity profile of our asset holdings coming out of our COVID actions was shorter, so QT has gone faster in Canada than in most other jurisdictions.
+
+As you can see from this chart, in terms of assets as a share of the economy, our balance sheet is already smaller than those in other major jurisdictions ( Chart 3 ).
+
+## Chart 3: Central bank assets
+
+Sources: Haver Analytics and Bank of Canada calculations
+
+## The estimated range for settlement balances will evolve over time
+
+Once we resume purchasing assets to offset the growth of currency in circulation, we will aim to manage our balance sheet in a way that keeps settlement balances in the range of $50 billion to $70 billion. But there may be brief periods when the amount falls below or rises above this range. 4
+
+I also want to stress that, over the long term, demand for settlement balances will continue to evolve as the financial system evolves. So the amount that the major banks and other Lynx participants want to hold will likely vary as well. This means we will probably adjust our estimated range from time to time, possibly both up and down, to reflect changes in settlement balance demand. This way, we can make sure that our framework for implementing monetary policy remains effective at keeping the overnight rate in markets close to our target for the policy rate.
+
+4 In steady state, settlement balances will fluctuate in the new range due to autonomous variations in our other major liabilities. For example, fluctuations in the amount of funds the Government of Canada puts in its deposit account with us will cause offsetting fluctuations in the level of settlement balances, all other things being equal. Fluctuations can also occur due to differences in the timing and size of our asset purchases versus the relatively lumpy maturities of our legacy asset holdings. We will aim to minimize fluctuations in order to keep settlement balances in the range but, on rare occasions, we may not always be able to for a day or so.
+
+While our core objective is to supply enough settlement balances in the financial system for us to be able to implement our monetary policy effectively, that's not our only consideration. Another important factor is market discipline, given that we are also responsible for promoting a stable and efficient financial system.
+
+What do I mean by this? Well, we don't want to see major banks and other core financial institutions under-investing in their capacity to robustly manage their liquidity because they have developed an unhealthy over-reliance on settlement balances. In managing their liquidity needs, financial market participants should be able to respond to fluctuations in those needs in other ways-for example, through access to markets.
+
+Going forward, our assessment of the optimal range of settlement balances will account for the evolving nature of both payments and the financial system, as well as the need to maintain market discipline.
+
+## The return to business-as-usual balance sheet management
+
+Okay, so what will business-as-usual look like after QT ends?
+
+Under our normal course of balance sheet management, we buy assets on a passive basis to reflect the autonomous rise in our liabilities. Traditionally, the biggest liability has been currency in circulation. Demand for cash usually grows at roughly the same speed as the nominal growth of the economy.
+
+I want to be clear, though, that while QT is almost finished, the composition of our asset holdings won't be back to normal for quite some time. As I explained in my speech last March, we want to restore a more balanced mix of assets with a broader range of maturities-including more short-term assets-than we hold now. Currently, our asset portfolio is made up almost entirely of GoC bonds. And as a result, our asset holdings have a maturity profile that skews longer than it did before the pandemic. Going forward, we will hold not only GoC bonds but also GoC treasury bills (t-bills) and term repos, just as we did before the pandemic.
+
+In steady state, we will aim to have the amount of our floating-rate assets, mostly term repos and t-bills, match the amount of our floating-rate liabilities, which include settlement balances. And we will aim to have the size of our bond holdings roughly match currency in circulation, given that currency is assumed to be a permanent liability. Although our asset purchase plan will be designed to ramp up to this steady-state composition, our asset growth is limited by how quickly currency in circulation grows. So we may not reach that composition until around 2030.
+
+I want to emphasize that we will not be buying assets on an active basis to stimulate the economy like we did during the pandemic when we were doing QE. Our normal asset purchases before the pandemic were not QE. And our normal asset purchases after QT ends will not be QE either.
+
+Now let's get into some of the specifics of our purchasing plans.
+
+When we start growing our assets again for business-as-usual balance sheet management, we will start with term repo operations. These will be 1- and 3month terms, and we will gradually ramp up the amounts through bi-weekly
+
+## operations.
+
+T-bill purchases will take place in the primary market. We expect them to resume in the fourth quarter of this year, initially with relatively small amounts through each bi-weekly GoC debt auction.
+
+GoC bond purchases will likely not start until toward the end of 2026-at the earliest. But, as we get closer to purchasing bonds, we will announce the timing well in advance.
+
+When we start buying GoC bonds again in the normal course of business, we will do so in the secondary market, via reverse auctions. Secondary market purchases align with benchmark practices at other major central banks that buy their home jurisdiction's government bonds as part of the ir normal-course balance sheet management. And there are advantages to doing it this way compared with buying bonds in the primary market-that is, at GoC auctionswhich was our practice before the pandemic.
+
+One advantage is that secondary market purchases will give us the flexibility to buy any GoC bonds outstanding across the full spectrum of maturities, rather than being limited to what's on offer at individual GoC bond auctions. This will allow us to replace maturing bonds with bonds from the maturity buckets that we want, which will help us rebalance the maturity structure of our balance sheet more quickly.
+
+Buying in the secondary market also helps enhance the GoC bond market's functioning and liquidity. It gives participants more regular opportunities to trade and see pricing points for off-the-run securities that are less liquid than on-therun bonds.
+
+When we do become a regular buyer in these markets again, a couple of key principles will guide us to help ensure that our presence leans toward enhancing market functioning. First and foremost, we want to limit the market impact of our purchase operations. Our bond purchase operations, for example, will be pricesensitive, and we won't necessarily buy everything that dealers offer to us. And second, we will always aim to be as transparent and predictable as possible. For example, we will publish calls for tender ahead of our operations, as well as quarterly purchase schedules.
+
+So now you know what comes next once we've finished QT.
+
+## Where do recent repo market pressures fit?
+
+Before I conclude, let me also take this opportunity to say a few words about the recent pressures in repo markets and how they fit into all this.
+
+I want to be clear that we will not be ending QT out of any concern about the functioning of repo markets. Our assessment is that, for the most part, other factors are causing these pressures. I also want to be very clear that the pressures in repo markets are not a reflection or indication of broader financial system stress.
+
+Last year, our analysis determined that upward pressure in repo markets was being caused primarily by positioning in bond and futures markets, largely by
+
+hedge funds. 5 Through our more recent monitoring and discussions, we can see that hedge fund activity and positioning continue to contribute to higher funding requirements sourced in the repo market. These have led to upward pressure on repo market rates-along with other factors, such as the transition to a one-day settlement period for trades, also known as T+1 settlement. 6
+
+We've also seen greater upward pressure on rates in overnight repo markets around regulatory reporting dates, such as at year-end or quarter-end for banks. This happens in many other major jurisdictions as well. 7 Repo trading increases the size of a bank's balance sheet and, in turn, its regulatory capital requirements. So as reporting dates approach, banks try to reduce their balance sheet to satisfy regulatory requirements. This tends to make them less willing to conduct repo transactions with clients and cash desks, due to the impact that repo deals have on their books. And that reluctance reduces the supply of repo funding to the market and can cause or amplify upward pressures on repo rates.
+
+Our analysis also finds that the Bank's routine overnight repo operations, where we inject funds into the market to ease upward pressure on overnight repo rates, can at times be less effective in these periods. This is because sourcing liquidity around reporting dates in the inter-dealer broker (IDB) market can be a better deal for banks and other intermediaries than getting it through our repo operations. Repo trading via IDBs offers netting benefits provided by central clearing, which lowers the amount of equity capital required for trades done in the IDB segment of the repo market. That is especially useful for intermediaries around reporting periods.
+
+As always, we will continue to monitor all of these repo market dynamics.
+
+## Conclusion
+
+It's time to wrap up.
+
+It's been a long road-almost three years since we began QT-but we are just about finished the QT process and the unwinding of our QE-related asset holdings. We will announce the end of QT in the first half of this year, and we will re-start business-as-usual asset purchases after it ends.
+
+When QT is done, we'll go back to managing the balance sheet in a way that looks a lot like how we managed it before the pandemic. Crucially, when we start buying assets, these will be normal, passive purchases, reflecting the growth in
+
+5 See B. Plong and N. Maru, 'What has been putting upward pressure on CORRA?' Bank of Canada Staff Analytical Note No. 2024-4 (March 2024). CORRA (the Canadian Overnight Repo Rate Average) measures the cost of overnight general collateral funding in Canadian dollars using GoC treasury bills and bonds as collateral for repurchase transactions. Making sure overnight rates are at or close to the target for the overnight rate that we set for monetary policy is how we ensure that borrowing and lending conditions in the economy reflect our policy stance.
+
+6 See B. Plong and N. Maru, 'CORRA: Explaining the rise in volumes and resulting upward pressure,' Bank of Canada Staff Analytical Note No. 2024-21 (August 2024).
+
+7 See, for example, R. Perli, 'Facing Quarter-End Pressures: Understanding the Repo Market and Federal Reserve Tools' (speech to New York University's Stern School of Business, New York, November 12, 2024).
+
+## currency-not QE.
+
+However, because payments and the broader financial system have evolved, our approach to balance sheet management has also evolved. This is reflected in our shift to a floor system for implementing our monetary policy, which means we need to supply an amount of settlement balances that roughly matches the demand for them. And that demand is now estimated to be higher than where we thought it would be when I spoke about our QT process last year.
+
+Over the longer term, since the financial system will continue to evolve, demand for settlement balances can be expected to evolve too.
+
+Market participants can count on us to communicate our next steps clearly and ahead of time. And all Canadians can count on us to manage our balance sheet in a way that both lets us achieve our monetary policy mandate and promotes a stable and efficient financial system. Thank you.

@@ -1,0 +1,207 @@
+Remarks by Tiff Macklem Governor of the Bank of Canada Mississauga Board of Trade Oakville Chamber of Commerce February 21, 2025 Mississauga, Ontario
+
+## Tariffs, structural change and monetary policy
+
+## Introduction
+
+Good afternoon. It's a pleasure to be here. I want to thank the Mississauga Board of Trade and the Oakville Chamber of Commerce for inviting me.
+
+When I accepted this invitation, months ago, I intended to use this opportunity to launch the renewal process for our monetary policy framework. The framework sets out the goal for monetary policy-to maintain price stability over time. In simple terms, we aim for a 2% inflation target, so inflation remains within a range of 1% to 3% most of the time. We renew the framework, in agreement with the Government of Canada, every five years. This is a strength of our system. It gives us the opportunity to review performance and consider whether the framework remains the best one for the future.
+
+That was my speech topic until President Trump announced significant and broad-based tariffs on Canadian exports. While the new tariffs have not taken effect yet, the uncertainty around US trade policy is already affecting our economy. And if the United States starts a protracted trade conflict, the consequences could be severe. I know this is foremost on everyone's mind. That's why I've adjusted my remarks.
+
+President Trump wants to use tariffs as an instrument of US policy. What that means for the global economy and for the Canada-US trade relationship is highly uncertain. We don't know what tariffs will be imposed, when they'll start, how long they'll last-or even really to what end. We also don't know how Canada and other countries will respond. And even when we know more, it will be hard to predict the economic impacts because we haven't experienced such broadbased tariffs since the 1930s.
+
+What looks inescapable, however, is that a structural change is upon us. Increased trade friction with the United States is a new reality. While there are
+
+still more questions than answers, I will use my remarks to speak to some of the key questions:
+
+What could this structural change look like?
+
+How would a protracted trade conflict affect the Canadian economy in both the short run and the long run?
+
+What can monetary policy do and not do?
+
+What could Canada do-beyond the scope of monetary policy-to compensate for at least some of the consequences of increased trade friction with the United States?
+
+I'll then turn back to my original plan and launch the latest review of our monetary policy framework. The future looks different than the past, and it's critical we get going on this review.
+
+## The benefits of free trade between Canada and the United States
+
+Before I explain how trade friction will hurt our economy, let me explain how open trade has helped both Canada and the United States.
+
+After World War II, the allied nations created the Bretton Woods institutions and progressively reduced tariffs. They wanted to avoid the protectionism and instability of the Great Depression. And they believed that economic cooperation-including open trade-was the best way to maintain peace and build prosperity.
+
+In 1965, Canada and the United States signed the Canada-United States Automotive Products Agreement , better known as the Auto Pact. Open trade in the automotive sector allowed for economies of scale and specialization. Productivity went up and prices for motor vehicles went down in both countries. 1
+
+The success of the Auto Pact prompted more appetite for open trade. The Canada-US Free Trade Agreement , signed in 1988, broadened the economic gains considerably. Manufacturing productivity in Canada, for example, increased by about 14%. 2
+
+In 1994, the trade relationship expanded further to include Mexico with the North American Free Trade Agreement . And in 2020, this agreement was updated and renewed during the first Trump presidency. The durability of this trade agreement speaks to the benefits to all three countries.
+
+For roughly the past 60 years, our bilateral trade with the United States has increased. Today, about three-quarters of Canada's goods exports flow to the United States. Canada is the number one export destination for the United States-and the largest export destination partner for 32 of the 50 states. Canada's biggest export to the United States is energy. Canadian oil, natural gas, gasoline, and electricity literally fuel the US economy at a price no one else
+
+1 K. Charbonneau, D. de Munnik and L. Murphy, 'Canada's Experience with Trade Policy,' Bank of Canada Staff Discussion Paper No. 2018-1 (January 2018).
+
+2 A. Lileeva and D. Trefler, 'Improved Access to Foreign Markets Raises Plant-Level Productivity…For Some Plants,' Quarterly Journal of Economics 125, no. 3 (August 2010): 1051-1099.
+
+in the world can provide. And if we exclude our energy exports, the United States actually has a trade surplus with Canada ( Chart 1 ).
+
+Open trade between Canada and the United States has benefitted both countries, increasing efficiency, spurring investment, boosting productivity and raising standards of living. A significant increase in tariffs will kick all this into reverse.
+
+Chart 1: Excluding energy, Canada has had a trade deficit with the United States since 2007
+
+Canada-US
+
+trade balance
+
+in
+
+Can$
+
+billions, annual
+
+data
+
+Note: Canada-US trade balance excluding energy uses customs data for energy trade, while Canada-US trade balance uses balance of payments data.
+
+Sources: Statistics Canada via Haver and Bank of Canada calculations
+
+Analytics
+
+Last observation: 2023
+
+## What structural change looks like
+
+The economic consequences of a protracted trade conflict would be severe. But it would be a very different shock than the COVID-19 shock. In the pandemic, we had a steep recession followed by a rapid recovery as the economy reopened. This time, if tariffs are long-lasting and broad-based, there won't be a bounceback. We may eventually regain our current rate of growth, but the level of output would be permanently lower. It's more than a shock-it's a structural change.
+
+To get an estimate of how much lower production and incomes would be, you need an economic model. As described in our January Monetary Policy Report (MPR), we have combined a multi-sector, multi-country trade model with our main macroeconomic models of the Canadian economy to examine the impacts of a protracted trade conflict. 3 I do want to emphasize that models are imperfect at the best of times, and we need to be more cautious than usual because of the
+
+3 See Bank of Canada, 'In focus: Evaluating the potential impacts of US tariffs,' Monetary Policy Report (January 2025).
+
+lack of historical experience with big increases in tariffs. So please do not interpret these results as a forecast-but more as an illustration of the economic impacts.
+
+With that caveat, Chart 2 shows an estimate of the long-run effect of higher tariffs. The grey line shows the Bank's projection from our January MPR, which is our base-case projection without tariffs. 4 Economic output is climbing steadily. The blue line shows the impact of the anticipated tariffs based on the Executive Order signed by President Trump on February 1, plus retaliatory tariffs by Canada. That executive order calls for 25% tariffs on non-energy goods exports and 10% on energy exports to the United States. 5 Based on this scenario, economic output initially falls, then it steadies and begins to grow again, but on a path that is about 2½% lower.
+
+Chart 2: High tariffs permanently lower the path for output
+
+Sources: Statistics Canada and Bank of Canada calculations, estimates and projections Last data plotted: 2030Q1
+
+4 To be more precise, the grey line through 2026 is the MPR projection for gross domestic product. And this forecast has been extended assuming potential output growth of about 2% on average thereafter.
+
+5 This scenario reflects recent developments and updates the more severe scenario presented in the January MPR. The Executive Order signed by President Trump on February 1 imposes new tariffs of 25% on all the goods, excluding energy, that it imports from Canada; 10% on all the energy products from Canada; 25% on all the goods it imports from Mexico; and an additional 10% on all the goods it imports from China. In addition, we add the retaliatory 25% tariffs on Can$155 billion worth of US imports proposed by the Canadian government. Mexico is assumed to retaliate by imposing a 25% tariff on all goods it imports from the United States. China is expected to retaliate by imposing tariffs in the range of 10% to 15% on less than one-tenth of its imports from the United States. Because our model scenario is quarterly, the new tariffs begin in the second quarter.
+
+## How tariffs hurt economic activity and boost inflation in the short run
+
+Models can also help us understand the impact of tariffs in the short run. These effects are expressed relative to the projection we published in January.
+
+The first thing we would see is a marked decline in exports. As Canadian goods become more expensive, US demand for those goods would decline. A lower Canadian dollar would provide a partial offset. In our model with the scenario based on the February 1 Executive Order, exports fall by 8½% in the year after the tariffs take effect ( Chart 3 ). Canadian exporters respond by cutting production and laying off workers.
+
+Chart 3: Exports and business investment would fall sharply after tariffs are imposed
+
+Percentage change compared with the January projection, quarterly data
+
+Sources: Bank of Canada calculations, estimates and projections
+
+Last data plotted: 203001
+
+With exports to the United States accounting for roughly one-quarter of our national income, the shock would be felt across Canada.
+
+Lower export revenues would reduce household income. And retaliatory tariffs would raise the prices of many consumer goods. As a result, consumer spending on everything from cars to entertainment and housing would slow. In this scenario, consumption declines by more than 2% by mid-2027 ( Chart 4 ). 6
+
+6 In this scenario, governments are assumed to provide some additional support to households, transferring half the new tariff revenue to them.
+
+## Chart 4: Consumption and output weaken until mid-2027
+
+Percentage change compared with the January projection, quarterly data
+
+Sources: Bank of Canada calculations, estimates and projections
+
+Last data plotted: 203001
+
+With export and consumer demand weakening, Canadian businesses would also cut their investment spending. And higher costs and lower profit margins would restrain investment further. With retaliatory tariffs on some goods and a lower Canadian dollar, businesses will face higher import costs-Canadian businesses buy roughly half of their machinery and equipment from the United States. In addition, profit margins are squeezed because the higher costs associated with tariffs on imported consumer goods get passed on to prices in Canada gradually. Lower sales, higher costs and reduced profit margins all combine to pull down business investment substantially. All told, investment declines by almost 12% by early 2026, one year after tariffs are imposed ( Chart 3 ).
+
+What would this all mean for economic growth? In our January projection with no tariffs, we forecast growth of about 1.8% in both 2025 and 2026. But in the tariff scenario, the level of Canadian output falls almost 3% over two years. That implies tariffs would all but wipe out growth in the economy for those two years.
+
+Finally, a trade conflict would push up prices, even as demand weakens. Retaliatory tariffs on US exports to Canada feed into the consumer price index (CPI). Roughly 13% of Canada's CPI basket is made up of goods imported from the United States. The depreciation of the Canadian dollar also increases the cost of all imported goods and services. Finally, integrated supply chains mean tariffs can add costs at multiple stages of production.
+
+Chart 5: Total CPI inflation rises as upward pressure from tariffs outweighs the downward pressure from excess supply
+
+Percentage point difference in the year-over-year inflation rate compared with the January projection, quarterly data
+
+Sources: Bank of Canada calculations, estimates and projections
+
+Last data plotted: 203001
+
+In our tariff scenario, the factors pushing prices up more than offset the downward price pressure from weaker demand, so inflation rises ( Chart 5 ). In January, the Bank projected that inflation would remain close to the 2% target for the next two years. Tariffs would temporarily push inflation above 2%. 7
+
+## What monetary policy can and cannot do
+
+If the economy is on a lower path and there's upward pressure on inflation, what's the response from monetary policy and the Bank of Canada?
+
+What the Bank can do is help the economy adjust. With inflation now back around the 2% target, we are better positioned to contribute to economic stability. However, with a single instrument-our policy interest rate-we can't lean against weaker output and higher inflation at the same time. As we consider our monetary policy response, we will need to carefully assess the downward pressure on inflation from weakness in the economy and weigh that against the upward pressure on inflation from higher import prices and supply chain disruptions.
+
+Unlike the pandemic, if tariffs persist there will be no economic bounce-back. Long-lasting tariffs mean lower potential output because our economy works less
+
+7 As shown in the January MPR, the path for inflation is quite sensitive to how quickly businesses pass through higher costs to consumer prices. Based on historical experience, this baseline calibration assumes full pass-through over three years, which is why year-over-year inflation is higher for three to four years. As shown in the sensitivity analysis in the MPR, faster pass-through means inflation would rise by more but also come back down more quickly. The overall price level increase is similar in both cases.
+
+efficiently. Monetary policy cannot restore the lost supply. At most, it can smooth the decline in demand.
+
+The sharp fall in exports and investment when tariffs are imposed, combined with weaker consumption, means that initially demand would fall more than potential output, creating excess supply in the economy. Provided the inflationary impact of tariffs is not too big, monetary policy can help smooth the adjustment by supporting demand so it doesn't weaken too much more than supply. But how much support monetary policy can provide is constrained by the need to control inflation.
+
+The initial impact of tariffs is a one-time rise in the level of consumer prices. Monetary policy cannot change that. What monetary policy can-and must-do is ensure that higher prices do not become ongoing inflation. This means making sure that households and businesses continue to expect inflation to remain well anchored on the 2% target. Simply put, monetary policy needs to ensure the increase in inflation is temporary.
+
+## Strengthening Canada's economic union
+
+I hope-we all hope-Canada can continue open trade with the United States. A trusted open trade relationship benefits both countries. But if we are faced with a prolonged trade conflict, the only way to offset this negative structural change is with a positive structural change.
+
+Structural policies are appropriately the responsibility of elected governments and parliaments-not the Bank of Canada. So I will tread lightly here.
+
+The Bank has previously highlighted Canada's productivity challenge. 8 And it's good to see more focus by federal and provincial governments on structural reforms to increase productivity and investment by strengthening our economic union. 9
+
+Removing rules that restrict interprovincial trade and harmonizing or mutually recognizing provincial regulations could provide some offset to increased trade friction with the United States. 10 Provinces could also make it easier for workers to move within Canada by mutually recognizing different labour accreditations. There is also scope for all levels of government to reduce the timelines and uncertainty related to regulatory approvals. And better east-west transportation links would make trade within Canada less expensive-and help get Canadian products to overseas markets.
+
+8 See C. Rogers, 'Time to break the glass: Fixing Canada's productivity problem' (speech delivered to the Halifax Partnership, Halifax, Nova Scotia, March 26, 2024); and T. Macklem in 'The Standing Senate Committee on Banking, Commerce and the Economy - Evidence,' minutes of proceedings, Ottawa, Ontario (October 30, 2024).
+
+9 Intergovernmental Affairs Canada, 'Committee on Internal Trade discusses bold actions to enhance Canada's internal market,' news release (January 31, 2025).
+
+10 Estimates from the International Monetary Fund suggest liberalization of internal trade in goods in Canada could significantly increase GDP per capita. For more detail, see J. A. Alvarez, I. Krznar and T. Tombe, 'Internal Trade in Canada: Case for Liberalization,' IMF Working Paper No. 19/158 (July 22, 2019); and L. Albrecht and T. Tombe, 'Internal Trade, Productivity and Interconnected Industries: A Quantitative Analysis,' Canadian Journal of Economics 49 (1): 237-263 (February 2016).
+
+Again, it is not for the Bank of Canada to prescribe these policies or investments. But higher productivity means higher potential output and more capacity for growth without inflation. As Canada confronts the reality of increased trade friction with the United States, a concerted focus on productivity has rarely been more important.
+
+## Renewing our monetary policy framework
+
+In some ways, the US tariff threat is part of a broader global economic shift. The structural tailwinds of peace, globalization and demographics that helped keep inflation low are turning into headwinds-and the world looks increasingly shock prone. Higher long-term interest rates, elevated sovereign debt and slower economic growth have made the global economy more vulnerable. Compounding these vulnerabilities are war, rising trade protectionism and economic fragmentation. Canada also has a structural supply challenge in its housing market. For years, the supply of housing has not kept up with demand, and housing affordability has deteriorated.
+
+These shifts all have implications for inflation. They may put more upward pressure on prices, and a more shock-prone world means more volatility in inflation. And that brings me to my original topic: the Bank's flexible inflationtargeting framework.
+
+Since 1995, the 2% target has been jointly agreed with the Government of Canada. This gives it political legitimacy and gives the Bank the operational independence to conduct monetary policy.
+
+For 25 years leading up to the pandemic, inflation was low and stable. But the pandemic tested the framework like never before. We faced huge shocks to both demand and supply, a deep recession and a rapid rebound. As the economy reopened, inflation rose sharply, hitting 8%. Guided by the framework, the Bank raised the policy rate forcefully to bring inflation down. Since last summer, inflation has been close to 2%, and we've cut our policy rate to keep it there. In short, the framework was tested-and it proved resilient.
+
+The measure of the framework's success is not only whether inflation is close to 2%. It's also how the framework performs in the face of shocks, especially big ones.
+
+The next renewal of the framework is set for 2026, and the review begins now. Our focus in this review will be how we can improve the framework and its implementation to best address structural changes. We will consider several questions.
+
+With more supply shocks, do we need a richer playbook for monetary policy? The usual response to supply shocks is to look through their temporary impact on inflation. But we saw in the pandemic that supply shocks can be persistent, and they can accumulate. The best response will depend on the situation.
+
+In a world with more volatility, how should we measure underlying inflation? No single measure of core inflation works for all circumstances. What measures are most robust in a shock-prone world? Should we focus on two or three preferred measures, or is a broader approach better?
+
+We also want to consider the interaction of monetary policy and housing. Housing affordability is a major concern for Canadians, and rising housing costs feed inflation. But monetary policy cannot directly increase housing supplythat's an issue for elected governments at all levels. Still, we must consider how monetary policy affects housing demand and supply and how the imbalance between them feeds into inflation in shelter prices.
+
+The question of housing market imbalances also matters for the measurement of underlying inflation. Does persistently high inflation in shelter prices distort our measures of core inflation?
+
+Finally, each time we've reviewed our framework we've asked about the inflation target itself. In our five reviews since 1995, we've considered whether 2% is the right target and we've weighed alternatives, including price-level targeting and nominal GDP targeting, among others. Each time, we've concluded that 2% inflation is the right target. Canadians have told us they don't want higher inflation. They have also told us that the 2% target is well known and well understood. That has helped anchor inflation expectations through thick and thin, including through the pandemic crisis. With trade conflict on our doorstep, we need to focus our resources on the most pressing and important issues for our framework review. In my view, now is not the time to question the anchor that has proven so effective in achieving price stability.
+
+## Conclusion
+
+We have covered a lot of ground, and it's time for me to conclude.
+
+Canada's economy is on a better footing. Inflation has returned to target, interest rates have come down substantially, and household spending has strengthened. But a new crisis is on the horizon. If US tariffs play out as threatened, the economic impact would be severe. A protracted trade conflict would sharply reduce exports and investment. It will cost jobs and boost inflation in the next few years and lower our standard of living in the long run. The uncertainty alone is already causing harm.
+
+Central banks can do little to mitigate the damage caused by a trade war. Our role will be to balance the upside risks to inflation from higher costs with the downside risks from weaker demand. Our focus will be to help smooth the painful adjustment to a lower path for the economy while preventing price increases from becoming higher ongoing inflation.
+
+The inflation-targeting framework has proven both flexible and durable. Its review every five years is an opportunity to reflect on what's working well and what could be improved. The framework proved itself time and again, and the bar for change is high.
+
+But the world economy is shifting. At the Bank of Canada, we are committed to ensuring we are as prepared as possible for the changes to come.
+
+Thank you.

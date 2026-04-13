@@ -1,0 +1,147 @@
+Remarks by Tiff Macklem Governor of the Bank of Canada Montreal Council on Foreign Relations February 6, 2024 Montreal, Quebec
+
+## Monetary policy: The right tool for the right job
+
+## Introduction
+
+Good afternoon. It's a great pleasure to be home and speaking before the Montreal Council on Foreign Relations. At first glance, my topic—monetary policy—may not seem suitably global. But central banks have been leading the global battle against inflation since the pandemic. And our shared resolve to restore price stability is being rewarded.
+
+Inflation has come down around the world. It has not been easy, and, in most countries, inflation is still too high. But inflation targets are now in sight, and the year ahead should bring further progress.
+
+In Canada, inflation peaked just above 8% in 2022—the highest inflation in a generation. By the end of 2023, it had declined to about 372%. That is welcome progress in response to a forceful tightening of monetary policy. The Bank raised its policy interest rate 10 times in 17 months. That slowed demand, rebalanced the economy and is bringing inflation down. Monetary policy is working.
+
+That's what | want to talk about today. Monetary policy works to control inflation—not perfectly, not quickly, and not without pain. But it works. History, including recent history, has shown us that. But history has also taught us that monetary policy cannot do everything. There are many economic forces—some good, some harmful—that affect inflation. Central bankers need to understand these forces. But we cannot address most of them directly. So | also want to discuss the limitations of monetary policy. Finally, I'll say a few words on our monetary policy decision two weeks ago, and what we are looking for going forward.
+
+## What monetary policy does well
+
+The last few years have caused some people to question monetary policy. That's not surprising. At the start of the pandemic, Canada experienced the deepest | would like to thank Erik Ens and Eric Santor for their help in preparing this speech.
+
+recession on record and inflation fell sharply. And when the economy reopened, we had the fastest recovery ever. Demand soared, supply couldn't keep up, and inflation rose very quickly. But even amid the huge swings in the economy, monetary policy has shown it has the power to control inflation over the medium term.
+
+Early in my career at the Bank—long before | even imagined being Governor— Canada became the second country to announce an inflation target. It was 1991, and there was skepticism that the Bank could get inflation down to the target and keep it there. But we did.
+
+Inflation targeting has been a success (Chart 1). The rate of inflation averaged very close to 2% over the 25 years prior to the pandemic, and inflation and economic activity were much more stable.
+
+## Chart 1: The success of monetary policy since inflation targeting
+
+12-month rate of increase, monthly data
+
+Last observation: December 2023
+
+But that success didn't come easily. Canada weathered a series of global shocks over the past few decades, and a quick tour through some of the highs and lows is instructive. Monetary policy doesn't always get it exactly right in the moment, but it's very effective in controlling inflation over the medium term.
+
+## Dot-com bubble and 9/11
+
+Let's begin with a look back to the start of the new millennium (Chart 2).
+
+Chart 2: Bank of Canada policy rate history
+
+Last observation: Febuary 2nd 2024
+
+In the late 1990s, stock market values soared on the potential of the internet and high tech. When the dot-com bubble burst in the summer of 2000, the TSE lost a third of its value, and the Nasdaq lost two-thirds. Fears of another 1929 stock market crash took hold and many braced for a recession. The Bank of Canada and the US Federal Reserve cut their policy rates. Our policy rate went from 6% to 4%4% in the summer of 2001. The terrorist attacks on September 11, 2001 drove fears of recession higher still. By the start of 2002, the Bank had cut its policy rate to 24%, and the Fed had cut to 1% in June 2003.
+
+It worked. Canada avoided a recession, and the US recession was short lived. Inflation in Canada, which fell quickly from about 4% in May 2001 to around 0.5% later that year, bounced back.
+
+## Global financial crisis
+
+With the economic recovery, interest rates rose—but not to where they had been. The combination of strong global growth, low inflation and low interest rates helped feed a US housing boom and rising financial risks. In March 2008, Bear Stearns was rescued, and in September 2008, Lehman Brothers failed, sparking a full-blown global financial crisis. Central banks responded with extraordinary liquidity, interest rate cuts and forward guidance. The Fed took the extra step of large-scale asset purchases, or quantitative easing.
+
+The crisis sparked a harsh recession in the United States which pulled the Canadian economy down with it. It was a severe crisis, but by the second half of 2009, the economic recovery was underway. Central banks were seen to have saved the day. Still, the hangover persisted for years. Inflation in Canada
+
+remained below the 2% target through much of 2012 to 2014, and longer in the United States.
+
+## Oil price shock
+
+In 2014, Canada was hit with another setback—the oil price shock. Between 2014 and 2016, global oil prices fell from around US$115 a barrel to just under US$30 a barrel. Oil was our biggest export and suddenly it was worth a lot less, bringing much less income into the country and cancelling a lot of business investment. The effects were also uneven—oil-producing regions struggled.
+
+The Bank responded by cutting our policy rate to half a percentage point in 2015 as the economy entered recession. This helped speed the recovery and contained the fall in inflation—it returned to the 2% target sustainably by 2018.
+
+## Lessons learned
+
+This quick tour through recent crises holds a few lessons. Getting monetary policy right is not easy, and we won't get it right at every point in time. After 9/11, central banks were too slow to withdraw stimulus. After the global financial crisis, stimulus was withdrawn too fast. But even when the timing was not perfect, the policy decisions proved effective, harnessing the power of monetary policy to control inflation.
+
+## The COVID-19 pandemic
+
+Of course, the pandemic is the biggest shock so far. Entire sectors of the economy shut down overnight, millions of jobs were lost, and there were fears of deflation—a generalized and sustained decline in prices. Uncertainty about the future was incredibly high. But we'd learned some lessons from the global financial crisis. In times of severe stress, monetary policy must be quick and decisive. We cut the policy rate to near zero, launched our first-ever quantitative easing program, and once again provided exceptional forward guidance. Separately, governments at all levels were rolling out extraordinary fiscal stimulus. The stakes were enormous, and the combined actions worked. We got the economy and Canadians back to work and avoided deflation.
+
+With hindsight, we probably could have begun withdrawing stimulus sooner. But that wouldn't have avoided much of the post-pandemic inflation. When the economy reopened, people wanted to catch up on what they'd missed, but supply could not keep up. This put immediate upward pressure on prices. Once it became clear inflation was not going away, we responded forcefully, raising our policy rate in large steps for almost a year and a half.
+
+The pandemic experience is different than the previous shocks—monetary policy had to respond first to the threat of deflation, and then to rapidly rising inflation once the economy reopened. Our mandate is symmetrical—we are just as concerned about inflation that is too low as we are about inflation that is too high. The policy interest rate is our primary instrument to control inflation. Lowering rates is a lot more popular than raising them but returning inflation to our 2% target is always the goal, because that's the level at which the economy works best.
+
+## What monetary policy doesn't do well
+
+In good economic times and bad, Canadians expect the Bank of Canada to control inflation. But over the course of history, people have also looked to central banks to fix other problems, like housing and inequality. These issues are important for Canadians, and they also affect the overall economy and inflation. And for this reason, the Bank of Canada needs to understand them. But that's not the same as setting policy to address them. So I'd like to discuss some of the things monetary policy can't do—where we have limited tools and little scope for success.
+
+Full disclosure: every governor gives a speech about what monetary policy can and cannot do. Five years ago my predecessor Stephen Poloz talked about the power and limitations of monetary policy, focusing on the difficulty of ensuring financial stability when your main job is price stability.! Ten years ago, another of my colleagues, Mark Carney, observed: "central banks are being simultaneously accused of being ineffective and too powerful."2 And early in the new millennium, David Dodge discussed the appropriate division and effectiveness of monetary and fiscal policies.*
+
+Each of us inevitably talks about monetary policy as a blunt instrument. It cannot target specific groups or sectors. We cannot raise the policy rate in Quebec but lower it in the Maritimes. We cannot raise returns for savers but lower the cost of capital for companies that want to invest.* But while the bluntness of monetary policy is a limitation, it's also an advantage. Because interest rates affect everyone in every nook and cranny of the economy, they inevitably influence demand and inflation. By adjusting only one interest rate in the entire system, we set in motion an effective chain reaction that controls inflation—not immediately, but ultimately.
+
+There are three areas where | want to stress the limitations of monetary policy: hitting the inflation target every month, addressing housing affordability, and fostering long-run economic growth.
+
+## Hitting 2% inflation every month
+
+Sometimes, the economy experiences what we call "relative price shocks." These are fluctuations in specific prices, often for energy and food, because of things like geopolitical events, droughts and transportation disruptions. As long as these relative price shocks don't broaden into more generalized price changes, they have a temporary—or dare | say transitory—effect on inflation. Monetary policy works with a lag of more than a year, so by the time any change
+
+1 See S. Poloz, "Toward 2021: The Power—and Limitations—of Policy" (speech to The Chamber of Commerce of Metropolitan Montreal, Montreal, February 21, 2019).
+
+2 See M. Carney, "Monetary Policy After the Fall" (Eric J. Hanson Memorial Lecture, University of Alberta, Edmonton, May 1, 2013).
+
+3 See D. Dodge, "The Interaction Between Monetary and Fiscal Policies" (lecture to the School of Policy Studies Queen's University, Kingston, Ontario, April 26, 2002).
+
+4 Fiscal policy can be used on a more targeted basis, and this is appropriately the responsibility of elected governments.
+
+in policy affects inflation, the relative price shock that caused concern has typically run its course. Central banks can't prevent short-run fluctuations in inflation caused by relative price shocks, and we typically look through them, since reacting would add even more volatility.
+
+Recognizing that there will be temporary fluctuations, we aim for the centre of our 1% to 3% band, so inflation is in the band most of the time.
+
+## Addressing housing affordability
+
+Housing affordability is a significant problem in Canada—but not one that can be fixed by raising or lowering interest rates. Housing supply has fallen short of housing demand for many years. There are many reasons why—zoning restrictions, delays and uncertainties in the approval processes, and shortages of skilled workers.® of these are things monetary policy can address.
+
+But wait, you say. Monetary policy has big effects on the housing sector. It does. Because most people need a mortgage to buy a house, changes in the policy rate affect demand for housing very quickly. But the effects of monetary policy on the supply of housing are much more limited.
+
+Consider how shelter costs changed through the pandemic. When the Bank of Canada lowered the policy rate in 2020, the combination of low mortgage rates and a desire for more living space increased the demand for housing a lot. Supply increased far less, and housing prices rose more than 50% in two years. This hurt housing affordability. When the Bank of Canada raised its policy rate to fight inflation, that dampened housing demand. But higher interest rates increased the cost of borrowing, eroding housing affordability in a different way. Some of the run-up in housing prices would normally be expected to have reversed by now. But years of supply shortages and the recent increase in newcomers means house prices have declined only modestly.
+
+So yes, monetary policy has a big effect on housing because real estate is an interest-sensitive sector. Monetary policy can particularly affect demand in the short run. But it can't address long-running structural problems on the supply side, which are fundamental to affordability.
+
+## Fostering economic growth
+
+The economy works better when inflation is low, stable and predictable. There's more competition and less volatility. Monetary policy can dampen fluctuations in activity, helping to slow the economy when it's overheating and boost it when it's weakening. But monetary policy can only boost economic growth in the short run. Long-run growth comes from two sources: population growth and productivity growth. Neither are significantly affected by interest rates.
+
+For 25 years, Canada has been very good at growing its economy by adding workers. More Canadian-born workers have joined the labour force, particularly women. And Canada has both attracted newcomers and integrated them into the
+
+5 See T. Gravelle, "Economic progress report: Immigration, housing and the outlook for inflation" (speech to the Windsor-Essex Regional Chamber of Commerce, Windsor, Ontario, December 7, 2023).
+
+job market relatively quickly. But productivity growth, by which | mean more output for the same amount of work, has disappointed. This is a problem because higher productivity pays for higher wages and underpins a rising standard of living.
+
+Canada's productivity performance is a big topic—for another speech. Canada has many advantages. A well-educated labour force, abundant natural resources, and strong university-led research in new technologies. But how this translates into productivity growth will depend on the policy choices of elected governments and the investment decisions of businesses.
+
+At the Bank of Canada, we factor all this into our assessment of how fast the economy can grow without causing inflation. Monetary policy does not affect growth beyond the short run. What it does determine is inflation.
+
+## Current monetary policy
+
+Let me close with a few comments on current monetary policy.
+
+Two weeks ago we decided to hold our policy rate at 5%, which is the level we think is needed to take the remaining steam out of inflation. What will be needed from monetary policy going forward will depend on the evolution of growth and inflation, so let me give you a sense of our outlook.
+
+Economic growth stalled in the middle of 2023, and growth is expected to remain weak in the near term before picking up in the middle of this year. Past interest rate increases have allowed supply to catch up with demand in the economy, and this should help inflation ease further. We can see monetary policy is working to bring down inflation in durable and non-durable goods prices, and in inflation in services excluding shelter. And we need to give monetary policy more time to ease the remaining price pressures in these goods and services.
+
+Shelter price inflation, however, has been elevated for several years and increased further in the past six months. It is now the biggest contributor to above-target inflation. This partly reflects the impact of increases in our policy rate on mortgage interest costs. But high shelter cost inflation also reflects increases in rents and other housing costs, which are more related to the structural shortage of housing that | mentioned earlier. That is not something monetary policy can fix. But it is something we need to understand and factor into monetary policy because it is affecting the cost of living for Canadians.
+
+We are also seeing some volatility in global oil and transportation costs related to wars in Europe and the Middle East and attacks of ships in the Red Sea. Needless to say, monetary policy has no control over these global events, but they could add volatility to inflation in Canada. If this happens, our monetary policy focus will be on whether increases in energy or transportation costs are feeding through more broadly to inflation in other goods and services.
+
+Putting this all together, the resulting push and pull on inflation means the path back to 2% inflation is likely to be slow and risks remain. Our forecast has inflation staying close to 3% through the first half of this year before declining to around 272% by year-end, and to the 2% target in 2025.
+
+Our decision to hold our policy rate at 5% reflected Governing Council's view that more time is needed to let monetary policy do its work to relieve underlying price pressures. With continued evidence that monetary policy is working, Governing Council's discussion about future policy is shifting from whether monetary policy is restrictive enough to how long to maintain the current restrictive stance. We want to see inflationary pressures continue to ease and clear downward momentum in underlying inflation.
+
+## Conclusion
+
+It's time for me to conclude. | hope this tour through history, including recent history, has convinced you that monetary policy is neither all-powerful nor ineffective.
+
+Independent central banks with price stability mandates and a medium-term time frame have proven very capable of controlling inflation. And low stable inflation— price stability—is fundamental for shared prosperity.
+
+But monetary policy can't do everything. We need to avoid the temptation to overload monetary policy by expecting more of it than it can deliver. The right focus for monetary policy is on what it can do. It's already a big, difficult and important job.
+
+Continued success using monetary policy to control inflation will require ongoing hard work and careful analysis. It will also require continuous learning, innovation and adaptation. You should expect nothing less from the Bank of Canada.
+
+Thank you.

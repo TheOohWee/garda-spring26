@@ -1,0 +1,121 @@
+I took over as the Bank’s Deputy Governor for Financial Stability just under a year ago. Today I’ll step back to offer some remarks on how we think about financial stability and some of the challenges we are considering in the current juncture. An accompanying article in the Bank’s Quarterly Bulletin provides an overview of the full range of work that the Bank does to further its financial stability objective.
+
+To preview the most important points, I hope to convince you of the following:
+
+The Bank supports financial stability in a range of ways, in close coordination with other authorities.footnote [1] Microprudential regulators, such as the Prudential Regulation Authority and the Financial Conduct Authority, ensure that individual institutions or markets are resilient. The Financial Policy Committee (FPC) addresses risks to the system as a whole. You can’t have macroprudential policy without the micro, but micro alone isn’t enough. Indeed, systemic thinking can lead you to different answers.
+Our approach to financial stability must always have system-wide dynamics in mind, not just the individual entities in the system. But systemic thinking is only a means to an end: the end is service provision, with the system reliably providing the vital services to households and businesses, such as payments, loans and insurance, that matter to the economy as a whole.
+The best contribution we can make to sustainable economic growth is to ensure that the system provides vital services even as shocks occur. In doing so, we must avoid the stability of the graveyard. And while there are clearly limits to the contribution financial regulation can make to growth, in some cases, for some services, it may be possible to make small adjustments that increase growth potential without undermining financial stability.
+
+What is financial stability?
+
+I’ll begin my remarks by setting out in simple terms what we're trying to achieve. The Bank of England’s statutory objectives are price stability and financial stability.footnote [2] Price stability is well understood, and it is even specified in the form of a quantitative target by the Government. But financial stability is harder to pin down – it is most commonly understood as the absence of instability. Indeed, its precise definition has been the subject of much debate in policy and academic circles over the years.
+
+So how do we define financial stability at the Bank? Financial stability means the financial system provides vital services to households and businesses reliably in all states of the world, even when shocks hit.footnote [3] By shocks, we mean both structural – or longer-lasting – changes like climate events or cyber threats, and cyclical shocks like severe recessions. The Annex sets out a framework for thinking about what we’re trying to achieve.
+
+To maintain financial stability, we have to mitigate externalities, where market participants don’t consider the impact of their actions on other participants. For example, a lender might have an incentive to lend more because their lending is secured by an asset, not considering that the borrower might have to quickly sell other assets to meet repayments if a shock hits, reducing the prices of assets held by others. Externalities can lead to fire sales, runs on financial institutions, and a worsening of economic shocks.footnote [4]
+
+Of course, one way to bring about financial stability would be to try to build so much resilience in the system that, as a byproduct, very little activity occurs. A previous Chancellor called that outcome the ‘stability of the graveyard’. That wouldn’t be optimal because it would directly limit the provision of services and damage the economy even in the absence of shocks. And so accountability for our actions and considering their costs as well as their benefits are important parts of the statutory regime.
+
+At the same time, it’s not our job to ensure all services are provided to all at all times. Most of our work aims to limit the negative consequences of disruptions in the provision of vital services in bad times, rather than expand provision in good times – so that the system absorbs rather than amplifies the inevitable shocks we face. For example, by limiting the build-up of total household debt in the mortgage market, we make sure people are well placed to meet their repayments and access further borrowing if needed when recessions hit. That said, and as I’ll come on to, for some services we might be able to use regulation to increase service provision in a way that increases growth potential without undermining financial stability, consistent with our secondary objective to support the Government’s economic policy.
+
+We don’t want to insure against every possible eventuality. Instead, we want to ensure resilience to severe but plausible shocks. That implies that a degree of vulnerability remains, and some disruptions can still occur. Therefore, we also have to stand ready to intervene quickly and effectively when disruptions do occur, to limit their impact on financial stability now and in the future.footnote [5] The Annex details some examples of financial instability in the past and the action we’ve taken in response.
+Which services do we care about?
+
+So which services are relevant to financial stability? Our focus is on services that are relied upon by households and businesses and have a material role in supporting the economy.footnote [6]
+
+That means we care about the vital funding, saving, insurance and payment services that support households and businesses and so economic activity. We want to make sure households and businesses can make transactions and manage and take risks. For example, payments, credit card, mortgage and insurance services for households, and corporate financing activity across a range of forms – bank lending, commercial paper, the bond market, leveraged lending, private debt, private equity and venture capital – have an important role in supporting the real economy. It is also important to facilitate the financing of the Government.
+
+We also care about the financial markets and activities that support the provision of those services to end users, in an intermediate way. For example, the gilt market – and the associated repo marketfootnote [7] – underpins a wide set of other transactions, through its role in pricing risk-free assets and in helping liquidity to flow around the system. That ultimately supports the provision of services that households and businesses use to borrow, save, invest, pay for things and insure themselves against shocks.footnote [8]
+
+Macroprudential policy has to stay focused on systemic risk
+
+The Financial Policy Committee (FPC) is the macroprudential authority for the UK. The FPC’s job is to identify, monitor and take action to remove or reduce risks to the resilience of the financial system as a whole, thereby helping the Bank to maintain financial stability. Whilst the FPC is an important focal point, the Bank’s work on financial stability goes much wider than the FPC (see figure 2).footnote [10] And indeed other authorities, such as the Financial Conduct Authority (FCA) and The Pensions Regulator (TPR) which regulate many non-banks and markets, and HM Treasury which sets the regulatory perimeter, have important roles to play.
+
+Macroprudential authorities need to understand what the activity of firms means for the markets they operate in, for the wider financial system, and ultimately for the provision of vital services to the real economy. We need to be deliberate in prioritizing the risks we should worry about. We have to stay focused on risks that could threaten the system as a whole, which is why we need a system-wide macro focus that ensures interactions, interconnections and the availability of alternative service providers are taken into account.
+
+Ensuring that individual institutions are resilient – which is the job of the microprudential regulators – is necessary but not sufficient for financial stability. You can’t have macroprudential policy without the micro, but micro alone isn’t enough. And in some cases, systemic thinking can lead you to different policy answers than what you’d get from a purely microprudential perspective.
+
+There are several reasons for this.
+
+First, the financial firms themselves, and their microprudential supervisors, will understandably have a more focused perspective, centred on the part of the system they engage in and their own objectives.footnote [11] They will not primarily think about how the services they provide could be provided by other parts of the financial system, nor how their actions impact other participants in the system.footnote [12]
+
+Second, individual resilience alone cannot ensure that the collective actions of financial firms in stress do not lead to outcomes that pose risks to financial stability. Indeed, firms might take actions to ensure their own stability but these might have knock on consequences for the system as a whole.
+
+Third, in some cases, higher resilience for individual institutions might lead to new or different systemic risks, if risk is moved to parts of the system that are less able or equipped to manage it. You could call that ‘Whac-A-Mole’ risk.
+
+One example of this phenomenon is the move towards greater collateralisation in the financial system since the global financial crisis.footnote [13] In its most basic form, collateralisation is the use of an asset (the collateral) to secure a loan. This limits counterparty credit risk and makes the financial system safer. However, during a stress, collateral requirements can rise sharply. This can lead to sudden rises in liquidity demand, as counterparties need to find cash or high-quality assets at short notice. And this can result in fire sales of other assets when liquidity needs are sudden or unexpected and liquidity management is inadequate. In many cases an exogenous shock will act as a trigger that kicks off this process. During the 2022 LDI crisis that trigger was the announcement of changes to UK fiscal policy.footnote [14]
+We have to continue to improve our understanding of the dynamics of the financial system
+
+To focus our financial stability policy work we need to understand how different sources of risk could ripple through the financial system and quantify their potential impact on the vital services that the system provides, particularly for those common risksfootnote [15] that can affect the system as a whole and not just a corner of it.
+
+This requires us to:
+
+Work out how systemic a risk is or could be: what is its potential impact on the system’s overall provision of vital services.
+Consider the effect of shocks in a system-wide manner: how might risks be correlated with or cascade to other parts of the system.
+Be deliberate in our prioritisation of the risks to focus on: which matter most for vital services.
+Think about the effect of policies in a system-wide way: so that actions to reduce one systemic risk don’t inadvertently create others.
+
+To answer these questions, we need to be able to understand and model the financial system, and not just its component parts. The academic literature in this area has made great advances in recent years, both theoretically and empirically.footnote [16] The latter has been supported by the increased availability and better usage of micro-financial data that cover key markets for bonds, repo and derivatives. The key challenge is to model accurately the dynamic behaviour and interactions of firms from different sectors – a highly complex endeavour.
+So, how are we applying systemic thinking in practice?
+
+The System-Wide Exploratory Scenario (SWES) – where we have been working closely with the Financial Conduct Authority and the Pensions Regulator over the past year – is a novel exercise that illustrates the benefits of system-wide scenario analysis.footnote [17]
+
+For a long time, central bankers and academics have spoken about the importance of understanding feedback and interconnections in assessing financial stability risks. But we have struggled to run exercises that quantitatively explore these dynamics at a system-wide level in advance of a shock occurring. The SWES is our first attempt to do just that.
+
+The SWES focuses on markets that are core to UK financial stability - markets for government and corporate bonds, repo markets for these assets and associated derivatives markets, such as interest rate, cross-currency and inflation swaps. Participants have been asked to consider how they would behave in a hypothetical market shock with price moves that are faster, wider ranging and more persistent than observed both in the March 2020 ‘dash for cash’ and the 2022 LDI crisis. And we are analysing how those behaviours interact and cascade across markets to better understand the system-wide impact of such a shock. Indeed, it is system-wide analysis like this that helps firms to understand their dependencies on others’ actions – and so whether their approach to risk management in theory will withstand stress in practice.
+
+All of these markets ultimately support the provision of services to households and businesses. The gilt market – and the associated repo market – underpins a wide set of other transactions, through its role in pricing risk free assets and in allowing liquidity to flow around the system. Derivatives markets allow participants to hedge against the risks they face. And corporate bond markets directly provide a source of corporate financing.
+
+The system wide thinking in the SWES is thus helping us to understand systemic risk as a means to an end – where the end is supporting reliable service provision.footnote [18]
+What happens to our systemic thinking after the SWES?
+
+We are on course to deliver the final report on the SWES in November this year. But how might we take this work forward as part of our overall approach to macroprudential policy and systemic risk assessment?
+
+The SWES has illustrated the value of system-wide exercises.footnote [19] And given the investment we have made into the first exercise, we think we could get much of the benefit of a further one through a leaner, more data-driven approach. Importantly, the SWES is now a proven addition to our toolkit for exploring risks where interconnections, feedback or data constraints are important. We could for example use this sort of exercise to explore risks to corporate financing, where a range of market participants, including both banks and non-banks – with complex interconnections and interdependencies across the two – are involved in providing services to businesses.footnote [20]
+
+Many of the benefits from the SWES have come from the constructive engagement of participants. We have learned as much from discussions with firms about investment approaches and risk management as we have through data based work. And we will engage firms in our deliberations about what comes next, continuing the active dialogue about system-level risks.
+
+But whilst scenario exercises are an important part of our work, our systemic thinking must extend beyond them, into our wider policy and risk assessment work.footnote [21]
+
+The normalisation of central bank balance sheets, for example, will affect bank funding and liquidity conditions in the UK banking sector in coming years. In that context, my colleagues have spoken recently about the critical role that central bank reserves play in the financial system to meet our objectives for price stability and financial stability, and the related thinking around how to structure our steady state balance sheet facilities.footnote [22] A microprudential approach to that question might lead you to conclude that reserves should be abundant, to help banks to manage their liquidity risk. But a systemic approach would place more weight on the importance of providing incentives to manage liquidity well – endogenously reducing liquidity risk taking by banks – and making sure that liquidity flows freely around the financial system, including to non-banks, so that the system is more resilient in stress.
+
+Operational resilience is another example of an area of our work where systemic thinking is important.footnote [23] When individual financial firms are operationally resilient it helps them to provide vital services to households and businesses. However, sometimes this is not enough to prevent operational disruptions having an impact on the financial system as a whole, for example, because firm-level disruptions can lead to a widespread loss of confidence in the system or because firms are exposed to common vulnerabilities. A systemic approach ensures that financial firms consider how their operational weaknesses affect the stability of the system more widely, not just their businesses.
+How does the FPC decide where and when it should take action?
+
+Given the wide range of potential vulnerabilities in the system and the large policy toolkit potentially available to the FPC, it has to be deliberate about where, when and how it takes action, including through working in concert with other regulators given the vital role they play in ensuring the resilience of individual institutions.footnote [24]
+
+First, the FPC has to take action where microprudential regulation has not adequately addressed systemic risks.
+
+In most instances, building the resilience of individual firms – which is the role of microprudential policy – will build the resilience of the system. But in some instances, macroprudential policy has to build more resilience than microprudential policy otherwise might – as occurred with LDI funds given the correlated, concentrated nature of their positions.footnote [25] In other instances, macroprudential policy has to intervene to lean against defensive actions to build individual resilience that would weaken the system as a whole. For example, the FPC can release the UK countercyclical capital buffer in downturns that would otherwise lead to unwarranted reductions in lending.
+
+Second, the FPC must remain focused on the biggest risks to the provision of services.
+
+Stress testing is an established way of sizing risks. The Bank is evolving its stress testing framework in a number of ways. I’ve already mentioned the SWES and the future work that may allow us better to take into account systemic risk arising from amplification and feedback channels and interconnectedness. We are also taking stock of our framework for concurrent bank stress testing – to embed the adaptability it has shown in recent years and allow us to make best use of it to reflect the risk environment. Importantly, too, where banks went first others have now followed: as well as the concurrent stress tests of the banking system, we now conduct stress tests of the insurance and CCP sectors.
+
+Third, the FPC has continually to adapt to the changing shape of the financial system.
+
+In the early years of the FPC almost all of its policy recommendations focused on banks.footnote [26] Since then, reflecting the increase in bank resilience and the structural shift in activity towards non-banks, the FPC’s recommendations have shifted away from banks – notwithstanding the greater difficulties in identifying risks in a more complex ecosystem and in tackling vulnerabilities in a global market.
+
+Fourth, macroprudential authorities should be pragmatic and creative about where they can make a difference.
+
+In some cases, the most effective way to change behaviour is by communicating privately or publicly with market participants. At the same time, the FPC must be deliberate and targeted in its public communications, focusing its public statements when it needs to get a particular message to market participants or the public, for example to encourage behaviour changes.footnote [27] For example, the FPC’s Brexit checklist encouraged others to take action to reduce the risks associated with the UK’s departure from the European Union.footnote [28]
+
+Fifth, we invest time in engaging with international authorities, because shocks and financial markets are global. As an international financial centre and small open economy, the UK is particularly exposed to global shocks. That underlines the importance of pursuing strong international standards to support UK financial stability. We also have learned that whilst global actions are sometimes needed, they need not hold up domestic action where it can be effective.
+
+In many areas the cross-border nature of finance means that the most effective way to take action is in coordination with our global partners, through bodies like the Basel Committee or Financial Stability Board. But in some cases, we can take effective action to build resilience domestically or in coordination with smaller groups of jurisdictions, as we did for LDI funds recently.footnote [29]
+How can the financial system contribute to growth?
+
+As financial stability policymakers, the best contribution we can make to sustainable economic growth is to ensure the system has enough resilience reliably to provide vital services even as shocks hit. That is recognised by the FPC’s primary objective. The FPC also has a secondary objective, which should be pursued ‘subject to’ its primary objective, to support the economic policy of the Government, including its objectives for growth and employment.footnote [30] It is incumbent upon us therefore to remain open to the possibility that in some areas we might be able to increase the ability of the system to contribute to sustainable economic growth without undermining financial stability.footnote [31]
+
+To take one example, there has recently been some debate around whether the pensions sector can play a greater role in supporting growth in the wider UK economy. The Government recently launched a review Opens in a new window and is gathering evidence from interested parties. Previous Bank work Opens in a new window explored whether arrangements in the pension sector had struck an optimal balance between pensioner protection, economic growth and financial stability. More recent work has looked at how the sector could facilitate greater investment in longer-term less liquid assets. There may be ways to increase the sector’s contribution to economic growth without impacts on the resilience of service provision or financial stability.
+
+Other specific aspects of the provision of financial services might have a particular impact on growth that we might want to consider as we go about our work. For example, the financial system’s provision of services to small and medium enterprises (SMEs)footnote [32], innovations in the money and payments landscapefootnote [33] and how the financial system supports the transition to a lower emissions economy.footnote [34] Much more evidence is required before we can draw firm conclusions, but policymakers should take seriously any opportunities to increase the system’s contribution to growth if it can be done in a way that doesn’t undermine financial stability.
+Conclusion
+
+I’ll finish by summing up what I’ve said today.
+
+First, financial stability authorities must stay focused on risks that could threaten the system as a whole. Microprudential work is necessary but not sufficient for financial stability – systemic thinking can lead you to different answers to important policy questions.
+
+Second, the Bank must make sure our work on financial stability always has the provision of vital services in mind because that is ultimately what matters to households and businesses. Systemic thinking is only a means to an end – the end is service provision. Financial stability must always be ‘at your service’.
+
+Third, the best contribution we can make to sustainable economic growth is to ensure that the system reliably provides vital services even as shocks occur. There are also clearly limits to the contribution financial regulation can make to growth. But in some cases, for some services, it may be possible to make small adjustments to increase growth potential without undermining financial stability.

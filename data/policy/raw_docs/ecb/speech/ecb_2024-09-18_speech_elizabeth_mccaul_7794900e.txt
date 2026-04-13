@@ -1,0 +1,121 @@
+## Elizabeth McCaul: The future of European banking supervision connecting people and technology
+
+Keynote speech by Ms Elizabeth McCaul, Member of the Supervisory Board of the European Central Bank, at the Supervision Innovators Conference 2024, Frankfurt am Main, 18 September 2024.
+
+* * *
+
+## Introduction
+
+I'm honoured to welcome you again to this conference, which is already being held for the fifth time.
+
+It's the fifth anniversary of this conference but we are also celebrating the tenth anniversary of the Single Supervisory Mechanism (SSM). Naturally, it is a moment of reflection about what the future holds and how European banking supervision should continue to evolve. And, right now, various societal, political, technological, environmental and economic mega trends are shaping the future of the financial industry. In the tech area, for example, we are in the midst of a fast-paced and unprecedented development which is changing every aspect of the economy.
+
+The ways of working are changing profoundly.
+
+My son is a computer programmer. This weekend while driving we spoke about the possibilities for his future and what sort of work he might do, given the rapid innovation taking place. He told me he uses AI now regularly to produce code for him that he then reviews. Very different from the work he was hired for just two years ago when he graduated!
+
+In the aviation field artificial intelligence (AI) is being used to enhance the safety and efficiency of air traffic control by analysing historical and real-time flight data to predict potential collisions. Predicting accidents before they occur: isn't that also a goal worthy of banking supervision? And in the health care field, common applications include diagnosing patients, end-to-end drug discovery and development, improving communication between physician and patient or transcribing medical documents such as prescriptions. All of this change in the industries around us are food for thought as we consider in a clear-eyed, realistic and vigilant way the risks and opportunities for us in banking supervision.
+
+Disruptive technologies like AI are playing a growing role in banks' day-to-day activities, and access to technology is becoming widespread. At the same time, banks are becoming ever more dependent on data, IT platforms and third-party providers.
+
+To keep the banking sector safe and sound in the face of these trends, we need to equip the supervisors of the future with the right tools and skills. And it is this principle that has guided our strategic work on the digital agenda.
+
+Since the inception of European banking supervision in 2014 we have built up and continuously improved a set of core IT systems, launched our suptech efforts and created multiple cutting-edge tools which are already up and running. And now it is time to shape a new common strategy covering both our core IT systems and our suptech tools, as well as, most importantly, their integration.
+
+## SSM tech strategy for 2024-2028
+
+The new SSM tech strategy for 2024-2028 builds on two main pillars: people and technology. The strategy not only addresses several critical business needs Any smart strategy developed for the future must have at its foundation the recognition that people and technology are increasingly, even inextricably intertwined.
+
+## How have we incorporated that?
+
+We have done so by setting as our goal connecting people and technology so we can deliver "supervision at your fingertips", This way, human expertise and technological innovation go hand-in-hand. We are structuring our work to ensure efficient, effective and integrated supervision that keeps pace with the trends and structural changes in the banking sector which I touched upon earlier. We are working on several levels to make sure that supervisors can fully use the applications and data available to them and that technology is seamlessly integrated into their day-to-day work. And we aim to consolidate IT to further strengthen European banking supervision, allowing supervisors to work as a single team with shared technology across the ECB and national competent authorities (NCAs).
+
+But what does this mean more concretely for our banking supervisors of the future? What impact will this strategy have on their work? What tools will they use?
+
+To make this tangible, let's imagine a future supervisor called Pete. The name "Pete" symbolises the two key pillars of our strategy: "Pe" stands for people, and "te" for technology. So, how does our new strategy support Pete?
+
+## People
+
+Let me start with the first pillar of our new strategy and the most important asset we have: our supervisors, people like Pete. Under this pillar, we plan to support Pete's work in the following three ways.
+
+## Promoting a user-focused innovation culture
+
+First, we aim to instil a culture that supports the adoption of our suptech tools and embeds advanced technology into regular supervisory processes. We are convinced that having a clear user focus in all our technological activities and ensuring an enhanced user experience will encourage the take-up of our tools.
+
+One way of fostering the adoption of tools is our European banking supervision-wide suptech champions initiative. Under this initiative, Pete and other colleagues at the NCAs and in various business areas across ECB Banking Supervision can become trained experts in suptech tools.
+
+These suptech champions can then provide local and easy-to-access support to users. They also collect feedback and identify user needs in order to further develop the tool. In this way, suptech champions act as ambassadors, both promoting awareness and supporting the use and development of suptech tools. Already, 45 champions across 17 NCAs have reached over 1,000 supervisors through multiple channels, including workshops and providing guidance on the use of suptech tools.
+
+## Future-proofing our organisation
+
+Second, we are continuing to make our organisation ready for the future by establishing a steady-state tech function that connects internal tech and supervision experts across business areas and NCAs. We want to cultivate a collaborative approach to shaping SSM technology and enhancing the adoption and use of available tools.
+
+In one of our flagship initiatives, NCAs can become suptech centres, which are at the forefront of developing technology for European banking supervision. They deliver tools that can subsequently be made available to the ECB and other NCAs.
+
+A case in point is that one NCA has developed a new use case for assessing the group structures of banks over time in our network analysis platform, Navi, which benefits European banking supervision as a whole.
+
+## Deepening our global partnerships
+
+Third, we seek to tap into the global innovation networks with which we have established strong ties in recent years. For instance, we have been working closely with leading academic institutions to deliver state-of-the-art training to supervisors on machine learning, programming for data analytics, prompting and other topics.
+
+We are also working closely with industry leaders in other areas, such as generative AI, cloud technology and big data, as well as with start-ups to bring the latest and most advanced technologies to banking supervision. At the same time, we are partnering with other authorities across the world to experiment with new ways of solving common problems. Such partnerships mean that Pete has access to knowledge and state-of-the art technology that boost efficiency and improve supervisory outcomes, which brings me to the second pillar of our strategy, technology.
+
+## Technology
+
+Through our SSM tech strategy, we want to connect people with technology. In other words, we need to equip Pete with the necessary tools and capabilities.
+
+## Working as a single team with shared technology
+
+The first cluster in the technology pillar concerns our core IT systems.
+
+On the one hand we will continue to future-proof our core systems and data infrastructure by making them more modular, scalable and innovation-friendly while keeping them secure. We aim to optimise the IT landscape by integrating and consolidating systems across European banking supervision.
+
+On the other hand, we will decommission legacy systems to maximise the use and impact of existing applications. Working as a single team across the ECB and NCAs with access to shared technology will allow Pete to collaborate more intensively with European central banking colleagues.
+
+Olympus is a notable project in this regard.
+
+Through Olympus, we aim to proactively shape our IT landscape and make it ready for the upcoming challenges and opportunities offered by new technologies. This ambitious project reviews the full IT landscape and sets out a roadmap and action plan for the future of IT in European banking supervision. For this project, we have identified four high-level targets rooted in our supervisory needs that guide all activities.
+
+Our first target is to strengthen our data-driven work. Imagine having easy access to data and efficient processing within a few clicks. This will empower our teams to make informed decisions swiftly and effectively.
+
+The second target is to provide common and connected tools and systems. Using integrated systems to foster collaboration among all European banking supervisors, we will create a cohesive working environment that allows everyone to work together smoothly.
+
+The third target is to ensure seamless access and navigation. By unifying access and identity management, we will make it easier for our staff to find and use the resources they need, free from technical obstacles.
+
+Lastly, we will establish common IT standards and delivery. By adopting consistent IT standards, we will drive rapid and user-friendly digital innovation, ensuring our technology keeps pace with the latest advances.
+
+Under the Olympus project we have set out the concrete action needed to reach these targets.
+
+What does this mean for Pete, though? Let me give you an example.
+
+Pete will be able to use the SSM Cockpit to navigate through supervisory tasks. The SSM Cockpit will provide a user-centric platform integrated with core systems to facilitate access and navigation to various tools and systems. By design, it will be a flexible solution that meets the diverse information and reporting needs of different supervisory roles. The Cockpit will feature advanced, AI-powered capabilities to help supervisors efficiently carry out their core tasks.
+
+## Generating new insights through supervisory analytics
+
+Supervisory analytics are the second cluster under the technology pillar. These seek to enhance risk assessment by augmenting analytical capabilities and combining structured and unstructured data. There is also a pressing business need to address emerging risks such as climate-related and environmental risks, as well as IT and cyber risks. To do so, we must explore new datasets and information sources, including social media. Supervisory analytics will give Pete and his colleagues new insights which will help them stay ahead of emerging risks and provide more robust and timely risk assessments.
+
+We have been working on a tool called Delphi which uses natural language processing to integrate market risk-based indicators and information from news items into a single web-based platform with a user-friendly interface. The insights afforded by combining such quantitative and qualitative information mean that supervisors like Pete can adequately assess the underlying risks and better understand the real-time risk development affecting individual banks.
+
+## Automating processes by harnessing AI
+
+Our third and last cluster under the technology pillar concerns process automation and collaboration. Think about how the automotive industry is being transformed by smart manufacturing. In a smart factory, machines, devices and systems are interconnected and can communicate with one another, enabling real-time data collection, analysis and decision-making. What can we learn from other industries to become more effective and efficient in our supervision?
+
+We are committed to delivering additional breakthrough solutions that use AI - and more specifically generative AI - to simplify and automate workflows, while improving collaboration within European banking supervision. For a while now, we have been harnessing AI and making it available in some of our tools, such as Athena, which helps supervisors analyse extensive textual information in various formats and languages, and Virtual Lab, a platform for SSM-wide digital collaboration as well as code sharing, cloud computing and the development of generative AI (GenAI) capabilities. We are also planning to deploy AI in the AFM Medusa project which will support our supervisors in drafting, consistency-checking and benchmarking findings and measures. Our vision is for supervisors to be increasingly empowered by GenAI, while remaining engaged in the process since they will be the ones who continue to review and approve work and take the final decisions. This technology will provide suggestions, assist in drafting input and help with analysis.
+
+To this end, we have been collecting use cases and are determining where it makes sense to implement European banking supervision-wide solutions, where specialised applications with narrower scopes and user groups are appropriate, and where off-theshelf tools are sufficient. One of the solutions we have been working on is AthenaGPT, which complements Athena. Using AthenaGPT, supervisors like Pete are able to interact with several supervisory information sources at once. This boosts efficiency, as supervisors can then focus on the most relevant information. Searching for information in large supervisory repositories has never been easier. And in Agora, we are testing the ability for supervisors to query the data lake in English and use AI to translate into SQL, which is how the data can be accessed. This reminds me of how the work of my son is changing!
+
+## Conclusion
+
+As you can see, we have ambitious plans for Pete and all our supervisors. Continuous investment in technology will remain key for ECB Banking Supervision to keep pace with changes in the banking landscape and address emerging supervisory risks.
+
+I am confident that we will be successful in this endeavour and that we will help Pete become a supervisor of the future: a strong SSM collaborator working in a single team with shared technology, an empowered data expert who bases decisions on advanced supervisory analytics and an agile supervisor making use of process automation and the latest technology.
+
+At the same time, I am incredibly proud of what we have already achieved. We have developed and fully implemented suptech tools that harness modern technologies such as AI across Europe. These tools have changed the way we do supervision. We have been surprised at how some of our tools have been received in our supervisory community. For example, we only expected to have around 200 users for Agora, the SSM single data lake. But we already have over 1,200 users, who have made over 1.6 million data queries using the tool. Our top innovation and collaboration tool, Virtual Lab, is being used by around 4,000 colleagues. And our network analytics tool, Navi, has now grown to cover almost a dozen major use cases. We have also trained almost 3,000 colleagues, including leaders, on topics related to innovation and digital transformation. This has helped broaden supervisors' skillsets and established a mindset within our organisation that embraces technological change. Last, but not least, we have won four global innovation awards in three consecutive years.
+
+While we can be proud of these achievements, I believe that much remains to be done. There is a famous quote by the American sociobiologist Edward O. Wilson that continues to occupy my thoughts of late: "The real problem of humanity is the following: We have Palaeolithic emotions, medieval institutions and godlike technology."
+
+You know that I spend a great deal of my waking hours thinking about the implications of the changing financial services environment we find ourselves in today. It's an increasingly complex landscape, where we are facing geopolitical, climate and operational resiliency risks emanating from third party dependencies and cyber-attacks. We are facing changes to business models incorporating partnerships and responding to competition from and new entrants BigTech and FinTech. And the exponential growth of the global markets since the Great Financial Crisis in the interconnectedness of entities categorized as non-bank financial institutions with banks, especially private credit and equity funds operating outside the regulatory perimeter, is concerning, even worrying as we think about the effects on supervision and financial stability. Successfully connecting our technology and people to empower them in this changing landscape is essential.
+
+I would say that if we want to truly equip Pete for the future, it's clear that our work has only just begun.
+
+Thank you very much for your attention. I hope you enjoy the rest of the conference.

@@ -1,0 +1,330 @@
+## SPEECH
+
+## Introductory statement
+
+Speech by Claudia Buch, Chair of the Supervisory Board of the ECB, at the press conference on the 2024 SREP results and the supervisory priorities for 2025-27
+
+Frankfurt am Main, 17 December 2024
+
+Jump to the transcript of the questions and answers
+
+## Introduction
+
+Let me welcome you to my first press conference as the Chair of the Supervisory Board of the ECB. This year marks the tenth anniversary of the Single Supervisory Mechanism, which provides a good opportunity to reflect upon what we have achieved so far and what we can improve on.
+
+Over the past decade, European banking supervision has contributed to the increased resilience of European banks and thus to financial stability. The results of the annual Supervisory Review and Evaluation Process (SREP) for 2024, which we have published today, show that the banks directly supervised by the ECB generally have strong fundamentals. The asset quality of European banks is robust, they have overall solid capital positions, good levels of profitability, and are a reliable source of funding and financial services for European households and firms.
+
+Looking ahead, banks will need to adapt to a changing environment. Faced with heightened geopolitical risks, structural change, climate and environmental risks, and downside risks to the macroeconomic outlook, strong financial and operational resilience will remain key. Corporate insolvencies are on the increase, potentially leading to higher credit risk. The public sector may have more limited capacity than in the past to buffer adverse shocks. The digitalisation of financial services is changing the competitive landscape. Banks must therefore remain vigilant and prudent to sustain their business and operations. Their currently good levels of profitability provide them with an opportunity to strengthen their resilience.
+
+Against this background, the current SREP cycle has not resulted in major changes to banks' SREP scores or overall Pillar 2 requirements in aggregate terms. The annual Supervisory Review and Evaluation Process assesses each bank's risks, business model viability and resilience. Where we identify shortcomings, supervisory measures are put in place that ensure remediation by the banks. Banks' individual SREP scores and Pillar 2 requirements take bank-specific risks into account.
+
+The supervisory priorities for the years 2025-27 continue to focus on risks related to macro-financial threats and geopolitical shocks, as well as on challenges stemming from the digital transformation, while emphasising the need to remediate shortcomings, particularly those related to governance and risk management.
+
+This year, we have taken a large step forward to make ECB Banking Supervision more efficient and effective. We have launched a comprehensive reform of the SREP to respond to emerging risks in a more targeted way, to simplify, and to reduce complexity. The reform will be implemented over the next two years.
+
+## Overall resilience of the banking system
+
+Let me provide an overview of the resilience of the European banking system.
+
+Chart 1: CET1 capital and leverage ratios of significant institutions
+
+Source: ECB supervisory banking statistics.
+
+Banks directly supervised by the ECB have overall solid capital and liquidity positions, which is a significant improvement compared with the situation ten years ago.) The aggregate Common Equity Tier 1 (CET1) ratio stood at 15.8% in mid-2024, which is a slight improvement compared with the previous year. Similarly, the leverage ratio increased slightly to 5.8%.
+
+Chart 2: Distribution of capital headroom between CET1 capital ratios and CET1 overall requirements and Pillar 2 guidance after 2024 SREP
+
+Sources: ECB supervisory banking statistics and SREP database.
+
+Notes: Projected capital headroom is based on the 2024 SREP decisions and will be applied in 2025; current capital headroom is based on the 2023 SREP decisions and applicable in 2024. Pillar 2 CET1 requirements and Pillar 2 guidance are as per the published list of Pillar 2 requirements applicable as of the first quarter of 2025. CET1 ratios are as at the second quarter of 2024. For systemic buffers (global systemically important institutions, other systemically important institutions and systemic risk buffers) and the countercyclical capital buffer, the levels shown are those anticipated for the first quarter of 2025 and included in 2024 CET1 requirements and guidance. CET1 ratios have been adjusted for AT1/T2 shortfalls.
+
+Capital headroom compared with overall capital requirements has remained broadly stable on the previous year. Next year, 85% of institutions are expected to have capital headroom of over 200 basis points; only a few are projected to have capital headroom below 100 basis points.
+
+Chart 3: Liquidity ratios
+
+Source: ECB supervisory banking statistics.
+
+Overall liquidity conditions have remained favourable. After the ECB started a period of quantitative tightening, banks turned smoothly to the markets to meet their financing needs. The share of funding through deposits remained largely stable. Generally, banks have good access to retail and wholesale funding. Yet some banks need to better prepare for an environment with potentially tighter liquidity conditions. This is the result of targeted reviews of banks' funding plans, of their capabilities to mobilise collateral and of their asset and liability management.
+
+Chart 4: Non-performing loans by counterparty sector
+
+Source: ECB supervisory banking statistics.
+
+Note: “NFC” stands for “non-financial corporations”.
+
+The quality of banks' assets has remained strong. The ratio of non-performing loans to total loans has remained around 2.2% over the last two years and is close to historical lows.2] However, there are initial signs of weakening asset quality driven by exposures to commercial real estate and small and medium-sized enterprises (SMEs), the latter accounting for about 50% of European banks' lending portfolios. Non-performing loans are rising in Austria and Germany, and to a lesser extent in France, albeit from very low levels.
+
+Low levels of credit risk reflect the strong fundamentals of households and firms but also stem partly from the public support during the COVID-19 pandemic and the energy crises. Generally, the debt sustainability of households is benefiting from a strong labour market, rising wages and decreasing levels of indebtedness. Corporate balance sheets and profitability have generally remained resilient in 2024, thanks also to declining input and energy costs.
+
+Chart 5: Insolvencies and real GDP in the euro area-4
+
+Sources: Eurostat and national statistics.
+
+Notes: The series is based on developments in Germany, Spain, France and Italy (euro
+
+Insolvencies are shown as the average number of firms per quarter within each year. Real GDP is the moving sum growth rate. The latest observation is for the second quarter of 2024.
+
+area-4). 4-quarter
+
+But pockets of vulnerabilities are emerging, reflecting higher borrowing costs, weaker growth and structural changes in the real economy. Even during the pandemic, when GDP declined, corporate insolvencies fell. Since mid-2022, however, corporate insolvencies have been on the rise, signalling a potential future deterioration in asset quality.
+
+Chart 6: Return on equity and return on assets
+
+Source: ECB supervisory banking statistics.
+
+Bank profitability has remained strong, with an annualised return on equity of 10.1% in mid-2024. Higher interest rates are a key driver: during the low interest rate environment, banks' average return
+
+9.2%.!I
+
+on equity was 5.5%; following the normalisation of interest rates, it increased to In addition, the average cost-to-income ratio declined from 66% in 2020 to 54% in 2024. Cost of risk has remained muted.
+
+Chart 7: Aggregate net interest margin
+
+Source: ECB supervisory banking statistics.
+
+Chart 8: Share of fixed versus variable rate lending to non-financial corporations
+
+## Source: ECB (2024), Financial Stability Review, May.
+
+Notes: Lending shares refer to outstanding amounts for loans to non-financial corporations. "Fixed" indicates a rate that both parties to the loan contract agree to at inception. "Variable" indicates a rate linked to an exogenous parameter (e.g. EURIBOR). "Mixed" indicates a combination of fixed and variable rates.
+
+Aggregate net interest margins have widened across euro area banks. In countries where floating rate loan contracts prevail, the pass-through of higher interest rates has been relatively fast. In countries where fixed rate loan contracts are more common, the impact of higher interest rates on profitability and borrower default risks has been delayed. On the funding side, shifts from demand to term deposits with higher interest rates have so far been relatively slow. Variations in the pass-through also reflect differences in banks' pricing power across countries. Cross-border competition in deposit taking is particularly limited, with only around 1.6% of deposits held across borders. 4]
+
+Banks' distribution plans foresee a relatively stable aggregate payout ratio. Supervised banks expect to pay out 49% of profits for 2024 or one percentage point less than in the previous year. Share buybacks have become less prominent, representing a little less than one-quarter of distributions compared with one-third a year ago.
+
+The future performance of banks will depend on the economic outlook, their resilience to adverse shocks, shifts in the yield curve and interest rate pass-through. Banks' ability to contain costs while investing in the digitalisation of their business models will be crucial to sustain profitability. Distribution plans thus need to be aligned with sufficiently forward-looking capital plans that also consider relevant adverse scenarios.
+
+## Risk outlook and supervisory responses
+
+From a macroeconomic perspective, the year 2024 has been characterised by a resilient euro area economy, which is projected to grow at a rate of 0.7%. But the short and medium-term outlook for growth remains subdued and subject to considerable uncertainty. The likelihood of tail events materialising appears higher than a year ago. Geopolitical tensions alongside growing deglobalisation trends could push energy prices and freight costs higher in the short term and disrupt global trade. Our reflect this risk outlook.
+
+supervisory priorities
+
+Chart 9: Measures of uncertainty in the euro area
+
+Sources: ECB, policyuncertainty.com and ECB staff calculations.
+
+Notes: The composite indicator of systemic stress (CISS) and the economic policy uncertainty index are monthly data series (standardised by the standard deviation from the mean over the period January 1999—December 2019). A value of 2 should be read as meaning that the uncertainty measure exceeds its historical average level by two standard deviations. The latest observations are for November 2024.
+
+Heightened geopolitical risks affect banks through various channels. Adverse geopolitical events are often not priced in by financial markets, which can lead to an abrupt repricing of risks if such events materialise. Financial sanctions and cyberattacks can affect banks, including through outsourcing arrangements. In terms of the real economy, higher costs for firms and disruptions to global trade could increase credit risk.
+
+Credit risk management therefore remains a priority for ECB Banking Supervision. Novel risks may not be adequately captured by risk models that are based on past data. Accounting overlays are thus one instrument that can be used to address novel risks in a forward-looking way. From our supervisory perspective, we are therefore addressing deficiencies in IFRS 9 accounting frameworks in terms of identifying and monitoring risk.
+
+To address the deterioration in asset quality, we have carried out targeted reviews on commercial and residential real estate as well as SME portfolios, and we are taking supervisory measures where we have identified weaknesses. To provide transparency on our risk assessment methodologies, today we are publishing a comprehensive supervisory methodology for assessing interest rate risk and credit spread risk in the banking book.
+
+To deal with heightened risks and uncertainties, banks' decision-making bodies need reliable information. Over the years, however, we have identified ongoing deficiencies in risk data aggregation and risk reporting. These deficiencies prevent management from receiving timely and comprehensive information on relevant risks and they also increase the cost of responding to supervisory requests. At the ECB, we have therefore intensified our efforts to encourage banks to improve their information systems and address IT security and cyber risks.
+
+More generally, banks need to speed up their digitalisation efforts. SREP scores for operational and ICT risk remain among the worst. We are therefore focusing on addressing outsourcing risks and enhancing banks' cyber resilience, also taking into account the Digital Operational Resilience Act, which comes into force in 2025. This year, we conducted a cyber resilience stress test to assess banks' ability to respond to cyber incidents. The stress test showed that banks are prepared, but it also revealed areas for improvement in cybersecurity.
+
+Moreover, climate-related and environmental risks are increasingly relevant and continue to be a significant concern. Banks need to fully account for transition and physical risks. They have started to make progress in integrating these risks into their governance and risk management frameworks, addressing our supervisory expectations. However, we found that some banks were still lacking key elements needed to adequately manage climate and environmental risks, prompting further supervisory actions.
+
+## 2024 SREP assessment
+
+Let me now turn to this year's SREP assessment, which was carried out against the backdrop of the risk outlook | have just described.
+
+Chart 10: Overall SREP scores
+
+Source: ECB SREP database.
+
+Notes: 2022 SREP values are based on assessments of 101 banks, 2023 SREP values are based on assessments of 106 banks, and 2024 SREP values are based on assessments of 104 banks. There were no banks with an overall SREP score of 1 in 2022, 2023 or 2024.
+
+The average overall SREP score in 2024 remained stable at 2.6,9 with 74% of banks scoring the same as last year. 11% of banks saw their scores worsen, mainly because of their exposure to the commercial real estate sector and interest rate risk, while 15% of banks achieved a better score, mainly because of increased profitability.
+
+This year's SREP resulted in more binding measures to address severe weaknesses. This reflects our increased focus on ensuring that supervised banks remediate any findings in a timely manner. More specifically, we imposed the following quantitative and qualitative supervisory measures.
+
+Chart 11: Evolution of overall capital requirements and Pillar 2 guidance — the total capital stack
+
+Sources: ECB supervisory banking statistics and SREP database.
+
+Notes: The sample selection follows the approach taken in the methodological note for the supervisory banking statistics. For 2020 the first quarter sample is based on 112 entities; for 2021 the first quarter sample is based on 114 entities; for 2022 the first quarter sample is based on 112 entities; for 2023 the first quarter sample is based on 111 entities; and for 2024 the first quarter sample is based on 110 entities. For 2025 the first quarter sample is based on 109 entities, with the Pillar 2 requirement (P2R) being applicable from January 2025. The chart shows RWA-weighted data from the second quarter of 2024. "Overall capital requirements" comprise the Pillar 1 minimum requirement, the Pillar 2 requirement, combined buffer requirements (i.e. the capital conservation buffer and systemic buffers (global systemically important institutions, other systemically important institutions and systemic risk buffers) and the countercyclical capital buffer). Rounding differences may apply. The reference period for the combined buffer requirement is the first quarter of each year. For the first quarter of 2025 buffers are estimated based on announced rates applicable at this date. Estimated values are shown with a lighter colour and marked with an asterisk. The Pillar 2 guidance is added on top of the overall capital requirements. Under CRD V, which came into effect on 1 January 2021, the P2R capital should have the same composition as Pillar 1 — i.e. at least 56.25% should fall under CET1 capital and at least 75% should fall under Tier 1 capital, in line with the minimum requirements. By way of derogation from the first sub-paragraph of paragraph 4, Article 104a CRD V, the competent authority may require an institution to meet its additional own funds requirements with a higher share of Tier 1 capital or CET1 capital, where necessary, and considering the specific circumstances of the institution.
+
+In terms of quantitative requirements, the overall CET1 capital requirements and guidance stand at 11.3% of risk-weighted assets, compared with 11.2% last year. Overall capital requirements and Pillar 2 guidance have thus increased slightly. Changes in the risk profiles of individual banks led to three types of Pillar 2 add-ons being applied.
+
+- &gt; For nine banks, an average add-on of 14 basis points addresses excessive risk arising from leveraged finance.
+- &gt; For 18 banks, an average add-on of 5 basis points addresses shortfalls in the coverage of nonperforming exposures.
+- &gt; For 13 banks, an add-on of between 10 and 40 basis points was applied to the leverage ratio requirement.
+
+Quantitative liquidity measures were issued for four banks.
+
+Qualitative measures were issued for 95 banks, mainly to address deficiencies in the areas of credit risk management, internal governance and capital adequacy.
+
+The stability of the banks' SREP scores reflects, on the one hand, an improvement in key risk indicators and, on the other hand, the high degree of uncertainty concerning the economic outlook. We have therefore taken a number of measures to ensure that banks assess risks in a sufficiently forwardlooking way. These include supervisory focus on capital and liquidity planning that takes relevant adverse scenarios into account; on provisioning frameworks that capture novel risks; on operational resilience, particularly in relation to cyber and outsourcing risks; and on stress tests that capture geopolitical risks.
+
+Microprudential supervision needs to be complemented by a strong macroprudential framework. Releasable macroprudential buffers in the banking union have in fact increased in recent years: the weighted average rate for countercyclical capital buffers and (sectoral) systemic risk buffers rose from about 0.3% at the end of 2019 to 0.8% in mid-2024.] We very much welcome the progress made in this area in uncertainties and risks to financial addressing stability.
+
+## Supervisory priorities
+
+Figure 1: Supervisory priorities
+
+Priority 1: Banks should strengthen their ability to withstand immediate macro-financial threats and severe geopolitical shocks
+
+Address deficiencies in credit risk management frameworks
+
+©
+
+Credit risk
+
+Address deficiencies in operational resilience frameworks as regards IT outsourcing and IT security/cyber risks eererianel nate P
+
+Special focus: Incorporating the management of geopolitical risks in supervisory priorities
+
+ES Sg ee PY 9
+
+Priority 2: Banks should remedy persistent material shortcomings in an effective and timely manner
+
+Address deficiencies in business strategies and risk management as regards climate-related and environmental risks
+
+Climate-related and environmental risks
+
+Address deficiencies in risk data aggregation and reporting
+
+Governance
+
+Priority 3: Banks should strengthen their digitalisation strategies and tackle emerging challenges stemming from the use of new technologies
+
+Address deficiencies in digital transformation strategies
+
+©
+
+Business model
+
+Our supervisory priorities for the years 2025-27 continue to focus on external challenges for banks, while putting greater emphasis on remediating persistent shortcomings.
+
+First, resilience to macro-financial threats and geopolitical shocks requires the attention of banks' boards and senior management. Improving credit risk management and maintaining adequate levels of provisioning remain important for financial resilience, while increased IT and cybersecurity risks require adequate governance structures and sufficient investment.
+
+Second, banks need to address shortcomings related to governance, climate-related and environmental risk management and risk data aggregation and reporting capabilities. We will continue to monitor these areas and take supervisory action as necessary.
+
+And third, risks associated with digitalisation require adequate safeguards. We will continue to assess banks' digital strategies to ensure that risks are mitigated, and we are publishing an updated SREP
+
+methodology for operational and ICT risk today.
+
+## SREP reform
+
+Just like the banks, supervisors have to respond to changes in the external environment. During its first decade, ECB Banking Supervision has become an internationally recognised supervisor, delivering on its mandate. But our supervisory procedures have become complex, potentially impairing our ability to react to new developments in a timely manner.
+
+The SREP reform that we announced earlier this year will make our supervision more efficient, more effective and more intrusive. We will sharpen the focus on bank-specific risks, better integrate different supervisory activities and communicate more clearly with banks. We will use our full supervisory toolkit to ensure that findings are remediated more promptly. We will make methodologies more stable to achieve greater consistency. And investing in advanced IT and analytics will simplify data submissions, while enabling us to provide more tailored and timely feedback to banks.
+
+These reforms will be fully implemented by 2026, and we will carefully monitor their impact.
+
+## Conclusion
+
+Chart 12: Consolidated gross debt of the non-financial private sector in the euro area
+
+Sources: Eurostat, ECB and ECB calculations.
+
+Notes: MFI" stands for "monetary financial institutions. Consolidated gross debt is defined as total gross debt minus loans granted by firms and households. The latest observations are for the second quarter of 2024.
+
+Let me conclude. European banks have overall strong fundamentals in terms of their asset quality, capitalisation and profitability. This contributes to financial stability and the provision of financial services to households and firms across the banking union. Bank loans remain a key source of funding to the real economy, while non-bank financial intermediaries have grown in importance.
+
+Looking ahead, heightened uncertainty will require a high level of prudence. Banks' ability to maintain robust business models depends on their resilience to shocks and their ability to adapt to the new environment, particularly the digitalisation of finance. Sound profitability enables banks to further strengthen their resilience and to remain a reliable foundation for the euro area economy, including during periods of stress.
+
+As supervisors, we will continue to focus on the resilience of European banks. Weakening standards of supervision would weaken banks, making it harder for them to support the real economy and compete successfully. At the same time, we need to ensure that our supervision is as efficient and effective as possible. This is the aim of our SREP reform, which will also bring benefits for the banks we supervise.
+
+We in ECB Banking Supervision rely on strong support from policymakers and regulators to achieve our goals. Completing the banking union and capital markets union, rather than relaxing banking rules or delaying the implementation of Basel Ill, is critical to enhancing financial stability and fostering economic growth. Decisive action would further bolster our capacity to cope with future shocks effectively.
+
+Thank you very much for your attention. | now look forward to your questions.
+
+kK
+
+Two questions from my side. The first on "efficient and effective". As you redeploy resources — you have spoken a lot about geopolitical risk — as you focus more on that, what are you focusing less on? And | ask this question also with respect to banks complaining about rising demands from supervisors. What are you giving them an easier ride on at the same time?
+
+And then the other question on significant risk transfers [SRTs], | mean the capital relief type. | was wondering if you could confirm that you now will be shortening the period that banks have to apply in advance to get these. Why are you doing that? | assume it's because you like SRTs? And if you have any words of warning to banks on this front? I'm thinking specifically about leverage employed to buy SRTs, so whether risk is not actually leaving the financial system, but is getting more and more complicated.
+
+Thank you for these very good questions, which allow me to explain a bit more what we are doing with the Supervisory Review and Evaluation Process [SREP] reform to become more efficient and effective. So first of all, very simply speaking, what it does is that we are giving more flexibility to the Joint Supervisory Teams, to the supervisors, to adjust their supervisory action to the risks being faced and that are most relevant for the specific bank. So we have overall risks and priorities that are being defined by the Supervisory Board, but then of course the relevance of specific risks might be very different for different types of banks. So, the teams have more flexibility. It's not that they ignore certain types of risk, but rather say: what is really relevant for this bank? What do we need to focus on? We have a risk tolerance framework that allows the teams to actually do this, and they can also spread out their risk assessment over a three-year period. We have a multi-year approach so that not every risk needs to be looked at with the same intensity in each year for each bank. So we become more targeted — this is our role, this is also how we define good supervision — we become more targeted to the relevant risks.
+
+You also mentioned: is there an ever-rising demand of supervisory requests? No, there isn't. The demand of supervisory requests is again linked to the risks that we see, because this is our role: to keep European banks safe and stable. And if the environment changes, if climate and environmental risks are relevant and not fully addressed by the banks, we need to react to that. If the geopolitical risk environment changes, then we need to address the risks that are relevant for the specific banks. Of course, we also need to do this in an efficient and effective way. So what we will do even more in the future is use what we call integrated planning, so that all our activities -whether they are horizontal across different banks or vertical for specific banks — are integrated even more closely and can also inform each other, so that we don't have to duplicate certain types of activities. But it's very important for us that we address the relevant risks that are there and don't lose relevant risks out of sight. And the teams have more flexibility now. By the way, the risk tolerance framework, the multi-year approach, has already been in place since 2023, but we are rolling it out now more forcefully and we monitor the progress being made.
+
+As to your second question on the significant risk transfers, this is related obviously to securitisation and we generally think that securitisation can be a useful instrument to move risks to the part of the financial system where they can be better borne than on banks' balance sheets. But at the same time, of course, we need to make sure that there are no spillover effects on the banking sector — this is a bit the second part of your question. So who's financing these significant risk transfers and could there be amplification effects in the financial system? Of course, we need to monitor this very closely.
+
+Now, within this framework that we have and also within the regulatory framework that we have, there was actually room for improvement, and this is what you mentioned. In terms of, for a given risk transfer, can we speed up the process until we approve a certain significant risk transfer? And here we have worked with the European Banking Federation to get a pilot started. Of course, we need some products for which we can run the pilot. We will do this next year and then hopefully speed up our efforts — to the benefit of us, because less resources will go into that, and also to the benefit of the industry. But let me reassure you, we will never lose resilience out of sight. This is given a certain risk that is being transferred and we will also carefully monitor the effects on the financial system, because this is mainly about efficiency — it's not about weakening resilience.
+
+Question one: how exactly shall banks consider geopolitical risks? It's a very broad term and | would like to have an idea what the banks specifically should do about it.
+
+The other question is a little bit more specific. It's on the recalibration of the SREP. Deutsche Bank, whose Pillar 2 requirement [P2R] has increased, suggested that their higher Pillar 2 requirement is due to the recalibration of your SREP and it would have nothing to do with any reassessment of the riskiness of Deutsche Bank. So is this view or description of Deutsche Bank accurate? So can | imagine that you don't see Deutsche Bank as more risky, but nevertheless the Pillar 2 requirement can increase?
+
+Thank you very much for the first question on geopolitical risk, which is indeed an issue about which we have been thinking hard to get to some extent a conceptual framework around it, because different people may have different understandings of what geopolitical risk is actually about. What we have done is we've published our way of thinking about this in September this year, and the main idea is that geopolitical risk is not a new risk category for the banks. It's affecting the banks through credit risk, market risk, operational risk. But there are dimensions of this risk which you wouldn't cover if you didn't think about it in terms of the geopolitical environment. And here it's relatively broad, it's anything that's related to conflicts and tensions internationally. And so, as I've said, if you think for example about the financial markets channel, relevant parts of geopolitical risk are not priced in by markets. So this can affect banks' exposure to market risk if there's an abrupt repricing of risk. The second channel is through the real economy. So what if global value chains become more fragmented because of conflicts? How should that lead to a reassessment of credit risk? And then there's cyber risk, exposure to financial sanction risk. And so we work very closely with the banks to see whether they address these risks properly. We have also gone through our activities to see whether we are missing any of these channels, and we actually found that there's relatively little that we are missing. | mentioned the provisioning framework, | mentioned the work we are doing on cyber risk — all this is very much related to geopolitical risk. We're now working with the banks to see that they capture risks that are relevant for the individual bank — that they capture this in their risk management. And maybe the most important aspect here is that it really needs to be at the attention of top management, of the boards, because geopolitical risk is something which you can't properly price. There's a lot of uncertainty, so the banks need to use scenario analysis that is relevant for their capital planning, and this is really something which needs steering from the top. And we now look very carefully at what the banks are doing in this space.
+
+The second question was about a specific bank and my apologies but for reasons of confidentiality | don't comment.
+
+So it's OK if you answer generally if it's possible that a bank gets a higher Pillar 2 requirement without you considering this, an unspecific bank, more risky?
+
+Again, | don't comment on any specific bank and we have not changed the Pillar 2 methodology for how the risks are being calculated. Actually, today we are publishing a lot of detail about how our methodology is applied. There's also one element of our SREP reform, but this is not for this year's SREP, it's for the next two years. We are currently working on the P2R, the Pillar 2 methodology, to make it even more risk-based, to make it more targeted, to simplify. But this is not for now, this has not affected the 2024 SREP cycle — there will be again a pilot, a dry run next year and then it will only be effective one year later. We also aim to stabilise methodologies more in order to simplify and to reduce complexity.
+
+My first question is on profitability. How do you expect it to evolve in a context of lower interest rates and possibly also an increase in non-performing loans?
+
+Second, what are your considerations about the consolidation process ongoing in Europe and what are the main elements that you want to ensure about the authorisation process in cases, of course, like UniCredit and Commerzbank and UniCredit and Banco BPM?
+
+To your first question about profitability: so we don't have any forecast of interest rates that is underlying our assessment here, so we need to see how rates are evolving. What market analysts are saying is that we now have a higher level of net interest margins and that it wouldn't go down to the levels that we saw during the period of low interest rates. But as I've explained, this also depends on the pass-through into lending rates and into deposit rates. As you're rightly saying, when it comes to credit risk, asset quality, we are as of now not seeing a significant deterioration of asset quality. Nonperforming loans are actually close to historical lows, but of course we all need to remain vigilant as to how does the risk that we have just been talking about, how does that play out? How does the structural change in the real economy play out? So we don't really have a forecast here on bank profitability. What is our aim? And this is also part of the SREP, it is of course to make sure that banks have sustainable business models, that they have sustainable long-run profitability. One important factor here will also be their IT investments, their ability to compete in a world of ever-more digitalised finance.
+
+The second question on consolidation, and here again | need to make the statement up front that I'm not talking about individual banks that you have mentioned. Our role here is actually very clear when it comes to the approval process of qualified holdings. We have clear criteria in the legislation, what we look at in terms of financial soundness, reputation of the buyers and so forth. We generally take a very neutral approach when it comes to cross-border versus domestic mergers. In the end it's a decision of the stakeholders, the shareholders in the banks — how they want to respond to increasing competitive pressure, digitalisation. And mergers are certainly one way to respond. But we don't have a specific preference as to how they should respond. We have a clear role given to us by the legislation on the indicators that we look at.
+
+This year's cyber stress test showed that there are still many shortcomings in banks' cyber defences. Have you taken any measures in the context of the SREP to address the shortcomings?
+
+The second question is about Russia. Compared to when you took over in January, are you happy with the progress made by the banks that are still there in leaving the country?
+
+As regards the cyber stress test, just to clarify what it was: the question was how do banks respond to a hypothetical successful cyberattack? So it was about their response. We actually found that the banks were quite well prepared. So because you mentioned the shortcomings, we always find, of course, issues that need to be addressed, but here | think we found the banks also well prepared. My impression is that the banking industry also appreciated the consistent exercise across all the banks, from which they also learn where they stand relative to their peers. So to the extent that it doesn't violate any confidentiality requirements, we also share with the banks this benchmarking. So as | said, we always, when we do these exercises, we also find issues and we indeed take this into consideration in the SREP, because this is information that we need for our supervision. And as I've said, cyber resilience, digitalisation, all this has been and will be a priority for the SSM also going forward. Appropriate measures were taken, and in many cases, these are qualitative measures.
+
+As regards the exposure of banks to Russia and risks arising from Russia, given the tragedy of the situation, I'm a little bit hesitant to talk about happiness in that context. What was done in the SSM after the Russian invasion into Ukraine was to take stock of the exposures of European banks, which were limited in absolute terms, but of course there was exposure to financial sanction risk. We're not the sanction authority, but of course, we need to take into account what are potential implications for reputation and risk management of the banks. We've addressed this with the banks. We've asked them to downsize and exit from Russia and | think the latest number we have is that the exposures have been reduced by 53%. We're working very closely with the banks to make sure that they comply with our decisions. Again, apologies that | can't go into the specifics for individual banks, but there has been progress and we need to see how the situation will evolve.
+
+For next year looking forward, most economists expect a lot of rate cuts. Do you see any risks connected with that for the banking sector and how do you think it will affect the banking sector?
+
+And my second question: you mentioned the importance of completing the banking union. Do you expect some progress on EDIS and how important is it from your supervisor's perspective?
+
+| don't want to comment on potential rate cuts, this is not our business to do any forecasts and to consider potential scenarios. What we do do, of course, is that we make sure that the banks' exposure to interest rate risk is well managed. We're following up very closely in case we feel that this is not being the case, but we don't do any specific forecast or analysis of where do we think interest rates could move. | mentioned a few other points already when | discussed profitability impacts.
+
+As to the second question on the banking union, I'm not sure whether | should also comment or make any forecasts about the likelihood of potential dossiers to be followed through. But clearly, the European deposit insurance scheme [EDIS] is very important for supervisors. Basically we have an incomplete banking union. So we have the first pillar I've described, the successes that have been made, the achievements; we have the second pillar with the resolution framework, and deposit insurance and supervision is inevitably linked together. So | think it would be good to have progress on EDIS to make sure that all deposits across the banking union have the same level of protection. It would also promote cross-border integration obviously, and it would also make, in the end, the whole work by the Single Resolution Board less complex in dealing with banks that are under stress.
+
+But let me mention also another very important file which is currently on the table in Brussels, which is crisis management and deposit insurance, or CMDI. So this is basically a dossier which aims to close the remaining gaps with regard to resolution. On the one hand, to bring more banks, mid-size banks, which can have systemic implications, under resolution, and also provide the funding for this resolution through the use of deposit guarantee schemes. It's somehow linked, but it's a separate dossier related to EDIS. And | think this is crucially important, so the more credible resolution is, the better it is for supervision, because it's setting the right incentives not to engage in risk-taking and it's just good for the clarity of the overall framework of how we deal with banks in the going concern but also banks that come under stress. And in the end, also making sure that we don't have to use taxpayers' money again for banks that are under stress, so | think this is an additional benefit of the CMDI package.
+
+Quick question on crypto-assets: as everybody, of course, has noticed a different approach coming from the US administration, | don't know what's going to happen with the US financial authorities, but as regards the ECB supervision, is there an intention, is there an orientation towards stricter rules or looser rules regarding crypto portfolios within bank balance sheets?
+
+| don't want to speculate on what's happening in the US, but let me say how we view crypto-assets and what has been done in Europe. So first of all, | think there's risk related to crypto-assets in terms of risks that are prevalent in other financial market segments as well. So there can be excessive leverage, there can be intransparency, there can be conflicts of interest. So | think it's very important to also preventively manage and regulate these risks. That, of course, requires first and foremost good information about crypto markets and what is happening in this space, in particular related to leverage and misaligned incentives. | think with the Markets in Crypto-Assets (MiCA) regulation, Europe has done a lot to move into that direction to get better information, and also to regulate to the extent necessary. And the third leg is certainly that, because many of these activities are somewhat borderless; it's also important, and there have been important initiatives in the G20 and in the FSB, to make sure that there's also an internationally agreed approach to this. So we need to see where this moves, we monitor this very carefully. We also monitor very carefully that the exposure of banks to crypto-assets is very limited and that also we deal with the competitive pressure that may arise from these markets on banks to provide crypto-related financial services. We have a very close eye on this.
+
+The first question is when can we expect a decision on UniCredit's request to build up its stake in Commerzbank?
+
+Second one is can you shed light on the ECB's interpretation of the Danish compromise? Can a financial conglomerate risk weigh all assets bought via its insurance arm? This has been described as a regulatory arbitrage that favours conglomerates.
+
+Well, the answer to the first question is unfortunately very short, because | don't comment on individual cases, including deadlines.
+
+The second is the Danish compromise. We have clarified our approach and our publication on options and discretions, | think in 2016 if I'm not mistaken, and we currently have under consultation a new guide which also clarifies our approach there. In the end, it's an issue that we would also assess on a case-by-case basis for individual institutions.
+
+| have noticed in some cases the SSM has been reducing Pillar 2 capital requirements while raising P2R leverage ratio. What is the rationale behind that?
+
+To the extent that you're referring to individual banks, | couldn't comment on this. Generally the P2R and the P2R leverage ratio add-on have different purposes. So the P2R is basically to cover risks that are not covered or not sufficiently covered under Pillar 1, and the Pillar 2 leverage ratio add-on is about the risk of excessive leverage. It may well be that there are cases where the risk of excessive leverage is increasing, and there's less risks of the type that have just been described that are not sufficiently accounted for in Pillar 1, where that is declining, or the other way round. So there's not necessarily a link between these two, as you've been suggesting. So these are just different assessments. We take a very detailed approach, risk by risk. We look at all the banks, we look at the different elements of the SREP and this can be one outcome, but again this is not a statement about an individual bank where this may have happened.
+
+1.
+
+The CET1 ratio was 12.7% and the leverage ratio was 5.3% in the second quarter of 2015 and the third quarter of 2016 respectively.
+
+As at the second quarter of 2024, including cash balances at central banks and other demand deposits. Excluding cash balances at central banks and other demand deposits, the figure is 2.3%. 3.
+
+The 5.5% return on equity corresponds to the period from the second quarter of 2015 until the second quarter of 2022, while the 9.2% return on equity corresponds to the period from the second quarter of 2022 until the second quarter of 2024.
+
+4.
+
+Rumpf, M. (2024), "Cross-border deposits: growing trust in the euro area", The ECB Blog, ECB, 24 October.
+
+5.
+
+6.
+
+The overall SREP score ranges from 1 to 4, with higher scores reflecting higher risks to a bank's viability.
+
+7.
+
+A similar increase was measured in terms of total capital (comprising CET1, Tier 1 and Tier 2 capital), where the overall requirements and Pillar 2 guidance increased slightly to 15.6% of risk-weighted assets from 15.5% in the 2023 SREP cycle.
+
+8.
+
+European Systemic Risk Board (2024), Overview of national macroprudential measures, September.
+
+## CONTACT
+
+## European Central Bank
+
+## Directorate General Communications
+
+- &gt; Sonnemannstrasse 20
+- &gt; 60314 Frankfurt am Main, Germany
+- &gt; +49 69 1344 7455
+- &gt; media@ecb.europa.eu

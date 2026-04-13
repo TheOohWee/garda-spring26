@@ -1,0 +1,75 @@
+## Piero Cipollone: Innovating for stability - central bank money in the digital era
+
+Welcome address by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at an event hosted by the Deutsche Bundesbank for central bank representatives attending the Sibos conference, Frankfurt am Main, 30 September 2025.
+
+* * *
+
+Almost exactly one year ago, I gave a speech - also here at the Bundesbank - outlining a vision for the future of digital finance and the role of central bank money in this new ecosystem. 1
+
+Fast forward 12 months, and the pace of transformation seems to have quickened even more. Innovative digital payment solutions and digital assets are receiving increasing attention, with market participants scrambling to position themselves favourably to ensure they do not miss out. The opportunities and risks are being discussed at length. 2
+
+So what does this mean for central banks? Today, I will argue that we need to innovate to keep central bank money at the technological frontier so that it can continue to act as an anchor of trust and stability for the financial system. I will also discuss the implications for retail, wholesale and cross-border payments.
+
+## Keeping central bank money at the forefront of technology to preserve its role as an anchor of trust and stability
+
+Our vision has not changed: central bank money must remain the anchor of trust and stability at the heart of the financial system. In retail transactions, cash provides immediate and risk-free settlement directly between the payer and the payee. In wholesale markets, settlement in central bank money eliminates counterparty risk and provides finality in large-value transactions. In both cases, trust in private money relies on its convertibility with central bank money.
+
+In other words, central bank money is the glue that holds the singleness and unity of our currency in place and secures the integrity of our financial system. And as finance becomes increasingly digital and new technologies emerge, we must adapt to ensure that central bank money remains reliable and available. This is the only way we can stay true to our mandate of issuing central bank money - the only risk-free settlement asset - and ensure that payment systems function smoothly. It will also encourage digital innovation and keep it safe.
+
+I know that many of you share the Eurosystem's vision and - like us - are working hard to make it a reality. For central bank money to keep its stabilising and unifying role in the future of finance and payments, it must stay at the forefront of technology. This is the pre-condition for preserving the balance between public and private money that has served us well until now.
+
+## Implications for retail, wholesale and cross-border payments
+
+Within the Eurosystem, we have considered the implications of the digital transformation for our own role in retail, wholesale and cross-border payments.
+
+## Retail payments
+
+With everyday retail payments becoming increasingly digital, the role of physical central bank money - cash - is being reduced, creating risks to competition, inclusion, resilience and monetary sovereignty. And for the euro area, the risk to integration is particularly concerning - cash as the legal tender has always provided a means of payment that can be used everywhere across our monetary union. This is why we are working on a digital euro. 3
+
+But we have not forgotten about banknotes: we are still working on making them safer, more durable and more accessible. We are redesigning them to ensure they remain relatable. And we are advocating a strengthening of their legal tender status to ensure they continue to be widely accepted. 4
+
+## Wholesale payments
+
+The starting point for wholesale payments is different, because central bank money already exists in digital form and plays a central role. In the euro area, T2 is used to settle over 90% of the value of large payments between financial institutions. TARGET2Securities has harmonised securities settlement in central bank money across borders. And the new Eurosystem Collateral Management System has just gone live, providing a harmonised platform for collateral operations across the euro area. We are also preparing for the move to T+1 settlement by 2027 to reduce counterparty risk, and are learning from the experiences of those of you who have already done so.
+
+Our challenge today is to preserve the centrality of central bank money for wholesale settlement as new technologies emerge. Not because we are selfishly or ideologically trying to protect our own role, but because we want to avoid reintroducing credit risk or liquidity fragmentation into the system. As we are being told by market participants themselves, this is crucial for digital asset markets to develop confidently and safely. It is also in keeping with the principles for financial market infrastructures. 5
+
+Although the full potential and limits of these new technologies - and thus the pace and magnitude of their adoption - remain uncertain, we cannot ignore them. If we take the film industry as an analogy, the switch from DVD to Blu-ray marked a significant improvement. However, as the internet became faster and more widely available, a true paradigm shift occurred: streaming emerged and more or less completely replaced physical media in providing access to digital content.
+
+We cannot exclude that a similar shift might happen with the digitalisation of finance, Markets are already experimenting with tokenised securities and distributed ledger technologies (DLT) , which promise efficiency gains, programmability and new 6 possibilities for integrating trading, settlement and custody services. But without the anchor of central bank money, these experiments risk creating new silos, new
+
+dependencies and new vulnerabilities. That's why we want to ensure that central bank money remains available in this new environment, and in so doing prevent fragmentation that would strip this innovation of the benefits it offers.
+
+A year ago I outlined my vision of how to respond to this challenge. Today, we are turning that vision into reality. The Eurosystem has successfully tested the settlement of wholesale transactions in central bank money using distributed ledger technology. 7 We have now launched Project Pontes, which will provide a bridge between new DLT platforms and TARGET settlement services. 8 A first release will be available in a year's time, allowing tokenised transactions to be settled in central bank money. We are also working on how to make digital assets deployable as collateral for our monetary policy operations.
+
+We have also launched Project Appia, which will explore longer-term approaches for more efficient and integrated capital markets in Europe by leveraging distributed ledger technologies. 9 Appia could offer a shared ledger integrating central bank money, commercial bank money and other assets for market services. Alternatively, it could take the form of a network of interoperable platforms to reduce market frictions and foster innovation. This could lay the foundation for a truly European digital capital markets union that would be integrated from the outset.
+
+## Cross-border payments
+
+Beyond domestic payments, we are also increasingly called upon to take action when it comes to cross-border payments, which too often remain slow and expensive. By cooperating internationally, we can help deliver on the objectives of the G20 Roadmap 10 in a way that is more respectful of the sovereignty and financial stability of our respective countries than some alternatives that might trigger currency substitution. 11 Many of us are already working on common projects, such as Project Agora steered by the Bank for International Settlements (BIS). This is a promising avenue that will nevertheless require time to get up and running. While working on this, we also need to provide quicker answers to satisfy customer and market needs. We can do so by sharing common platforms that allow for cross-currency settlement. This currently happens in the euro area, where other European countries such as Denmark and Sweden use these common platforms, with Norway also set to use them soon. 12 Alternatively, we can interlink our fast payment systems. For instance, the Eurosystem is exploring interlinking our TARGET Instant Payment Settlement (TIPS) system with those of other countries. We started exploring this option with Project Nexus and India's Unified Payments Interface. 13 Similarly, we recently announced that we will start working with our Swiss colleagues to link our fast payments systems, 14 and we are already discussing with other possible partners.
+
+## Conclusion
+
+Our role as central banks has always been to provide the safest settlement asset at the core of the financial system. We have innovated constantly and must do so once again.
+
+Digitalisation and tokenisation are reshaping payments and finance. This is creating anxiety and a rush to find quick fixes. To avoid fragmentation, instability or resources being wasted, a steady hand is needed to provide a vision and outline the way forward.
+
+As central banks, we have a key role to play: our task is to ensure and reassure markets that central bank money remains available, safe and efficient in this new environment, and will continue to fulfil its role in preserving financial stability and trust in our currencies.
+
+Technology can help us achieve greater efficiency and resilience. If we succeed in using it to our advantage, we will have seized the moment, helping to maximise the opportunities and minimise the risks in the public's best interests.
+
+- 1 Cipollone, P. (2024), " Towards a digital capital markets union", keynote speech at the Bundesbank Symposium on the Future of Payments, 7 October.
+- 2 See BIS (2025), " The next-generation monetary and financial system", BIS Annual . Economic Report 2025
+- 3 Cipollone, P. (2025), " The digital euro: legal tender in the digital age", introductory statement at the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 14 July, and Cipollone, P. (2025), "The digital euro: ensuring resilience and inclusion in digital payments", introductory statement at the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 4 September.
+- 4 See Cipollone, P. (2025), " ", , ECB, 4 Making euro cash fit for the future The ECB Blog August.
+- 5 Bank for International Settlements (2012), Principles for financial market , April. infrastructures
+- 6 For instance, global DLT-based fixed income issuance reached €3 billion in 2024, which represented a 260% increase over the prior period. For more information, see Association for Financial Markets in Europe (2025), "AFME Launches Data Report ", , 10 February. Series on DLT-Based Capital Market press release
+- 7 ECB (2025), The Eurosystem's exploratory work on new technologies for wholesale , June. central bank money settlement
+- 8 See the ECB's webpage on Project Pontes for more details.
+- 9 ECB (2025), "ECB commits to distributed ledger technology settlement plans with ", , 1 July; and ECB (2025), dual-track strategy press release Focus Session -. Advancing TARGET Services with DLT transactions in central bank money
+
+- 10 See paragraph 16 in G20 (2020), , Leaders' Declaration - G20 Riyadh Summit 22 November; Financial Stability Board (2020), Enhancing Cross-border Payments , 9 April; Committee on Payments and Market Infrastructures Stage 1 report to the G20 (2020), Enhancing cross-border payments: building blocks of a global roadmap - Stage , Bank for International Settlements,13 July; and Financial Stability 2 report to the G20 Board (2020), , 13 October. Enhancing Cross-border Payments - Stage 3 roadmap
+- 11 Cipollone, P. (2025), " The quest for cheaper and faster cross-border payments: regional and global solutions", speech at the BIS Annual General Meeting, Basel, 27 June.
+- 12 ECB (2024), " TIPS to include cross-currency instant payments service", 21 October.
+- 13 ECB (2024), " TIPS to connect to other fast payment systems globally", 21 October.
+- 14 The Eurosystem and the Swiss National Bank will explore linking TIPS with the Swiss Interbank Clearing Instant Payments (SIC IP) system. The project will run until 2026 and will test feasibility and benefits. See ECB (2025), "ECB and SNB explore link ", , 29 September. between instant payments systems MIP News

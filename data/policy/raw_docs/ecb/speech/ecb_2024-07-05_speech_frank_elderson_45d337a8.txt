@@ -1,0 +1,62 @@
+## Frank Elderson: Embedding a strong data culture in supervision another stepping stone towards effective supervision
+
+Introductory remarks by Mr Frank Elderson, Member of the Executive Board of the European Central Bank and Vice-Chair of the Supervisory Board of the European Central Bank, at the Data Innovation for the Future of Regulation (DIFoR) conference, organised by the Financial Conduct Authority, London, 5 July 2024.
+
+* * *
+
+## Introduction
+
+Thank you for inviting me to join this panel on a topic that is of paramount importance for us at ECB Banking Supervision: embedding a strong data culture in the very fabric of our supervisory work.
+
+The data revolution is already producing seismic shifts in our societies. New data are being generated at an unprecedented pace. By 2025, the total global amount of data created, captured, copied and consumed is expected to reach 181 zettabytes, up from just two zettabytes in 2010. One zettabyte is equivalent to one trillion gigabytes. If each gigabyte in a zettabyte were a brick, we are talking about enough data to build the Great Wall of China 258 times over.
+
+And we are also seeing considerable strides in data innovation. For instance, researchers from the University of Chicago recently found that generative artificial intelligence outperformed financial analysts in predicting future earnings. 1
+
+So, what does this avalanche of data and innovation mean for banking supervision? And more importantly, how can prudential supervisors reap the benefits?
+
+## Why embedding a strong data culture in supervision is crucial
+
+The question is no longer about whether we should use these data. It is about how we can use them in the most effective way possible. And for this we need technology, as it is simply not possible to analyse this avalanche of data manually. Embedding a strong data culture and using appropriate technology therefore go hand in hand.
+
+The use of data and innovative tools in the banks we supervise is expanding at an astonishing pace. As supervisors, we must remain at the forefront of these technological developments. 2 Data and technology do not only offer substantial efficiency gains. They also improve risk identification processes, helping us to keep a closer grip on the risks in the banks we supervise.
+
+This is why we are making greater use of digital tools in our Supervisory Review and Evaluation Process (SREP), which we recently updated. 3 For instance, we are exploring how supervisors can use artificial intelligence and large language models for routine yet often time-consuming tasks. 4 In an increasingly complex risk landscape, this gives supervisors more time to focus on the most material risks facing banks.
+
+So, embedding a strong data culture in supervision is no longer a choice. It is an unquestionable business need. But how exactly do we go about it?
+
+## Supervision at your fingertips: suptech tools
+
+Clearly, not all supervisors are data scientists. Their job is to scrutinise the health of the banks they supervise. Bearing in mind the challenges they may face, our goal must be to implement data-driven solutions in a safe and user-friendly way.
+
+At ECB Banking Supervision, a key element of our new Digital Strategy 2024-28 is the idea of "'supervision at your fingertips". The aim is to enable supervisors to access key information about the risks facing the banks they supervise in just a few clicks, combining the powers of technology, data and innovation. Think of it as a "smartphone for supervisors" with a wide range of applications that supervisors can customise to their tasks and preferences.
+
+Over the past three years, we have been working with national supervisors to develop supervisory technology (suptech) tools in order to address a number of pressing business needs. 5 More than a dozen of these tools have already gone live and are making the daily work of supervisors easier. Today, over 3,500 colleagues across European banking supervision can use them to improve risk analysis, the consistency of decision-making and collaboration.
+
+Athena, a platform driven by artificial intelligence, is one example. It helps supervisors find, extract and compare information from a wide variety of sources, ranging from bank documents and supervisory reports to news articles and other external data. Think of it as ChatGPT for supervision - helping supervisors identify patterns, extract key insights and improve the quality of their work.
+
+But with the development of generative AI, we are also entering uncharted waters. As with any new technology, it brings the challenge of the unknown. This means we have to take all the necessary steps to guard against potential risks. For this reason, Athena operates in a safe and secure environment tailored to our supervisory needs, providing supervisors with robust results while ensuring data confidentiality.
+
+Moreover, we have been clear that supervisors will remain in the driving seat when it comes to taking final supervisory decisions. Supervisory judgement is - and always will be - at the core of effective, risk-based supervision.
+
+At the same time, the potential risks associated with new technologies should not be a source of fear. Fear of artificial intelligence and innovation should not be an obstacle to unlocking the considerable potential of these tools to improve the way we work.
+
+## International cooperation and sharing good practices
+
+We are committed to making our supervision more effective through the use of data and innovative tools. And we are doing so together with our partners around the world. We
+
+are all facing similar challenges - from Mexico to South Africa, from the United Kingdom to India. This is why, in my view, working closely with other supervisors and central banks and sharing our knowledge is crucial. 6
+
+And in recent years we have in fact strengthened our cooperation with our partners. Together with the Bank of England and the Financial Conduct Authority, for example, we have identified some initial areas in which we can collaborate to develop suptech tools.
+
+Let us - together - have an open dialogue about good practices and use cases for suptech tools. Let us unlock the considerable potential of data and innovative tools to chart the future course of banking supervision. And let us prepare for any potential risks that the technological revolution may bring.
+
+Embedding a strong data culture in supervision will be key if we are to continue delivering high-quality, efficient and effective supervision in the years to come.
+
+Thank you for your attention.
+
+- 1 Kim, A., Muhn, M. and Nikolaev, V.V. (2024), "Financial Statement Analysis with Large Language Models", 20 May.
+- 2 At ECB Banking Supervision we have therefore established links with leading academic institutions, research centres and course providers such as MIT, INSEAD and Coursera.
+- 3 Buch, C. (2024), "Reforming the SREP: an important milestone towards more efficient ", , 28 May. and effective supervision in a new risk environment The Supervision Blog
+- 4 Supervisory technology tools such as Athena and Delphi, which make use of artificial intelligence to understand and analyse text, are already being used to support supervisors. See ECB (2023), " Suptech: thriving in the digital age", Supervision , ECB, 15 November. Newsletter
+- 5 McCaul, E. (2024), " SSM digitalisation - from exploration to full-scale adoption", presentation at Central Banking's Summer Meetings, 12 June.
+- 6 As the Bank for International Settlements also recently highlighted, noting that "central banks need to come together and foster a "community of practice" to share knowledge, data, best practices and AI tools". See Bank for International Settlements (2024), " Artificial intelligence and the economy: implications for central banks", BIS Annual , 25 June. Economic Report

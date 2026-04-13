@@ -1,0 +1,114 @@
+SPEECH
+
+## Digital Finance: does it change the trade-off between risk and resilience?
+
+Welcome address by Claudia Buch, Chair of the Supervisory Board of the ECB, at "The Future of Digitalization and Finance" symposium, organised by Deutsche Bundesbank
+
+Frankfurt am Main, 22 March 2024
+
+Thank you very much for organising this symposium on "The Future of Digitalization and Finance". | am very grateful and honoured that it coincides with the farewell event for Joachim Wuermeling and me. | would like to thank the distinguished panellists for accepting the invitation to speak here today and | would like to thank all of you for coming.
+
+First and foremost, | would like to thank all the dear colleagues here at the Bundesbank with whom | have worked closely over many years. Our work together has shaped my thinking about the banking and financial system, financial stability, the key role of our institutions in Europe and beyond, and the essential role of central banks in contributing to financial stability and the welfare-enhancing integration of financial markets. In today's uncertain world, this is more important than ever.
+
+| would like to thank you wholeheartedly for the great cooperation, and | am proud of what we have achieved together.
+
+But the almost ten years that | spent at the Bundesbank as its Vice-President were in fact neither the beginning nor the end of our cooperation. Since the early 2000s, | have worked closely with the Bundesbank on many research projects, and in my new role as Chair of the Supervisory Board of the ECB, | will continue to work with all of you.
+
+Dealing with today's topic — the implications of digitalisation and its impact on the stability of banks — remains our joint responsibility within the Eurosystem.
+
+Today's banks operate in an environment which looks radically different to how it looked 30 years ago, due in no small part to the transformative impact of digitalisation. The digital revolution, along with the rise of artificial intelligence, has the potential to fundamentally affect the key functions that banks perform in the economy. Reducing information asymmetries, mitigating moral hazard, and leveraging their unique position to provide deposit-taking and lending services — these functions determine banks' franchise value and their role in the financial system.
+
+This raises three important questions.
+
+First, are we now witnessing a technological breakthrough in the provision of financial services? Remember what Paul Volcker said in 2009, "The most important financial innovation that | have the 20 is the automatic teller machine".4]
+
+seen past years
+
+Second, how does digitalisation affect banks' risk/return trade-off? Does it lead to more competition and compression of margins, which induces a search for yield, which can in turn destabilise the financial system? Or are there counterbalancing forces that allow banks to better manage risks? Third, what is the correct regulatory response to these trends? In my view, close cooperation across countries and sectors and addressing sources of systemic risk are key elements of the regulatory response.
+
+We certainly won't be able to answer all these questions today, but | am very much looking forward to the panel discussion.
+
+## The changing landscape of competition in banking
+
+The banking sector has undergone a significant transformation over the past 30 years. Let me highlight three shifts that have changed the landscape of competition in banking.
+
+First, the internationalisation of banks has proceeded at a rapid pace. Let me give a European example. Today, international banks have a significant presence in central and eastern Europe, a development that was driven by deregulation and privatisation. This marks a stark contrast to the early 1990s when central and eastern European countries began opening up. Historically, foreign banks primarily expanded overseas to follow their corporate customers. Outside of financial centres, their market shares were largely confined to trade-related business. But now, the landscape has transformed significantly; both international trade and international finance have seen considerable growth, facilitating the entry of foreign banks into new markets. 21
+
+Second, banks are facing increased competition, particularly since the global financial crisis. This competition has come from non-bank financial institutions (NBFls) such as investment funds, insurance companies and peer-to-peer lenders, but also from bigtech firms and fintech start-ups. Several factors have driven this trend, including stricter regulation of banks and a growing demand for different or more innovative financial services. While bigtech firms have leveraged their massive user bases, technological expertise and data analytics capabilities to offer services, fintech start-ups have often been at the forefront of financial innovation.
+
+Third, the digitalisation of financial services does indeed mark a pivotal point in the banking sector's development. The digital transformation is not just changing the types of services offered but it is also redefining how these services are delivered and consumed. Digitalisation is changing the way in which financial services can be bundled together. The key complementary services of the future may not be deposit taking and lending, but financial institutions may obtain a comparative advantage in terms of the information available from online commercial activity and social media. Digitalisation also reduces the cost of providing cross-border financial services, reducing the need for a physical presence in foreign markets, which may in fact benefit integration.
+
+## How does digitalisation affect the stability of banks?
+
+What does the digitalisation of financial services imply for supervisors and regulators? Not only is the jury still out on whether digitalisation increases or decreases the degree of competition in the provision of financial services. There is also no clear answer as to how competition affects stability and how it affects the risk/return trade-off in the banking system. On the one hand, forces that restrict competition may increase stability. Weak competition generates monopoly rents, which banks may want to protect by investing in safer assets. On the other hand, instabilities may increase in less competitive markets, as banks with greater market power can set higher interest rates, which may lead to borrowers opting for riskier projects, thus resulting in banks becoming riskier. Empirical studies actually show that the risk/return trade-off in banking depends on the types of risk (portfolio risk, insolvency risk, liquidity risk, systemic risk) and the business model being considered (retail versus wholesale banks)./4]
+
+How do the trends that we have seen over the past 30 years change the risk/return trade-off? Let's take internationalisation first. The internationalisation of banking facilitates a more efficient diversification of risk. By operating across different countries, banks can spread their exposures over a wider array of economic environments and sectors. International banking operations can achieve a more stable return on investments by leveraging this lack of perfect correlation between different markets. On the flip side though, the internationalisation of banking creates avenues for easier spillover of financial shocks from one country to another. Ina highly interconnected global banking network, stress in one country's banking sector can quickly affect financial institutions and markets in other countries. Shocks can ripple through the international banking system, affecting banks with exposure to that market through losses on investments or reduced confidence among depositors and investors.
+
+The banking union that was established ten years ago is a response to the potentially adverse effects of integration and, at the same time, a channel through which sustainable integration can be enhanced. The global financial crisis and the euro area sovereign debt crisis exposed significant vulnerabilities within the European banking sectors as well as the inadequacy of national supervisory frameworks to manage cross-border banking risks. With the start of the Single Supervisory Mechanism (SSM) in 2014, whereby the ECB assumed direct supervision of significant banks in participating countries, common supervisory standards were established and enforced. This ensures consistent supervision and a more holistic monitoring of the cross-border activities and exposures of banks within the SSM, supporting the integration of the European banking market. The ECB's Annual Report on Supervisory Activities 2023 provides insights into the measures taken to enhance the resilience of the
+
+European banking sector.{6]
+
+Changes in competition through the growth of NBFls likewise affect the stability of banks, with both beneficial diversification of risks and the introduction of new channels of contagion. On the positive side, increased competition from NBFls can lead to a more diversified financial system. Diversification can spread risks across a wider array of institutions with different abilities to bear these risks. The system as a whole can become more resilient to shocks. However, competition from NBFls introduces new vulnerabilities, particularly related to liquidity risk and high leverage, and it may increase incentives to take risk. Reliance on short-term funding makes NBFls susceptible to liquidity squeezes, whereby they may be forced to sell assets at depressed prices and potentially triggering a downward spiral in asset prices. Furthermore, the interconnectedness between banks and NBFIs means that distress in the non-bank sector can quickly transmit to banks through direct exposures, common asset holdings, and market sentiment. An important way in which banks can mitigate this risk is by investing more in the assessment and management of the risks of their non-bank counterparties.
+
+Finally, digitalisation affects risks and return in banking. On the one hand, digitalisation may expose banks to new risks such as cyberattacks and a high dependency on third-party providers. Cyber threats can compromise data integrity, privacy and the overall operational continuity of banks. The ECB is currently conducting a cyber resilience stress test on 109 directly supervised banks to assess how banks respond to and recover from a cyberattack.!8! Similarly, dependency on a limited number of technology providers for critical services can introduce significant systemic risks if any of these providers fail or experience disruptions. The Digital Operational Resilience Act (DORA) thus provides supervisory authorities with more competences for the oversight and supervision of banks' outsourcing activities. On the other hand, a higher concentration within the financial sector, often a consequence of digital transformation, may imply higher profitability and the ability to build larger buffers against risks. Moreover, by cooperating with fintech firms and integrating innovative solutions, banks may also benefit from a more efficient provision of their financial services.
+
+## Regulatory responses to the digitalisation of financial services
+
+The current prudential framework for the regulation of banks is designed to be technologically neutral, recognising that regulators and supervisors do not have superior knowledge to market participants regarding the most effective technological solutions. But this certainly does not imply that we should ignore technology. Instead, we need to understand the impact of digitalisation on risks in the financial system and respond to potentially destabilising forces.
+
+Digitalisation certainly reinforces the need for policy and supervisory coordination, both across countries and sectors. Bank risks never stopped at borders, but the digitalisation of financial services certainly affects the speed and nature of shock transmission. The Financial Stability Board (FSB), reinvigorated since the global financial crisis, thus plays a crucial role in coordinating international efforts to monitor and address the financial stability risks posed by digitalisation. Similarly, the Basel Committee on Banking Supervision (BCBS) has been instrumental in setting global standards for the prudential regulation of banks, adapting these standards to account for the digitalisation of financial services. Both the FSB and the BCBS have established frameworks for the evaluation of regulatory policies, which are crucial for the accountability and transparency of supervisors and regulators. In Europe, the push for better coordination has led to significant progress towards a banking union as well as to the call for a capital markets union. Both a banking union and a capital markets union are essential steps in creating a more integrated and resilient financial system.
+
+In this cooperation, systemic risks arising from digitalisation and from changes in the provision of financial services need to be addressed. After the global financial crisis, stricter regulations were imposed on banks to reduce the likelihood and impact of future crises. The reforms aimed to bolster the resilience of banks by enhancing their capitalisation, thus enabling them to better absorb losses and reduce systemic risk. Reforms also tackled the "too-big-to-fail" issue by imposing higher capital requirements on large, systemically important banks and enhancing mechanisms for their recovery and resolution, lessening the financial burden on taxpayers in case of bank failures.
+
+We similarly need to address systemic risks arising from non-banks. NBFls, much like banks, play a crucial role in the global financial ecosystem, engaging in activities that affect liquidity flows and market functioning both domestically and internationally." Like banks, non-banks need sufficient resilience to reduce the likelihood of distress and to mitigate the amplification of shocks, taking a systemic perspective rather than focusing solely on indivi ual institutions.
+
+While crypto-assets are not systemically relevant at present due to their small market capitalisation, history teaches us to be vigilant. The task at hand for regulators involves a comprehensive assessment of potential future systemic risks, requiring preventive regulation to address these risks before they materialise." This involves close monitoring, international cooperation to close regulatory gaps, and a concerted effort to prevent regulatory arbitrage. In this sense, the Markets in CryptoAssets (MiCa) regulation is a key European response to the provision of crypto-related services.
+
+Finally, an emerging challenge in the digital financial landscape is the blurring of lines between policy areas. Digital financial services often cut across traditional sectoral boundaries, combining elements of banking, investment and insurance services, etc. Policies aimed at fostering innovation in financial technologies can thus have significant implications for several policy areas. Hence, prudential supervisors not only need to coordinate with each other, but also with competition authorities to understand the dynamic market forces at play. This coordination is crucial for ensuring that the drive towards digitalisation and the resulting market concentration, not least due to the market power of third-party providers of financial services, do not undermine financial stability.
+
+1.
+
+Volcker, P (2009), 'The only thing useful banks have invented in 20 years is the ATM', Opinion, New York Post, 13 December.
+
+2.
+
+McCauley, R.N., McGuire, P. and Wooldridge, P. (2021), "Seven decades of international banking", B/S Quarterly Review, Bank for International Settlements, September.
+
+3.
+
+Dean Corbae and Ross Levine prepared for the 2018 Jackson Hole Symposium "Changing Market Structure and Implications for Monetary Policy", Jackson Hole, 25 August.
+
+4.
+
+Freixas, X. and Ma, K. (2014), "Banking Competition and Stability: The Role of Leverage", CentER Discussion Paper Series No 2014-048, European Banking Center Discussion Paper Series No 2014009, WBS Finance Group Research Paper No 222, 29 August.
+
+5.
+
+Allen, F. and Gale, D. (2000), "Financial Contagion", Journal of Political Economy, Vol. 108, No 1, February.
+
+6.
+
+ECB (2024), ECB Annual Report on supervisory activities 2023, March.
+
+7.
+
+ECB (2023), Sound practices in counterparty credit risk governance and management, October.
+
+8.
+
+ECB (2024), "ECB to stress test banks' ability to recover from cyberattack", press release, 30 January.
+
+9.
+
+ECB (2024), "Statement by the ECB Governing Council on advancing the Capital Markets Union", 7 March.
+
+10.
+
+Buch, C. and Goldberg, L. (forthcoming) "International Banking and Non-Bank Financial Intermediation: Global Liquidity, Regulation, and Implications', paper prepared for the 4th Edition of the Oxford Handbook of Banking (Oxford University Press).
+
+11.
+
+Bu se
+
+- "Are crypto-assets a threat to financial stability?" Speech prepared for the seminar
+- Finance, University of Hohenheim, 20 April.

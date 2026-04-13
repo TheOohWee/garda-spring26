@@ -1,0 +1,53 @@
+## Claudia Buch: Introductory statement - public hearing at the European Parliament
+
+Introductory statement by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the Hearing of the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 2 September 2024.
+
+* * *
+
+Thank you very much for the opportunity to exchange views with you, the members of the newly elected European Parliament's Committee on Economic and Monetary Affairs. Providing our perspectives on the European banking sector is crucial for our transparency and accountability.
+
+Let me begin with our assessment of the state of the banking sector, bearing in mind that the economic environment in recent years has been far from favourable. The pandemic, the energy supply shock following Russia's full-scale invasion of Ukraine, and high inflation have exposed European economies to unforeseen challenges.
+
+In the face of these challenges, Europe's banking sector has shown resilience. Banks possess capital and liquidity buffers that would enable them to absorb potential losses and adverse shocks. Bank profitability has benefited from higher interest rates, which is reflected in higher valuations of bank stocks. However, the effects of this supporting factor are gradually diminishing.
+
+Improved bank resilience has been driven by two factors. The financial sector reforms implemented in the aftermath of the 2008 financial crisis have strengthened banks without compromising their lending capabilities. In addition, banks have indirectly benefited from policy support which has helped shield the real economy from recent adverse shocks. Corporate insolvencies and associated loan losses have thus been contained.
+
+As a result, banks currently find themselves in a situation that is markedly different from the early days of banking union a decade ago. In 2015 the average ratio of nonperforming loans for significant institutions was 7.5% , with some banking systems 1 experiencing ratios close to 50%. By March 2024, this ratio had decreased to 2.3%, with a significant decline in differences across countries. Banks' capital ratios have improved, particularly in terms of risk-weighted ratios. The Common Equity Tier 1 ratio for significant institutions rose from 12.7% in 2015 to 15.7% in early 2024.
+
+But we cannot be complacent: the macro-financial and geopolitical environments have changed significantly. Banks must navigate new risks and structural changes, and loan losses may increase. Therefore it is vital that resilience is maintained. With this in mind, our supervisory agenda focuses on three areas.
+
+First, digitalisation is fundamentally transforming the provision of financial services. As information processing is a key economic function of banks, digitalisation is a game changer. Maintaining up-to-date, secure IT systems is essential for banks to compete successfully. At the same time, cyberattacks on banks have become more frequent and
+
+severe. This year, we conducted a cyber resilience stress test to evaluate banks' 2 ability to withstand a severe but plausible cyberattack. It revealed that banks generally have response and recovery frameworks in place, but improvements are needed. The 3 results of the stress test will inform our annual assessment of banks' health, the Supervisory Review and Evaluation Process.
+
+Second, the impact of adverse geopolitical developments on banks is reflected in our supervisory priorities for 2024-2026. Geopolitical events differ from more traditional risk drivers because they are highly uncertain and insufficiently reflected in historical data. Nevertheless, they transmit into increased credit, liquidity, market, and operational risks, for example by disrupting value chains or third-party service provision. Banks must therefore use scenario analyses and factor uncertainties into their capital planning. They may also need to reassess their geographical exposures and outsourcing strategies.
+
+Third, bank resilience to climate and environmental risks must be strengthened. By the end of this year, banks must meet our supervisory expectations for managing such risks. 4 Let me stress that elected governments and legislators are responsible for climate policies. However, it is within our mandate to ensure that banks manage physical and transition risks effectively. When we began our work on climate and environmental risks about five years ago, the vast majority of banks had hardly addressed them. Although significant progress has been made since then, there is still much work to be done.
+
+As uncertainty remains high across all these areas, maintaining and strengthening bank resilience overall will continue to be our supervisory focus. Resilient banks can respond to shocks without disrupting the provision of financial services, jeopardising financial stability or requiring ad hoc policy interventions. Resilience encompasses several dimensions - sound capital and liquidity positions, up-to-date IT systems, and operational resilience. These require long-term funding. Currently, profit levels are relatively high, which provides a good opportunity for banks to invest in strengthening their resilience.
+
+The upcoming implementation of Basel III will further enhance bank resilience. The swift and faithful implementation of the Basel framework in all major jurisdictions is essential.
+
+Ensuring bank resilience in an uncertain environment requires, in particular, sound governance and risk management. While progress has been made, we are still identifying deficiencies. In July 2024 we launched a public consultation on a new draft guide on governance and risk culture with the aim of clarifying supervisory expectations. 5
+
+Just as banks must respond to new challenges, so too must our supervision. In May this year, the ECB's Supervisory Board decided on a reform that makes European banking supervision more efficient, effective, and intrusive. The Supervisory Review 6 and Evaluation Process will become more flexible and more targeted towards relevant risks. Better integration of various supervisory activities and more focused communication will enhance transparency. If banks do not address identified weaknesses in a timely manner, we will escalate our supervisory action sooner.
+
+Strong supervision and regulation yield a double dividend: better capitalised banks are a more stable source of funding for the real economy and they are more competitive. Legislators should resist the temptation to relax banking regulation, as this would not promote competitiveness.
+
+Beyond strong supervision and regulation, progress towards banking union and capital markets union is needed.
+
+First, credible resolution is an essential complement to effective supervision. Simplifying the application of resolution tools, providing the necessary funding without drawing on taxpayers' money, and enabling timely intervention when banks come under serious distress are crucial. In the upcoming trilogue, it will be important that the balance of the Commission's original proposal for crisis management and deposit insurance is preserved.
+
+Second, a European deposit insurance scheme - EDIS - remains a core pillar of banking union. Risks have decreased significantly and common supervisory standards have been established. These preconditions for EDIS are now met, and moving it forward will be important for credibly weakening adverse feedback loops between the stability of banks and sovereigns.
+
+Third, capital markets union holds significant potential to channel funds towards the most productive sectors of the European economy. Equity finance in particular is needed for long-term and risky investments. Capital markets union can unlock these sources of funding by reducing frictions that hinder market integration. While bank finance will continue to play an essential role in supporting the real economy, it will complement market-based finance. Moreover, harmonising relevant legislation will help integrate banking markets further.
+
+To conclude, we look forward to engaging and collaborating with you throughout the next legislative cycle. We are ready to share our assessments and to offer our technical expertise. Our commitment is to make supervision and regulation more effective in preserving bank resilience.
+
+- 1 The ratio for each EU Member State is calculated by summing the non-performing loans and total loans of all banks in the sample within each Member State separately and then dividing the two figures. For more details, see Methodological note for the publication of aggregated Supervisory Banking Statistics for significant institutions (SIs).
+- 2 See ECB (2023), IT and cyber risk - key observations. The results of the 2024 edition are set to be published by end of this year.
+- 3 See ECB (2024), "ECB concludes cyber resilience stress test", press release, 26 July.
+- 4 See Elderson, F. (2024), "You have to know your risks to manage them - banks' materiality assessments as a crucial precondition for managing climate and environmental risks", The Supervision Blog, 8 May.
+
+- 5 See ECB (2024), "ECB consults on governance and risk culture", press release, 24 July.
+- 6 See Buch, C. (2024), "Reforming the SREP: an important milestone towards more efficient and effective supervision in a new risk environment", The Supervision Blog, 28 May.

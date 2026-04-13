@@ -1,0 +1,269 @@
+SPEECH
+
+## Resisting deregulation: safeguarding bank resilience in an evolving financial landscape
+
+## Speech by Isabel Schnabel, Member of the Executive Board of the ECB, at the farewell symposium in honour of Klaas Knot
+
+Amsterdam, 3 October 2025
+
+Geopolitical tensions, soaring asset valuations and financial innovation have put the topic of financial stability back on the agenda. But today, people are talking about hedge funds, bond market functioning, private credit, valuations of Al companies and stablecoins. They rarely mention banks.
+
+There is a good reason for this. As Klaas Knot explained at the latest ECB Annual Research Conference, in recent periods of financial stress banks have acted as shock absorbers rather than shock amplifiers. And this has been largely due to the comprehensive banking regulation introduced after the global financial crisis (GFC) of 2008.
+
+Today, however, these regulations are increasingly being questioned in an environment of growing nationalism and economic fragmentation, impeding international collaboration. In Europe, too, calls for the deregulation of banks are becoming louder.
+
+In my remarks today, | will argue that it is essential to preserve the resilience banks have built up following the post-crisis reforms. While the financial system has evolved and the sources of financial instability have shifted, banks continue to play a central role in the euro area, both for financing the real economy and for monetary policy transmission.
+
+Governments should therefore resist joining a "race to the bottom" when it comes to financial regulation. They should rather focus on increasing the efficiency of current regulation, while making the broader financial system more resilient and strengthening European integration and sovereignty.)
+
+## Deep and lasting scars left by the global financial crisis
+
+The global financial crisis of 2008 was one of the most painful and costly episodes in recent economic history. It exposed the fragility of banks that were under-capitalised and under-regulated, plunging economies into deep recession. Public bank bailouts and a persistent rise in unemployment contributed to an erosion of trust in institutions and helped plant the seeds of political polarisation.
+
+In the wake of the crisis, public debt-to-GDP ratios surged sharply, increasing by 20 to 60 percentage points across euro area economies within a few years. This culminated in the European sovereign debt crisis a few years later (Slide 2, left-hand chart).
+
+The need to repair the balance sheets of governments, firms and households resulted in a prolonged period of economic weakness. Hysteresis effects caused long-term damage to potential economic growth through reduced investment and lower productivity. 21 Almost two decades later, the euro area is still growing significantly below the pre-GFC trend (Slide 2, right-hand chart).
+
+In response to this traumatising experience, the international community agreed on a comprehensive package of banking sector reforms. These included the introduction of Basel Ill, the establishment of macroprudential policies and the strengthening of resolution regimes. Creating the European banking union was an important part of this drive to make the banking system more resilient.
+
+Overall, these reforms have proven a success. 3] Today, the capital ratios of euro area banks are more than double their pre-crisis levels, and liquidity coverage ratios are well above the minimum requirements, in spite of the gradual withdrawal of excess liquidity by the ECB (Slide 3).
+
+## Effective reforms helped banks withstand stress
+
+Higher capital and liquidity buffers have supported bank lending to firms and households even in periods of crisis and heightened uncertainty, considerably alleviating the economic and social damage of the shocks that hit the euro area economy in recent years.
+
+The first was the COVID-19 pandemic of 2020, which led to the largest drop in output since the Second World War. Financial markets faced acute stress as investors fled to quality in a "dash for cash" and non-bank financial intermediaries (NBFls) were forced to shed assets through fire sales.
+
+One of the main reasons a systemic crisis was averted was the soundness of banks' balance sheets, which also made large-scale monetary and fiscal interventions more effective.4] Banks became an anchor of stability, extending credit to liquidity-strained firms.
+
+Together, these factors prevented a credit crunch, which would have further exacerbated the macroeconomic fallout.
+
+The second example of financial stress occurred just a few years later, when inflation surged to levels not seen in decades and central banks around the world embarked on an unprecedented tightening cycle. Many market participants were caught off guard when central banks globally reversed course in 2022.
+
+Banks were hit by the sudden materialisation of interest rate risk, with their assets losing value as interest rates rose. Bank runs at Silicon Valley Bank and other medium-sized banks in the United States in the spring of 2023 showed that a sudden and unexpected turnaround in interest rates after a long period of low interest rates can have detrimental implications for banks.
+
+Yet euro area banks managed to deal with the rise in interest rates thanks to strong fundamentals. They benefited from diversified funding, hedging of interest rate risk and manageable maturity mismatches, as supervisors had insisted on balanced asset-liability management. This helped avoid distress in the banking sector.
+
+Overall, euro area banks have weathered these two crises remarkably well, confirming that the postGFC banking sector reforms — while not perfect — have delivered on their promise: to protect taxpayers by avoiding another costly systemic crisis.
+
+## Banks face new financial risks
+
+While banks are safer today, the financial system has developed further and undergone some fundamental structural changes, giving rise to new financial risks. In a rapidly evolving environment, regulation must adapt.
+
+## The rise of non-banks
+
+The most visible change has been the structural shift in the financial sector from banks to NBFIs. While in 1999 banks' financial assets exceeded those of non-banks by around 70%, NBFls have by now outpaced banks in terms of total assets (Slide 4, left-hand chart).
+
+As a result, the share of non-banks in total credit granted has risen sharply from 12% to 30% (Slide 4, right-hand chart). This suggests that credit activity has migrated to where regulation is less strict.
+
+At the same time, banks and non-banks are intricately intertwined through lending, funding, securities holdings and risk transfer arrangements, as they have endogenously adapted to the regulatory environment.
+
+In the euro area, significant linkages between banks and non-banks exist on both the assets and the liabilities side (Slide 5, left-hand chart). Today, 14% of the largest banks' assets and 22% of their liabilities reflect business with NBFls, some of which are connected to banks through ownership linkages.
+
+The largest part of bank funding from NBFls consists of uninsured deposits, which are particularly vulnerable to changes in market conditions. Moreover, such links are highly concentrated in a small group of systemically important banks, with 20% of banks accounting for around 90% of total loan and securities exposures and 95% of funding exposures (Slide 5, right-hand chart).
+
+This implies that risks from liquidity mismatches or financial leverage in euro area investment funds may easily spill over into the banking sector (Slide 6, left-hand chart). Such spillovers can be further amplified by common exposures in the event of fire sales. Hedge funds, bond funds and pension funds in particular have significant derivative exposures, which may give rise to margin calls and forced selling at times of market volatility (Slide 6, right-hand chart).{2]
+
+Hedge funds have also gained importance in European sovereign bond markets, where they account for a significant share of electronic trading volumes (Slide 7, left-hand chart). There is a risk that market volatility could be amplified significantly if highly leveraged hedge funds unwind their positions quickly, which could adversely affect banks via repo markets, even if the direct exposures remain small (Slide 7, right-hand chart).
+
+Overall, the shift towards less regulated NBFIs has not made the financial system safer. In fact, it has created new channels of contagion across sectors, with the strongest effect on systemically important banks.
+
+This leaves the financial system fragile and requires a holistic and systemic approach to regulating both banks and non-banks, one which takes interconnections across sectors into account. In particular, this means that a macroprudential framework is needed for the NBFI sector, too. This was one of the key areas of reform promoted by the Financial Stability Board under Klaas Knot's chairmanship.4
+
+## The new kid on the block: stablecoins
+
+Amore recent and similarly important trend has been the wave of digital innovation currently reshaping the financial system, bringing with it both new opportunities and risks." The most important, albeit still nascent, development is the advent of stablecoins, which have created new interconnections between banks, crypto markets and traditional asset markets.2]
+
+Stablecoins' original appeal lies in the access they provide to crypto markets, while also offering a cheap and fast way of sending money across borders, bypassing the traditional correspondent banking system.)
+
+If they were more widely adopted, the implications for the financial system and its stability would be significant, as has also been stressed by the Financial Stability Board 14]
+
+Since stablecoins combine money-like demandable liabilities with reserve assets that could turn illiquid during crises, they are subject to the risk of runs. The largest US stablecoin is already approaching a size comparable to the largest US money market funds (Slide 8, left-hand chart).{45)
+
+In the event of such runs, spillovers to the rest of the financial system, especially to banks, are likely. There are both direct and indirect linkages.
+
+Most importantly, stablecoins affect the funding structure of banks. If depositors shift into stablecoins backed by bank deposits, stable retail deposits are replaced by more concentrated and potentially more volatile wholesale deposits, increasing the risk of sudden outflows.
+
+Since the EU's Markets in Crypto-Assets Regulation (MiCAR) entered into force in 2023, large deposits from crypto exchanges and stablecoin issuers with euro area banks have risen notably, from less than €1 billion in 2024 to more than €6 billion by mid-2025 (Slide 8, right-hand chart). While this is still small relative to the exposed banks' total assets, it may reach systemically relevant levels if the rapid growth of stablecoins continues."4
+
+Indirect linkages would emerge if a run on stablecoins led to fire sales of reserve assets. Stablecoin issuers today hold US Treasury securities in amounts comparable to those held by entire countries, such as Norway or Germany (Slide 9, left-hand chart). Already today, their short-term US debt holdings account for roughly 3% of the market, exerting an impact on yields."18)
+
+Such sizeable holdings mean that, in times of stress, stablecoins could amplify financial instability. Forced redemptions would trigger rapid sales of Treasury securities, leading to a sudden deterioration in market liquidity, pushing up short-term rates and impairing banks' access to funding.
+
+In spite of their apparent similarity, stablecoins and money market funds react quite differently to shocks, as shown by recent ECB research." For example, when US policy tightens, prime money market funds typically attract inflows, whereas stablecoin market capitalisation shrinks significantly (Slide 9, right-hand chart).
+
+Summing up, just as for NBFls, given the various interconnections, financial stability risks from stablecoins are likely to spill over to the traditional banking sector in the event of a crisis.
+
+## No time for bank deregulation
+
+The message for governments and financial regulators is clear: now is not the time for deregulation. Not only are the potential costs of deregulation large, but the benefits are doubtful too. In particular, there is no evidence for the claim that regulation has made European banks less competitive. On the contrary, ECB research shows that higher capitalisation improves banks' profit efficiency.29] All else being equal, a bank with a CET1 ratio of 18.5% — corresponding to the 75th percentile of the distribution — is about 2 percentage points more efficient than a bank with a CET1 ratio of 13.5% — corresponding to the 25th percentile (Slide 10, left-hand chart).!24)
+
+These findings contradict the claim that higher capital requirements make European banks less competitive. Rather, better capitalisation makes the banking sector more resilient and leaves banks better able to fund the real economy.
+
+In addition, high capital requirements are no impediment to bank profitability.!22] Helped by rising interest rates, euro area banks have been able to increase their profitability, narrowing the gap in price-to-book ratios relative to their US peers (Slide 10, right-hand chart).
+
+## Making regulation more efficient
+
+Protecting the benefits of banking stability does not mean that regulation cannot be improved. Years of building safeguards have led to duplications, overlaps and inefficiencies. In addition, the way existing regulation by means of directives is transposed into national law often differs from country to country, creating an uneven playing field for banks across the euro area. This can be exacerbated by member states' "goldplating".22]
+
+Efficient regulation and supervision imply that the ultimate goal — a stable and resilient banking sector — can be achieved at minimal cost. As we speak, ECB Banking Supervision is actively working to streamline its supervisory processes in its "next-level supervision" project. At the heart of this is a comprehensive reform of the Supervisory Review and Evaluation Process (SREP).4]
+
+Regulation offers similar room for increasing efficiency. For example, there could be space to increase proportionality for less complex institutions without making them less safe,25]
+
+But such efforts often come with trade-offs. For example, one of the most complex features of today's banking regulation is the use of internal models to determine regulatory requirements, which was introduced at the request of the banking sector. Complexity could be reduced significantly by choosing less granular, but potentially more robust methods, like the standardised approach. However, this is likely to lead to higher, not lower overall capital requirements.
+
+Bank reporting is another key area in which efficiency can be improved.
+
+Banks' reporting frameworks for statistical, prudential and resolution data remain fragmented, and financial institutions must comply with a patchwork of requirements across countries and authorities.
+
+The ECB's initiative to establish an Integrated Reporting Framework (lReF) and the wider integration project under the Joint Bank Reporting Committee are important steps towards harmonising reporting requirements across Europe.24
+
+By moving towards greater integration and automation, the reporting burdens on banks can be alleviated significantly, while fulfilling the authorities' data needs and improving data quality for decision-making.
+
+## Fostering integration through the savings and investments union
+
+Another important way to improve efficiency is through greater financial integration, in particular by completing the banking union. The European banking market remains fragmented (Slide 11, left-hand chart). This is due to differences in rules across countries, the lack of a European deposit insurance scheme, political opposition to cross-border bank mergers and gaps in the resolution framework, especially owing to the still missing public backstop and the absence of a credible framework for liquidity in resolution.
+
+As a complement to the banking union, an integrated capital market can further improve the funding of the economy, promote innovation and growth and encourage risk sharing across the union, indirectly also benefiting the banking sector.
+
+While some progress has been made in financial integration, particularly when compared with the lull after the European sovereign debt crisis, there is still significant scope for fully exploiting the benefits of an integrated European financial system (Slide 11, right-hand chart).
+
+## Enhancing European sovereignty by embracing innovation
+
+Lastly, the new geopolitical landscape calls for greater European sovereignty. One key project in this area is the introduction of a digital euro.24 Given the safeguards envisaged, this project should be welcomed by banks as it will help them to retain a central role in the European payment infrastructure. Another strategic project is the exploration of the potential use of distributed ledger technology or tokenisation for settling wholesale transactions in central bank money. 28]
+
+By embracing innovation, we can also strengthen the international role of the euro as a reserve, funding and invoicing currency, thereby fostering economic and financial stability, with benefits for the European banking sector.
+
+## Conclusion
+
+Let me conclude.
+
+Recent years have taught us an important lesson that is all too easily forgotten: when regulations work, no one notices. But if they fail, the consequences are immediate, far-reaching and devastating. Even today, we are still suffering from the economic fallout of the 2008 global financial crisis.
+
+Thanks to the reforms put in place over the past 15 years, euro area banks have become safer. A sound banking system was at the heart of the euro area economy's resilience during recent crises.
+
+Preserving this stability will help ensure that banks can continue to serve the economy even when faced with geopolitical fragmentation, technological revolution and climate change.
+
+Rather than softening bank regulation, we should make sure that those areas of the financial system that pose new risks to the economy and banks, such as non-banks or stablecoins, are regulated appropriately without stifling innovation.
+
+A global push towards deregulation does not challenge this view, as the benefits from long-term financial stability undoubtedly outweigh the short-term gains from deregulation.
+
+Therefore, with European banks being strong and profitable, governments would be ill-advised to weaken bank resilience. Instead, we need more efficient regulation, deeper European integration and greater sovereignty, all of which serve the same goal: a strong European economy. And a strong economy means stronger banks that are better able to fulfil their core role — serving the real economy. Thank you.
+
+## Annexes
+
+3 October 2025
+
+## Slides
+
+1.
+
+In her keynote at today's event, Christine Lagarde highlights the importance of financial regulation and supervision in supporting monetary policy to achieve price stability. See Lagarde, C. (2025), "Monetary policy and financial stability: past lessons for future resilience", speech at the farewell symposium for DNB President Klaas Knot, Amsterdam, October.
+
+2.
+
+See Dovern, J. and Zuber, C. (2020), "How economic crises damage potential output — Evidence from the Great Recession", Journal of Macroeconomics, vol. 65(C).
+
+3.
+
+See BIS (2022), Report on the evaluation of the impact and efficacy of the Basel III December.
+
+reforms,
+
+4.
+
+See Schnabel, |. (2021), "The sovereign-bank-corporate nexus — virtuous or vicious?", speech at the LSE conference on Financial Cycles, Risk, Macroeconomic Causes and Consequences, Frankfurt am Main, January.
+
+5.
+
+See ECB (2023), Financial Stability Review, May.
+
+6.
+
+See Acharya, Viral V., Cetorelli, N. and Tuckman, B. (2024), "Where Do Banks End and NBFIs Begin?", NBER Working Paper No 32316.
+
+7. the
+
+See ECB (2023), Financial Stability Review, special feature on key linkages between banks and non-bank financial sector, May.
+
+8.
+
+See ESRB (2025), EU Non-bank Financial Intermediation Risk Monitor 2025, No 10, September.
+
+9.
+
+While these interconnections can be destabilising, the opposite may also be true. For example, when euro area mutual funds faced significant outflows in March 2020 at the time of the COVID-19 pandemic, banks with access to the ECB's lender of last resort facilities provided non-banks with liquidity, thereby stabilising the financial system. See Breckenfelder, J. and Hoerova, M. (2023), "Do non-banks need access to the lender of last resort? Evidence from fund runs", ECB Working Paper Series, No 2805, May.
+
+10.
+
+See FSB (2024), "Enhancing the Resilience of Non-Bank Financial Intermediation", July.
+
+11.
+
+See BIS (2025), Annual report, June.
+
+12.
+
+Stablecoins are designed to maintain a constant value, typically one dollar or one euro, by offering par convertibility on demand. To this end, issuers hold reserves mainly in fiat-denominated short-term assets, such as US Treasuries, high-quality commercial paper, repurchase agreements or bank deposits.
+
+13.
+
+See Schaaf, J. (2025), "From hype to hazard: what stablecoins mean for Europe", The ECB Blog, July.
+
+14.
+
+See FSB (2023), "High-level Recommendations for the Regulation, Supervision and Oversight of Global Stablecoin Arrangements", July.
+
+15.
+
+See Kosse, A., Glowka, M., Mattei, |. and Rice, T. (2023), "Will the real stablecoin please stand up?", BIS Papers, No 141.
+
+16.
+
+In part, this reflects the need to comply with reserve requirements, 30% of which need to be deposits with banks, with the share rising to 60% for systemic stablecoins.
+
+According to the most optimistic private sector estimates, the US dollar stablecoin market may grow as high as USD 4 trillion. So far, the volume of stablecoins in other currencies is negligible. See MEXC Exchange news item (2025), No Longer $3 Trillion: Citi Increases 2030 Stablecoin Market Cap Prediction, September.
+
+18.
+
+See Ahmed, R. and Aldasoro, |. (2025) "Stablecoins and safe asset prices", BJS Working Paper, No 1270.
+
+19.
+
+See Aldasoro, |., Cornelli, G., Ferrari Minesso, M., Gambacorta, L. and Habib, M. (2025), "Stablecoins, money market funds and monetary policy", Economics Letters, Elsevier, vol. 247(C).
+
+20.
+
+The relationship between capital requirements and profit efficiency is non-linear, suggesting that capital ratios improve profit efficiency only up to a point. However, that point is higher than the median level of the CET1 ratio of SSM-supervised banks.
+
+21.
+
+For further details, see Behn, M. and Reghezza, A. (2025), "Capital requirements: a pillar or a burden for bank competitiveness?", ECB Occasional Paper Series, forthcoming.
+
+22.
+
+See Jones, L., Alsakka, R., ap Gwilym, O. and Mantovan, N. (2022). "The impact of regulatory reforms on European bank behaviour: A dynamic structural estimation", European Economic Review, vol. 150(C).
+
+23.
+
+Elderson, F. (2025), "Resilience offers a competitive advantage, especially in uncertain times", speech at the Morgan Stanley European Financials Conference, London, March.
+
+24.
+
+Buch, C. (2025), "Simplification without deregulation: European supervision, regulation and reporting in a changing environment', speech at the Goldman Sachs European Financials Conference, Berlin, June.
+
+25.
+
+See Donnery, S. (2025), "Making banking simple: one market, one rulebook", speech at the Handelsblatt Jahrestagung Bankenaufsicht, April.
+
+26.
+
+See ECB (2024), "The Eurosystem Integrated Reporting Framework — an overview", December.
+
+27.
+
+See Cipollone, P. (2024), “Monetary sovereignty in the digital age: the case for a digital euro”, speech at the Economics of Payments XIII Conference organised by the Oesterreichische Nationalbank, September, and Lane, P. (2025), “The digital euro: maintaining the autonomy of the monetary system”, speech at the University College Cork Economics Society Conference, March. 28.
+
+See ECB (2025), “Bridging innovation and stability: the Eurosystem’s exploratory work on new technologies for wholesale central bank money settlement’, July.
+
+Copyright 2025, European Central Bank

@@ -1,0 +1,157 @@
+Remarks by Tiff Macklem Governor of the Bank of Canada Calgary Economic Development March 20, 2025 Calgary, Alberta
+
+## Navigating tariff uncertainty
+
+## Introduction
+
+Good morning. It's a pleasure to be here in Alberta. I want to thank Calgary Economic Development for the invitation. The last time I spoke in Calgary was about 18 months ago-September 2023. The post-pandemic crisis was easing, but uncertainty remained. Inflation was still above 3%, and the Bank of Canada's policy interest rate was 5%. Canadians were being squeezed by still-elevated inflation and higher interest rates. Could we get inflation back to our 2% target without tipping the economy into recession?
+
+As 2024 closed out, this question was largely resolved. Inflation was on target, and economic growth had picked up. The Canadian economy was in good shape.
+
+Inflation came down through the first half of last year and had been close to 2% since last summer. As the Bank's Governing Council became more confident that inflation was on track to return to target, we began reducing our policy interest rate, starting last spring. Substantial rate cuts through the rest of the year boosted household spending, and economic growth picked up to 2.2% in the third quarter and 2.6% in the fourth. Employment growth also strengthened in November through January, and the unemployment rate came down.
+
+The Canadian economy managed a soft landing. Unfortunately, we're not going to stay on the tarmac for long.
+
+We now face a new economic crisis. Since President Trump began threatening to impose a wide range of tariffs on Canadian exports, uncertainty has increased sharply. Depending on the extent and duration of tariffs, the economic impact could be severe. The uncertainty is already causing harm.
+
+There's a lot we don't know. Some new tariffs are in place on steel and aluminium as well as on goods not in compliance with the Canada-US-Mexico
+
+I would like to thank Chris D'Souza, Daniela Hauser, Ben Tomlin and Yang Zhang f or their help in preparing this speech.
+
+Agreement. We don't know how long these will last. And we don't know if tariffs will broaden to other sectors. In the last two months, the US administration has twice imposed and then retracted universal tariffs on all imports from Canada and Mexico. President Trump has also threatened to extend tariffs to a wide range of industries, including autos, semi-conductors and pharmaceuticals. And he has repeatedly said new 'reciprocal' tariffs are coming on April 2 on many countries, although what exactly this means is unclear.
+
+Most disturbing of all for Canadians, President Trump has threatened our sovereignty, repeatedly referring to Canada as the 51 st state. There can be no question about our sovereignty or our border.
+
+Last month, I gave a speech about the effects of broad-based tariffs on the Canadian economy. Today I want to advance the discussion in three ways.
+
+First, I want to discuss what tariffs could mean for specific sectors-and specific regions-of the country.
+
+Second, I'll talk about the impacts of uncertainty caused by on-again, off-again tariffs and threats of more to come. Canadian businesses and households are doing their best to navigate the unpredictability of US policy, and that uncertainty is affecting our economy.
+
+Finally, I'll talk about how the Bank is navigating monetary policy in the face of unusual uncertainty. Monetary policy cannot solve a trade war. And we can't make the uncertainty go away. But we can make sure we don't add to it by ensuring inflation remains anchored on our 2% target. Canadians are worried about trade uncertainty. We don't want them to have to worry about inflation as well.
+
+We have a lot of ground to cover, so let's get started.
+
+## Tariffs and uncertainty will hurt key sectors and regions
+
+In my speech last month, I outlined how the universal tariffs on Canada and Mexico that were threatened by President Trump would impact the Canadian economy. I outlined the channels and broad impacts of a 25% tariff on nonenergy exports and 10% on energy exports, together with the retaliatory tariffs proposed by the Canadian government. Our economic models predict exports and business investment would decline sharply, the economy would work less efficiently, and we would earn and consume less. Higher tariffs would also increase prices, causing inflation to rise for a period as the upward pressure on prices from higher costs would outweigh the downward pressure from a weaker economy. 1
+
+Since that speech in February, the level and timing of tariffs have changed several times. And there remain too many unknowns to predict what happens next.
+
+1 See T. Macklem, 'Tariffs, structural change and monetary policy,' (speech delivered to the Mississauga Board of Trade-Oakville Chamber of Commerce, Mississauga, Ontario, February 21, 2025).
+
+But we know that the tariffs and the uncertainty-if they are maintained-will particularly hurt a few key sectors. And that will have a big impact on Canada's regional economies, including here in Western Canada.
+
+As those of you in the room know all too well, for Alberta the hit to the energy industry from a 10% tariff is a major concern. It's also a big issue for Midwest US refineries that have invested heavily in equipment to refine heavy Canadian oil. Roughly 94% of Canadian crude oil exports go to the United States, mostly through north-south pipelines.
+
+The launch of the Trans Mountain Expansion pipeline has increased the access of Canadian oil to overseas markets, and new export capacity for liquefied natural gas (LNG) is coming online. This helps to diversify the markets for Canadian energy exports, but these investments were designed to augment our export capacity-not replace US demand.
+
+Looking ahead, US tariffs could put downward pressure on Canadian energy prices and reduce the profitability of Canadian energy producers-at least until access to other markets can be expanded. The hit to profits combined with the uncertainty means that investment will likely drop, and employment could follow. I know Albertans have lived through boom-and-bust commodity cycles for generations. But a threat to the Canada-US energy relationship is not something we've ever had to contemplate.
+
+The other Prairie provinces are also being affected. The United States has temporarily exempted fertilizers, including potash, from tariffs. And they've lowered the planned tariffs from 25% to 10% for non-compliant exports. But uncertainty remains. Spring seeding will soon begin, and farmers on both sides of the border are already feeling pressure from low grain prices. US farmers import potash from Saskatchewan to add potassium to their soil, while Canadian farmers often need US phosphate to fertilize their crops. Other tariffs will have an impact, too. Canadian farmers buy machinery and equipment from the United States. And China has said it will impose a 100% tariff on Canadian canola oil and meal, effective today. China is the top market for Canadian canola-the export value is close to $5 billion. It's a very difficult situation so close to planting season and adds to the uncertainty Canadian farmers are already facing.
+
+Other parts of the country, particularly Ontario and Quebec, will be disrupted by the 25% tariffs on steel and aluminum. In 2024, the United States imported about one-quarter of its steel and 40% of its aluminum from Canada, and Canada imported one-quarter of its steel and one-fifth of its aluminum from the United States. Those cross-border flows means that these sectors would be hit by both US tariffs and counter tariffs. It's going to hurt output and increase prices.
+
+Monetary policy cannot target specific industries or regions. We have one monetary policy for the whole country. But to assess the overall implications of new tariffs, it's critical we understand their impact industry by industry and how this is affecting and spilling over across regions.
+
+The Bank's regional offices across the country-in Halifax, Montréal, Toronto, Calgary and Vancouver-gather economic intelligence across industries and economic regions. I am pleased to be joined by Farrukh Suvankulov, head of our
+
+Calgary regional office, which covers the Prairies and Northwest Territories. Our Calgary office is our second-largest after our headquarters in Ottawa.
+
+## Pervasive uncertainty
+
+Beyond the impacts of tariffs, the pervasive uncertainty created by the sudden and unpredictable shifts in US trade policy is affecting both the Canadian and US economies.
+
+Trade policy uncertainty measures-such as the index in Chart 1 -have spiked in recent months. 2 After more than 50 years of high predictability in trade policy, there was a sharp increase in uncertainty during President Trump's first term in office. But that uncertainty doesn't come close to what we see now.
+
+Chart 1: Uncertainty about trade policy has spiked
+
+Source: Caldara et al. (2020) Last observation: March 2025
+
+There are at least two kinds of uncertainty related to US tariffs. There is uncertainty about the tariffs themselves-which tariffs will actually come to pass and how long will they last. There is also uncertainty about the economic impacts of tariffs. We've not had to grapple with such large broad-based tariff increases since the 1930s.
+
+Let me elaborate.
+
+2 The TPU index is derived from articles discussing trade policy uncertainty in major US newspapers. An article is considered to discuss TPU if it includes both terms related to uncertainty-such as risk , threat and uncertainty -and terms related to trade policy-such as tariff, import duty and import barrier. Although it is based on US newspapers, this index serves as a broad measure of TPU, not specifically tied to the United States itself.
+
+## Uncertainty about US tariffs
+
+Consumer confidence has fallen sharply in both Canada and the United States. After recovering through last year, the Conference Board of Canada's index of consumer confidence fell to its lowest level on record in March amid the chaos around US tariffs. And the University of Michigan's survey of US consumers also declined, with sentiment now at 2½-year lows.
+
+Last week, the Bank of Canada published new survey data on what we're hearing from households and businesses. 3 Canadians told us they have become more worried about their jobs and financial security, and they intend to pull back on their spending. That's particularly true for workers in industries that rely on trade-including manufacturing, mining, and oil and gas.
+
+Businesses have lowered their sales outlooks, notably in manufacturing and in sectors that depend on consumer spending. Some businesses report credit has become harder to access. And with a weaker Canadian dollar, the cost of imported machinery and equipment has risen. Businesses are telling us they are delaying or cancelling investments and scaling back on hiring.
+
+Uncertainty is also affecting businesses' pricing decisions. Businesses have told us that they face new costs associated with sourcing new suppliers, finding new markets and managing inventories. The majority of businesses plan to pass on these costs, as well as the direct costs of any new tariffs, to the prices of the goods they sell.
+
+Our surveys also find that near-term inflation expectations have risen in Canada as businesses and consumers brace for higher prices. Short-term inflation expectations of US consumers have also risen materially for the first time since 2022.
+
+Finally, uncertainty is also taking a toll on financial markets. Equity prices are down sharply in the last few weeks, particularly in the United States. US stock market indices have fallen by about 10% from their recent peaks. And bond yields have come down. Markets are revising down their growth outlook for North America.
+
+The damage caused by tariff uncertainty has started on both sides of the border.
+
+## Uncertainty about the impacts
+
+Even if and when we know what tariffs will be imposed, it's hard to know exactly how consumers and businesses will react. It is clear that higher tariffs mean less demand, weaker growth and higher inflation. The mechanics of tariffs are straightforward. Tariffs on Canadian exports will be paid by the US company buying those goods. And the company will pass at least some of the cost onto the US consumer. The same goes for retaliatory tariffs on goods Canada imports from the United States.
+
+3 For more information, see Bank of Canada, 'How Canadian businesses and households are reacting to the trade conflict' (March 2025).
+
+What is less clear is how much tariffs will dent demand and how much they will be passed on to consumer prices. Will US buyers continue to buy imported Canadian goods when tariffs are added to the bill? If they are buying something they can't get anywhere else, maybe they'll accept a 25% price increase. But they will likely buy less of it. And if substitutes are available, Canadian exports may fall a lot.
+
+The impact of tariffs on consumer prices will be affected by the strength of demand. In our recent survey, about half of businesses said they intended to raise prices as they cope with higher costs related to both tariffs and uncertainty, and three-quarters of those said they would pass most of the cost increases onto their customers. But these intentions may change as economic conditions evolve. We will be monitoring these business intentions closely.
+
+The uncertainty about the pass-through of higher costs to consumer prices is of particular importance to monetary policy. Our mandate is price stability-low inflation is the best way we can support the economic and financial well-being of Canadians in good times and bad. So we're watching closely how the costs of tariffs and uncertainty pass-through to consumer prices.
+
+Chart 2 illustrates the sensitivity of inflation to different assumptions about the speed at which higher tariffs pass through to prices. In all three cases, we assume 100% pass-through, but we vary the speed from one to three years. 4 In practice, different items will experience very different speeds of pass-through. Tariffs on fruit and vegetables, for example, will likely be passed through almost immediately-these are perishable goods. Prices for more complicated goods with different components and longer-term contracts will tend to take longer to rise. Our focus is on the overall response.
+
+As you can see, a faster pass-through (the blue line) means inflation would rise by more but also come down faster, provided monetary policy does its job. Slower pass-through (the red line) means inflation doesn't rise as high, but it remains elevated for longer. In all three cases, monetary policy responds with the goal of ensuring inflation returns to the target over time. The more inflationary the impact, the less scope monetary policy has to support the economy. Instead, it needs to put more focus on anchoring inflation expectations, which risk drifting up when inflation rises more and more quickly.
+
+4 There is also uncertainty about the extent of pass-through. If, for example, pass-through were 50%, the lines in Chart 2 would be roughly scaled in half.
+
+## Chart 2: Faster pass-through of tariff costs leads to a sharper increase in inflation
+
+Percentage point difference in the year-over-year inflation rate compared with the January projection, quarterly data
+
+Sources: Bank of Canada calculations, estimates and projections Last data plotted: 202704
+
+## What uncertainty means for monetary policy
+
+Let me now turn to how the Bank of Canada is navigating tariff uncertainty.
+
+At the most fundamental level, we are anchored by our monetary policy framework-our 2% inflation target. We cannot resolve trade uncertainty, but there can be no doubt about our commitment to low inflation. Canadians need to have confidence that we will maintain price stability over time, even during periods of global upheaval.
+
+We know that some prices will rise when the tariffs hit-that's not something monetary policy can stop. What monetary policy can-and must-do is prevent those initial, direct price increases from spreading. We must ensure that higher prices from tariffs do not become ongoing generalized inflation. Simply put, we need to make sure that a tariff problem doesn't become an inflation problem.
+
+To do that, we're doing three things.
+
+First, we're tracking cost increases through to consumer prices. Once prices have gone up to reflect the tariffs-a one-time increase-we want to see prices stabilize at that higher level, at least until the tariffs are dropped. We don't want to see price increases become more broad-based or inflation expectations start to move significantly away from target.
+
+Second, we're improving our analysis to better inform our policy decisions. We've built better and richer multi-sector economic models as well as models that better
+
+account for links between Canada and the world. The Bank is using these new models to analyze different tariff scenarios.
+
+Finally, we're doing more outreach across Canada, both in-person and digitally. We are being nimble with our surveys so we can reach companies and households quickly.
+
+We can't reduce uncertainty about US trade policy. But we are doing our best to reduce the uncertainty about the impacts of tariffs. All this work informs our monetary policy deliberations.
+
+Still, we need to confront the reality that, like everyone else, we are taking decisions against a background of pervasive uncertainty. This affects how we take monetary policy decisions.
+
+Let me explain.
+
+In normal times, when Governing Council meets, we agree on an economic projection that is our view of the most likely outcome for the economy. That projection is based on economic data, surveys and the historical relationships captured in our models. That's our base case. And then we discuss the risks around that outlook. Our monetary policy discussions are geared toward deciding on the best monetary policy given the most likely outcome for the economy and the risks around that outcome.
+
+But in a situation of pervasive uncertainty, it's very hard for any of us on Governing Council to have high conviction about the most likely outcome. Several outcomes can all look plausible. Different people will weigh the various factors differently. That's natural, and it's one of the benefits of having diverse perspectives around the table.
+
+When we have this high degree of uncertainty around the base case, we give more consideration to the risks. Our focus is less about the best monetary policy for a specific economic outlook and more about policy that works for different outcomes. To see why, consider the alternative. If we were to guess where the economy is heading and make policy to optimize that outcome, we'd risk getting it wrong. Our actions could be ineffective or even make the outcome worse. So we need to set policy that minimizes the risk. That means being less forwardlooking than normal until the situation is clearer. And it may mean acting quickly when things crystallize. We need to be flexible and adaptable.
+
+## Conclusion
+
+It's time for me to wrap up.
+
+I've spent much of my time today talking about uncertainty. Unfortunately, the uncertainty we face may last a while. That will make it difficult for Canadian businesses to figure out their best strategy and hard for Canadian families to plan for the future.
+
+But we do know a few things. The Canadian economy started the year in good shape. Five years after the pandemic hit, we have come through an unprecedented global crisis and restored economic growth and low inflation. Interest rates have come down substantially. Because of that, we are in a better position to confront the risks ahead.
+
+Monetary policy cannot offset the effects of a trade war. What it can-and mustdo is ensure that higher prices from a trade conflict do not become ongoing inflation. We are committed to maintaining price stability over time. There should be no uncertainty about that.
+
+Thank you.

@@ -1,0 +1,191 @@
+SPEECH
+
+## European banking supervision at ten: building a strong institution for a resilient future
+
+Speech by Claudia Buch, Chair of the Supervisory Board of the ECB, at the event celebrating the tenth anniversary of the Single Supervisory Mechanism]
+
+Frankfurt am Main, 6 November 2024
+
+Today, we all have good reasons to celebrate the tenth anniversary of the Single Supervisory Mechanism (SSM). European banking supervision has a clear mandate — to keep European banks safe and sound. It can pursue its mandate independently and in the best interests of all Europeans. It is a core element of the banking union, which is itself representative of a strong, united policy response to the global financial crisis and the European sovereign debt crisis. These crises exposed the risks of insufficient regulation and supervision. And they were very costly.
+
+Like many European projects, the banking union started with a vision: to supervise banks from a European perspective, to better manage failing banks and safeguard taxpayer money, and to provide the same insurance protection to all European depositors.
+
+But the experience of European supervision also holds broader lessons for Europe. It shows that, while European integration is driven by a vision, this integration often only progresses in response to crises. Successful institution-building in Europe needs an institutional framework and, perhaps even more so, the devotion and energy of the people who work to make a new institution a reality.
+
+It is you, our colleagues in the ECB and the national authorities across Europe, who have shaped European banking supervision and made it an internationally recognised supervisor. This experience underscores the importance of acting today — without waiting for the next crisis — to advance integration and strengthen the banking union.
+
+## European integration — a vision for the future and a response to crises
+
+European integration is built on a vision — that cooperation and coordination, creating a single market, dealing with challenges together and in a united way, is superior to disintegration and nationalism. This vision has delivered common rules and institutions. Europe often grows together in challenging times, as Jean Monnet noted in his memoirs: "Europe will be forged in crises, and will be the sum of the solutions adopted for those crises."2]
+
+The importance of closely integrated European financial markets was stressed early on, as was the need to address the risks of financial integration. In 1989, the Delors Report highlighted the importance of community powers and a central banking system. In 1995, 17 years before co-legislators decided to create the banking union in 2012, it was argued that an economic and monetary union needs common supervision. Alexandre Lamfalussy, the first President of the European Monetary Institute, said: "The introduction of a single currency and increasing competitiveness between European financial markets imply that the risk of a financial crisis spreading throughout the whole financial system will be even
+
+higher... stressing the desirability of a single supervisory institution...".2]
+
+Despite this, European financial integration has been a gradual process, often propelled by crises that exposed underlying vulnerabilities. In fact, a crisis emanating from Europe — the failure of the German Herstatt bank in the early 1970s — was pivotal in advancing a more unified approach to banking regulation at the global level. The global standard-setter, the Basel Committee on Banking Supervision, was a response to the Herstatt crisis. Starting with the Basel Concordat, first issued in 1975, the Committee has established international standards for bank capital adequacy — with Basel III in 2017 being the most recent. To this day the Basel rules remain the cornerstone of banking regulation in Europe. The EU has adopted several banking directives to align with Basel standards and to ensure a consistent regulatory framework across Member States.
+
+The most significant milestone on the path to financial integration was the introduction of the euro, which followed repeated episodes of realignment that highlighted the fragilities of quasi-fixed exchange rate regimes.
+
+But supervision during the euro's first decade essentially remained a national responsibility, despite progress towards integration in the form of the Single Rulebook. This national approach to supervision limited the ability to address risks spreading across borders. Coordination during crises was insufficient.
+
+Diverging applications of the European prudential framework could in principle be used to promote national champions or financial centres, thus resulting in regulatory arbitrage.4] Lacking consistent information across countries, national supervisors were unable to benchmark the performance of banks in their countries against European peers.
+
+The global financial crisis exposed vulnerabilities related both to this fragmented system and to crossborder banking activities in Europe. Regulations that incentivised excessive risk taking, together with diverging and often weak supervisory standards, were the root causes of the crisis, globally and in Europe. And the European sovereign debt crisis put the bank-sovereign nexus under the spotlight — distressed banks were putting financial strains on sovereigns, just as weak public finances were impairing the stability of banks.
+
+This showed that Europe was certainly not immune to costly financial crises which impose substantial fiscal burdens, lead to significant output losses, and have severe and lasting social impacts. At the height of the banking crisis in Europe, non-performing loans (NPLs) reached approximately 50% of total loans in the hardest-hit countries. This constrained banks' capacity to provide funding to the real economy, causing further output losses and increased unemployment. On average, banking crises have been associated with output losses of around 8.5% of opp.
+
+And the crisis showed how costly incomplete crisis management frameworks can be. In response to the global financial crisis, and in the absence of effective global mechanisms for dealing with bank resolution and for cooperation and coordination among supervisors, national solutions were often sought, which were frequently inefficient.
+
+The creation of the banking union marked a paradigm shift in European financial integration. It was the most significant transfer of sovereignty to the European level since the introduction of the euro. The banking union promotes more sustainable integration of financial markets and aims to break the adverse feedback loop between banks and sovereigns. Its first pillar — the Single Supervisory Mechanism — reduces the probability and costs of bank failures by ensuring common high supervisory standards and by proactively addressing emerging risks. The second pillar — the Single Resolution Mechanism — ensures bank failures can be better managed, by providing the Single Resolution Board (SRB) with tools for the resolution of banks and ensuring that industry funds are available to cover losses. The third pillar —a European deposit insurance scheme (EDIS) — protects depositors if banks do fail.
+
+The banking union is built on strong foundations of harmonised rules and regulations. At its core are several key components: freedom of establishment, which allows banks to set up branches or subsidiaries in any EU country; the passporting system, which permits banks authorised in one EU country to operate across the entire EU; and the Single Rulebook, which provides a unified regulatory framework that all EU financial institutions must follow.
+
+Together, these components create a coherent legal framework for banking operations within the EU. The Single Rulebook plays a critical role in standardising definitions and regulatory practices, particularly in areas crucial for financial stability, such as capital requirements and the identification of NPLs. The Single Rulebook also allows the ECB and national authorities to better assess and manage risks.
+
+## European supervision: a successful of example of institution-building in Europe
+
+Ten years on, the vision has become reality. European banking supervision has delivered on its mandate. Banks in the euro area are better capitalised, NPLs have been reduced, and European banking supervision has evolved into a modern and internationally recognised supervisor. The Eurotower in Frankfurt has become a strong symbol -it is not only the birthplace of the euro, it now also symbolises the strength of the first pillar of the banking union.
+
+But building new institutions requires more than legislation and infrastructure. It also requires the devotion and commitment of people. Every day, 1,600 colleagues from ECB Banking Supervision and approximately 5,200 supervisors from across Europe work to ensure the banking system remains stable and resilient. We benefit hugely from the insights, expertise and support of all our Eurosystem colleagues.
+
+Our ambition is to be at the international frontier in all areas of supervisory capabilities. During the first decade, our focus was on establishing a solid, rule-based supervisory foundation to ensure consistency in supervision across countries. We have gained a huge amount of experience, and we are now evolving towards a more judgement-based supervisory model.
+
+Several milestone projects have contributed to greater resilience of banks and more harmonised supervision. In 2014, European banking supervision conducted a comprehensive assessment of banks' portfolios, which consisted of an asset quality review and stress tests. Since then, stress testing has become a key tool for providing forward-looking risk assessments. In 2017, banks were given guidance on how to reduce NPLs, which contributed significantly to their overall reduction from 7% to 2% over the past decade. Banks' internal models were scrutinised in a targeted review, leading to a harmonisation of the model landscape and reducing banks' dependence on unreliable models.
+
+In 2019, preparations for Brexit ensured that banks were ready to navigate the complexities associated with the United Kingdom's exit from the EU. Since then, work on climate and environmental risks has improved banks' ability to measure and address physical and transition risks.
+
+The outbreak of the COVID-19 pandemic in 2020 was a major challenge for European banking supervision, along several dimensions. In addition to managing the implications of the pandemic for banks amid significant uncertainty, we started a major internal reorganisation by aligning bank-specific supervision with business models, reinforcing risk-focused oversight and fostering transparency and consistency in supervisory actions.
+
+In 2021, a Guide to fit and proper assessments was introduced to clarify the ECB's supervisory expectations, practices and processes for assessing the suitability of management body members in significant banks. In 2023, focus on governance and risk management shifted attention to the importance of banks having decision-making structures that ensure their business models are sustainable.
+
+This year, the Supervisory Board decided on a reform of the Supervisory Review and Evaluation Process (SREP) to further enhance supervisory practices. Geopolitical risks have become a supervisory priority, reflecting the need for banks to be prepared for a wide range of potential global disruptions. A cyber resilience stress test was conducted to assess and strengthen banks' defences against cyber threats.
+
+One key factor explaining the success of European banking supervision is the close collaboration between the ECB and national authorities. The ECB directly supervises 113 significant banks in Europe, and it has an oversight function for the 1,920 less significant banks supervised at the national level.) Together, we ensure that European banks holding over €31 trillion of assets — or over 200% of GDP! — and employing over two million people are well run and remain resilient.
+
+Our colleagues work together in Joint Supervisory Teams and during on-site inspections. Over the last ten years, under the Supervisory Board's oversight, around 2,500 on-site and internal model inspections have been conducted, 55,000 supervisory measures have been issued to banks and almost 21,000 supervisory decisions have been taken. This equates to around 30 actions taken every working day — in other words, it is an example of European integration in practice, creating a wealth of shared experience.
+
+In all of these activities, European supervision offers several key advantages over national supervision.
+
+First, the SSM can perform benchmarking across banks, taking a comprehensive and unified supervisory approach. We can compare banks across different countries and types of business model. This enables us to detect outliers and share good practices.
+
+Second, we can draw on the expertise of all member countries. Experts from the ECB and the 21 national authorities work closely together, form Joint Supervisory Teams, carry out on-site inspections, and develop and improve methodologies.
+
+Third, we apply the same supervisory standards across all member countries. We have a unique model for integrating the day-to-day activities of people working in different places and institutions within a single framework. This ensures our supervisory practices are consistent and sound.
+
+And finally, we work solely in the interest of all Europeans, without any national or industry bias, benefiting from the ECB's independence as we do so. This is crucial because a lack of independence can hinder supervisors' ability and willingness to act, as the IMF highlighted in its report on good supervision.49 The independence of the SSM is intrinsically linked to accountability and transparency towards European citizens." The Chair of the Supervisory Board regularly attends hearings with the European Parliament and the Eurogroup, we reply to letters from Members of the European Parliament, and we can meet with members of national parliaments to exchange views. Under an Interinstitutional Agreement with the European Parliament, the ECB has committed to taking part in such hearings and to providing the Parliament with regular reports, access to supervisory information and cooperation, while ensuring transparency, accountability and confidentiality in its supervisory role."2] Moreover, we publish an annual report on our activities and over the years we have published around 20 guides explaining our expectations and methodologies on various supervisory topics to banks and to the general public. The results of the annual health checks of banks, the SREP, are published, as are stress test results, SSM and We also reach out to and the citizens we serve.
+
+priorities supervisory expectations. actively society
+
+Overall, the work of European supervision has paid off. Banks are better capitalised, and non-performing loans have been reduced. Better regulation and supervision have contributed to financial stability and, in turn, growth. European citizens can be confident that their deposits are held in banks that are closely supervised using the same standards. They can trust that the SSM and the SRB work closely together to be well prepared for cases when individual institutions no longer meet regulatory standards.
+
+Several external reports — including by the European Commission, the European Court of Auditors"3] and an independent expert group"! — bear witness to these achievements."4 At the international level, the Basel Committee on Banking Supervision recently made changes to its methodology to take into account the progress towards the banking union.
+
+In its report on the SSM last year, the European Commission acknowledged that the SSM "has become a mature, established supervisory authority that delivers on the objectives set out when it was created. It helps ensure that banks are well prepared and capitalised for economic and financial crises. It also provides good quality and proactive banking supervision, rapidly adapting to supervisory challenges" 48]
+
+## Acting before the next crisis strikes: European policy responses to the changing environment
+
+European supervision is moving into its next phase, in an environment that has changed significantly compared with the situation ten years ago. The first phase of institution-building in the banking union was characterised by strong trust in cooperation, both in Europe and internationally. There was a very clear commitment to reinforcing high standards of supervision by aligning best practices. Meanwhile, the political consensus that progress lies in integration, rather than in national fragmentation, is at risk of being diluted. Yet, fragmentation would, ultimately, leave everybody more fragile.
+
+As regards financial regulation, we are facing a "prevention paradox": in the past ten years, we have not seen any major financial or banking crises in Europe. This is in part thanks to better supervision and regulation, but it also reflects the fact that shocks have often been buffered by fiscal and monetary policy. The costs that financial crises have for the public at large can thus easily be forgotten.
+
+Relaxing regulation and supervision with the misguided hope of promoting growth or competitiveness might be a temptation. However, such a policy shift would have severe unintended consequences. It would tilt the hard-won balance between growth and stability to the wrong side. It would ultimately deliver less stability without creating more growth. The empirical evidence is quite clear: better regulation and supervision, in particular better capitalisation of banks, have positive implications for lending to the real of stress."
+
+economy, including during periods
+
+Maintaining a clear focus on resilience has become all the more important as the risk environment has changed. Geopolitical risks as well as climate-related and environmental risks affect banks — but markets and risk managers often do not take them into account. Structural changes such as demographic trends and digitalisation alter the environment in which banks operate. The structure of the financial sector has changed, with non-bank financial intermediaries increasingly coming onto the scene, many of them closely connected to the banking sector. Big techs are increasingly providing financial services and are providers of critical services to banks. Banks need to find strategic responses to these changing patterns of competition. They need sustainable business models to maintain resilience and invest in their future.
+
+Within the SSM, we have adapted and responded to these changes by deciding on a package of reforms to make European banking supervision more efficient, effective and intrusive."2] This shift allows us to respond more effectively to changes in the external environment — to novel risks and structural changes in the real economy and the financial system. The simplification of our procedures allows us to focus more on resilience. And we will further adapt — for example when we move into a different building next year, just across the road from the Eurotower.
+
+At the same time, European banking supervision continues to operate in an environment characterised by differences in institutions and legal systems, which have an impact on banks' activities and risks. Just consider the differences in insolvency legislation across countries, or deposit insurance systems, which remain fragmented along national borders. Risks, however, do not stop at borders.
+
+At present, the banking union remains incomplete, limiting our ability to successfully manage potential future crises. A more integrated European banking landscape would make banks more resilient to domestic shocks by helping them diversify. It would contribute to private sector risk sharing, to the benefit of all Europeans.
+
+Progress towards greater European financial integration cannot wait until the next crisis strikes. Policy should respond to the signals that are already there. Lagging productivity growth and the need to finance the green and digital transitions show the urgency of making progress. The next crisis might be different; fiscal and monetary policy may have less room to manoeuvre to buffer shocks. The increased resilience in the system may be tested — as will the new institutions that have been put in place. Closing any remaining gaps should thus be the priority.
+
+There is a clear vision about what needs to be done to create a robust and integrated European financial market. A number of proposals have been made, and concrete progress can be achieved.
+
+First, safeguarding financial stability is about ensuring the safety and soundness of banks. It is not about preventing all failures, but about preventing failures at banks from imposing costs on taxpayers or causing widespread disruption to the financial system. Promoting financial stability requires effective supervision, but it also requires a clear plan for dealing with distressed financial institutions. Over the past decade, significant progress has been made in setting up resolution regimes and increasing banks' loss absorption capacity. But there are gaps that still need to be closed to make resolution even more effective and credible. Enhancing the crisis management and deposit insurance framework to deal with the failure of medium-sized banks more effectively remains essential.
+
+Second, European citizens need to have full confidence that their deposits will be protected in times of crisis, irrespective of the Member State they live in or where their bank is located. This requires a European deposit insurance scheme, which would also weaken the adverse feedback loops between banks and sovereigns. In the first decade of European banking supervision, risks have decreased significantly and common supervisory standards have been established. These preconditions for EDIS are now met.
+
+Third, progress is needed to promote the integration and development of capital markets. Long-term, risky investments require equity finance to complement bank loans. The capital markets union would help develop equity markets, improve private sector risk sharing and increase willingness to take risks. There will be benefits for banks as well: harmonising relevant legislation such as insolvency rules will help integrate banking markets further.
+
+Fourth, the Basel framework needs to remain the cornerstone of internationally agreed rules. Watering down the Basel rules would be self-defeating — it would weaken the guardrails, in particular for globally active banks, and increase regulatory uncertainty.
+
+All of these issues are complex, and implementing this reform package requires time, effort and the political will to move ahead. But it will pay off. These reforms will not imply additional costs to the public. To the contrary, they will offer greater protection for public money and people's deposits. Our experience of
+
+European supervision can provide important lessons — about how national and supranational authorities can best work together in Europe, about sharing best practices, about developing and applying common standards, and about bringing Europe together and building trust in times of crisis.
+
+- 1.
+
+| would like to thank Andrea Enria, Edouard Fernandez-Bollo, Massimiliano Rimarchi, Mario Quagliariello, Lise Simon and Sascha Titze for their very helpful comments on an earlier version. All remaining errors and inaccuracies are my own.
+
+2.
+
+Monnet, J. (1978), Memoirs.
+
+3.
+
+Lamfalussy, A. (1995), "Financial stability and central banking", /nstitut ftir Kapitalmarktforschung, 31 January. Similar arguments were made by Tommaso Padoa-Schioppa in 1999 and by the former ECB Presidents Wim Duisenberg and Mario Draghi.
+
+4.
+
+Véron, N. (2015), "Europe's radical banking union", Bruegel, 5 May; Quintyn, M. and Taylor, M. (2003), "Regulatory and Supervisory Independence and Financial Stability', CESifo Economic Studies, Vol. 49, No 2, pp. 259-294; Epstein, R. and Rhodes, M. (2014), "International in Life, National in Death? Banking Nationalism on the Road to Banking Union", KFG Working Paper Series, No 61, Freie Universitat Berlin.
+
+5.
+
+The average output loss is approximately 8.5%, independent of the choice of cut-off date for the loss calculation (end of acute phase versus recovery phase), and the median output loss amounts to between 6% and 7% across all methods. The median output loss associated with banking crises is 7% (Lo Duca, M. et al. (2017/updated 2021), "A new database for financial crises in European countries", Occasional Paper Series, No 194, ECB). Moreover, crises are typically associated with lower medium-term growth (Reinhart, C. and Reinhart, V. (2015), "Financial Crises, Development, and Growth: A Long-term Perspective", The World Bank Economic Review, Vol. 29, Supplement, pp. S53-S76), while extreme global financial crises occurring with a 1% probability every five years lead to losses of between 2.95% and 4.54% of world GDP (Kapp, D. and Vega, M. (2014), "Real output costs of financial crises: A loss distribution approach", Cuadernos de Economia, Vol. 37, No 103, pp. 13-28).
+
+6.
+
+ECB (2024), ECB Annual Report on supervisory activities 2023.
+
+Including ECB staff and the staff of national competent authorities that work on SSM tasks.
+
+8.
+
+As at 1 July 2024
+
+9.
+
+The exact figure was 211% in mid-2024. Sources: ECB Banking Supervision statistics, Eurostat.
+
+10.
+
+Adrian, T. et al. (2023), "Good Supervision: Lessons from the Field", IMF Working Papers, No 181, International Monetary Fund, September.
+
+11.
+
+From the beginning, the SSM has been more transparent than national supervisors in Europe were. See Liedorp, F., Mosch, R., van der Cruijsen, C. and de Haan, J. (2013), "Transparency of Banking Supervisors", IMF Economic Review, Vol. 61, No 2, International Monetary Fund, June, pp. 310-335; Hoegenauer, A.-L. (2023), "The ECB as a banking supervisor: Transparent compared to what?", Journal of European Integration, Vol. 45, No 1, pp. 121-137; and de Haan, J. (2024), "On the transparency and accountability of the SSM", September.
+
+12.
+
+2013/694/EU: Interinstitutional Agreement between the European Parliament and the European Central Bank on the practical modalities of the exercise of democratic accountability and oversight over the exercise of the tasks conferred on the ECB within the framework of the Single Supervisory Mechanism, (OJ L 320, 30.11.2013, p. 1).
+
+13.
+
+but more is needed to increase assurance that credit risk is properly managed and covered, 12 May.
+
+14.
+
+Dahlgren, S., Himino, R., Restoy, F. and Rogers, C. (2023), Assessment of the European Central Bank's Board of the ECB, 17 April.
+
+15.
+
+See European Commission (2023), Report from the Commission to the European Parliament and the Council on the Single Supervisory Mechanism established pursuant to Regulation (EU) No 1024/2013, 18 April; European Court of Auditors (2023), EU supervision of banks' credit risk — the ECB stepped up its efforts but more is needed to increase assurance that credit risk is properly managed and covered, 12
+
+May; and Dahlgren, S., Himino, R., Restoy, F. and Rogers, C. (2023), Assessment of the European the Supervisory Board of the ECB, 17 April.
+
+16.
+
+European Commission (2023), op. cit. p.2.
+
+17.
+
+Financial Stability Board (2019), Evaluation of the effects of financial regulatory reforms on small and medium-sized enterprise (SME) financing, 29 November.
+
+18.
+
+Buch, C. (2024), “Reforming the SREP: an important milestone towards more efficient and effective supervision in a new risk environment”, The Supervision Blog, 28 May.
+
+CONTACT

@@ -1,0 +1,337 @@
+SPEECH
+
+## Incentives matter: what is different in banking and what role does supervision play?
+
+## Speech by Claudia Buch, Chair of the Supervisory Board of the ECB, lecture at the Frankfurt School of Finance &amp; Management
+
+Frankfurt am Main, 22 October 2025
+
+| am pleased to be speaking to you today at a university with a strong tradition in financial education and research. Many of you are preparing for careers in banking or other areas of finance. The themes | want to talk about are relevant to your future work in whatever form it will take, either inside or outside the financial sector, in various roles in banks. Your decisions may have many positive effects — but they can also influence the safety of individual institutions or even the resilience of the financial system.
+
+Let me quickly recap where the European banking sector stands now, ten years after the launch of the Banking Union.
+
+Over the past decade, the European banking sector has become more resilient, thanks to better regulation and supervision and to better risk management. Policy support to the real economy during the Covid pandemic and the energy crisis has also indirectly supported banks and helped to preserve resilience. Non-performing loans threatened the survival of many banks at the beginning of the Banking Union more than 10 years ago. Today, these have declined significantly. The capitalisation and liquidity positions of banks have improved.
+
+Preserving resilience and trust in the banking sector is important because the environment in which banks operate remains challenging. Geopolitical risks, including cyber risks, are heightened. Climate and nature related risks are evolving. The digitalisation of financial services is rapidly reshaping the competitive landscape. All this requires banks to adopt long-term strategies and to remain resilient, both operationally and financially.
+
+Trust is indeed a key asset for banks. Its value depends on the incentives banks have to act in the best interests of different stakeholders and to pursue sustainable, long-term business models.
+
+Tilting incentives towards the long term also brings benefits from a market perspective. While markets may reward risky, short-term strategies, they have a long memory when banks fail.
+
+Banking crises indeed leave lasting scars. Individuals who have lived through a banking crisis often develop persistent scepticism about banks." An erosion in trust can last for a long time, as can people's memory of recessions. Individuals who experience economic downturns during their formative often remain risk-averse their lifetimes.
+
+years financially throughout 2]
+
+So today I'd like to talk about the safety and soundness of banks: why trust and incentives matter, what has been achieved so far and where more progress needs to be made. | would like to stress three points.
+
+First, misaligned incentives in banking are costly for society. Banking crises have long lasting effects on growth, labour markets and public finances.
+
+Second, aligning incentives is in the best interest of the public and actually banks themselves: sound governance strengthens trust, supports sustainable business models and reduces the likelihood of crises. Regulation plays a key role in ensuring that societal preferences are fully taken into account.
+
+Third, progress has been made since the global financial crisis to improve governance and risk management. But in the current highly uncertain environment further strengthening and consolidating these efforts is needed to navigate banks safely through troubled waters.
+
+## Costs of misaligned incentives in banking
+
+Incentives matter in banking.) If incentives are well aligned, borrowers make sufficient efforts to repay loans, banks avoid excessive risk taking, managers and board members take decisions that support a bank's long-term franchise value and that reduce the risk of failure. This protects depositors and supports financial stability.
+
+However, if incentives are not well aligned, risks may reach a level that depositors and society are unwilling to tolerate. Borrowers may exploit information asymmetries, and banks may take on excessive risk, ultimately threatening the bank's survival. Taxpayers may have to step in to protect depositors.
+
+Limited liability as a defining feature of corporate finance plays a role here: shareholders gain when the bank performs well, but their potential losses are capped at the amount invested. The separation of personal and financial risk has benefits — it can encourage entrepreneurship, capital formation and innovation. Yet, in bad states of the world, part of the loss may be borne by others, such as creditors, depositors or ultimately taxpayers. Similarly, managers whose pay depends on short term results may share in the upside but not fully in the downside of risky strategies. Such asymmetric payoffs can lead to moral hazard when information asymmetries prevail, when monitoring and control systems are weak./4] Regulation and supervision thus play an essential role in realigning incentives and limiting excessive risk-taking.
+
+Deposit insurance is relevant in this context: it plays a vital role in safeguarding financial stability by protecting depositors against losses and reducing the risk of bank runs. At the same time, because it lessens the need for depositors to monitor banks' behaviour directly, it can give rise to moral hazard. This is why supervision is essential -supervisors act as "delegated monitors" on behalf of depositors to ensure that risks are properly managed.
+
+Aligning incentives requires digging deeper into the relationship between various stakeholders.
+
+First, the objective function of banks and the broader interests of society may diverge. Banks may find it profitable to chase high-yield assets or expand into lucrative markets. But the risks that build up along the way may have to be borne by others.
+
+Second, management and shareholders may have diverging incentives. The separation of ownership and control can prompt executives to prioritise short-term gains over the bank's long-term franchise value.
+
+Third, units that generate revenue can have different incentives than risk management and control functions. If front-office staff focus on risky, short-term strategies, the effectiveness of control functions may be weakened.
+
+Fourth, shareholders and banks' creditors may not always want the same thing. Shareholders benefit when banks take on more leverage because it amplifies potential returns, while their losses remain capped. Creditors and depositors, in contrast, value stability, and their returns are more protected by higher capital and thus lower leverage.
+
+When banks take excessive risks and crises erupt, the costs for society are steep. Recessions following systemic banking crises are deeper and longer than normal recessions. Unemployment rises more sharply. Massive fiscal interventions were often needed in the past to support failing banks and avoid even greater damage. On average, governments spend around 6-7% of GDP in advanced economies or around 10% in emerging markets to support banks. a Following banking crises, public debt climbed by around 20% of GDP on average within just a few years. 8] These are high costs which are distributed unevenly across society and which constrain public finances in the longer term.
+
+Two recent bank failures demonstrate that banking crises are certainly not a historical anomaly.
+
+In March 2023, Credit Suisse was on the brink of collapse and was eventually taken over by UBS. The bank met formal capital and liquidity requirements, but it suffered from deficiencies in risk management and corporate governance.
+
+Similarly, in the US-based Silicon Valley Bank, board and management failed to properly manage key risks, including interest rate and liquidity risks.4.0 Despite the relatively small size and regional orientation of the bank, contagion was a key concern.
+
+In both cases, the immediate crisis symptoms were rapid deposit outflows and stressed liquidity positions. But the root cause was not a lack of liquidity or capital, it lay deeper: governance and risk-management failed in the banks, and supervisory intervention was often insufficient.)
+
+When the fault lines were exposed, policy interventions reduced the risk of contagion and prevented the crises from spreading. Central banks provided liquidity assistance, fiscal guarantees were granted and, in the United States, deposit insurance coverage was widened under a systemic risk exception. [12]
+
+Such banking crises show how misaligned incentives and poor governance can be costly for individual banks, but even more so for society.
+
+So what can be done to align incentives? How can decision-makers in banks be incentivised to pursue sustainable, long-term business models?
+
+Good governance and risk management are key to align incentives. Of course, the need to foster a culture where safety is everyone's responsibility is not unique to banks. In aviation, for instance, risk management has significantly improved, through both technical improvements and empowering employees to halt operations if they spot dangers."
+
+However, banking differs. Bank managers take decisions in highly uncertain and risky environments. Decisions which increase short-term profits may lead to losses only after a long period of time. Risks can evolve in complex ways within the financial system. Because banks transform short-term liabilities into long-term assets and manage risks that are often interconnected across markets and geographies, their true risk profile can be more difficult to observe than in most other industries. This opacity makes it harder to align incentives and achieve effective governance. 14] Strong regulatory standards and supervision are therefore essential to ensure that risks are managed well.
+
+## Designing good governance and incentives systems within banks
+
+Well-designed governance structures can align incentives within banks. These include clear accountability between boards and shareholders, balanced coordination between revenue-generating units and control functions, and a focus on long-term franchise value rather than short-term gains. Yet, when these mechanisms are weak or poorly implemented, incentives can become distorted, leading to excessive risk-taking or short-termism.
+
+Sufficient capitalisation is a strong incentive device: with higher capital, owners have more "skin in the game" and lose money in case risky strategies fail. This is particularly important in banking, where institutions benefit from public safety nets such as deposit insurance and access to central bank liquidity.
+
+Strong bank capitalisation has other positive effects too. Well capitalised banks also lend more and are more competitive. There is clear evidence that the better capitalisation of banks achieved since the crisis has not impaired their ability to serve corporates and households.)
+
+Within banks, risk management and control functions ensure that risks are well managed and that governance mechanisms do not favour short-termism. Around 3% of banks' staff work directly in risk functions — more than in other industries. Unlike most non-financial firms, banks are required to have dedicated chief risk officers and integrated risk management frameworks, reflecting the complexity of their activities and the regulatory expectations they face 14
+
+Pay structure matters. Clearly, pay structures differ across institutions and countries, shaped by cultural and legal differences. But, generally speaking, a high share of variable pay may incentivise decision-makers to focus on risky strategies that drive short-term profits. Data collected by the European Banking Authority (EBA) shows that high and variable pay is rather concentrated at the top. In retail banking, staff receives variable pay of about 16% of their fixed pay.) In investment banking, this ratio is about 47%. More than 2,300 bankers in Europe earn more than €1 million a year, representing less than 0.1% of the total workforce in banks. 18]
+
+Because variable pay can encourage short-term risk-taking, EU rules require a large share of it to be deferred and paid in instruments whose value depends on the bank's long-term performance. In practice, around half or more of variable pay is deferred in banks and investment firms, helping to align individual rewards with sustainable outcomes.12]
+
+Finally, hiring practices matter — particularly as regards key managerial and board functions. Attracting diverse profiles and fostering a culture of trust and responsibility within banks is essential. Formal governance mechanisms and financial incentives alone cannot shape behaviour. How risks are perceived, discussed and acted upon depends critically on the values and norms within an organisation. A strong risk culture reinforces prudent behaviour, accountability and open challenge. Weaknesses, by contrast, can create blind spots, excessive risk-taking and failures to escalate concerns. Risk culture is thus the channel through which incentives translate into tangible outcomes.
+
+## The role of regulation and supervision
+
+Internal mechanisms are important for aligning incentives within the bank. But in a sector as complex as banking, regulation and supervision are needed to ensure alignment of incentives with public interests.
+
+It is sometimes argued that regulation and supervision come at too high a cost. However, a system without regulation or supervisory guidance, relying solely on industry self-regulation, would be even costlier.
+
+Without common benchmarks, coordination would likely fail, and market trust in the industry's ability to uphold sound governance and risk management standards would be weaker.
+
+So let's turn to the role of regulation and supervision. What are the objectives, which instruments are used to achieve them?
+
+The 2007-08 global financial crisis revealed that bank capital and liquidity regulation alone was not sufficient to address fundamental governance issues in banks. 20]
+
+To be very clear: capital and liquidity requirements were too lax prior to the crisis, leaving banks severely undercapitalised when the crisis struck. As a result, massive policy intervention was needed to recapitalise banks and cover losses using taxpayers' money. And that is even before considering the adverse long-term implications for the economy and society.
+
+Capital and liquidity regulation was therefore tightened, making the system more resilient. In addition, new institutional mechanisms were designed and additional loss absorbing capital has been required to address the too-big-to-fail issue and make larger banks resolvable.
+
+But there was a broader lesson to be learned: supervision and regulation needed to pay greater attention to what happens within banks, how decisions are taken, how the incentives of those taking decisions can increase the costs to others. 24]
+
+Defining what "good governance and risk management" means is not easy. Aligning incentives is about how people are managed, how they behave and how motivated they are. This is highly dependent on the societal and legal environment. Hence there is no "one-size-fits-all' strategy.
+
+While recognising this, it is still possible to define good practices. In the aftermath of the global financial crisis, the international community set international standards for governance and risk management within the financial sector. The Financial Stability Board (FSB) issued principles for sound compensation practices and related implementation standards, 22] key principles for effective risk appetite frameworks!23] and a framework for assessing risk culture.!"4] The FSB's thematic review on risk governance underscored the importance of strong board oversight, an independent risk function and a robust risk culture.[25]
+
+Similarly, the Basel Committee of Banking Supervision (BCBS) issued guidelines on corporate governance principles for banks, which emphasised the roles of boards, senior management and internal control functions. It set standards for banks' governance and the supervision of governance arrangements, 24] in the areas of remuneration risk alignment, 22] internal audit 22] and risk data aggregation and risk reporting.2
+
+These international initiatives have addressed governance issues and deficiencies in risk management exposed during the financial crisis and established international standards and sound principles for bank governance and supervision.
+
+In Europe, the Capital Requirements Directive (CRD) establishes principle-based requirements that need to be applied in national law.24 The European Banking Authority (EBA) promotes convergence in how supervisors apply these requirements, helping to ensure that banks have sound and robust governance arrangements in place.
+
+Taking these guardrails into account, ECB Banking Supervision applies relevant European rules and their national implementation. Supervisors do not manage banks. Managers and boards are responsible for good governance and risk management frameworks. We make sure that these comply with the EU regulatory framework, and we ensure consistency in our approach across banks.
+
+In our annual Supervisory Review and Evaluation Process (SREP), we assess banks' governance and risk management using a methodology based on the EBA's Guidelines.22] If we identify shortcomings, we issue decisions with requirements or recommendations for banks.
+
+In addition to governance, the SREP focuses on the soundness of banks' capital, liquidity and business models. Arguably, capital and liquidity are easier to measure and quantify than governance. Judgement is needed to determine what a good governance structure looks like and how effectively it functions in practice. This is why the supervisory dialogue with banks and supervisory assessments rely on qualitative assessments and forward-looking judgements rather than on mechanical indicators.
+
+## [33]
+
+Banks have therefore asked us what we consider to be good practice and to be transparent about this. In response to these requests for clarity and transparency, last year the ECB published a draft guide on governance and risk culture for public consultation. The consultation attracted over 1,000 comments from around 30 stakeholders. We are now carefully reviewing the comments. The ECB is also taking into account the European Banking Authority's parallel review of its Guidelines on internal governance.
+
+Fit and proper assessments of the members of banks' management bodies are another important supervisory tool. The ECB is responsible for these assessments in the banks it supervises directly. The purpose is to ensure that individuals, and a bank's management body collectively, are suitable and have the necessary experience, reputation, independence of mind and time to perform their roles effectively.
+
+Finally, let me stress that supervisors, like banks, need sound incentives and strong governance frameworks. 24] European banking supervision is designed with checks and balances to ensure consistent, fair and independent decision-making. Clear supervisory frameworks guide our work. Regular rotation of supervisors helps maintain objectivity and fresh perspectives. A dedicated "second line of defence" — an independent horizontal function — benchmarks assessments and decisions across banks. The aim is to preserve the room for judgement in day-to-day supervision while achieving consistency through independent internal checks. In addition, accountability arrangements and internal administrative review mechanisms ensure that supervisory decisions are transparent and can be challenged.)
+
+## There has been progress — but not enough
+
+Having the right incentives in place is important for trust in banks. Yet, it is difficult to measure progress under the post-crisis reform agenda. Changes in incentives and behaviour cannot be quantified. But we do have indicators showing both the progress made and the areas that remain a concern.
+
+So, what do these indicators tell us?
+
+Since the global financial crisis, the focus of supervisors has shifted to governance and risk management. In these areas, there are typically many open findings and subsequent supervisory measures. 24]
+
+ECB supervision is no exception. SREP scores for governance and risk management have been relatively stable over time. In 2024, 85% of banks were concentrated around a score of 3 (broadly unsatisfactory), reflecting weaknesses in the effectiveness of their management bodies and internal control functions.
+
+Around one third of supervisory measures were aimed at improving management bodies. For example, banks need to ensure effective reporting from internal control functions to management bodies, allowing boards to better oversee emerging and compliance risks. Another example is asking Nomination Committees to assess the collective suitability of management bodies, and strengthen expertise through training and succession planning.
+
+Moreover, improving risk data aggregation capabilities remains one of our supervisory priorities.24 These refer to a bank's ability to produce accurate, timely risk data and reliable reports for decisionmaking. Yet, many banks still fall short of sound risk data aggregation capabilities, not least because improvements require major investments in IT and data systems.
+
+Last year, we conducted a benchmarking exercise on remuneration on a sample of 20 banks and identified some good practices, including:
+
+- &gt; key performance indicators related to the remediation of supervisory findings as part of remuneration packages;
+- &gt; regular group-wide reviews of remuneration policies;
+- &gt; internal bodies advising on improvements in risk management.
+
+But we also found room for improvement in terms of:
+
+- &gt; unclear roles for internal stakeholders in remuneration processes;
+- &gt; risk perspective being insufficiently reflected in remuneration and incentive frameworks, including an over-reliance on profitability indicators and insufficient reliance on banks' risk appetite frameworks;
+- inadequate ex post risk adjustments of bonuses. |39]
+
+Supervisors also engage with banks to ensure that the lessons from stress tests translate into concrete improvements in their risk management practices and internal controls. Stress testing was introduced after the global financial crisis to strengthen forward-looking risk management. But stress tests do not only assess capital resilience under adverse scenarios, they also help banks identify weaknesses in their risk data, modelling, and governance frameworks.
+
+Fit and proper assessments provide additional evidence of how supervisory interventions can make a difference to governance.44 Linking supervisory approvals of candidates with binding ancillary provisions, if needed, can improve outcomes in terms of governance. Such provisions can be requirements for additional training or enhanced oversight.
+
+Finally, the link between pay practices and risk-taking incentives has been analysed empirically. Evidence from European banks shows, for example, that the link between performance and pay is strongest in investment banking.41] In these areas, pay is rather sensitive to short-term performance. This can amplify incentives for risk-taking, especially when rewards are closely tied to immediate profits or shareholder returns. This underscores the importance of ensuring that pay structures reward sustainable performance rather than short-term gains.
+
+## Summing up
+
+Taking and allocating risks is the raison d'étre of financial markets. Financial markets indeed provide ample opportunity to increase short-term profits by taking on more risks.
+
+Yet, there is a downside — distorted incentives in finance, short-termism and excessive risk-taking can have high social costs. That is why society cannot rely on self-regulation, why financial institutions are regulated and supervised — to ensure sound governance and effective risk management.
+
+After the global financial crisis, supervisors have strengthened their focus on governance and risk management. The European banking sector has become better capitalized and more resilient. Its ability to serve its customers has not been impaired.
+
+Despite the progress that has been made, key questions remain. Have reforms effectively changed behaviour? How does risk culture shape daily decision-making inside institutions? These are questions banks need to ask internally, supervisors need to focus on — and we also need more research to get answers.
+
+Good governance is especially important today, in an environment of geopolitical uncertainty and pressure on traditional banking models from digitalisation. Banks need strong governance and sound risk management to remain both resilient and competitive. Chasing short-term objectives or trying to outperform the real economy by taking on higher risks may seem attractive, but it ultimately weakens banks in the long run. Instead, aligning incentives with the interests of banks' stakeholders and resisting short-termism strengthens banks' competitiveness and supports more sustainable business models.
+
+And for those of you preparing to enter the world of finance, this responsibility will one day rest with you. The choices you make — how you weigh opportunity against risk, how you balance private gain with the public good — will help determine not only the resilience of your institutions, but also the trust on which our financial system depends.
+
+1.
+
+Kerola, E., Weill, L. and Fungaéova, Z. (2020), "Experience of banking\_crises reduces trust in banks", VoxEU, 28 March.
+
+2.
+
+Malmendier, U. and Nagel, S. (2011), "Depression Babies: Do Macroeconomic Experiences Affect Risk Taking?", The Quarterly Journal of Economics, Vol. 126, No 1, February, pp. 373-416.
+
+3.
+
+For a review of the microeconomics of banking, see Freixas, X. and Rochet, J.-C. (2023), Microeconomics of Banking, third edition, MIT Press, 22 August. The relevant empirical evidence is summarised in Degryse, H., Kim, M. and Ongena, S. (2009), Microeconometrics of Banking: Methods, Applications, and Results, Oxford University Press, 16 July. The role of banking supervision and regulation to reduce agency problems between banks and depositors in the presence of deposit insurance has been analysed by Dewatripont, M. and Tirole, J. (1994), The Prudential Regulation of Banks, MIT Press, 20 December.
+
+- 4.
+
+Jensen, Michael C., and William H. Meckling (1976). "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure." Journal of Financial Economics, 3(4), 305-360.
+
+5.
+
+Diamond, D.W. and Dybvig, P.H. (1983), "Bank Runs, Deposit Insurance, and Liquidity," Journal of Political Economy, 91(3), pp. 401-419.
+
+6.
+
+Reinhart, C.M. and Rogoff, K.S. (2014), "Recovery from Financial Crises: Evidence from 100 Episodes", American Economic Review, Vol. 104, No 5, May, pp. 50-55.
+
+Laeven, L. and Valencia, F. (2018), "Systemic Banking Crises Revisited", IMF Working Papers, No 18/206, International Monetary Fund, 14 September. The authors study more than 150 episodes of banking crisis since the 1970s. They find that direct fiscal outlays to support banks typically amount to about 6—7% of GDP in advanced economies (around 10% in emerging markets), accruing mainly in the first few years after the crisis, while public debt rises by roughly 20% of GDP over the following four to five years.
+
+8.
+
+Laeven, L. and Valencia, F. (2012), "Systemic Banking Crises Database: An Update", IMF Working Papers, No 12/163, International Monetary Fund, 1 June.
+
+9.
+
+Swiss Financial Market Supervisory Authority (FINMA) (2023), Lessons Learned from the CS Crisis, report, Bern, 19 December.
+
+10.
+
+Board of Governors of the Federal Reserve System (2023), Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank, 28 April
+
+11.
+
+See Board of Governors of the Federal Reserve System (2023), Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank, 28 April; and Basel Committee on Banking Supervision (2023), Report on the 2023 banking turmoil, October, p. 26. FINMA (2023), op. cit. 12.
+
+Joint statement by the Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation and Department of the Treasury, 12 March 2023.
+
+13.
+
+See, for example, Khadivar, H., Fardnia, P. and Walker, T. (2025), "Flying safe: The impact of corporate governance on aviation safety", Journal of Air Transport Management, Vol. 124, April.
+
+14.
+
+Mehran, H., Morrison, A. and Shapiro, J. (2011), "Corporate Governance and Banks: What Have We Learned from the Financial Crisis?", staff report, No 502, Federal Reserve Bank of New York, June.
+
+15.
+
+For repositories of evaluation studies and frameworks, see Financial Stability Board, Evaluation Reports; Basel Committee on Banking Supervision, Current data collection exercises; and Organisation for Economic Co-operation and Development, Regulatory reform.
+
+16.
+
+Global Risk Institute (2019), Enterprise Risk Management Benchmarking Study: A Focus on Financial Institutions, 1 May.
+
+17.
+
+These numbers are for the years 2023. See EBA Report, Benchmarking of remuneration trends and practices and the gender pay gap, 2021-2023 data, EBA/Rep/2025/15
+
+18.
+
+These numbers refer to the change in 2022 for 27 EU Member States and the three additional European Economic Area member countries. See European Banking Authority (2024), EBA Report on High Earners — Data as of end 2022, April.
+
+19.
+
+EBA Report, Benchmarking\_of remuneration trends and practices and the gender pay gap,\_2021-2023 data, EBA/Rep/2025/15
+
+20.
+
+See Admati, A. and Hellwig, M. (2024), The Bankers' New Clothes: What's Wrong with Banking and What to Do about It, Princeton University Press, Princeton, for a clear explanation of how inadequate capital requirements and flawed governance contributed to the crisis; Johnson, S. and Kwak, J. (2010), 13 Bankers: The Wall Street Takeover and the Next Financial Meltdown, Pantheon, New York, for a political economy perspective on regulatory capture and systemic risk; and Gorton, G.B. (2010), Slapped by the Invisible Hand: The Panic of 2007, Oxford University Press, Oxford, for an account of the role of short-term funding markets in triggering the crisis. For the European dimension, see PisaniFerry, J. (2014), The Euro Crisis and Its Aftermath, Oxford University Press, Oxford, which examine how structural weaknesses in the EU banking sector and institutional framework shaped the response to the crisis.
+
+21.
+
+De Nederlandsche Bank (2015), Supervision of behaviour and culture — Foundations, practice and future developments.
+
+22.
+
+Financial Stability Forum (2009), ESF Principles for Sound Compensation Practices, 2 April; Financial Stability Board (2009), /mplementation Standards for the FSB Principles for Sound Compensation Practices, 25 September.
+
+23.
+
+Financial Stability Board (2013), Principles for an Effective Risk Appetite Framework, 18 November.
+
+24.
+
+Financial Stability Board (2014), Guidance on Supervisory Interaction with Financial Institutions on Risk Culture: A Framework for Assessing\_Risk Culture, 7 April.
+
+25.
+
+Financial Stability Board (2013), Thematic Review on Risk Governance, 11 February.
+
+26.
+
+27.
+
+Basel Committee on Banking Supervision (2012), Core Principles for effective banking\_supervision, 14 September; Basel Committee on Banking Supervision (2024), Core Principles for effective banking supervision, revised version, 25 April.
+
+28.
+
+Basel Committee on Banking Supervision (2011), Range of methodologies for risk and performance alignment of remuneration, 12 May.
+
+29.
+
+Basel Committee on Banking Supervision (2012), The internal audit function in banks, 28 June.
+
+30.
+
+Basel Committee on Banking Supervision (2013), Principles for effective risk data aggregation and risk reporting, January.
+
+31.
+
+More specifically, the CRD (Articles 74, 76, 88 and 92-95 on remuneration) sets principle-based requirements that need to be further transposed into national law by Member States. Many relevant rules on banks' governance and risk management are therefore defined in national legislation. The EBA issues guidelines explaining how legal requirements should be applied.
+
+32.
+
+See "Element 2: Internal governance and risk management" in ECB (2024), Supervisory methodology 2024..
+
+33.
+
+Enria, A. (2025) "Moving the Dial: Fostering a Culture of Supervisory Effectiveness", Forum on Financial Supervision, 9 October
+
+34.
+
+Elderson, F. (2023), "Powers, ability and willingness to act — the mainstay of effective banking supervision", speech at the House of the Euro, 7 December.
+
+35.
+
+See Administrative Board of Review, ECB Banking Supervision
+
+36.
+
+Enria, A. (2025) "Moving the Dial: Fostering\_a Culture of Supervisory Effectiveness", Forum on
+
+Financial Supervision, 9 October
+
+37.
+
+See the section entitled "Element 2: Internal governance and risk management" in ECB (2024), Aggregated results of the 2024 SREP, 17 December.
+
+38.
+
+The sample of 20 banks was chosen to ensure diversity in terms of business models, size, risk profiles and geographical representation across participating countries.
+
+39.
+
+Ex post risk adjustments ensure that remuneration can be appropriately reduced in case of downturns in the bank's performance or when excessive risks materialise (as stated in paragraphs 290 and 295 of the EBA's Guidelines on sound remuneration policies under Directive 2013/36/EU), thus ensuring incentives are aligned with the bank's long-term interests and risks, in line with Article 94(1)(i) of the CRD.
+
+40.
+
+Van Breemen, V., Faella, F., Scheins, C. and Schwarz, C. (2025), "The importance of the SSM's fitness and propriety work for banks' performance — evidence from 10 years of SSM work", Working Paper Series, No 3115, ECB.
+
+41.
+
+Stieglitz, M. and Wagner, K. (2020), "Marginal Returns to Talent for Material Risk Takers in Banking" IWH Discussion Papers 20/2020, Halle Institute for Economic Research (IWH).
+
+CONTACT

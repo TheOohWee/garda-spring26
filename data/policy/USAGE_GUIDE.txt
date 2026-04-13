@@ -1,0 +1,15 @@
+Main script: `policy_score.py`
+
+Run from this folder:
+`py -3 policy_score.py`
+
+Inputs:
+- `Data/` (source files)
+- `raw_docs/` + `raw_docs_metadata.csv` are rebuilt automatically when `Data/` changes
+
+Main outputs:
+- `outputs/cleaned_documents.csv`
+- `outputs/all_excerpts_dataset.csv`
+- `outputs/scored_sentences.csv`
+- `outputs/sample_scored_excerpts.csv`
+- `outputs/regional_policy_scores.csv`

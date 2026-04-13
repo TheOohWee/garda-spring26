@@ -1,0 +1,149 @@
+## Carolyn Rogers: Canada's mortgage market - a question of balance
+
+Remarks by Ms Carolyn Rogers, Senior Deputy Governor of the Bank of Canada, at the Economic Club of Canada, Toronto, Ontario, 6 November 2024.
+
+* * *
+
+## Introduction
+
+I'm glad to have the opportunity to speak with you today. Back in 2019, I spoke to the Economic Club of Canada about mortgages in my previous role as a bank regulator. Five years later I'm back, talking about mortgages again, this time from the point of view of a central banker.
+
+A lot has happened over the past five years, to put it mildly: we've seen a global pandemic, the sharpest economic downturn in a century followed by the fastest recovery on record, and a big spike in inflation.
+
+Lately, it's been good to see inflation return to our 2% target. Monetary policy worked: not painlessly, but it did get inflation under control without creating the sharp economic downturn that many feared. Interest rates have started to come down, and we have the prospect of further normalization ahead.
+
+And yet, for many Canadians, things don't feel like they are back to normal. While inflation has returned to target, the cost of many necessities is higher than it was before the pandemic. Wages have also increased, but for many, incomes haven't kept pace with prices.
+
+Housing also continues to be a big affordability challenge. This is true for people looking to buy a home, and it's also true for renters. For those who have a mortgage, the big worry is the interest rate they'll have to pay when they renew.
+
+There has been a lot of focus on what's been described as the . mortgage renewal wall More than 4 million mortgages-or about 60% of all outstanding mortgages-will renew over the next two years. A big portion of these have not renewed since interest rates started rising in 2022. Even with recent declines in interest rates, most of those borrowers will likely face a significant increase in their payment. At the Bank of Canada, we've done a lot of work to understand the risks around the rollover of these mortgages from a couple of perspectives.
+
+Higher payments could cause households to pull back on spending by more than we expect, slowing the economy. They could also lead to financial stress for borrowers and losses for lenders and mortgage insurers. And since many mortgages are securitizedbundled together and sold to investors-widespread losses in the mortgage market could also have implications for market liquidity and overall financial stability. Further, since mortgage insurance in Canada is backed by the federal government, large losses could have fiscal implications.
+
+That's a lot of doom and gloom, so let me be clear that these are tail risks-they're not our forecast.
+
+From a monetary policy perspective, our forecast includes the expectation that households will continue to adjust their saving and spending patterns to absorb the impact of higher mortgage payments. And as interest rates come down that impact will fade, and consumption will gradually pick up.
+
+From a financial stability perspective, Canadians have a long history of paying their mortgages. Even through the 2008-09 global financial crisis, Canada never saw a mortgage arrears rate above 0.5%. More recently, our mortgage market has fared well through a period of economic turbulence and a sharp rise in interest rates. Arrears rates have risen but remain near historically low levels.
+
+Given our recent experience, it's a good time to reflect. And even if the economy is getting back to something approaching normal, we're still expecting a future with more economic volatility and generally higher interest rates than we saw over much of the past two decades.
+
+Another reason it's a good time to reflect is that mortgage finance rules are one of the levers policy-makers sometimes use to deal with housing affordability. House prices are primarily a function of the balance between supply and demand. But since most people borrow to buy a house, prices are also affected by the cost and availability of housing credit. The cost and availability of housing credit are, of course, influenced by central bank policy rates. They're also influenced by government policy and regulations.
+
+So this is what I'm going to talk about today. I'll start with a few key concepts to make sure we're all on the same page. Then I'll offer a brief history lesson covering some important policy changes in Canada's mortgage market. Finally, I will draw out a few comparisons of mortgage finance in jurisdictions that do things differently than we do. The objective is to see what we can learn and where there might be opportunities for change.
+
+## Mortgages 101
+
+Home ownership is widely considered to be good for society, so governments in most countries like to provide incentives for it by ensuring that housing credit is available and affordable. At the same time, mortgages are the largest debt most people will take on in their lifetime, so governments also like to put laws in place to protect consumers and to make sure they understand the risks that go with mortgages.
+
+And bank regulators pay close attention to mortgages because they often represent a big portion of the assets in the banking sector. In Canada, residential mortgages make up about half the banking system's assets, so keeping mortgages safe keeps our banks safe. And a safe banking sector is a precondition for a stable economy.
+
+The policy objectives of governments and regulators can shift over time in response to changing conditions. As policies shift, so do the balance and distribution of risks. To understand this, it's helpful to keep in mind some basics of how mortgages work and who the different stakeholders are.
+
+A mortgage is simply a contract with a set of conditions that prescribe the obligations of both the lender and borrower-things like the interest rate, the term, the amortization period and the payment schedule.
+
+Once a mortgage is originated, the lender sometimes retains it as an asset or an investment. Other times they turn it into a security and sell it to an investor. If the lender doesn't sell the mortgage, they need to fund it. To reduce interest rate risk, they will want to fund it with a deposit that is about the same size and duration as the term of the mortgage.
+
+Lenders sell mortgages so that they have a variety of funding sources and don't find themselves constrained by the availability of the deposits they hold. So investors play an important role because they give lenders access to pools of capital that let them fund more mortgages.
+
+Whatever your policy objective, when you make changes to the mortgage market, it's important to keep these three groups-borrowers, lenders and investors-in mind. You need all three to have a healthy, functioning mortgage market.
+
+The challenge, of course, is that how you view a change will depend on whether you're a borrower, a lender or an investor. And sometimes, an attempt to improve conditions for one can negatively impact another. Borrowers want affordability and investors want an acceptable risk-adjusted rate of return. Features that reduce risk or flexibility for the borrower can increase risk or flexibility for the lender or investor and vice versa.
+
+The bottom line is that the mortgage market is a careful balance between a variety of policy objectives and a range of stakeholders. To illustrate how this balance has evolved over time in Canada, let me take a few minutes to walk you through a short history of changes to our mortgage market.
+
+## A history of choices
+
+Government involvement in Canada's housing finance market can be traced all the way back to Confederation. Very few Canadians had a mortgage then. Those who did needed a 50% down payment, and their options were generally limited to five-year loans. Insurance and trust companies were the primary lenders, and the government's role was limited to setting out general rules for lending.
+
+One example is the a law that dates to the 1880s and is still on the books Interest Acttoday, continuing to shape the mortgage market in Canada. I will come back to this point a little later.
+
+Starting in the 1930s, the federal government began to get more involved in the mortgage market. The motivation at that time was to boost the economy, so policies
+
+were targeted at housing construction. After the Second World War, there was a shortage of homes for returning veterans, so the government created an organization called Wartime Housing Limited to provide mortgage funding at favourable interest rates. Wartime Housing Limited would go on to become the Canada Mortgage and Housing Corporation (CMHC), and in 1954, the government passed the National , enabling CMHC to insure mortgages against borrower default. Housing Act Government-backed mortgage insurance has been foundational to housing finance in Canada ever since. 1
+
+Over the years, the features of mortgage insurance have varied significantly. Down payments have ranged from 0% to 25%, and maximum amortizations have ranged from 25 to 40 years. In the early days, only new homes were eligible, interest rates were capped, and the minimum term was 25 years. In the late 1960s, existing homes became eligible, interest rate caps were lifted, and shorter terms were introduced. These changes helped draw banks into the mortgage-lending business.
+
+Another significant change came in 1987 with the introduction of the National Housing mortgage-backed securities (NHA MBS) program. This was followed in 2001 by the Act Canada Mortgage Bond (CMB) program. Both programs were aimed at making more funding available for mortgage lending by expanding the secondary investment market for mortgages.
+
+Investors in both programs benefit from the fact that all the underlying mortgages are insured, and that the insurance is backed by the federal government. 2 This helps attract a deep pool of investors and makes funding available to lenders at rates close to those at which the federal government borrows at. By reducing the cost of funding for lenders, these programs contribute to lowering mortgage costs for borrowers.
+
+The next set of major policy changes in Canada followed the 2008 mortgage meltdown in the United States and the ensuing global financial crisis. The government introduced changes aimed at reducing risks that had built up in the financial sector during a period of expanding access to credit and mortgage insurance. A cap on the price of a house eligible for mortgage insurance and stricter underwriting requirements, like the stress test, were introduced.
+
+These same events led to increased regulation for uninsured mortgages. In 2012, the Office of the Superintendent of Financial Institutions (OSFI) released Guideline B-20, setting out tighter expectations for mortgage underwriting and risk management for banks. And in 2018 OSFI added a stress test to Guideline B-20, similar to the one required for insured mortgages.
+
+During the COVID-19 pandemic, further changes to the insured mortgage stress test and to Guideline B-20 were made to ensure underwriting standards remained strong during a period of major economic upheaval and emergency-low interest rates. And finally, most recently, the government adjusted mortgage insurance rules to provide added support for borrowers facing affordability challenges, and OSFI has signalled a further review of Guideline B-20.
+
+So that's a bit of the history of Canada's mortgage market. It gives you a sense of how changes to policy objectives over the years have shifted the distribution and balance of
+
+risks and shaped the market we have today. Now, let's see what we can learn from how other countries deal with similar objectives and challenges.
+
+## Do other countries do it better?
+
+The recent focus on the mortgage renewal wall has people talking about the United States, where 30-year mortgage terms are common. Imagine having locked in a 30year mortgage rate in the last couple of years, when rates were at rock-bottom levels. Sounds pretty good, doesn't it?
+
+But if you're a lender or a mortgage investor, it might not sound quite as good. The interest rate risk has shifted from the borrower to you. And we saw a few US banks fail in recent years when they mismanaged their interest rate risk. The 30-year mortgage has been a feature in the United States for a long time, though, so banks have had plenty of time to adapt their risk management and the vast majority do a good job.
+
+One way US lenders manage risks is by securitizing most of their mortgage loans. As a result, unlike Canadian banks, US banks don't hold most of the mortgages they write on their balance sheet. This is a feature of the US market that is generally thought to have contributed to the mortgage meltdown in 2008. Since US lenders didn't retain the mortgages they wrote, they had less incentive to maintain good underwriting standards.
+
+Government-backed mortgage insurance is also a feature in the United States. While it's not required on high-ratio mortgages the way it is here, many lenders make it a condition of approval. Caps on loan amounts for insurance eligibility exist in the United States but are set according to local market conditions.
+
+US borrowers also pay higher interest rates on their mortgages. Canadian fixed-rate mortgages are generally benchmarked off 5-year government bond yields, whereas the US benchmark is the 10-year Treasury.
+
+Prepayment penalties are more restrictive in the United States, but other flexibilities are also limited. US mortgages aren't portable, for example. So if you have a low mortgage rate but you get offered a job in another city with a big raise, you may have to give up your mortgage rate to get that raise.
+
+At the other end of the spectrum, in countries like Australia and Norway, most mortgages have a variable interest rate. This leaves all the interest rate risk with the borrower.
+
+Amortization periods in most countries range between 20 and 40 years, although a fewprimarily in Europe-have 50- and 60-year mortgages and some countries even feature 100-year mortgages, designed to be intergenerational.
+
+Interest-only mortgages are relatively common, especially in countries where interest is tax-deductible, such as Denmark, Norway and the Netherlands.
+
+And finally, flexibility options have become increasingly common in most countries in recent years. Here, I'm referring to options like skipping or adding a payment or features like a home equity credit line, which lets borrowers draw against their equity on
+
+demand. The exception is the United States, where mortgage flexibility was significantly curtailed in the that came Dodd-Frank Wall Street Reform and Consumer Protection Act into force after the global financial crisis.
+
+## There's no free lunch
+
+So what lessons can we learn from this trip through history and around the world of mortgages? Let me suggest a few.
+
+One is that Canada's mortgage rules have changed over the years for all kinds of reasons, from encouraging housing construction and home ownership, to deepening the pool of investors, to curtailing risk and making the financial system more stable. Many different motivations have led to the mortgage market we know today.
+
+These changes have had important implications for the distribution of risks. Today, about one in four mortgages is insured at origination and about $590 billion-or about one-quarter of Canada's $2.4 trillion in outstanding mortgage debt-is backed by the federal government. It's not hard to see why a sound, well-functioning housing finance market is critical to Canada's economy.
+
+Another lesson is that policy changes introduce trade-offs. There's no free lunch. Steps to reduce the short-term cost of mortgages for borrowers can increase their long-term costs. A quick calculation using current interest rates and the average mortgage size in Canada shows that a borrower who stretches their amortization from 25 to 30 years can reduce their payment by $200 per month. But they will pay their lender an additional $50,000 in interest costs over the life of their mortgage.
+
+And while longer amortizations and smaller down payments will increase returns for lenders, they also increase risk for both the lender and the borrower because they reduce a buffer that can be used if a borrower runs into stress. Regulators may adjust to this risk by expecting more capital, and investors may adjust by expecting higher returns. This increases the cost for lenders, and that cost often gets passed on to the borrower in the form of higher interest rates.
+
+Now, let's come back to the mortgage renewal wall that I talked about at the beginning of my speech. It provides a great example of how the mortgage market is shaped by policy choices.
+
+In Canada, a typical mortgage is amortized over 25 years with a five-year term. This means the borrower will confront interest rate risk four times over the life of the mortgage, each time they renew their loan. In between renewals, the lender holds the interest rate risk, unless they sell the mortgage.
+
+The prevalence of the five-year mortgage is due, in large part, to the that I Interest Act mentioned earlier, the one dating back to the 1880s. It states that a borrower that takes out a mortgage with a term of more than five years has the right to repay the loan in full after five years, subject to a maximum penalty of three months' interest. However, for the first five years of a mortgage there is no limit, so most lenders charge what is called
+
+an interest rate differential penalty. Each lender calculates this penalty a bit differently, but generally the borrower ends up paying an amount close to the interest the lender expected to collect over the term of the mortgage.
+
+You can see why lenders prefer to keep mortgage terms under five years. They are not precluded from offering longer terms, and indeed some do. But since they hold more interest rate risk, they generally charge a higher interest rate. And so far, that seems to have limited the uptake by borrowers. In April 2021, for example, 10-year mortgages were available in Canada with an interest rate of 3.14%, while five-year mortgages were at 2.29%. About 80,000 borrowers opted for the five-year rate that month, while only 400 borrowers chose the 10-year term.
+
+Since then, of course, Canadians have lived through a period of rapid interest rate hikes. So there is reason to believe preferences may have changed. But to make longer term mortgages more available to Canadians, policy changes may be necessary.
+
+## Conclusion
+
+I want to conclude by making three points.
+
+The first is that our mortgage market has, on balance, served us well across two important dimensions: financial stability and access to affordable credit for home ownership. Canada has one of the highest rates of home ownership and lowest levels of mortgage default among advanced economies. 3
+
+The impact of higher interest rates has been challenging for borrowers recently and will be challenging for many renewing their mortgage in the next two years. But policies that discouraged too much leverage and encouraged strong, dynamic underwriting, like the stress test, have proven effective when you look at the experience of the past couple of years. 4
+
+Second, when it comes to the mortgage market, there's no such thing as a simple change. The distribution of risks across the different players has many effects, including on the cost and availability of credit and the options and flexibility available to borrowers.
+
+And third, we need to resist the temptation to try to solve the housing affordability challenge by tinkering too much with the mortgage market. Housing affordability is a very real challenge to our economy. It's encouraging to see governments at all levels focused on this challenge and being creative with the range of solutions they are bringing forward. Ultimately, though, improved housing affordability requires a better balance between supply and demand, and achieving this balance will take time. In the meantime, leaning too much on measures that reduce the short-term cost of financing could have long-term impacts on the financial health of households, the mortgage market and the economy.
+
+This doesn't mean change is impossible, but it does mean change needs to be approached with care. It's always worth asking if there's room to improve, and the world offers plenty of examples to learn from. It's a question of finding the right balance.
+
+I would like to thank Brian Peterson and Yasuo Terajima for their help in preparing this speech.
+
+1 Central Mortgage and Housing Corporation was created by an act of Parliament in 1945 to succeed Wartime Housing Limited. It was renamed Canada Mortgage and Housing Corporation in 1979.
+
+- 2 Both NHA MBS and CMBs also benefit from a timely payment guarantee from CMHC (and ultimately the federal government). Furthermore, financial institutions also use mortgages as collateral in securitization for both covered bonds and asset-backed commercial paper.
+- 3 F. van Hoenselaar, B. CournŁde, F. De Pace and V. Zeimann, "Mortgage finance across OECD countries," OECD Economics Department Working Papers No. 1693 (December 2021).
+- 4 J. S. Hartley and N. Paixªo, " Mortgage stress tests and household financial resilience under monetary policy tightening," Bank of Canada Staff Analytical Note No. 2024-25 (November 2024).

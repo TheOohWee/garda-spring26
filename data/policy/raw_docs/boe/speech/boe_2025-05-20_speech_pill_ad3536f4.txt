@@ -1,0 +1,323 @@
+Good morning.
+It is a great pleasure to discuss recent monetary policy decisions with you this morning.
+Thanks to our hosts here at Barclays for organising the event.
+The May 2025 MPC decision
+At its meeting on 8 May, the Monetary Policy Committee (MPC) decided to reduce Bank
+Rate by 25bp to 4¼%. This represents a further step in the Committee’s “gradual and
+careful” withdrawal of monetary policy restriction, as the substantial pandemic- and
+invasion-induced inflationary shocks faced in recent years unwind.
+The Committee’s decision was enabled by evidence of continued progress in disinflation
+towards a lasting and sustainable achievement of the 2% inflation target.
+To illustrate, over the past few months: underlying services price inflation has eased;
+forward-looking indicators of pay growth have moderated; and – despite continuing
+challenges with the quality of the data – we are seeing more signs that slack is emerging
+in the UK labour market.
+Layered on top of these developments is the impact of recent announcements about the
+global trading system (and the uncertainties surrounding them) on the UK economy. On
+balance, the Committee judged that these announcements would have a modest
+disinflationary effect on the outlook for UK price developments at the policy-relevant
+horizon, albeit more marginal than appears to have been the prior expectation of others.
+The path of headline CPI inflation promises to be bumpy over the next few months. Owing
+in large part to the gyrations of European wholesale natural gas prices in the past (and
+their subsequent impact on UK energy utility bills in the CPI basket), the MPC expects
+inflation to rise to around 3½% through the summer. But behind this volatility, the
+underlying disinflation continues.
+This narrative and the evidence supporting it were marshalled in the MPC’s May Monetary
+Policy Report (MPR), which presents the data, analysis, forecasts and scenarios
+discussed by the Committee in coming to its Bank Rate decision. Committee members
+(including myself) have been active over the past couple of weeks in describing these data
+and analyses, so I will not repeat that again this morning.
+
+Of course, the world does not stand still. Since the MPC’s policy decision, we have seen
+significant further developments. There has been more news on the trade side, not least
+the US-UK trade agreement announced in Washington DC shortly after the publication of
+the Bank Rate decision. And that news together with the MPC’s policy announcement
+have led to substantial asset price movements, including a close-to-complete reversal of
+the post-‘Liberation Day’ decline in the price of risk assets and market expectations of
+Bank Rate to year-end.
+The implications of such news for the inflation outlook will need to be assessed by the
+MPC at its upcoming meetings. And the Committee will need to remain alert to the
+possibility that changes in circumstances demand changes in the monetary policy stance.
+As the MPC emphasised in its most recent statement: “monetary policy is not [and cannot
+be] on a pre-set path”. The Committee’s assessment, decision and communication on 8
+May were all conditional on the information it had at that point: necessarily and inevitably
+so.
+But my objective this morning is not to describe the rationale for the Committee’s Bank
+Rate cut. That has already been done, by the Governor and others.
+Rather I seek to stake out my own position. As I am sure most of you know, I dissented
+from the MPC majority in May in favour of leaving Bank Rate unchanged at 4½%. And that
+places me under an obligation to explain my dissent.
+Inverting the title of Ben Bernanke’s celebrated memoir of his experiences during the
+global financial crisis, my aim in today’s remarks is to justify my ‘courage not to act’ with
+Bank Rate at the May MPC.
+That argument has three elements: first, I will clarify my May dissenting vote (perhaps
+revealing that it was not so ‘courageous’ after all); second, I will explain the argumentation
+behind that vote (drawing on analytical material that was influential in my own thinking);
+and third, I will explore how the latest policy round illustrates the potential of scenario
+analysis (thereby proving a link back to Prof. Bernanke, given his recommendation of this
+approach in his recent review of the Bank of England’s forecasting process).
+How courageous? – A ‘skip’ not a ‘halt’
+Crucially, I would characterise my May vote as favouring a ‘skip’ within a continuing
+withdrawal of monetary policy restriction, rather than a halt to the process of withdrawal.
+I still view the underlying disinflation process (towards lasting achievement of the 2%
+inflation target) as intact. It is the quarterly pace of 25bp Bank Rate cuts delivered since
+last summer that I question on this occasion – in line with my revealed preference for a
+“cautious and gradual” withdrawal of restriction over the past year.
+
+As I have argued consistently since last spring, I am concerned about the potential
+inflationary impact of structural changes in price and wage setting behaviour, following the
+experience of prolonged, well above-target inflation in recent years. Greater ‘real income
+resistance’ among entrepreneurs and wage earners may have sustained momentum in
+nominal dynamics even as resource pressures and the labour market have eased.
+The resulting increased intrinsic inflation persistence2 has not only slowed the process of
+disinflation relative to inflation target era norms, it has also changed the character of the
+disinflation itself.
+The former observation would imply a need for a slower-than-average withdrawal of
+monetary policy restriction, simply to match the slower-than-average disinflation. But the
+latter observation brings out that structural changes in the nature of the disinflation process
+may require a more prolonged maintenance of policy restriction to ‘squeeze out’ the
+inflation arising from intrinsic persistence.
+Or to put it another way, while progress with disinflation is a signal that monetary policy
+restriction can be removed over time, progress with disinflation is also a signal that
+monetary policy restriction is working – and as long as disinflation back to target is not
+complete, maintenance of some restriction will still be required. On my reading, that is a
+view that is held across a broad swathe of MPC members.
+The disinflation process should not be seen simply as reflecting the dissipation of external
+shocks. It is also the result of the monetary policy response to those shocks.
+For sure we should be forward-looking and internalise the lags in monetary policy
+transmission to the inflation rate in making our policy choices. But this simply further
+highlights the need to manage the (potentially complex) inter-related dynamics between
+the parallel processes of disinflation and withdrawal of policy restriction.
+And in my view, that withdrawal of policy restriction has been running a little too fast of
+late, given the progress achieved thus far with returning inflation to target on a lasting
+basis.
+As reflected in the voting record, my sense is that Bank Rate plateaued at slightly too low
+a level in 2023, and the MPC started cutting Bank Rate slightly too early in 2024. To
+compensate, my starting point is that the pace of Bank Rate reduction should be
+“cautious”, running slower than the 25bp per quarter we have implemented since last
+August.
+That requires a ‘skip’ in that quarterly pattern at some point. And I decided that the May
+meeting was an appropriate moment for that ‘skip’.
+
+Why courageous? – ‘Resistance’ in theory and practice
+Evidence favouring a ‘skip’ to slow the pace of withdrawal of monetary policy restriction
+relative to what the MPC has implemented since last August comes from the signal
+extracted from many noisy nominal indicators. This signal has remained elevated even in
+an environment of stubbornly weak real activity. While disinflation towards the 2% inflation
+target continues, disinflationary momentum has shown signs of stuttering.
+To illustrate: the pace of decline in the underlying pay growth measure constructed by
+Bank staff and presented in the MPR has slowed. Core services inflation has remained
+obstinately robust. Nominal indicators from business surveys show renewed strength –
+both input and output price measures in the PMI survey, as well as goods inflation
+expectations in the Bank’s own Decision Maker Panel (DMP) survey. And household
+inflation expectations have picked up, rising to levels above their long-term averages
+consistent with the achievement of the inflation target. All this comes against a background
+of (almost) four years of above target CPI inflation, with a peak above 11%. And we expect
+April headline CPI inflation to show an increase as the prospective bumpiness in that time
+series I already mentioned becomes apparent.
+In short, I remain concerned about upside risks to the achievement of the inflation target.
+My concerns are captured in part by the ‘upside’ inflation scenario presented in Box A of
+the May MPR. This scenario associates a stronger-than-embodied-in-the-baseline-
+forecast outlook for CPI inflation with a combination of: (a) second-round effects stemming
+from the energy price induced ‘blip’ of headline inflation to 3½% over the summer; and (b)
+weaker labour productivity growth, which weighs on potential aggregate supply and
+increases unit labour costs.
+I have sympathy with both elements of the scenario. Bank research has demonstrated the
+potential for non-linear ‘threshold effects’ to kick into the price formation process once
+inflation reaches 3½ - 4%.3 This can be seen as a statistical warning of another bout of
+potential second-round effects, especially as households may be more attentive to inflation
+given recent experience and more sensitive to developments in especially salient items of
+the CPI basket (such as food and utility bills) that are driving the anticipated rise in
+inflation. And stagnant labour productivity is consistent with the reservations I have
+expressed for some time about the dynamism of the UK supply-side.
+But my concerns go beyond these risks. The scenarios published in the MPR are useful
+not just because they help to illustrate some of my concerns, but also because they serve
+to delineate where I have additional concerns that run beyond what is presented in the
+MPR.
+First, a brief empirical motivation.
+
+As shown in Chart 1 – which will be familiar to many of you from MPR press conferences
+over the past few quarters – since mid-2023 pay growth has exceeded the rates that would
+have been expected on the basis of developments in its usual determinants, such as
+labour market slack, inflation expectations and productivity. In parallel, the MPC’s wage
+growth forecasts – which, though judgemental, draw on models of these standard
+relationships estimated on data from the generally benign inflation targeting era – have
+systematically under-predicted the strength of pay growth, as shown in Chart 2.
+
+To explore the monetary policy implications of these empirical developments, my
+collaborators at the Bank have estimated a small empirical model of the UK economy.
+Building on the work of my former colleagues at the ECB and their co-authors,4 this model
+explicitly incorporates unemployment and captures fluctuations in the natural rate of
+unemployment (see Annex).
+In this model, the natural rate of unemployment does not vary according to the degree of
+skills mismatch or the degree of churn in the labour market (as is the case in other models
+used at the Bank). Rather, the natural rate of unemployment is a function of the wage
+bargaining power of workers, which captures how much those workers seek to resist any
+fall in their real take-home incomes as the economy is subject to real shocks.
+
+Not only does this model get closer to embracing the underlying inflation-propagating
+mechanism that I am most concerned about, but it does so in an internally consistent way.
+The approach permits exploration of not just the implications for the inflation outlook of
+changes in price and wage setting behaviour, but also how those changes in behaviour
+influence the transmission mechanism and thus the design of the appropriate monetary
+policy response.
+Charts 3 and 4 show how inflation and Bank Rate respond to a ‘cost-push shock’ in this
+model as the degree of ‘real income resistance’ in the wage bargaining process (ψ)
+strengthens.6 As intuition would suggest, greater resistance to declines in real income
+implies a stronger inflation reaction to the cost-push shock (i.e. amplification of the inflation
+impact) and requires a stronger monetary policy response in Bank Rate.
+
+What’s more, because the mechanism producing this stronger response is a reflection of
+changes in the structure of the economy rather than the specific economic shock – in other
+words, it is a consequence of greater intrinsic persistence in inflation, rather than extrinsic
+persistence – then further inflationary shocks would produce similar upside deviations from
+whatever disinflationary path the economy was on.
+Charts 3 and 4 have been produced under the assumption that monetary policy follows a
+common rule independent of the degree of real income persistence. But the policy
+response itself should reflect how changes in the structure economy influence the
+propagation of inflation and the transmission mechanism of monetary policy. What was the
+optimal monetary policy response under one view of the transmission mechanism will
+become sub-optimal should that view of the transmission mechanism change.
+
+To illustrate this, we have constructed optimised ‘Taylor rules’ linking the level of Bank
+Rate to deviations of inflation from target and the output gap. Because we have an
+internally consistent model of the economy, we can use a measure of welfare to construct
+these optimised rules that itself reflects how the economy and transmission mechanism
+has been changed by the changes in ‘real income resistance’.
+While adopting a framework with novel structural features challenges the consistency of
+this exercise with the baseline forecasts and scenarios shown in the May MPR, it has the
+benefit of maintaining in fact, deepening) the internal consistency within this novel
+framework.
+Chart 5 shows how the parameter governing the optimised responsiveness of Bank Rate
+to the deviation of inflation from target in this set-up varies with the degree of ‘real income
+resistance’ shown by wage bargainers. Again in line with intuition, the greater the degree
+of intrinsic inflation persistence coming from higher ‘real income resistance’, the more
+strongly monetary policy needs to respond to above target inflation (other things equal).
+Taken together, these results imply that, if intrinsic inflation persistence were to rise as a
+result of wage bargainers exhibiting lastingly stronger real wage resistance, then:
+• Inflation would be higher than otherwise following a cost-push shock;
+• Since the drivers of that higher inflation are a change in the structure of the
+economy and the behaviour of firms and households within it, this greater sensitivity
+of inflation to a cost-push shock is not a ‘one-off’ but a lasting feature of the
+economy;
+• As a result, were there to be a series of inflationary cost-push shocks, the upside
+deviations of inflation from target would prove more persistent than historical
+estimates of the inflation response to those shocks would imply;
+• And the optimised response of monetary policy given greater intrinsic inflation
+persistence requires a stronger response of Bank Rate to upside deviations of
+inflation from target, in turn implying that Bank Rate should stay ‘higher-for-longer’
+even as the disinflation process proceeds.
+This set of implications is consistent with our recent experience of under-estimating the
+persistence of above-target inflation following the pandemic- and invasion-induced
+inflationary cost-push shocks. It also offers support for a slower pace of withdrawal of
+monetary policy restriction during the subsequent disinflation phase.
+In other words, it is one persuasive argument behind my decision to support a May ‘skip’ in
+the ongoing process of Bank Rate reduction.
+Whither courageous? – Exploring ‘robustness’
+Of course, this is all conjecture. The model-based results follow from different calibrations
+of ‘real income persistence’, not estimates based in the latest data. While the results of the
+exercises are consistent with the surprising strength of UK pay growth since 2023, we do
+not yet have sufficient data to assess whether there has indeed been a structural break in
+intrinsic inflation persistence in recent years.
+Econometricians enjoy the luxury of being able to wait for longer time series to become
+available to explore that possibility. Policy makers must take decisions in real time.
+That is one reason why scenarios based on calibrations can be valuable in monetary
+policy preparation – they allow various “what if” exercises to be conducted and published,
+which expose how policy makers maybe thinking about innovations in the data and the
+structure of the economy, and their implications for Bank Rate decisions.
+One illustration of how such scenarios can support monetary policy making comes from an
+exercise exploring the robustness of policy decisions in the face of uncertainty about
+where the true extent of ‘real income resistance’ among wage bargainers lies.9 The
+relatively simple yet empirically relevant model framework developed above is a helpful
+testbed.
+Chart 6 illustrates the following exercise. We assume that the parameter capturing intrinsic
+inflation persistence (ψ) has shifted to a higher value.10 We then assess how Taylor rules
+optimised under different assumptions for the real income resistance parameter made by
+the central bank (denoted ψ’)11 perform, both in model-consistent welfare terms and in
+terms of inflation volatility.
+By construction, the welfare loss in this exercise is minimised for the true value of the
+intrinsic inflation persistence parameter (i.e. when ψ’ = ψ).
+Inflation volatility (as shown by the orange bars in Chart 6) declines as the sensitivity of
+Bank Rate to inflation deviations from target rises (with the central banks assuming real
+income resistance is stronger than is actually the case, ψ’ > ψ). But this comes at a cost in
+terms of overall welfare (captured in the orange line) as the distortions to activity and
+employment rise. This simple model set-up therefore captures a central feature of the
+Bank’s flexible inflation targeting framework: it warns against adopting what is often called
+an “inflation nutter” approach that focuses solely on minimising inflation volatility even in
+the face of trade-off inducing shocks.
+
+The key feature of Chart 6 is the asymmetry in welfare losses around this specific true
+value of inflation persistence. For the calibration chosen, a policy maker creates smaller
+losses if she errs on the side of assuming a higher-than-true value of intrinsic inflation
+persistence than is she errs by a similar margin on the side of assuming a lower-than-true
+value of that parameter.
+If this were to be a general result across all plausible value of intrinsic inflation persistence,
+it would have immediate policy-relevant conclusions: other things equal, it is preferable to
+worry about intrinsic inflation rather than neglect it.
+We explore this conjecture in Chart 7. This matrix illustrates how welfare losses vary for
+different true parameter values as policy makers assume different degrees of intrinsic
+inflation persistence in constructing their optimised Taylor rules.
+
+It is immediately apparent that the result drawn from Chart 6 is not generalisable across all
+the parameter values deemed plausible. To take the extremes shown here: assuming that
+intrinsic inflation persistence in low when it is in fact high results in a lower welfare loss
+than assuming intrinsic inflation is high when it is in fact low.
+Nonetheless, Chart 7 is a helpful summary of how uncertainties surrounding the degree of
+real income resistance (and thus intrinsic inflation persistence) may influence inflation and
+welfare outcomes. This summary can both help to organise the internal discussion of
+policy choices within the MPC and present key elements of the rationale for both individual
+decisions and the final collective outcome of an MPC meeting.
+Consideration of a satellite model of real income resistance is useful not just because it
+delineates where I have additional concerns that run beyond what is presented in the
+MPR. It is also useful because it reveals that no model (or set of models) is a complete
+substitute for the importance of my own subjective judgement in forming a view on the
+appropriate path for Bank Rate. The exercise in Chart 7 forces Committee members to
+disagree within a common framework and explore the welfare consequences of incorrect
+beliefs within a model in which macroeconomic mechanisms map directly to optimal policy
+paths.
+Concluding remarks
+Progress with underlying disinflation towards lasting and sustainable achievement of the
+2% inflation target in the UK continues. This justifies some further withdrawal of monetary
+policy restriction by the Bank of England’s Monetary Policy Committee. In that light, the
+Committee lowered Bank Rate by 25bp to 4¼% at its May meeting.
+My dissent from that decision does not reflect a fundamental difference with the
+Committee majority regarding the inflation and policy outlook.
+On the contrary, I also believe that the underlying disinflation process remains intact and –
+conditional, as always, on the information and analysis available today – that the
+prospective path of Bank Rate from here is downward.
+My dissenting vote stems from a concern that the pace of withdrawal of monetary policy
+restriction since last summer – quarterly cuts of 25bp – is too rapid given the balance of
+risks to price stability we face. This is in line with my preference for “cautious and gradual”
+cuts in Bank Rate expressed over the past twelve months.
+I would therefore characterise my dissenting vote as favouring a ‘skip’ in the quarterly
+pattern of Bank Rate cuts intended to slow the pace at which monetary restriction is
+withdrawn. It should not be seen as favouring a halt to (still less a reversal of) that
+withdrawal of restriction.
+
+Why this preference for caution?
+I remain concerned that structural changes in the price and wage setting behaviour have
+increased the intrinsic persistence of the UK inflation process. That not only makes
+inflation ‘higher-for-longer’ in the aftermath of pandemic- and invasion-induced inflationary
+shocks than would otherwise have been the case. It also influences the appropriate Bank
+Rate response in pursuit of lasting achievement of the inflation target.
+In these remarks, I have flagged those indicators that give me cause for concern. I have
+emphasised that these indicators need to be seen in the round and interpreted as part of a
+broader economic narrative. Monetary policy decisions should be ‘outlook dependent’ not
+narrowly ‘data (outturn) dependent’.
+But I also recognise the difficulty with concrete, real-time identification of the behavioural
+changes in price and wage setting that are cause for concern. This is where scenario
+analysis comes in.
+In my remarks this morning, I have sought to give some insight into how economic
+scenarios can be used to conduct “what if” exercises that influence my approach to
+monetary policy decisions. These exercises need empirical grounding and internal
+consistency. They can be conducted in parallel with the baseline forecasts and scenarios
+published in the MPC Monetary Policy Report.
+While these scenarios remain work-in-progress from an institutional point-of-view for both
+the Bank of England and its MPC, I hope my remarks have given some insight into how
+they influence my own thinking as I participate in the current monetary policy debate.
+They illustrate a number of more general points: the MPC and its members routinely
+consider a wide range of inputs and explore economic mechanisms from different
+perspectives; by implication, all analysis and judgments cannot be funnelled through a
+single framework like the forecast; and as a result, a single forecast will not as a general
+rule be a sufficient statistic for communicating the MPC's policy stance.
+And with that, I am happy to take your questions.

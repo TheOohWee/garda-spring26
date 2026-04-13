@@ -30,6 +30,8 @@ dependencies = [
   "seaborn>=0.13",
   "statsmodels>=0.14",
   "tqdm>=4.66",
+  "torch>=2.2",
+  "transformers>=4.40",
   "yfinance>=0.2",
   "pytest>=8.2",
 ]

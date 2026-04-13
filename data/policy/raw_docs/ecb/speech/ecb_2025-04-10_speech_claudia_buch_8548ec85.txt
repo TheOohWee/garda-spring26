@@ -1,0 +1,352 @@
+SPEECH
+
+## European banking integration: harnessing the benefits, containing the risks
+
+## Speech by Claudia Buch, Chair of the Supervisory Board of the ECB, Warsaw School of Economics
+
+Warsaw, 10 April 2025
+
+Thank you very much for inviting me to speak here today. [ ] Poland's presidency of the Council of the European Union comes at time of exceptional uncertainty. The global economy is under strain from heightened geopolitical risks, trade tensions, and financial market volatility. Within Europe, this is adding to the pressure to revive growth and deepen the integration of the Single Market. Poland's economic history holds important lessons, having made the transition from a centrally planned economy four decades ago to being a fully-fledged member of the EU for two decades. 1
+
+I would like to focus on banking integration, one of the banking union's main objectives and a key component of Poland's economic transformation. Although more than ten years have passed since the banking union was established, its objectives could not be more relevant today. The banking union has clearly delivered in terms of providing better, more harmonised supervision, a stronger regulatory framework and a resolution regime. European banks have proven to be resilient to recent shocks, including the COVID-19 pandemic, the energy crisis and the banking market turmoil of March 2023. Better regulation and supervision have made a significant contribution to this, as has policy support for the real economy.
+
+Yet hopes that the banking union would lead to closer integration of banking markets across Europe have not fully materialised. Cross-border mergers have remained relatively rare, about 75% of banks' lending portfolios are invested in their home markets, and few banks have truly European business models. [ ] 2
+
+Promotion of the Single Market for banking services by removing barriers to integration would offer many benefits. This would allow for better diversification of risks and better use of scale and scope. Banks could develop European strategies as a response to the digitalisation of financial services. Recent reports on the European economy stress the need to strengthen productivity by harnessing the Single Market's scale, improving access to equity finance, reforming the labour market and implementing structural reforms. [ ] Consumers would benefit from these measures, which would also help to promote growth. Although these reports focus mainly on the real economy, similar factors are at play in the banking sector. 3
+
+In banking, however, greater integration and more intense competition can have implications for risk. Local shocks can spill over and lead to contagion, and increased competition may incentivise excessive risk- taking. The risks associated with cross-border integration need to be adequately addressed through banks' risk management, supervision and regulation.
+
+The experience of central and eastern European countries (CEECs) offers valuable lessons. In the 1990s there was intense debate about how to open up to foreign competition and to regulate the sector. Since then, financial integration and regulatory harmonisation have made rapid progress.
+
+Of course, history does not repeat itself. Moving from a centrally planned 'monobank' system, where central bank and commercial bank activities were not separate, to a modern banking system was clearly a unique institutional reform. At the beginning of the transition period, domestic banks in CEECs lagged far behind their international peers, and there was substantial potential for the transfer of technology. Uncertainty regarding the valuation of banks' assets was high, as each economy was undergoing a broad adjustment to a new set of relative prices. Non-performing loans (NPLs) increased significantly in the early transition period, and many banks failed. Today, more than 30 years later, foreign banks in the region have significant market shares, higher than in the rest of Europe, and capitalisation and technology have improved significantly.
+
+However, the effects of integration become more visible under the magnifying glass of the transition period. There are lessons we can learn today from this exceptional period. First, the integration of banking markets brings many benefits. Yet despite the harmonisation of banking regulation and supervision, the full benefits of the Single Market still remain unexploited in Europe. Second, many barriers to integration are embedded in national rules that affect financial services. In this respect, the savings and investment union could be an important catalyst for greater integration. Third, adequate regulation and supervision is needed to ensure that the banking sector remains resilient during a period of heightened uncertainty and risk.
+
+## Open markets: why consumers benefit and how banking is different
+
+Consumers benefit from open markets and increased competition in many ways. Production based on comparative advantages allows for a better use of scarce resources, resulting in better quality products, lower prices and greater variety. Indeed, the benefits of integration through trade in goods and services are well documented. [ ] In Poland, real GDP per capita grew significantly in the period following EU accession, rising from 51% of the EU average to 83% between 2004 and 2023 (Chart 1), while real income convergence was even faster than in other new EU Member States. 4
+
+## Chart 1:Real GDP per capita, 2004-23
+
+Notes: Based on real GDP per capita in terms of purchasing power standard, with the EU average as the baseline. EU is used in fixed composition, including all the countries currently being part of EU27. The yellow and purple lines are GDP-weighted averages. 'Other CEECs in the euro area' refers to Estonia, Croatia, Latvia, Lithuania, Slovenia and Slovakia.
+
+Sources: European Commission and ECB calculations.
+
+In Europe, the banking union has helped to strengthen the resilience and soundness of the euro area banking sector. Since its inception, the resilience of banks under European banking supervision has increased. [ ] 5
+
+- Capital levels have increased - from 12.7% in 2015 to 15.9% in 2024 for the weighted Common Equity Tier 1 (CET1) ratio, and - less dynamically - from 5.3% to 5.9% for the unweighted leverage ratio. 
+- Non-performing loans have declined to 1.9%. Ten years ago, NPLs reached an average of 7.5% and, in some countries, values of close to 50%. 
+- Improved operational efficiency is reflected in lower cost-to-income ratios, which declined from 60% to 55% between 2015 and 2024. 
+- Banks' return on equity has recovered from 5% to 10%, which also reflects the recent increase in interest rates, and European supervisors pay particular attention to the long-term sustainability of 
+
+business models.
+
+These achievements underscore the value of European banking supervision in promoting consistent, riskbased supervision across the euro area and ensuring a stable and competitive banking sector.
+
+Generally speaking, the benefits of integration can come about through the cross-border provision of goods and services or through the direct investment of firms abroad. Foreign direct investment has the added advantage of providing the transfer of technology and know-how.
+
+A similar rationale about the benefits of open markets applies to banking. More integrated and more competitive markets offer a wider choice of financial services and a better diversification of risks, while weakening banks' local market power. Financial contagion risks fall if financial markets are highly integrated. [ 6
+
+] From a theoretical point of view, the entrance of foreign banks tends to enhance efficiency, but the effects on competition depend on the mode of entry. [ ] Foreign direct investment through the 7
+
+acquisition of local banks may even lead to higher market power and increased profit margins. Crossborder lending may, in contrast, put greater pressure on profit margins and interest rates.
+
+In banking, however, there is also a potential downside to greater integration and competition as risks may increase. Large shocks can spill over more easily in more integrated markets. More intense competition can trigger risk-taking. [ ] The management of complex international organisations places particular demands on banks' governance and risk management. And exposure to geopolitical risks increases. Bank internationalisation is therefore often associated with higher risks. [ ] 8 9
+
+The history of global banking provides ample evidence of these trade-offs. The global financial crisis in 2007-08 spread through the cross-border links between banks that had often taken insufficient account of the associated risks. The crisis resulted in a deleveraging of banks and a retrenchment from foreign markets that took years to return to normal. [ ] This retrenchment was particularly strong in Europe: economic downturns increased loan defaults and weakened bank balance sheets, forcing banks to pull back from activities in affected markets. 10
+
+As regards the benefits of foreign direct investment and cross-border bank mergers, the evidence is mixed. Deregulation of entry and the removal of indirect barriers that raise information costs can promote cross-border mergers. [ ] In Europe, mergers and acquisitions in banking have a strong domestic or regional focus, presumably because information and execution costs are lower. Cross-border mergers tend to increase profitability by more than domestic mergers. [ ] However, not all mergers improve efficiency and shareholder value, and some may even be motivated by adverse incentives of becoming 'too big to fail'. [ ] 11 12 13
+
+Generally, the evidence points towards trade-offs that need to be managed. Better integration of markets clearly has benefits, but it also affects the incentive to take on risks. This link is not linear: risks can increase or decrease the more integrated the markets are. [ ] That is why reaping the benefits of 14
+
+integration and competition requires strong regulation and supervision to tilt the balance towards improvements in financial stability and consumer welfare.
+
+## Opening up to foreign banks: example of the transition economies
+
+Opening up to foreign banks in the transition economies of central and eastern Europe provides a case study for the effects of banking integration. In countries like Poland, that opted for a 'big bang' rather than a more gradual approach to transformation, price liberalisation and institutional reforms happened almost in parallel. Let me give you a quick overview of what happened on banking markets.
+
+In Poland, commercial banks were separated from the central bank in 1989, paving the way for their subsequent privatisation. [ ] This brought to an end a period of administered prices and credit allocation by the Government. A key policy question at the time focused on the sequence of opening up the market to foreign banks: should national markets be developed first and foreign banks allowed to enter the market only afterwards? Or should consolidation involve foreign banks? [ ] In the end, the weakness of domestic banks meant that quick imports of foreign skills and technology were needed. Domestic banks also needed sufficient capital, which foreign owners were best placed to provide. 15 16
+
+A key accelerator of institutional reform was accession to the European Union in May 2004. Today, credit institutions licensed in any Member State can operate branches in Poland without requiring local permission. [ ] The capital account is fully liberalised. The Single Rulebook applies, and Poland is a member of relevant bodies such as the European Systemic Risk Board. ECB Banking Supervision cooperates closely with the Polish Financial Supervision Authority (Komisja Nadzoru Finansowego) through the European supervisory college framework [ ] and we have memoranda of understanding with the Polish supervisory and resolution authorities. [ ] 17 18 19
+
+Liberalisation and integration have deepened financial and banking markets. Banking sector assets increased from a little less than 50% of GDP in the mid-1990s to about 88% of GDP in 2023. [ ] Crossborder gross financial flows accelerated, especially during the EU accession period. Poland has consistently managed to attract net inflows of foreign direct investment, which averaged about 2.5% of GDP between 2004 and 2023. The banking sector served as the main conduit for capital inflows. 20
+
+The stock of credit to the private sector has increased, but it remains below the European average. In 1997 domestic credit was only 19% of GDP. Banking markets deepened, and this ratio increased to 35% in 2024 while remaining below the euro area average of 81% (Chart 2).
+
+Chart 2: Domestic credit as a percentage of GDP in Poland and the euro area
+
+Source: Bank for International Settlements (2025), ' Credit to the non-financial sector'.
+
+Foreign banks initially entered the Polish market in tandem with their corporate clients. This 'follow your customer' strategy was the predominant mode of entry prior to the globalisation of financial markets that started in the 1990s. Foreign banks entered the Polish market by participating in the privatisation of domestic banks. In 1989 there were no foreign banks operating in Poland. As of 2023, 16 of Poland's 63 commercial banks were foreign-owned, accounting for 39% of total banking assets. [ ] While this is a significant international presence, it is at the lower end of the spectrum compared with other CEECs. 21
+
+The deep economic transformation of the 1990s left its mark on bank balance sheets. [ ] The financial situation of banks deteriorated at the beginning of the decade, triggering the restructuring of banks and mergers. NPLs increased rapidly to a peak of 22% in 2004 (Chart 3). In 2023 NPLs stood at 2.3%, which comparable to the euro area average. [ ] 22 23
+
+Chart 3: Non-performing loan ratio in Poland, participating countries and nonparticipating CEECs, 2014-24
+
+Notes: Non-participating CEECs depicts the simple average of the gross NPL ratios for the Czech Republic, Croatia, Latvia, Hungary and Romania. Participating countries data is computed from supervisory banking statistics. For the Czech Republic, data before the fourth quarter of 2015 are not available.
+
+Sources: ECB consolidated banking data and supervisory banking statistics.
+
+Sufficient capital is the first line of defence against financial stability risks. The Polish banking sector has a higher CET1 ratio than the average across all countries participating in European banking supervision (over 19% compared with 16%), up from around 13% in 2014 (Chart 4). In fact, higher capital ratios are not uncommon in European countries outside of the euro area, potentially reflecting higher risks, including foreign currency risk, and the need for higher buffers.
+
+Chart 4: Capitalisation of banks in Poland, participating countries and non-participating CEECs, 2015-23
+
+Note: Non-participating CEECs depicts the simple average of CET1 ratios for the Czech Republic, Croatia, Latvia, Hungary and Romania. Participating countries data is computed from supervisory banking statistics.
+
+Foreign-owned banks have played a significant role in shaping credit dynamics in the region. Prior to the great financial crisis, the increased presence of foreign-owned banks contributed to a substantial expansion in credit fuelled by cross-border capital flows. [ ] While supporting economic growth, this also heightened vulnerabilities to shocks. During the crisis, foreign-owned banks in central and eastern Europe reduced their lending more sharply than domestic banks, as parent institutions sought to consolidate balance sheets and manage liquidity pressures at home. Evidence from other emerging markets suggests that foreign banks can also have a stabilising effect and lend in a countercyclical way. In Latin America, for example, foreign bank subsidiaries have been found to help smooth credit fluctuations thanks to their ability to access diversified funding sources and more stable parent company support. [ ] 24 25
+
+Chart 5: Ratio of foreign banking group loans and advances to total loans and advances in Poland and the euro area, 2014-23
+
+Note: The composition of the euro area has changed over the time period shown.
+
+Source: ECB consolidated banking data.
+
+In the CEECs, supervisory coordination proved crucial in mitigating the reduction of lending through foreign banks. The Vienna Initiative played an important role in encouraging parent banks to maintain exposures to the region. [ ] This shows that close integration of international capital flows and banking markets can expose markets to the risks of contagion, requiring good supervision, regulation and coordination among authorities. [ ] 26 27
+
+## Lessons for today: identifying and removing remaining barriers to integration
+
+The experience of transition economies with cross-border banking integration in the 1990s is not only of interest to economic historians. It holds important lessons for the development of European banking markets today. In both cases, integration promises benefits - such as increased competition and efficiency - but also bring risks that need to be carefully managed.
+
+The starting point for the countries in central and Eastern Europe in the 1990s was very different. When they began the integration process, they were emerging from decades of almost complete isolation from global markets. In contrast, today's EU banking integration builds on a foundation of decades building a common market and harmonising banking regulations.
+
+Another key difference lies in the technological environment. In the 1990s, banks in CEECs faced a significant technology gap compared with their international counterparts. Today, banks across Europe operate with access to broadly similar technological capabilities.
+
+Yet despite these more favourable starting points, barriers to integration remain. Variation in the response of net interest margins to rising interest rates across Member States show that markets remain segmented. Differences in market structures, varying degrees of local market power and limited crossborder competition prevail due to barriers that hinder the full integration of banking markets.
+
+Better integration of market would thus have benefits. Stronger cross-border competition can reduce excessive market power at national level and generate positive spillovers for the real economy. [ ] So how integrated are European banking markets, and what are the factors potentially impeding further integration? 28
+
+At face value, direct barriers to the integration of banking markets in Europe are low. The Single Rulebook establishes a common regulatory framework for all banks in the European Union. And within the banking union, the European banking supervision ensures that banks in participating countries are supervised according to the same standards. The supervisory treatment of cross-border activities within the EU follows clear rules, so let me briefly summarise the state of play. [ ] 29
+
+The ECB has exclusive competence for granting the authorisation to operate as a credit institution within the banking union. [ ] Our assessment follows clear criteria related to capital levels, the business model and the suitability of managers and relevant shareholders. It may include expectations for an exit plan to prevent risks to financial stability. [ ] And if a given credit institution no longer fulfils our requirements, the ECB may withdraw the authorisation. [ ] 30 31 32
+
+As regards the cross-border allocation of capital and liquidity across banking groups in the EU, prudential requirements are principally applied at the individual entity level and the consolidated level. Waivers would make it more attractive for banks to establish subsidiaries across borders. EU banking legislation gives competent authorities the option to waive some requirements at the individual level, allowing banking groups to meet those requirements on a group-wide or sub-group basis. For capital, waivers can be granted only within the same Member State, not across borders [ ] , while liquidity requirements can be waived for non-domestic subsidiaries. However, banks have barely used this option. [ ] 33 34
+
+As regards mergers and acquisitions, the approval process for qualifying holding applications follows clear rules that treat domestic and cross-border transactions in the same way. [ ] The ECB is responsible for approving the acquisition and increase of qualifying holdings in credit institutions established within the banking union, based on the relevant national legal framework implementing the Capital Requirements Directive (CRD). [ ] We assess transactions based on prudential requirements, prudent risk management, the sustainability of business models and governance structures, and the suitability of the shareholders. 35 36
+
+The approval process also assesses the prudential implications of possible risks of money laundering or terrorist financing inherent to the transaction. [ ] 37
+
+The adoption of CRD VI further promotes harmonisation and cooperation between competent authorities in the approval of mergers. Effective from January 2026, it introduces rules for merger approval at the European level. This is a welcome development that further lowers the barriers to integration, clarifying the rules and ensuring a level playing field in this crucial area. [ ] While the CRD sets out the main assessment criteria, the European Banking Authority (EBA) is currently tasked with developing a common methodology for assessing mergers. 38
+
+Capital requirements for domestic and cross-border activities within the banking union are now being treated more equally. This follows a change in the Basel Committee's methodology that recognises the risk-reducing effect of single supervision and resolution. Within the Basel frameworks for global and domestic systemically important institutions, banks with a higher volume of cross-border activities have a higher risk score and therefore a potentially higher capital surcharge. However, within the banking union, cross-border activities are more like domestic transactions because of shared rules and supervision. Accordingly, cross-border exposures within the banking union have lower risk scores than exposures outside the banking union. This has been applicable to global systemically important banks since 2022, and it will extend to the risk scoring of other systemically important institutions (O-SIIs) from next year
+
+## onwards. [ ] 39
+
+Yet despite harmonised banking rules, geographic and cultural distance remains an important factor in the integration of European banking markets. Time and again, empirical studies have shown that geographical distance is an important determinant of the strength of a lending relationship, both domestically and internationally. [ ] The digitalisation of financial services may be a game-changer here, but it remains to be seen whether geographical distance will eventually become less important. 40
+
+Legal differences across Member States are another 'distance' factor. Cross-border banking is not only affected by banking rules. It is the whole spectrum of national legislation that matters. There are still many differences in areas such as insolvency law, the mortgage market and corporate governance structures, all of which affect the valuation of assets and the ability to collect collateral.
+
+Differences between national legislation are a major source of complexity in banking regulations. The regulatory framework for banks that the ECB applies includes not only harmonised EU rules but also national laws that implement EU directives. Moreover, European prudential legislation also contains Member State options and discretions - that is, provisions where national authorities can choose how to apply certain rules. This adds layers of complexity for cross-border banking groups. Any further harmonisation of relevant rules through the savings and investment union would thus be highly desirable.
+
+## [ ] 41
+
+The lack of a European deposit insurance scheme also contributes to market fragmentation. Only around 1.6% of household deposits were held in accounts with euro area banks outside their home countries in
+
+August 2024. [ ] Depositors might be reluctant to use the services of non-resident banks if there is uncertainty about the level of depositor protection, which means there is no level playing field when offering banking services across Europe. Moreover, a truly European deposit insurance scheme would enhance the banking system's resilience to adverse shocks, boosting depositor confidence and reducing market fragmentation. An additional barrier to further cross-border market integration is the limited transferability of contributions to deposit guarantee schemes. Currently, banks that join a new scheme cannot transfer in their past contributions, which may discourage cross-border mergers. 42
+
+From a regulatory and supervisory perspective, little stands in the way of the further integration of European banking markets, particularly within the banking union. However, there are still many differences between national legal frameworks that impede banks' ability to develop truly European business models. As a result, national banking systems remain segmented, limiting the benefits of a truly unified banking market. Broader financial integration remains constrained, and the full potential of the Single Market is not being reached. This fragmentation not only restricts efficiency gains but also leaves financial systems more vulnerable to asymmetric shocks and instability.
+
+## Addressing risks of banking sector integration
+
+Banking sector integration brings benefits, but it can also entail risks. Mergers create larger banks with the aim of reaping the benefits from economies of scale and scope. However, large banks can also entail larger risks to financial stability due to their increased interconnectedness and complexity. Their failure could cause substantial harm to the financial system and the real economy.
+
+From a microprudential perspective, the ECB can assess banks' European business models holistically. The yearly Supervisory Review and Evaluation Process (SREP) assesses banks' geographical expansion and group structure, while supervision of subsidiaries benefits from an assessment of the group's structure and viability. The same holistic perspective is taken during the approval process for consolidation transactions and licence applications.
+
+In addition, large and systemically important financial institutions are subject to extra supervisory scrutiny. This affects the assessment of a bank's risks, governance arrangements and capital and liquidity positions. The ECB adapts the frequency and intensity of its supervisory engagement to a bank's potential impact on the financial system, its intrinsic riskiness and whether it is a parent entity, subsidiary or standalone institution.
+
+From a macroprudential perspective, banks need to fulfil capital requirements that increase relative to their systemic importance. Within the European Union, two macroprudential instruments are applied to ensure that large, systemic banks are sufficiently capitalised. In accordance with their overall systemic importance, banks are subject to a CET1 surcharge when they are designated as 'other systemically important institutions' (O-SIIs) or 'global systemically important institutions'. The buffers depend on size, complexity, and importance of cross-border activities. National authorities are responsible for setting the buffers, and the ECB can increase ('top up') these buffers if necessary. In addition, since 2016 the ECB has applied a methodology to O-SIIs to ensure that systemic risks are addressed in a consistent manner, both within and across the countries participating in European banking supervision. [ ] The ECB recently enhanced this methodology to take into account the systemic importance of all O-SIIs for the banking union as a whole. [ ] 43 44
+
+Overall, these additional measures reduce the probability and costs of financial crises, and disincentivise banks from becoming systemically important. However, these measures would be incomplete without a proper resolution framework - which is the second pillar of the banking union. The resolution framework ensures that failing banks can be resolved without resorting to taxpayer-funded bailouts, while still preserving financial stability. The framework includes tools such as bail-in measures, which require shareholders and creditors to absorb losses first, and provides for the establishment of resolution plans and the use of the Single Resolution Fund to support orderly resolutions when necessary.
+
+## Summing up
+
+The cross-border integration of banking markets offers benefits. It enables banks to make the best use of state-of-the art technology, to benefit from economies of scale and to improve risk diversification.
+
+At the moment, however, Europe is not fully reaping these benefits. Cross-border deposit holdings are small, cross-border mergers and acquisitions have been limited and banks' asset portfolios have a strong domestic focus. More needs to be done to remove barriers to integration, including those stemming from differences between national legislation.
+
+But integration can also have downsides. Larger, more complex banks need to be management well, especially at times of heightened geopolitical risks. Banks need to have good governance and risk management mechanisms in place to address the potential downsides. They need to be well supervised and regulated.
+
+Strong regulation and supervision ensures that banks' management act in the interests of all stakeholders, particularly the depositors and taxpayers who might be at risk if banks fail. European banking supervision provides the foundations for more integration and competition in a way that does not sacrifice resilience. But it needs the support of other policy areas to remove the remaining barriers to integration while maintaining a strong regulatory framework.
+
+1.
+
+I would like to thank Rustam Ablyaev, Alessandra Casoli, Francesco Chiacchio, Maciej Grodzicki, Korbinian Ibel, Salvatore Mastrullo, Samuel McPhilemy, Massimiliano Rimarchi, John Roche and Peter Welz for their very helpful input and comments on an earlier version of this speech. All remaining errors and inaccuracies are my own.
+
+2.
+
+Lenoci, F. and Molitor, P (2024), '
+
+Intra-euro area cross-border bank lending: a boost to banking market
+
+', Financial Integration and Structure in the Euro Area 2024 , ECB, June. See also Gotti, G., integration?
+
+McCaffrey, C. and Veron, N. (2024), ' ', study requested by the European Parliament's Committee on Economic and Monetary Affairs, Economic Governance and EMU Scrutiny Unit, IPOL, October. Banking union and the long wait for cross-border integration
+
+3.
+
+International Monetary Fund (2024), ' ', Regional Economic Outlook, Washington, D.C., October; Draghi, M. (2024), ' ', European Commission, September; and Letta, E. (2024), ' ', April. The aforementioned work by the IMF shows that the productivity of listed firms in Europe is lower than that of US firms. A Recovery Short of Europe's Full Potential The future of European competitiveness Much more than a market
+
+4.
+
+International Monetary Fund (2025), ' ', IMF Country Report, No 2025/006, 21 January, p. 37. Republic of Poland: 2024 Article IV Consultation-Press Release; Staff Report; and Statement by the Executive Director for the Republic of Poland
+
+5.
+
+European Central Bank (2025), ' ', press release , 20 March. ECB publishes supervisory banking statistics on significant institutions for the fourth quarter of 2024
+
+6.
+
+Allen, F. and Gale, D. (2000), 'Financial contagion', Journal of Political Economy , Vol. 108, No 1, February, pp. 1-33.
+
+7.
+
+de Blas, B. and Niles Russ, K. (2013), 'All banks great, small and global: loan pricing and foreign competition', International Review of Economics &amp; Finance, Vol. 26, Issue C, pp. 4-24.
+
+8.
+
+For an overview of the literature on the link between risk and competition in banking, see Vives, X. (2016), 'Competition and Stability in Banking: The Role of Regulation and Competition Policy', 2 August, Princeton University Press.
+
+9.
+
+Berger, A.N., El Ghoul, S., Guedhami, O. and Roman, R.A. (2017), 'Internationalization and Bank Risk', Management Science , Vol. 63, No 7, July, pp. 2283-2301.
+
+10.
+
+Emter, L., Schmitz, M. and Tirpák, M. (2018), ' ', Working Paper Series , No 2130, ECB, February. Cross-border banking in the EU since the crisis: what is driving the great retrenchment?
+
+- 11.
+
+Buch, C.M. and DeLong, G.L. (2004), 'Cross-border bank mergers: what lures the rare animal?', Journal of Banking &amp; Finance , Vol. 28, No 9, pp. 2077-2102.
+
+12.
+
+Figueiras, I. et al. (2021), ' ', Financial Stability Review , ECB, November. Bank mergers and acquisitions in the euro area: drivers and implications for bank performance
+
+13.
+
+DeYoung, R., Evanoff, D. and Molyneux, P. (2009), 'Mergers and Acquisitions of Financial Institutions: A Review of the Post-2000 Literature', Journal of Financial Services Research , Vol. 36, No 2, December, pp.87-110. See also Berger, A.N., Buch, C.M., DeLong, G. and DeYoung, R. (2004), 'Exporting financial institutions management via foreign direct investment mergers and acquisitions', Journal of International Money and Finance , Vol. 23, Issue 3, April, pp. 333-366.
+
+14.
+
+Calomiris, C.W. and Haber, S. (2014), 'Fragile by design: The Political Origins of Banking Crises and Scarce Credit', Princeton University Press, 23 February. See also Beck, T., Demirgüç-Kunt, A. and Levine, R. (2006), 'Bank concentration, competition, and crises: First results', Journal of Banking &amp; Finance , Vol. 30, No 5, May, pp. 1581-1603; and Andreeva, D., Grodzicki, M., Móré, C. and Reghezza, A. (2019), ' ', Financial Stability Review , ECB, November. Euro area bank profitability: where can consolidation help?
+
+15.
+
+See Kozak, S. (2013), ' ', NBP Working Papers, No 166, Consolidation of the banking sector in Poland in 1989-2013 in comparison with the structural changes of the banking sector in the USA and the EU
+
+Narodowy Bank Polski, for an overview of the development of the Polish banking sector and the role played by foreign banks.
+
+16.
+
+Narodowy Bank Polski (2001), ' ', December. See also Bonin, J.P. and Leven, B. (1996), 'Polish Bank Consolidation and Foreign Competition: Creating a MarketOriented Banking Sector', Journal of Comparative Economics , Vol. 23, No 1, August, pp. 52-72. The Polish Banking System in the Nineties
+
+17.
+
+European Banking Authority, ' '. Passporting and supervision of branches
+
+18.
+
+Supervisory colleges bring together home and host country authorities responsible for the oversight of cross-border banking groups. They facilitate the exchange of information, promote consistent supervisory practices and enhance the joint assessment of risks and crisis management coordination. A joint decision by the college is foreseen for key supervisory processes, such as the setting of capital and liquidity requirements in the Supervisory Review and Evaluation Process (SREP) or permissions for the use of internal models.
+
+19.
+
+See ' , in respect of cooperation and exchange of information for the performance of their tasks under Directive 2014/59/EU of the European Parliament and of the Council'; and '. Memorandum of Understanding between the Single Resolution Board, the European Central Bank, Bankowy Fundusz Gwarancyjny and Komisja Nadzoru Finansowego Memorandum of Understanding between the European Central Bank and the Competent Authorities of non-participating European Union Member States for the performance of their Supervisory Tasks
+
+20.
+
+Kozak, S. (2013), op. cit. See also ECB Data Portal 2023. Total assets for 2023 are based on the annual average of monthly end-of-period data reported by monetary financial institutions excluding the European System of Central Banks.
+
+21.
+
+Narodowy Bank Polski (2024), . Rozwój systemu finansowego w Polsce w 2023 r
+
+22.
+
+Kozak, S. (2013), op. cit.
+
+23.
+
+International Monetary Fund (2025), ' ', IMF Country Report, 2025/006, 21 January, p. 37. Republic of Poland: 2024 Article IV Consultation-Press Release; Staff Report; and Statement by the Executive Director for the Republic of Poland
+
+24.
+
+Dell'Ariccia, G., Igan, D., Laeven, L. and Tong, H. (2012), ' ', IMF staff discussion note , 7 June. Policies for Macrofinancial Stability: How to Deal with Credit Booms
+
+25.
+
+Cull, R. and Martínez Pería, M.S. (2013), 'Bank ownership and lending patterns during the 2008-2009 financial crisis: Evidence from Latin America and Eastern Europe', Journal of Banking &amp; Finance , Vol. 37, No 12, pp. 4861-4878.
+
+26.
+
+No
+
+De Haas, R., Korniyenko, Y., Pivovarsky, A. and Tsankova, T. (2015), 'Taming the herd? Foreign banks, the Vienna Initiative and crisis transmission', Journal of Financial Intermediation , Vol. 24, No 3, pp. 325355. For a more general assessment of banks' retrenchment behaviour during financial crises, see De Haas, R. and Van Horen, N. (2013), 'Running for the Exit? International Bank Lending During a Financial Crisis', The Review of Financial Studies , Vol. 26, No 1, January, pp. 244-285. 27.
+
+International Monetary Fund (2019), 'Republic of Poland: Financial Sector Assessment ProgramTechnical Note-Stress Testing and Systemic Risk Analysis', IMF Country Report, No 2019/120, 9 May, Washington, D.C.
+
+28.
+
+Cacciatore, M., Ghironi, F. and Stebunovs, V. (2015), 'The domestic and international effects of interstate U.S. banking', Journal of International Economics , Vol. 95, No 2, pp. 171-187
+
+29.
+
+Enria, A. (2021), ' ', speech at the Eurofi Financial Forum, Ljubljana, 9 September. How can we make the most of an incomplete banking union?
+
+30.
+
+This competence is exercised in an assessment conducted jointly with the national competent authorities.
+
+31.
+
+ECB (2018), , March. Guide to assessments of fintech credit institution licence applications
+
+32.
+
+Article 18 CRD, as implemented by national law.
+
+33.
+
+The same applies to large exposures and leverage requirements.
+
+34.
+
+Enria, A. and Fernandez-Bollo, E. (2020), ' ', The Supervision Blog , ECB, 9 October. Fostering the cross-border integration of banking groups in the banking union
+
+35.
+
+ECB (2020), . Guide on the supervisory approach to consolidation in the banking sector
+
+36.
+
+The relevant national competent authority serves as the point of entry for notifications and must submit a proposal to oppose or not oppose the acquisition or increase of a qualifying holding to the ECB, which is then competent for taking the final decision.
+
+37.
+
+The assessment also covers the reputation, knowledge, skills and experience of the members of the management body every time the proposed acquirer intends to use its power to identify new appointees. See Article 23 CRD, as implemented by national law, as well as Joint Committee of the , December and ECB (2023), , March. European Supervisory Authorities (2016), Joint guidelines on the prudential assessment of acquisitions and increases of qualifying holdings in the financial sector Guide on qualifying holding procedures
+
+38.
+
+See . Opinion of the European Central Bank of 27 April 2022 on the Proposal for a Directive of the European Parliament and of the Council amending Directive 2013/36/EU as regards supervisory powers, sanctions, third-country branches, environmental, social and governance risk (CON/2022/16) 2022/C 248/03
+
+39.
+
+See ECB (2022), ' ', 27 June and ECB (2024), ' ', 20 December. Governing Council statement on the treatment of the European banking union in the assessment methodology for global systemically important banks Governing Council statement on macroprudential policies - the ECB's framework for assessing capital buffers of other systemically important institutions
+
+40.
+
+Brei, M. and von Peter, G. (2017), ' ', BIS Working Papers , No 658, Bank for International Settlements, August. The Distance Effect in Banking and Trade
+
+41.
+
+Lebastard, L. (2022), ' ', Working Paper Series , No 2724, ECB, September. Financial exposure and bank mergers: micro and macro evidence from the EU
+
+42.
+
+Rumpf, M. (2024), ' ', The ECB Blog , 24 October. Cross-border deposits: growing trust in the euro area
+
+43.
+
+Behn, M. et al. (2017), 'ECB floor methodology for setting the capital buffer for an identified Other Systemically Important Institution (O-SII)', Macroprudential Bulletin , Issue 3, ECB, June.
+
+44.
+
+ECB (2024), op. cit.

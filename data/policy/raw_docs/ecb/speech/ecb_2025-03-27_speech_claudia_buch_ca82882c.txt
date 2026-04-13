@@ -1,0 +1,107 @@
+SPEECH
+
+## Hearing of the Committee on Economic and Monetary Affairs of the European Parliament
+
+Introductory statement by Claudia Buch, Chair of the Supervisory Board of the ECB, at the Hearing of the Committee on Economic and Monetary Affairs of the European Parliament
+
+Brussels, 27 March 2025
+
+It is my pleasure to report on the activities of ECB Banking Supervision and present our Annual Report for 2024, which is being published today. Last year marked the tenth anniversary of the Single Supervisory Mechanism, which was established in 2014 with a clear mandate to contribute to the safety and soundness of banks. More than 15 years after the global financial crisis and the European sovereign debt crisis, Europe can look back on a decade of financial stability. This is a crucial foundation for the real economy and contributes to the competitiveness of European firms.
+
+Financial crises have occurred repeatedly throughout history, driven by excessive risk taking, insufficient regulation and weak supervision. They come at enormous economic, social, political and fiscal costs that can persist for many years. [ ] 1
+
+To mitigate both the likelihood and the impact of financial crises, a comprehensive package of banking sector reforms has been implemented. Impact assessments show that these reforms have made the banking sector more resilient and that the benefits outweigh potential unintended side effects on lending or growth. [ ] 2
+
+These benefits are clearly visible in Europe. The European banking sector now has solid capital and liquidity positions. [ ] For significant institutions, the aggregate Common Equity Tier 1 (CET1) ratio stood at 15.7% in the third quarter of 2024. The aggregate leverage ratio remained broadly stable at 5.8%. Banks adjusted well to a more restrictive monetary policy environment, with an aggregate liquidity coverage ratio of 158% in the third quarter of 2024. In 2024 bank profitability continued to benefit from the increase in interest rates observed since mid-2022. 3
+
+Banks' asset quality remains solid, although weaker economic growth and higher interest rates may increase risks. Overall, the ratio of non-performing loans to total loans remains at 2.3%, well below the level observed ten years ago. [ ] From a sectoral perspective, banks' exposures to small and medium-sized enterprises and to commercial real estate have become riskier, in part owing to the sensitivity of these exposures to higher interest rates. 4
+
+Looking ahead, European banks face strong headwinds, requiring continued efforts to ensure financial and operational resilience. Geopolitical uncertainties, climate and nature-related risks and cyber risks can have severe negative impacts on banks. Addressing these risks remains a priority for ECB Banking Supervision.
+
+Let me give you some examples.
+
+Generally, we are monitoring how banks are addressing their exposure to geopolitical risk, which affects them through all traditional risk categories. [ ] Operational risk is one focus area. Both the incidence and the severity of cyberattacks on banks have increased. We are working with the banks to strengthen their preparedness, drawing on the results of a cyber resilience stress test we conducted last year. [ ] We have also adjusted our supervisory framework to prepare for the implementation of the Digital Operational Resilience Act (DORA), which has been in effect since January 2025. [ ] DORA is strengthening the IT security of financial entities and reducing risks related to outsourcing. 5 6 7
+
+Moreover, reliable information systems are essential for both banks and supervisors to monitor risks effectively. Yet, many banks still face shortcomings in their internal information systems. To address this, we published a guide to clarify supervisory expectations. [ ] 8
+
+As regards climate and nature-related risks, banks have made notable strides. We continue to monitor banks' progress towards establishing reliable risk management and governance arrangements. These need to be informed by high-quality, client- and asset-specific data. Robust and efficient sustainabilityrelated reporting requirements for the corporate sector are thus key to identify and manage financial risks.
+
+These are just a few examples of how the current framework has allowed European banking supervision to enhance bank resilience and to shift focus to new drivers of risks. This is a significant achievement.
+
+At the same time, European banking supervision remains committed to reducing undue complexities in the current framework that hinder our ability to ensure that banks remain safe and sound. Clearly, simplification cannot come at the expense of resilience. The existing framework is effective in maintaining financial stability without impeding growth. But there is scope for improvement in three areas: supervision, reporting and regulation.
+
+First, in order to deliver our supervision as efficiently and effectively as possible, we are reforming the Supervisory Review and Evaluation Process. These reforms were decided on in 2024 and will be fully phased in next year. They will allow us to focus more on relevant risks and to ensure that deficiencies are swiftly remediated by the banks. [ ] In parallel, we are exploring ways to improve our administrative procedures. Currently, we are piloting fast-track approvals of risk transfer in securitisation, while maintaining a strong focus on relevant risks. 9
+
+Second, there is scope to reduce reporting costs by harmonising reporting schemes, improving information systems and enhancing information sharing. Improvements in banks' information systems would pay off in two ways - they would enhance the banks' internal risk management and reduce the costs of responding to supervisory requests. [ ] 10
+
+Generally, the ECB welcomes the political agreement that was reached by co-legislators on better data sharing in financial services. [ ] In this spirit, we are working on several initiatives. The Integrated Reporting Framework (IReF) will integrate the Eurosystem's statistical and prudential reporting for banks. We are collaborating with the European Banking Authority through the Joint Bank Reporting Committee, which was established in 2024, to reduce reporting costs, in close cooperation with the industry. [ ] Notably, a Memorandum of Understanding between ECB Banking Supervision and the recently established EU Authority for Anti-Money Laundering and Countering the Financing of Terrorism (AMLA) will lay down the principles governing cooperation, including the exchange of information. Generally, we now have more than 40 supervisory Memoranda of Understanding with authorities around the globe, in addition to cooperation arrangements such as supervisory colleges. [ ] 11 12 13
+
+Third, a potential simplification of regulation must not be mistaken for deregulation. Lowering standards would ultimately leave risks unaddressed and may incentivise high-risk practices with little benefit to the real economy or the resilience of banks. To ensure that simplification does not come at the expense of resilience, any discussion on changes in regulatory standards should be guided by sound evidence and cost-benefit analyses. While the ECB is not the regulatory authority, we stand ready to provide our supervisory expertise to these discussions. Assessing the impact of the current regulatory framework and exploring potential enhancements needs to be aimed at strengthening its effectiveness without compromising financial stability objectives.
+
+Let me summarise. Europe needs to maintain a strong supervisory and regulatory framework to ensure financial stability, protect the real economy in times of stress and keep deposits safe - especially in light of the current economic uncertainty. Low risk premia, despite heightened geopolitical risks, increase the vulnerability of the financial sector to adverse shocks and global spillovers. [ ] 14
+
+We need resilient banks - both financially and operationally - that can withstand shocks and continue delivering their services to the real economy. Weakening prudential and supervisory standards may harm the competitive position of European firms. Instead, removing national barriers to the Single Market and implementing structural policies can promote growth and innovation. [ ] The capital markets union has the potential to harmonise national rules that impose costs on cross-border activities for banks, too. 15
+
+Moreover, we need improvements to the crisis management and deposit insurance framework to better deal with bank failures and protect depositors more effectively. Completing the banking union, including with a European deposit insurance scheme, remains a key priority to strengthen financial stability.
+
+1.
+
+The average output loss resulting from financial crises (including banking crises and other types of financial crisis) has been approximately 8.5%, and the median output loss amounts to 6-7%. See Lo Duca,
+
+M. et al. (2017/updated 2021), ' A new database for financial crises in European countries - ECB/ESRB
+
+2.
+
+See Bank for International Settlements (2022), ' ', December; the Financial Stability Board's ; and the Bank for International Settlement's ' '. Evaluation of the impact and efficacy of the Basel III reforms overview of evaluations of the effects of the G20 financial regulatory reforms Financial Regulation Assessment: Meta Exercise (FRAME)
+
+3. ECB (2025),
+
+, 27 March. ECB Annual Report on supervisory activities 2024
+
+4.
+
+Non-performing loan ratios including cash balances at central banks stood at 1.9% in the second quarter of 2024, compared with more than 7% in 2015.
+
+5.
+
+Buch, C. (2024), ' ', Global rifts and financial shifts: supervising banks in an era of geopolitical instability keynote speech at the eighth European Systemic Risk Board (ESRB) annual conference on 'New Frontiers in Macroprudential Policy', 26 September.
+
+6.
+
+See ECB (2024), ' ', 13 November; ECB (2024), ' ', Supervision Newsletter , 13 November; and ECB (2024), ' ', press release , 26 July. IT and cybersecurity risks - key observations in 2024 Evolving IT and cybersecurity risks ECB concludes cyber resilience stress test
+
+7.
+
+See, for instance, ECB (2025), ' ', Supervision Newsletter , 19 February; and ECB (2024), ' ', 3 June. Outsourcing trends in the banking sector Public consultation on the Guide on outsourcing cloud services to cloud service providers
+
+8.
+
+ECB (2024), , May. Guide on effective risk data aggregation and risk reporting
+
+9.
+
+See Buch, C. (2024), ' ', The Supervision Blog , ECB, 28 May. Reforming the SREP: an important milestone towards more efficient and effective supervision in a new risk environment
+
+10.
+
+See ECB (2025), ' ', Supervision Newsletter , 19 February. Sound risk data reporting: key to better decision-making and resilience
+
+See the (CON/2024/21). Opinion of The European Central Bank of 21 June 2024 on the proposal for a regulation of the European Parliament and of the Council as regards certain reporting requirements in the fields of financial services and investment support
+
+12. See in particular section 4.2.3, ECB (2025), , 27 March. ECB Annual Report on supervisory activities 2024
+
+13.
+
+See in particular section 4.1, ECB (2025), , 27 March. ECB Annual Report on supervisory activities 2024
+
+14.
+
+See ECB (2024), , November. Financial Stability Review
+
+15.
+
+See Draghi, M. (2024), ,
+
+European Commission, September; and Letta, E. (2024),
+
+, April. The future of European competitiveness - A competitiveness strategy for Europe Much more than a market

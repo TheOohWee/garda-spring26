@@ -1,0 +1,115 @@
+## Nicolas Vincent: Monetary policy decision-making - behind the scenes
+
+Remarks by Mr Nicolas Vincent, Deputy Governor of the Bank of Canada, at the Chamber of Commerce of Sherbrooke, Quebec, 19 September 2024.
+
+* * *
+
+## Introduction
+
+Good morning. It's a pleasure to be here with you today.
+
+I've done a lot of hiking, camping and skiing in the Eastern Townships. But this is the first time I've had a chance to spend time in Sherbrooke. I'm very much looking forward to spending the next two days in your lovely city.
+
+As Bruno mentioned, I'm a professor at HEC MontrØal and an external Deputy Governor of the Bank of Canada. As an external Deputy Governor, I am a full member of Governing Council. I participate in all discussions related to monetary policy and financial stability.
+
+The Bank's aim in creating an external, part-time role was to get new perspectives from someone who isn't from the world of central banks but still knows a thing or two about economics. Thankfully, my teaching experience and academic research have come in quite handy in my role at the Bank, as has my early-career work in the public service. Even with my experience, however, I've had to learn a lot since joining the Bank in March 2023, particularly about the process involved in making interest rate decisions.
+
+At the beginning of September this year, in light of recent progress in the fight against inflation, the Bank announced a third consecutive cut of 25 basis points, bringing the policy rate to 4…%. It will likely come as no surprise to any of you that it's more pleasant to announce cuts than it is to announce increases. In recent years, decisions by the Bank have been the subject of much attention, interest and debate. This is to be expected. The decisions have an impact on everyone, in many different ways, and we are well aware of that. We know that households are worried about the cost of living, their mortgage loan renewal, house prices, rent and the fact that it is getting harder to find a job. Given the importance of our decisions, they must not be taken lightly. And having been at the Bank for 18 months now, I can confirm that they are not. Interest rate decisions are based on an enormous amount of analysis and reflection.
+
+But how are decisions reached? What does the process look like exactly? Since becoming Deputy Governor, I have often been asked such questions. Generally speaking, there is considerable interest in and curiosity about our work and our responsibilities. That's why the Bank puts so much effort into making monetary policy understandable for everyone by communicating it in clear and simple terms. You can find detailed information on the Bank's website explaining our work and our decisionmaking process. We want people to understand what we do.
+
+Yet, for all our efforts, the truth is that most people know little about how we work and the steps we take in deciding whether to raise, maintain or lower the policy interest rate.
+
+That may even be the case for many of you here. And when I think about it, it's not particularly surprising. Even as a macroeconomist, I knew little about the process before starting at the Bank.
+
+Today I'd like to take you behind the scenes and speak about what happens behind closed doors. What are the steps in the process? What sources of data do we use? How do we make our projections? I'll also talk about the debates, the differences of opinion and the ways we reach a consensus. As you'll see, making a decision on monetary policy is much more complicated than pushing a button, and getting a computer to spit out calculations and having everything fall into place. I'll also talk about my own experiences, what's surprised me and what I've learned along the way.
+
+## Analysis and consultations
+
+First, I'd like to start with a quick review of what monetary policy is and does. At its core, the Bank's mandate is to keep inflation low, stable and predictable, and centred on the 2% target. The Bank's main tool for doing this is the policy rate. Changes to the policy rate affect several other interest rates in the economy, notably mortgage rates and rates for business loans. If the Bank raises the policy rate in response to high inflation, the cost of borrowing increases. This lowers demand because people have less money to spend on things like eating out or clothing, while businesses defer spending on projects. When economic activity slows, inflation goes down, which shows that monetary policy is working.
+
+While that seems simple in theory, in practice it is rather more complicated because the effects of our actions are not felt immediately. I have been a Deputy Governor for 18 months, which is the period needed to observe the full effects of monetary policy on inflation. And because we are always making decisions about the future, the Bank must rely heavily on economic forecasting.
+
+In addition, the impacts of Bank decisions are complex and uncertain. Much like a business that faces many unknowns when deciding to adopt a new technology, the Bank also must make choices in the face of considerable uncertainty. This is why it's important to have good information and good advice.
+
+To get the best possible understanding of the economic situation, Governing Council members have access to an extremely large number of datasets, analyses and points of view. When I'm asked to summarize the work of a Deputy Governor, I often say that I am a big aggregator of information. I am part of a team whose job is to put together all the pieces of the puzzle to inform our decision-making. Today, I'd like to explain to you what that means in concrete terms.
+
+Every year, the Bank makes eight monetary policy decisions. That means eight times a year, the Bank must decide whether it will raise, maintain or lower the policy interest rate. Four of the eight decisions are accompanied by the Monetary Policy Report (MPR), published most recently in July. The MPR examines the global and Canadian economies in terms of production, spending, the labour market and, of course, inflation. It also includes the Bank's projections for growth and inflation and the risks to the projection over a two-year period.
+
+The decision-making process begins about a month before the announcement date, when Bank staff present an economic projection to Governing Council. We call this Case A. It draws on the Bank's macroeconomic models and surveys, its analysis of various sectors and components of the economy, and its assessment of financial stability and financial market activity. Since we don't have a crystal ball, we draw on the latest data and use our projection models to look into the future. 1 For several hours, Governing Council members debate the assumptions and risks to the projection as well as alternative case scenarios prepared by staff.
+
+About 10 days later, Bank advisors and economists present Case B, a revised projection incorporating the comments of Governing Council members and, if any, new developments that occurred since Case A. We draw on that projection to make our policy rate decision.
+
+When there is a rate announcement without an accompanying MPR-as was the case two weeks ago-many of the same steps are involved, although staff do not make new projections. They report on new data released since the last policy decision and on how the economy as a whole performed against expectations. Although the amount of information we have access to differs between announcements with and without an MPR, all decisions are equally important.
+
+Throughout the process, Statistics Canada's data on inflation, gross domestic product and employment are an invaluable source of information to guide our decisions. But they also have limits. First, data tend to be aggregate, which can make it difficult to discern the full range of experiences Canadians are having. That is why we spend a lot of time diving deep into the data to analyze what concerns and affects people on a dayto-day basis: rent, house prices, mortgage renewal, the prices of gas and groceries, how long it takes to find a job, and so on. All these factors help us to predict the path of inflation in the months and years ahead.
+
+Second, hard data draw from the past. That is why the Bank conducts quarterly surveys on consumer expectations and the business outlook. The qualitative and forwardlooking nature of these surveys allows us to discover different points of view and obtain a more nuanced portrait of the future path of economic activity. Some of you may even have participated in these surveys; if so, I'd like to thank you for the contribution you've made to making monetary policy.
+
+We also engage with the public through outreach activities. The Bank needs to hear from a variety of participants in the economy to understand what is happening on the ground. Meeting with businesses, community groups and other organizations gives us an opportunity to listen, learn and deepen our understanding of their situation. The knowledge we gain helps us interpret the statistical data and contributes to our projections. This outreach also gives us an opportunity to explain the role of the Bank to Canadians.
+
+This is exactly what I will be doing during my time in Sherbrooke. I'll have the opportunity to participate in a round table with Entreprendre Sherbrooke, speak with university students and meet with local officials. Sometimes outreach activities even
+
+have unintended outcomes. Last spring, I took an outreach trip to Rimouski, where I grew up. After I was interviewed by local media, some childhood friends I had not heard from in years reached out and messaged me!
+
+As an aside, I'd like to point out that while the Bank seeks out views from a broad range of stakeholders, it makes monetary policy decisions independently. This protects the Bank from short-term political objectives and pressures from special-interest groups. The independence of a central bank is even more important when difficult decisions must be made, as has been the case in recent years.
+
+The next step in the decision-making process is the risk and recommendations meeting, which takes place about a week before the announcement date. Advisors and staff from economics departments share their points of view and debate the implications of raising, maintaining or lowering the policy rate. This culminates in a round-table discussion where each person puts forward a recommendation and its rationale. As you can imagine, we are never short on opinions. While Governing Council is ultimately responsible for making the decision, the decision is really the product of an enormous team effort.
+
+Once the members of Governing Council have heard from the advisors and studied their analyses and recommendations, they meet in private to evaluate everything they've learned and come to a decision. Now, I'll shed a bit of light on how that works.
+
+## Deliberating the decision
+
+Before I talk about the deliberation process, I have to let you in on a little secret. At the Bank's head office, behind a massive wooden door, there is a room I like to call the Chamber of Secrets. It's formally known as the Rasminsky Room, after Louis Rasminsky, the Bank's third governor. All discussions and decisions about the policy rate take place in this room.
+
+It's a secure room where the blinds are always drawn, and access is controlled. From inside this room, no communication with the outside world is allowed, and the use of electronic devices is strictly regulated. When we say "private" deliberations, we really mean it! The Bank takes security very seriously-and with good reason. A leak could have serious consequences. Many stakeholders-financial market participants, in particular-are very eager to get news of the decision.
+
+Returning to the topic of our deliberations, once all the members of Governing Council are in the room, the Governor opens the meeting. The Governor acts as chair and shepherds the discussions. Each member is given the opportunity to present their views on economic developments in Canada and abroad, and on the outlook for growth and inflation. Another tidbit from behind the curtain: in Governing Council discussions, the Deputy Governors speak in reverse order of seniority, with newer members speaking first. This ensures their views are not influenced by those of more senior members. The Senior Deputy Governor speaks next, followed lastly by the Governor. They express their views, which leads to further discussions. We then go around the table again, with members presenting their opinions on monetary policy and debating the rate decision.
+
+The process is not set in stone. The content and format of our discussions are adapted to the situation and vary depending on our thinking about the economic environment and risk landscape. For example, when I started at the Bank in March 2023, a number of regional banks in the United States had just failed. Questions about financial stability were at the forefront of our discussions. In recent months, an important focus of our discussions has been the stickiness of inflation in prices for certain services, including shelter.
+
+But how is the decision actually reached after all of these deliberations? Unlike other central banks, such as the US Federal Reserve or the Bank of England, where members vote, the Bank of Canada makes decisions by consensus. Members must therefore all agree on the course of action, even if we had different points of view when we walked into the Rasminsky Room. And it might not come as a surprise that we do not always agree on everything.
+
+In fact, it's completely normal that members have differences of opinion. After all, each member of Governing Council has distinct expertise stemming from their past experiences and educational background. But the diversity of our expertise is exactly what makes it possible to have detailed and constructive discussions that lead to informed decision-making.
+
+So, how do we arrive at a consensus despite our differences of opinion? Here, the organic nature of our deliberations plays a key role. At times, points raised by other members may lead us to fine-tune or rethink the way we've interpreted the data. Or a colleague may raise a point or highlight issues that others had not originally considered. In my opinion, the need to arrive at a consensus strengthens our decision-making process. We must carefully consider the diversity of opinions within Governing Council and discuss among ourselves to arrive at a common position.
+
+I should also mention that reaching a consensus does not mean that all members of Governing Council share the same point of view on the economic outlook or the path for interest rates in the coming months. It means that members come to an agreement about the best decision to make at a particular moment in time. And the truth is that as 2 new data are published and new information comes to light, differences of opinion tend to become less pronounced.
+
+Whatever shape the deliberations take, I can assure you that everyone around the table is always very conscious of the weight of these decisions. I fully felt this weight myself in June 2023 when I participated in my second round of monetary policy deliberations.
+
+In the year before my arrival, the Bank had decisively and forcefully raised the interest rate from 0.25% to 4.5% to combat the spike in inflation. At the beginning of 2023, the Bank indicated it would pause to evaluate the effects of the increases on the economy and inflation. But data released between April and June 2023 showed that the economy had been more robust than expected in the first quarter of the year and that inflation had even increased slightly. Given the situation, we reached the conclusion that we had to again raise the interest rate. But at the end of our Friday afternoon meeting, the Governor said, "Let's take the weekend and sleep on this decision and come back on Monday with clearer heads to discuss again."
+
+Over the course of that weekend, I came to fully feel the weight of the responsibility that came with my new role. I'd had countless discussions about monetary policy with colleagues and students over the course of my career as an academic. But as Deputy Governor, I found the discussions were no longer abstract or theoretical. I came to understand that I was one of six people whose decision would directly impact borrowing costs for millions of people like you and for businesses like yours. Believe me when I say that the realization made my head spin a little; it was really quite humbling.
+
+## Communicating the decision
+
+One thing that may surprise you-as it did me-is that Governing Council's work does not end once the decision is made. Communicating the reasons that led to the decision is almost as important as the decision itself. The members of Governing Council work closely with the Bank's communications team to develop key messages and draft the press release and opening statement for the press conference. If only you knew how much time we spend trying to find the best ways to convey our message and looking for just the right words-in both official languages.
+
+With time, I've come to understand that this is not always an easy task. For example, at the July decision, we said downside risks to inflation were becoming increasingly important in our deliberations. Some people interpreted this to mean that we believed downside risks had strengthened. What we intended to communicate, however, was that, with the 2% target in sight, we gave increased consideration to the risk that inflation could fall below the target.
+
+As you can see, differences in interpretation can be very subtle, which makes choosing the right words all the more important. I'd like to think that all the years of explaining complex concepts to my students has given me a lot of practice in this regard.
+
+Even though I've been in this role for only a short time, I've been able to appreciate how the Bank's approach to communication is constantly evolving. In the past, press conferences were held only when the rate announcement was accompanied by a Monetary Policy Report. Starting this year, all eight rate announcements now feature a press conference. This gives the Bank the opportunity to share its assessment of the economic outlook with the public and explain the reasoning that led to the rate decision. Following the decision, Governing Council members host information sessions and regularly give interviews with the media.
+
+Since January 2023, a summary of deliberations is published online two weeks after every decision. This document is a record of Governing Council's assessment of the economic environment and the upside and downside risks to inflation. It also highlights where opinions converged and the topics that generated the most debate among members. The summary of deliberations for the September decision was published yesterday, in fact.
+
+Lastly, the Bank is always looking for new ways to communicate and for new channels to reach the widest audience possible. In fact, the Bank has accounts on YouTube, X, Instagram, Facebook and LinkedIn. Be sure to follow us.
+
+## Conclusion
+
+It's time for me to wrap up. I've now participated in 12 rate decisions. Since arriving at the Bank, I've always felt my experiences and external point of view have been useful to my work and valued by the other members of Governing Council and the organization as a whole.
+
+I genuinely feel I'm contributing to the mission of a rigorous and conscientious institution that is mindful that its credibility is directly linked to the effectiveness of its actions.
+
+Credibility must be earned. The Bank's is founded on the trust that Canadians place in us and our actions. Even when those actions are difficult and have direct impacts, Canadians understand that we are always guided by our resolve to keep inflation low, stable and predictable.
+
+We are fully conscious of the responsibilities the Bank has toward all Canadians. To maintain the public's trust, we must be rigorous, professional, humble, honest and transparent.
+
+It is to contribute to this transparency that I've spoken to you today about the Bank's decision-making process. This process has allowed the Bank to weather many past storms, from recessions to economic crises and even a pandemic. And this process will keep us true to our promise to all Canadians: to bring inflation back to target and keep it there. That will always be the best way for the Bank to support the Canadian economy.
+
+Thank you.
+
+1 For more detail, see S. Kozicki and J. Vardy. 2017. "Communicating Uncertainty in Monetary Policy." Bank of Canada Staff Discussion Paper No. 2017-14.[]
+
+- 2 Macklem, T. 2002. "Information and Analysis for Monetary Policy: Coming to a Decision." Bank of Canada Review (Summer): 11-18.[]

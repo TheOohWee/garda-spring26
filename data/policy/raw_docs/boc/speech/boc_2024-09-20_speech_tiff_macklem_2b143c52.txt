@@ -1,0 +1,162 @@
+Remarks by Tiff Macklem Governor of the Bank of Canada National Bureau of Economic Research, Economics of Artificial Intelligence Conference September 20, 2024 Toronto, Ontario
+
+## Artificial intelligence, the economy and central banking
+
+## Introduction
+
+Around the world, digitalization is pulling economies in new directions. Artificial intelligence (AI)-and particularly its offspring, generative AI (GenAI)-are accelerating this pull. It's still early days, but AI is already disrupting existing industries and creating new ones.
+
+How AI will affect the global economy-and indeed humanity-is on all our minds. It's easy to find enthusiasts who say AI will take us to a land of plenty. But it's also easy to find doomsayers who say we are headed for a bleak world with a few big winners and many more have-nots.
+
+Be wary of anyone who claims to know where AI will take us. There is too much uncertainty to be confident. We don't know how quickly AI will continue to advance. And we don't know the timing and extent of its economic and social impacts.
+
+But that doesn't mean we can't gain insights into what could happen. The past is still a useful starting point. The laws of economics still matter. People will still respond to incentives-and that includes prices. As central bankers, we care a lot about prices. It's in our mandates to keep price inflation low and stable.
+
+So what does the latest wave of AI, and more broadly, ongoing digitalization, mean for what we do at the Bank of Canada? There are two broad elements. First, we need to better understand how AI will affect workers, consumers, the economy and inflation. And second, we need to use AI ourselves to best deliver on our mandate for Canadians.
+
+In my remarks today, I will focus mostly on how AI could impact the economy through productivity, employment and price-setting behaviour. Then I will discuss some of the implications for monetary policy. Finally, I will say a few words about how we are using AI at the Bank of Canada.
+
+I would like to thank Eric Santor for his help in preparing this speech.
+
+## Productivity
+
+How we apply our monetary policy tools depends on our assessment of the broad price pressures in the economy and where we think inflation is headed. A key input is our estimate of the economy's maximum non-inflationary growth rate. We call this potential.
+
+Potential growth depends on the supply of labour and the productivity of that labour. AI is expected to mainly impact productivity. When labour productivity is rising, the economy can grow more quickly without causing inflation.
+
+So the questions we need to tackle seem simple enough: How and when will AI affect labour productivity?
+
+AI has all the hallmarks of a general-purpose technology, or GPT-meaning a technology that can have significant and wide-ranging effects on an entire economy. But how large and how wide-ranging are hard to predict. And forecasting the timing is no easier.
+
+We know from history that it takes years for a GPT to diffuse through the economy. We also know that the first applications are typically less transformative than the new businesses and new business models that eventually emerge. This all suggests that we won't see the full effects of this wave of AI anytime soon.
+
+Nevertheless, we are seeing encouraging early results from firm-level studies on AI adoption. In one study, German companies that used AI were found to be more productive. 1 In another, consultants at a global firm were, on average, able to produce better work and do that work faster when they used AI. 2 A third study found AI helped make call centre employees more efficient by sharing best practices. 3 And some of the biggest gains can be seen in coding-where GenAI has halved the time needed to complete some coding tasks. 4
+
+Still, these studies can't tell us how AI will affect the broader economy. To understand that we need to consider the productivity effect of AI across all major sectors.
+
+One estimate is that AI could automate 25% of all work tasks in the United States and
+
+1 D. Czarnitzki, G. P. Fernández and C. Rammer, 'Artificial intelligence and firm-level productivity,' Journal of Economic Behavior &amp; Organization no.211 (2023): 188-205.
+
+2 F. Dell'Acqua, E. McFowland III, E. Mollick, H. Lifshitz-Assaf, K. C. Kellogg, S. Rajendran, L. Krayer,
+
+F. Candelon and K. R. Lakhani, 'Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality,' Harvard Business School Working Paper No. 24-013 (September 2023).
+
+3 E. Brynjolfsson, D. Li and L. R. Raymond, 'Generative AI at work.' National Bureau of Economic Research Working Paper No. 31161 (April 2023).
+
+4 S. Peng, E. Kalliamvakou, P. Cihon and M. Demirer, 'The Impact of AI on Developer Productivity: Evidence from GitHub Copilot,' arXiv:2302.06590 (February 2023).
+
+boost total factor productivity (TFP) by 9% over the next decade. 5 A similar sustained improvement in TFP in Canada would raise the average income per-person by roughly $4,000 a year.
+
+This productivity boost is not just from automating tasks. As workers in lower productivity jobs are replaced by AI, they are freed up to fill other, more productive jobs in the economy. And new products and services emerge. These latter two effects provide most of the positive impact on productivity. 6
+
+However, more pessimistic estimates suggest that AI might have only a modest impact on productivity. 7 These assessments take the view that fewer tasks can be effectively automated. AI could also create negative outcomes, such as amplifying internet addiction and enabling malicious actors. These adverse effects could substantially decrease the net positive impact of AI.
+
+As we look at the effects of AI on the broader economy, we also need to ask if this technology will be transformative enough to significantly boost productivity growth. Or will AI simply be the latest innovation in a chain of innovations-like the invention of the sewing machine or the evolution of telecommunications-to keep productivity rising at its historical pace. This matters a lot because productivity growth plays a key role in determining how fast the economy can expand without sparking inflation.
+
+So what is actually happening? The infrastructure needed to make AI broadly available is being built quickly. AI platforms are sprouting up, and it is getting easier for businesses-large and small-to access the technology. But we are still looking for the new products and services-and the new business models-that will transform efficiency and productivity.
+
+## Prices and inflation
+
+AI adoption-and its full effect on productivity-will play out over many years. In the long run, we can expect AI to boost productivity. Higher productivity allows for higher wages and more spending without pushing up inflation.
+
+But what about in the short run? Already, strong investment in AI technologies is boosting demand in the economy. The run-up in equity prices is supporting consumption, as is the hiring boom for workers with AI and related skills. Electricity demand is also surging as new data centres are built to accommodate the enormous computing requirements of AI.
+
+5 This estimate assumes a certain number of tasks across the entire economy that can be done by AI and a rate of AI adoption. See Goldman Sachs, 'Gen AI: Too much spend, too little benefit?,' Global Macro Research Top of Mind issue 129 (June 25, 2024).
+
+6 See Goldman Sachs (2024).
+
+7 D. Acemoglu, 'The Simple Macroeconomics of AI,' Massachusetts Institute of Technology Working Paper (April 2024).
+
+This all suggests that, in the short run, AI could boost demand more than it adds to supply through faster productivity growth. And if that happens, AI adoption may add to inflationary pressures in the near term.
+
+## Labour markets
+
+One of the biggest questions is whether AI will be something that helps people do their jobs better or something that simply replaces jobs? There is a lot of talk, and some good research, on this issue.
+
+Studies suggest that a significant share of all job-related tasks could be done by AI in the next few decades. Over the very long run, machines could be doing a lot of the tasks that people do now.
+
+Does this mean that we are doomed to a surge in long-term unemployment?
+
+Economic history offers us many lessons on the effects of technological change. Over the past 200 years the displacement effects , or the jobs lost due to changes in technology, have been outweighed by the countervailing effects , or the increases in labour demand arising from these innovations. This includes jobs that are created because of increased capital investment, the advent of new goods and services, and greater demand for tasks that can't be automated.
+
+To put it another way, from the mechanization of agriculture to the emergence of the assembly line to the introduction of computing and the internet, technological change has ultimately been a net positive for overall employment.
+
+But some argue that this time is different. In an AI-dominated world, the displacement effects could be bigger and the countervailing effects more muted. AI could shrink the number of non-automated tasks so much that there isn't enough work left for the displaced workers. And if many of the new goods and services are created by AI itself, the labour market may not benefit from increased demand.
+
+In addition, in past change cycles the technology was diffused over a prolonged period, so the labour force had time to adjust. But this time adoption may happen much faster, creating more disruption and a loss of livelihoods that will be difficult to replace.
+
+So far, we don't have much evidence that labour is being displaced by AI at rates that would lead to declines in total employment. If anything, digitalization-and the commercialization of AI-have likely been net job creators in Canada.
+
+Employment in Computer systems design and related services , which is a proxy for digitalization, has risen 48% since the end of 2019, compared with a 6% increase in employment for the rest of the economy. This recent growth builds on an existing trend-while overall employment is up 17% over the past decade, employment in the digitalization-related segment has more than doubled.
+
+But we know there are probably more profound effects to come. As AI becomes more established in the economy and its impacts more transformative, it could end up destroying more jobs than it creates. And the people who lose their work to automation may struggle to find new opportunities. This is a concern for us all. Understanding and shaping the labour market impacts will be increasingly important as AI continues to advance and diffuse through our economies.
+
+## Price-setting behaviour
+
+In addition to productivity and the labour market, AI may also affect how businesses set prices. There is already evidence that digitally intensive firms change prices more frequently than less digitally intensive firms. 8
+
+For us central bankers, this means the Phillips curve might be steeper than previously thought. 9 When combined with a more shock-prone world, this suggests inflation could be more volatile than it was in the 25 years before the pandemic.
+
+AI could also affect the level of competition in the economy, although its impact is ambiguous. Initially, AI-intensive start-ups could seize market share by undercutting incumbents. This would increase competition and lower prices. However, AI could also result in markets dominated by a handful of companies with monopoly power. In this scenario, AI would ultimately lead to less competition and higher prices.
+
+The monopoly effect is easy to imagine, with several superstar firms already dominating their sectors. Fortunately, we have competition authorities to deal with undue market power. But authorities will need to keep pace.
+
+All this means central banks need to be closely attuned to how AI is affecting inflation, both indirectly through overall demand and supply and directly through price-setting behaviour.
+
+## AI and central banks
+
+## Navigating uncertainty
+
+We know that AI could have profound effects on the economy. But we also know that the timing, magnitude and even direction of these effects is uncertain. So how do monetary policy-makers manage this uncertainty?
+
+When you enter a dark room, you don't go charging in. You cautiously feel your way around. And you try to find the light switch. That is what we are doing. What we central bankers need is more light. This means better information, along with research and analysis on how technology is diffused. Its impact on businesses and on workers. And its effect on the overall economy and inflation.
+
+To this end, I encourage academics to work with businesses and policy-makers to better understand and predict the impacts of AI. And I applaud the National Bureau of Economic Research and my former colleagues at the University of Toronto for this conference series, which is putting a spotlight on the economics of AI.
+
+We can also use scenarios to better understand the potential effects of AI and manage risks so that we can get more of the good with less of the bad. For example, in a recent
+
+8 Y . Gorodnichenko and O. Talavera, 'Price Setting in Online Markets: Basic Facts, International Comparisons, and Cross-Border Integration,' American Economic Review no. 107, issue 1: 249-282 (January 2017).
+
+9 However, in an environment with greater competition, firms may adjust their prices by less because they don't want their prices to differ too much from those of their competitors. This could make the Phillips curve flatter.
+
+speech, Gita Gopinath, Deputy Managing Director of the International Monetary Fund, explored how the adoption of AI could worsen the next recession for workers. 10 She noted that in previous downturns, most automation-related job losses happened in the first year of the recession and those jobs never came back. Widespread adoption of AI could make this problem worse because more jobs could be ripe for automation.
+
+AI adoption could also lead to financial stability issues. Banks and financial institutions are investing in AI to improve customer service, to enhance compliance and risk management, and to better assess credit and liquidity risk. In principle, these investments should improve efficiency and stability.
+
+But there are pitfalls. Operational risks could become concentrated in a few third-party service providers and an event at one of them could quickly spread through the financial system. The predictive ability of AI can deteriorate unexpectedly, suffer from hallucinations or be biased and discriminatory. And AI makes everything move faster, which could amplify severe market runs and herding behaviour in times of market volatility. 11
+
+Scenarios help us ask tough questions about how monetary and financial policies should respond to the risks we are facing. They also help us be proactive in protecting our economies and financial systems.
+
+## Using AI at central banks
+
+Finally, let me say a few words about the use of AI at central banks. AI is not just for start-ups and tech giants. Many central banks are already using AI as they strive to deliver on their mandates. At the Bank of Canada, we use AI to:
+
+- forecast inflation, economic activity and demand for bank notes
+- track sentiment in key sectors of the economy
+- clean and verify regulatory data
+- improve efficiency and de-risk our operations
+
+And we've only just begun to explore this technology. With very large and highly disaggregated data sets now available, there is huge potential to use AI to understand how consumers and businesses are behaving and how companies are setting their prices.
+
+But to take full advantage of the potential of AI, we will need to invest in data and computing power. We also need to ensure staff have the skills to make the most of that investment. And we will need to leverage outside expertise. This is why we're so excited to be part of the new Toronto Innovation Centre run by the Bank for International
+
+10 See G. Gopinath, 'Crisis Amplifier: How to Prevent AI from Worsening the Next Economic Downturn' (speech to the AI for Good Global Summit, Geneva, Switzerland, May 30, 2024).
+
+11 I have focused on the economic and financial system impacts of AI. Of course, even bigger risks exist that go beyond the economic and financial realm of central banks. Computer scientists, ethicists, businesses and governments need to work together to ensure that AI remains in the control of humans for the benefit of humans. This includes managing risks with respect to bias, privacy and disinformation, and ensuring AI's values are aligned with ours.
+
+Settlements. The Innovation Centre is designed to encourage collaboration among academics, the private sector and central banks to explore the latest technologies.
+
+As we deploy AI, we also need to consider the ethical implications. It is not always easy to strike a balance between moving forward and fostering innovation and taking the time and care to be responsible and secure. At the Bank of Canada, we have principles that guide our use of AI. For example, we need to be transparent when we've used AI for a task, and we need to have safeguards in place to ensure we are appropriately skeptical when we use it to generate content or analysis.
+
+## Conclusion
+
+It's time for me to wrap up.
+
+The recent rapid advances in AI, and GenAI in particular, have the potential to transform economies around the world. However, a lot of uncertainty remains.
+
+We all need more light. We need academics and businesses to work together to examine how technology is diffused through the economy. And we need to better understand how AI will affect productivity, employment, price-setting behaviour and inflation. This work will take time. In the interim, we should use increasingly informed scenarios to help manage our uncertainty.
+
+We are still in the early days of what could be a transformative technological shift. We don't know yet what will come, but we can shape the future path. For central banks, that means maintaining price and financial stability in the face of disruptive technological change. And it means leveraging AI to do our jobs better.
+
+Thank you.

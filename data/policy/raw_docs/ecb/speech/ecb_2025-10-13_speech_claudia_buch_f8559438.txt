@@ -1,0 +1,117 @@
+SPEECH
+
+## Hearing of the Committee on Economic and Monetary Affairs of the European Parliament
+
+Introductory statement by Claudia Buch, Chair of the Supervisory Board of the ECB, at the Hearing of the Committee on Economic and Monetary Affairs of the European Parliament
+
+Brussels, 13 October 2025
+
+Thank you very much for the invitation to exchange views with you today. I would like to provide an update on the state of the European banking sector and on our supervisory priorities.
+
+European banks are operating in a challenging environment. Maintaining their resilience and ability to support the real economy requires a strong institutional framework and forward-looking risk assessments. Stress tests are a key tool in this regard. The results of this year's exercise provide insights into European banking sector's resilience to an adverse macroeconomic shock. [ ] They show higher losses, but a better ability to absorb these losses, compared with the previous stress test in 2023. 1
+
+The adverse scenario assumes an aggravation of geopolitical tensions coupled with higher tariffs, resulting in higher uncertainty, lower market confidence and lower growth. In the adverse scenario, the non-performing loan (NPL) ratio would increase to 5.8%, reaching levels last seen in 2014. Currently, NPLs stand at around 2%. The aggregate losses would amount to €628 billion, which is €80 billion or 14% more than in the previous stress test. [ ] 2
+
+Higher profits would allow banks to absorb part of these losses. The average Common Equity Tier 1 (CET1) ratio depletion would be 100 basis points lower than in the 2023 stress test. This would lower the system's capital ratio from currently 16 to 12% in the adverse scenario. The vast majority of banks would still meet regulatory capital requirements. But 24 out of a total of 96 banks would face dividend restrictions due to breaching their maximum distributable amount (MDA) trigger in the adverse scenario. [ ] 3
+
+Our supervisory follow-up has qualitative and quantitative elements.
+
+On the qualitative side, our focus is on ensuring that banks further improve their internal information systems. Timely access to reliable information is key for managing risks and taking well-informed decisions, which is particularly important in an environment of high uncertainty. Risk data aggregation and risk reporting capabilities have therefore been among our supervisory priorities since 2022, and an ECB guide on the matter was published in 2024. [ ] Recently, we have assessed banks' preparedness to deal with financial stress of small and medium-sized enterprises. [ ] Banks with advanced information systems and data collection tools - particularly for sectoral risks - were better able to manage stress episodes. 4 5
+
+On the quantitative side, the key outcome of the stress test is guidance on the capital banks need to remain resilient under stress (Pillar 2 Guidance, or P2G). A higher capital depletion under the adverse scenario leads to a higher P2G - thereby improving banks' ability to provide services to the real economy even in times of stress. Aggregate P2G outcomes will be published with the Supervisory Review and Evaluation Process (SREP) press conference in November.
+
+The data collected during the stress test exercise also provide information on the impact of the implementation of the Basel III rules which have applied in Europe since January 2025. [ ] On aggregate, data for end-2024 show that the CET1 ratio of euro area banks would remain virtually unchanged. This reflects the gradual phase-in as banks have until 2032 to fully comply with the new rules. 6
+
+The stress test is an important, forward-looking tool to assess banks' resilience under adverse conditions. Generally, rather than impairing banks' capability to lend, enhanced resilience is a competitive strength for banks, as has recently been stressed by the chair of the Basel Committee. [ ] But in a highly uncertain environment, stress tests need to be complemented by additional risk management tools. 7
+
+In next year's thematic stress test, we will ask which bank-specific geopolitical risk scenarios could severely affect banks' profitability, solvency, and liquidity. This reverse stress test complements this year's stress test, which assumes a common scenario. [ ] In their financial and capital projections, banks currently anticipate only a slight decline in their profitability this year and in the coming years. However, higher tariffs could lead to a more marked economic slowdown than currently anticipated, and banks may experience changes in market valuations, weaker loan growth, higher loan loss provisions and lower profitability. [ ] 8 9
+
+In our dialogue with banks, we stress the importance of prioritising investment in the long-term sustainability of business models over short-term objectives. Building broad resilience - both operationally and financially - is key to responding to emerging risks. The growing importance of stablecoins and nonbank financial intermediation is a prominent example. Moreover, banks need the capacity to analyse and respond to emerging risks, to invest in good information systems, and to strengthen operational resilience.
+
+This is what's behind our objective to enhance the efficiency and effectiveness of European supervision while staying firmly focused on relevant risks. The reform of the SREP that I have presented here before is on track. [ ] We now apply the objectives of this reform to our supervisory procedures more broadly, including on-site inspections. [ ] 10 11
+
+Let me update you on the progress made.
+
+First, SREP decisions have become more focused on relevant risk drivers and key supervisory expectations. [ ] This risk focus ensures clearer communication and quicker SREP decisions. The number of new SREP measures has decreased significantly, with a stronger emphasis on addressing severe findings. SREP decisions are also being issued earlier. [ ] In next year's SREP, we will also implement a revised and simplified methodology to calibrate the P2R requirement. [ ] 12 13 14
+
+Second, we are using digital tools to better interact with banks, process information, and support decisionmaking. [ ] For example, by using a digital tool to process fit and proper applications, we have reduced the time needed for assessments from 109 days in 2023 to 97 days in 2024, within the maximum period of 15
+
+## four months. [ ] 16
+
+Third, we are making supervisory approvals of capital-related decisions more risk-based. Decisions such as share buybacks and changes in Tier 1 and Tier 2 instruments have a direct impact on banks' capital adequacy. Taking these decisions in a more risk-based manner means: spending less time on procedural tasks and speeding up decisions for banks that are meeting relevant criteria. This allows focusing on critical decisions that have a relevant impact on resilience.
+
+We are reforming European supervision to ensure that the banking system remains resilient, supporting growth and financial stability. A strong and integrated European regulatory framework is the foundation for our work.
+
+The ECB therefore welcomes the political agreement reached on the crisis management and deposit insurance framework, which marks an important step towards completing the banking union. Using resolution tools for a broader range of banks and ensuring sufficient funding for banks in resolution will enhance financial stability, safeguard depositors and reduce reliance on public funds. Generally, a more credible crisis management framework makes potential crises less likely and less costly.
+
+Now is the time to better prepare for future crises. Progress on the European deposit insurance scheme is a key element, building on previous work done by the European Parliament. A credible collective safety net would reduce the risk of destabilising deposit outflows in times of stress, weaken the sovereign-bank nexus and promote the integration of European banking markets.
+
+The current challenges call for more Europe, not less. Harmonising national rules would significantly improve integration, strengthen competition, and enhance efficiency. Harmonisation is a key driver of simplification, and the capital markets union can be an important catalyst.
+
+It is essential that EU stakeholders work together to maintain sound regulatory and supervisory standards. This positions Europe's banking sector as a globally trusted anchor and enabler of growth.
+
+Weakening standards would have the opposite effect: it would put trust in European banks at risk and reduce their ability to respond to challenges. It would not make banks more competitive - but rather more vulnerable.
+
+1.
+
+ECB (2025), , August. 2025 stress test of euro area banks: final results
+
+2.
+
+This includes losses from deteriorating credit, market and operational risks.
+
+3.
+
+These 24 banks would be subject to dividend restrictions in at least one year of the projection horizon. The number of banks that would be concerned is lower than in the 2023 exercise, where 53 banks breached the MDA trigger in at least one year of the projection horizon in the adverse scenario.
+
+4. ECB (2024), , May. Guide on effective risk data aggregation and risk reporting
+
+5.
+
+The results of the targeted review conducted in 2024-25 are summarised in McDonald, M.T. et al. (2025), ' ', Supervision Newsletter , ECB, 13 August. 6. Extinguishing sparks before the fire: credit crisis managed well
+
+Generally, banks needed to take the revised CRR III rules into consideration during the 2025 stress test exercise. Regulatory changes related to the fundamental review of the trading book were not captured as they had been deferred at the time the 2025 stress test methodology was finalised.
+
+7.
+
+Thedéen, E. (2025), ' ', BIS, Keynote speech, 19 September. Resilience pays: the strategic value of regulation and supervision
+
+8.
+
+Buch, C. (2025), " ', The Supervision Blog , ECB, 5 September. Stress tests in uncertain times: assessing banks' resilience to external shocks
+
+9.
+
+ECB (2025), , Chapter 3 and Special Feature B, May. Financial Stability Review
+
+10.
+
+Buch, C. (2024), ' Hearing of the Committee on Economic and Monetary Affairs of the European
+
+', introductory statement, 18 November. For further information, see also ' ', ECB Banking Supervision, 11 July 2025. Parliament FAQ on the SREP of tomorrow
+
+11.
+
+For more details on making European supervision more efficient, effective and risk-focused, see the . ECB's Banking Supervision website
+
+12. , 14
+
+ECB (2025), ' ', Supervision Newsletter May. SREP reform: towards more efficient and effective supervision
+
+This year banks were notified on 1 August, more than nine weeks earlier compared with the 2024 exercise. The hearing period has been extended from two to four weeks. The final decisions will be communicated by the end of October, six weeks earlier than in 2024.
+
+14.
+
+Buch, C. (2025), ' ', ECB, The Supervision Blog, 11 March 2025. Reviewing the Pillar 2 requirement methodology
+
+15.
+
+For an overview, see Hoppe, F. (2025), ' ', Supervision Newsletter , ECB, 14 May. This period of four months is set out in the joint ESMA and EBA Guidelines on the assessment of the suitability of members of the management body and key function holders. Benefits from advanced technology infrastructure in supervision
+
+16.
+
+The Heimdall tool uses machine reading and automatic translation to process fit and proper applications submitted by banks, ibid.
+
+Reproduction is permitted provided that the source is acknowledged.
+
+Media contacts

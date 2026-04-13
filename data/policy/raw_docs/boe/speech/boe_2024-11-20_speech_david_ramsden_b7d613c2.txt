@@ -1,0 +1,172 @@
+## Back to the Future 2: Keeping inflation close to the 2% target - speech by Dave Ramsden
+
+Given at Leeds University Business School
+
+Published on 20 November 2024
+
+Dave Ramsden sets out his views on how the UK economy has developed over the past twelve months, commenting on the disinflationary process through 2024 which has seen inflation return close to the 2% target, and whether these trends will be sustained into the future.
+
+## Speech
+
+Thank you for the invitation to speak today. It's a pleasure to be here at the Leeds University Business School. And it's great to be able to get here after a short trip across the city from the offices of the Bank of England in Yorkshire House, where I've been meeting with colleagues who work there. The Bank has had a significant presence in Leeds for 200 years and we have committed to basing at least 500 staff here by 2027.
+
+My speech is a sequel to one I gave a year ago.[1] I'm going to start with an assessment of how the UK economy has developed over the last 12 months, comparing the forecasts the Monetary Policy Committee (MPC) has produced in the Monetary Policy Reports (MPR) over that period. I'll then set out why I think looking back can help us think about the future, framing my thinking on the outlook with the three cases the MPC have considered to help illustrate the range of possible outcomes on the degree of inflation persistence. I've added a sub-title to the speech reflecting the main plotline since this spring, which is that UK inflation has returned to close to our 2% target. I will conclude with my view as an MPC member on how monetary policy can continue to be set to keep inflation close to target.
+
+Our assessment is based on Bank Staff's latest modelling of the UK economy. We are working hard on responding to the recommendations of the Bernanke Review. That is not my subject for today but the Bank will provide an update on its response to the Bernanke Review next Monday. But for today's purposes I do want to stress that I am very supportive of our approach to the November MPC round where we used three alternative cases for how the persistence of inflationary pressures may influence the state of the economy, as this continues to be the key judgement for monetary policy. In a global economy increasingly characterised by significant shocks and increased uncertainty, having the capability to efficiently and effectively model a wide range of economic scenarios is going to get ever more important.
+
+It is therefore apt that I'm speaking at Leeds University, given its role in the development of one of the first computer models of the UK economy. The Monetary National Income Analogue Computer, also known as the Newlyn-Phillips Machine and MONIAC for short, wasn't a computer in the way we might imagine one now. Created in 1949 by Professor Walter Newlyn of the University of
+
+Leeds, and LSE's Bill Phillips, the MONIAC was an ingenious design of hydraulics that pumped water through an array of plastic tubes, with the flow of water representing how national income, or GDP, flowed through the UK economy. It allowed the user to input key model parameters and, for those given set of parameters, model how macroeconomic variables, such as national income and interest rates might change.
+
+## November 2023 and November 2024 MPR forecasts compared
+
+The UK economy has been undergoing a process of normalisation through 2024, continuing some of the same trends identified at the end of 2023, as the impact of the succession of substantial shocks in recent years has continued to fade.
+
+The main development on the UK economy over the last year is the significant fall in headline CPI inflation, which has been quite a lot greater than we forecast a year ago. I highlight this because the 2% target that the government sets for us in order to meet our mandate for monetary stability is defined in terms of headline inflation.[2] Back in November 2023 the MPC forecast it would take over two years for inflation to return to the 2% target. It ended up taking only six months. As a consequence, UK headline inflation has converged on US and Euro area inflation in recent months as shown in Chart 1.
+
+Sources: ONS for the UK, BEA for the US, Eurostat for the EA, LSEG Workspace and Bank calculations.
+
+(a) Data to September for US, October for UK and EA
+
+This process of more rapid disinflation back to our 2% target has been good news for the UK economy, with the MPC reducing the degree of restrictiveness of monetary policy in response, cutting Bank Rate twice this year, first in August, and then at the last MPC meeting in November.
+
+Table 1: November 2023 and November 2024 forecasts
+
+| | 2023 Q4 | 2024 Q4 | 2024 Q4 | 2025 Q4 | 2025 Q4 | 2026 Q4 | 2026 Q4 | 2027 Q4 |
+|----------------------------------------------------|-----------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
+| | Outturn | Nov 2024 MPR | Nov 2023 MPR | Nov 2024 MPR | Nov 2023 MPR | Nov 2024 MPR | Nov 2023 MPR | Nov 2024 MPR |
+| GDP | -0.3 | 1.7 | (0) | 1.7 | (0.4) | 1.1 | (1.1) | 1.4 |
+| CPI Inflation | 4.2 | 2.4 | (3.4) | 2.7 | (2.2) | 2.2 | (1.9) | 1.8 |
+| LFS Unemployment Rate | 3.8 | 4.2 | (4.7) | 4.1 | (5) | 4.3 | (5.1) | 4.4 |
+| Excess supply/excess demand | ¼ | 0 | (-¾) | -¼ | (-1½) | -½ | (-1½) | -¼ |
+| Energy prices direct contribution to CPI inflation | -1.4 | -0.6 | (0.5) | 0.0 | (-0.25) | 0.0 | (-0.75) | -0.1 |
+| Private sector regular average weekly earnings | 6.2 | 5.1 | (4.9) | 3.2 | (3.2) | 3.1 | (2.9) | 2.9 |
+
+Table 1 sets out the November 2023 and November 2024 MPR forecasts in more detail. It highlights four trends that I see as particularly relevant to how the UK economy has evolved over the last year.
+
+First, the resilience of UK economic activity. A year ago, the MPC forecast GDP growth to be zero in the year to 2024 Q4, due to subdued demand, reflecting in part the ongoing effects of restrictive monetary policy. We have instead seen positive growth since the short-lived recession in the second half of 2023. Headline quarterly GDP growth has slowed sharply in the second half of 2024. Underlying momentum is assessed to be more stable at around ¼% per quarter, although our Agents' contacts reported some softening in output expectations and sentiment in the most
+
+## recent update.[3]
+
+Second, a combination of demand side resilience and ongoing weakness in supply has meant that the forecast economic slack - the difference between demand and supply - has yet to materialise. The restrictive level of monetary policy has been having a dampening effect on demand, though in successive MPRs we have forecast that slack would start to develop, only for its emergence to be delayed. We now judge aggregate demand and supply to be broadly in balance and expect it to remain so over the coming year, before a margin of economic slack emerges in 2026 reflecting the overall tightening in the stance of fiscal policy set out in the Autumn Budget.
+
+Third, while it continues to loosen, the labour market has been tighter over the last year than was forecast a year ago. Unemployment has risen by much less than the forecast rise to 4.7%, with the estimated fall in labour force participation explaining some of this. Even allowing for the uncertainties in the official LFS series, it's apparent that employment has been somewhat stronger than was expected, in line with the greater resilience in economic activity, a feature I have previously ascribed to increased labour hoarding.[4] The relative tightness of the labour market to date is also evident in the resilience of average earnings. Although the official AWE measure has fallen over the last year, private sector regular pay, at 4.8% in the three months to September, is in line with what was forecast a year ago, despite the fall back in headline inflation.
+
+Fourth, CPI inflation has fallen sharply over the last year from 4.2% in Q4 2023 to 2% in Q3 2024, by around 1.5% more than was forecast. The greater negative contribution from weak energy prices accounts for a large part of the forecast undershoot. Chart 2 shows that recent CPI outturns have come in at times below our largely mechanical short-term forecasts. The monthly path of inflation has been quite bumpy, mainly reflecting the path of domestic energy prices, and this has continued, with inflation rising to 2.3% in October and forecast to rise further to 2.4% in 2024 Q4.
+
+Sources: ONS and Bank calculations (a) CPI outturns data to September 2024.
+
+Lower energy prices have also fed into falling food price inflation, which has declined significantly to 1.9% in October from a peak of 19.1% in March 2023. Perhaps more pertinently, services inflation has also started to tick down. Chart 3 reflects this story. Encouragingly, when compared to what we were seeing in 2023, the contributions of all the key components of inflation have all been getting smaller, while energy's contribution has been negative throughout 2024.
+
+Sources: Bloomberg Finance L.P., Department for Energy Security and Net Zero, ONS and Bank calculations (a) Data to September 2024. Component-level Bank staff projections from October 2024 to December 2024. The food component is defined as food and non-alcoholic beverages. Fuels and lubricants estimates use Department for Energy Security and Net Zero petrol price data for October 2024 and are then based on the sterling oil futures curve.
+
+Headline inflation returned close to target in April 2024, and has stayed close to target since, with the current rate of headline inflation more than explained by inflation in services prices, which account for about half of the CPI, as shown by the contributions of the yellow bars in Chart 2. Service price inflation has fallen gradually over 2024 but remains elevated, having declined from 6.5% in January to 5.0% in October.
+
+## Where next for UK growth and inflation?
+
+Having looked back, the key question for me as an MPC member is whether these trends will be sustained into the future. In particular, will inflation remain close to the 2% target. To answer that, I will look at what the MPC has forecast in the context of its 'cases' framework, what is likely to be driving inflation dynamics particularly in services and whether there will be a change from recent trends.
+
+## November 2024 forecast and the 'case' framework
+
+Starting with activity, the forecasts published in the November MPR and included in Table 1 show four-quarter growth picking up to around 1¾% in the first part of the forecast period before falling
+
+back slightly. GDP growth in 2025 is slightly stronger than in our previous forecast published in August, reflecting the looser near-term stance of fiscal policy announced in the Autumn Budget and the market assumed lower path of interest rates over the first part of the forecast period.
+
+The November forecasts show inflation increasing to around 2½% by the end of 2024 and rising further above target, to around 2¾% by the second half of 2025, principally reflecting the negative energy price contribution falling away and continuing domestic inflationary pressures, against a firmer demand backdrop. CPI is then projected to fall back to around the 2% target in the medium term, as a margin of slack emerges later in the forecast period that acts against second-round effects in domestic prices and wages.
+
+There are, however, significant risks and uncertainties around how the economy will evolve, particularly around the pace at which domestic inflationary pressures unwind.
+
+A key feature of the MPC's published forecasts for at least the last year is that second-round effects in domestic prices and wages are expected to take somewhat longer to unwind than they did to emerge. In other words, the pace of disinflation will be asymmetric to the pace of the earlier inflation. At the level of headline CPI, asymmetry has not been evident because of the sharp fall back in energy prices. During the inflationary phase when energy prices were rising sharply, headline inflation was last close to our 2% target in July 2021. The annual rate of headline CPI inflation then peaked at 11.1% in October 2022, fifteen months later. During the disinflationary phase that followed it took only slightly longer, eighteen months, for headline CPI to return to close to the target in April 2024.
+
+As I've already highlighted, headline inflation has stayed close to target since. This is noteworthy because the base effects which have driven the headline rate down might have been expected to continue, which would have led to inflation further below target, on the back of continued negative contributions from energy prices and little if any positive contribution from non-energy goods and food prices. The absence of a period of negative headline inflation means that the overall price level is much higher than before the inflationary phase began. This will be a key reason why household survey responses and our agents contacts highlight that cost of living pressures are still manifesting; for example we continue to observe payday spikes in supermarkets' sales.[5] Greater uncertainty, generated by the series of major shocks which drove up the price level, may also have led to more precautionary saving, which could help to explain why consumption of durables goods remains subdued and the household savings ratio remains unusually high.[6]
+
+The stickiness of services inflation explains why it has continued to be a key focus of the MPC through 2024. Second round effects, as contained within the MPC's judgement on the persistence in domestic inflationary pressures, are most apparent in services inflation. As an activity, services tend to be much more labour intensive than goods, and it follows that a greater proportion of the costs of producing services, around 60%, is dependent on the wage bill.
+
+To support the MPC's recent policy deliberations on its judgement of inflation persistence the MPC have been considering three cases that impact on the evolution of domestic inflation persistence. More detail can be found in the November MPR but for the purposes of today, in case 1 second round effects on wages and prices dissipate more quickly, the forecast numbers presented in the MPR and in this speech are based on case 2, and in case 3 structural shifts in wage and price-setting behaviour mean inflationary pressures are more persistent.
+
+In my assessment of inflationary persistence, and the degree of asymmetry of services and headline inflation which might be emerging I have found it increasingly helpful to track the relative pace of the increase and subsequent fallback of the different components of CPI inflation as shown in Chart 4.
+
+Sources: ONS and Bank calculations
+
+What should be apparent is the symmetry across each wave of inflation in terms of the rises and falls in the components. This first emerged in energy, then in goods excluding energy and food, and then in food. These waves are perhaps not that surprising, with a key common driver the very sharp rise and fall shown on the left-hand scale by energy. But what is more interesting is that the same pattern seems to be emerging in services excluding rents. Services inflation is more homegrown than the other components of CPI, with factors such as inflation expectations, tightness of the labour market and wages being key determinants. But, as I have previously set out,[7] there is analytical evidence that services inflation has been determined to a greater extent
+
+by the energy prices shock, and so we should expect to see a greater part of recent services inflation dissipating more quickly as the impact of the energy price shock unwinds.
+
+Services inflation excluding rent was 4.5% in October, which was 3.3 percentage points below the peak level of 7.8% in May 2023. The first part of the fall phase has lasted seventeen months which is only slightly longer than the equivalent rise phase. Services ex rent inflation still includes volatile components, and we know that a significant part of the recent fall was driven by more volatile components like air fares and accommodation. However, higher frequency measures of services inflation (stripping out the volatile components) as shown in Chart 5 still broadly support the narrative of services disinflation progressing at the same pace as the earlier inflationary rise.
+
+Sources: ONS and Bank calculations
+
+(a) Measures shown are three-month averages of seasonally adjusted monthly annualised inflation. The low variance measure is calculated by weighting each component of services inflation by the inverse variance of the change in 12-month inflation of that component from 12 months previously. The maximum adjusted weight is capped at twice its original value. Details on the components which have been included/excluded from the 'Services excluding indexed and volatile components, rents and foreign holidays' measure are included in the accompanying spreadsheet published online. The trimmed mean measure excludes the 10% largest and 10% smallest price changes. The latest data points shown refer to September 2024.
+
+Framing this in terms of the MPC's three cases, symmetry in the disinflationary path of services inflation would suggest an outlook for wages and inflation more consistent with case 1. That would mean inflation would rise by less above the 2 per cent target because second round effects would dissipate more quickly (and more symmetrically) than included in the MPC's published forecast, which still incorporates a material persistence judgement in the first half of the forecast period.
+
+## Drivers of inflation dynamics in services
+
+The recent past may not be a good guide to the future outlook for the persistence of domestic wages and price setting. The experience of the first phase of the process of disinflation to date may not be representative of what is to come; often summarised in the notion that the 'last mile' of getting inflation sustainably back to target could be the hardest.[8]
+
+The key determinant of the immediate outlook for services inflation is likely to be wage growth. Chart 5 shows that annual growth in private sector regular AWE eased to 4.8% in the three months to September, down from a peak of just above 8% in mid-2023. The Bank staff's indicator model of underlying pay growth - based on a statistical combination of signals from a range of pay indicators - has also declined in recent quarters, pointing to underlying wage growth of just under 5% in 2024 Q3.
+
+Sources: HMRC, Indeed, JPMG/REC UK Report on Jobs, ONS and Bank calculations
+
+(a) Series are at a quarterly frequency. Bank staff's indicator-based model of near-term private sector regular pay growth uses mixed-data sampling (or MIDAS) techniques. A range of indicators inform the model, including series from the Bank of England Agents, the Lloyds Business Barometer, Indeed, ONS/HMRC PAYE payrolls and the KPMG/REC UK Report on Jobs. Indicators are weighted together according to their relative forecast performance in the recent past. Private sector regular pay growth is the ONS measure of private sector regular average weekly earnings growth (quarter on same quarter a year ago). Latest data points are for 2024 Q3, with the diamonds showing projections for private sector regular pay growth for 2024 Q4-2025 Q4.
+
+But as I have already stressed the fall in wage growth to date isn't any faster than was forecast at
+
+the time of the November 2023 MPR, as shown back in Table 1, despite the materially faster than forecast fall in headline inflation. In our latest published forecast it declines steadily but somewhat asymmetrically to 3.2% by 2025 Q4.
+
+A key driver of the outlook for wages is the degree of tightness in the labour market, as well as the wider economic context. Any assessment of the labour market has to be caveated by emphasising the uncertainties in the official labour force survey data, which is the primary source for data on unemployment and participation. The latest official data published last week did suggest that unemployment was picking up on the back of weakening employment growth, which was also evident in the more timely HMRC payrolls data.
+
+Fortunately, we have a greater range of sources for employment and the demand for labour and for assessing the overall tightness of the labour market. I put weight on two indicators in particular, shown in Chart 7. The Bank's Agents have reported ongoing easing in recruitment difficulties, with the agents' measures back to levels last seen in 2017. At the same time, vacancies have now fallen by a third since the mid-2022 peak and the vacancies to unemployment ratio - a key indicator of labour market tightness - is now trending below its pre-covid level in 2019.
+
+Sources: Bank of England Agents and ONS
+
+Over the summer I wasn't that confident that the loosening in the labour market we had seen over the previous year was going to continue but these indicators leave me now more confident that it will.
+
+At the same time, we have also seen inflation expectations stay low, a key indicator of the extent
+
+to which the future path of prices are anchored around our inflation target and an input into future wage growth. Chart 8 shows that inflation expectations have largely returned to historical averages, driven by headline CPI inflation being back around target. Household expectations have ticked up recently but that may reflect the around 10% increase in the Ofgem household energy price cap from October.
+
+Sources: Citigroup, DMP Survey, YouGov and Bank calculations.
+
+(a) Left hand panel shows the 1 year and 5-10 year inflation expectations measures from Citi. Dashed lines represent the series averages over 2010-19. The latest data points are for October 2024.
+
+(b) Right hand panel shows data from the DMP Survey and are based on three-month averages of responses to the question: 'What do you think the annual CPI inflation rate will be in the UK, one year from now and three years from now?'. The latest data points are for October 2024.
+
+One updated model of wage growth, estimated by Bank staff, puts this together to show the interaction between inflation expectations and wage growth, as well as accounting for developments in productivity and labour market tightness or slack, as shown in Chart 9. From early 2023, earnings have risen more significantly than could be explained by our three main models, in part because of the large inflationary shocks we have experienced. The updated model allows for quite long lags between inflation expectations and wage growth which, combined with the latest data, appears to explain what we are seeing in wages. Therefore, now that we have seen normalisation in inflation expectations, the updated model gives me more assurance that we could expect to see that feed through into wage and price-setting dynamics with that fairly long lag, and continued declines in wage growth, back down to levels consistent with keeping inflation close to the target.
+
+Sources: Barclays, Citigroup, ONS, YouGov and Bank calculations.
+
+(a) Wage equation based on Yellen (2017) . Pay growth is Bank staff's estimate of underlying pay growth between January 2020 and March 2022 and the ONS measure of private sector regular AWE growth otherwise. Short-term inflation expectations are based on the Barclays Basix Index and the YouGov/Citigroup one year ahead measure of household inflation expectations and projected forward based on a Bayesian VAR estimation. Slack is based on the MPC's estimates, informed by the vacancies to unemployment ratio. Productivity growth is based on long-run market sector productivity growth per head. The final data point is 2024 Q3.
+
+However, I do want to recognise three sources of domestic uncertainty, in addition to the significant geopolitical and other uncertainties which remain present.
+
+- First measurement uncertainties. Challenges with the LFS measure of unemployment do make it difficult to take a view on the state of the labour market with any certainty. A model drawing on non-LFS indicators of unemployment, which includes the claimant count and the Agents' score for recruitment difficulties, suggests that the underlying unemployment rate has been broadly flat over the last few quarters, though there are uncertainties around this estimate. A flat unemployment rate could challenge the view that we're seeing easing in the labour market.
+- Second, there is uncertainty around the medium-term equilibrium rate of unemployment or NAIRU. It remains possible that the NAIRU is even higher than the current assumption of 4.5%. A higher equilibrium rate would indicate that the labour market is tighter than might otherwise be inferred from the data today, implying a smaller degree of slack opening up than in our published forecast and greater inflationary pressures over the forecast. This would fit with the rationale for case 3, where the economy may have been subject to structural shifts in wage and price-setting behaviour.[9] However, while I don't fully discount the potential for structural factors to have an additional role I'm not persuaded by the evidence of a further shift up in the NAIRU over the last year, on top of the upwards adjustment the MPC made in November 2023.
+
+- Third, some of the measures in the Autumn Budget do introduce uncertainty to the outlook for the labour market and wider economy. It is not yet clear how the increase in employer NICs and the National Living Wage will impact the overall cost of employment for firms, wages and ultimately prices. The increase in employer NICS represents an increase in labour costs, initially fully borne by the employer. It is not clear the extent to which the tax increase will be transmitted into an increase in prices, reduction in wages, increase in unemployment or otherwise absorbed into profit margins or productivity growth. In the MPC's published forecast, we have judged that the NICs increase will have a small upward impact on prices and a small downward impact on wages over the forecast period, with the weakness in wages having a small downward impact on labour supply through reduced labour market participation. There is, however, significant uncertainty in that initial judgement and economic conditions, particularly demand, will have a key influence on what actually happens.
+
+One source of evidence which has become increasingly important in light of these and other uncertainties is the work of the Bank's network of Agents, who engage systematically with a wide range of businesses right across the country, including here in Leeds.
+
+Based on their most recent engagement, up to late October, the contacts of the Bank's Agents across the UK expected pay awards in 2025 to return to a range of around 2%-4%, down from 6%-6.5% in 2023. The Bank's agents are about to start their much more comprehensive annual survey of the outlook for pay settlements, which should give us a much clearer read on firms' plans as they will be based on updated financial projections which take account of the Autumn Budget, as well as the wider business and demand environment firms are operating in.
+
+My starting point, based on my assessment of the disinflationary process, is to consider it more likely that pay awards will be in the bottom half of the expected 2-4% range than in the top half. But we will have the full settlements survey in time for the February MPC round.
+
+## Conclusions and implications for monetary policy
+
+To conclude, my overall assessment is that the economy will continue to normalise, with the recent trend towards low and relatively stable inflation continuing. I think that the MPC's published forecasts in which growth picks up and inflation rises somewhat above the 2% target for the next two years is plausible. But given the uncertainties I think it is as least as likely that the disinflationary process sustains its recent trend, consistent with more symmetry in wages and price setting, with less domestic inflationary pressure, as described in case 1 which the MPC has considered. This would imply a scenario in which inflation stays closer to the 2% target throughout the first part of the forecast and falls below 2% more materially later on, lower than in the MPC's published forecasts, where a period of economic slack is required to normalise these dynamics fully.
+
+At our most recent meeting I voted with the majority on the MPC to reduce Bank Rate to 4.75%,
+
+reflecting the process of disinflation. Based on the evolving evidence a gradual approach to removing policy restraint does seem appropriate in keeping inflation close to the 2% target. The MPC's approach to setting monetary policy is based on a recognition of the continued uncertainties around the degree of inflation persistence and the state of the wider economy. My approach to assessing the economic outlook and its implications for monetary policy will continue to be watchful and responsive. Were those uncertainties to diminish and the evidence to point more clearly to further disinflationary pressures, which risked inflation falling below the 2% target on a sustained basis, then I would consider a less gradual approach to reducing Bank Rate to be warranted.
+
+With thanks to Ed Kent for his assistance in preparing these remarks, and to my fellow MPC members and colleagues, including Andrew Bailey, Megan Greene, Clare Lombardelli, Fergal Shortall, Alan Castle, Brian Gorst, Angeli Marilena, Dana Sirag, Nick Bate, India Rimmer and Lukas von dem Berge for their helpful contributions.
+
+1. See Back to the Future - speech by Dave Ramsden
+2. See the 2024 MPC Remit letter
+3. See Box F of the November 2024 Monetary Policy Report
+4. See Outlier or Laggard - speech by Dave Ramsden
+5. See Box F of the November 2024 Monetary Policy Report and the 2024 Q3 Agents' summary of business conditions .
+6. See Box E of the November 2024 Monetary Policy Report
+7. See Outlier or Laggard - speech by Dave Ramsden
+8. See, for instance, Dave Ramsden's comments at the 21 November 2023 Treasury Committee hearing on the Bank of England Monetary Policy Reports and the Keynote speech by Isabel Schnabel, Member of the Executive Board of the ECB, at the annual Homer Jones Memorial Lecture
+9. As set out in the November MPR, analysis by Bank staff suggests that workers in some sectors, and in some parts of the wage distribution, have experienced a reduction in real incomes relative to others. If workers seek to re-establish previous pay differentials that could result in more persistent strength in wage growth. All else equal, that would result in a stronger outlook for wage growth for any given level of unemployment, and therefore a further shift up in the NAIRU.

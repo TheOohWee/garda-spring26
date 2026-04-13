@@ -1,0 +1,275 @@
+SPEECH
+
+## What resilience takes: strengthening the financial system in an era of heightened risk
+
+## Keynote speech by Piero Cipollone, Member of the Executive Board of the ECB, at the Resilience Conference hosted by De Nederlandsche Bank
+
+Amsterdam, 17 September 2025
+
+At a time of digital and geopolitical disruptions, enhancing our financial sector's resilience is critical to protect the stability and prosperity of our economy.
+
+Money is ultimately a matter of trust. That trust rests on the stability of prices, the stability of the financial system and the smooth functioning of payments that keep our economies moving every day. These are at the heart of a central bank's mandate. Trust in money depends, above all, on our ability to deliver on these tasks, thereby safeguarding the value of the currency.
+
+History has shown this mechanism at work. In moments of crisis, people and firms have turned to their central bank for reassurance that the financial system will not collapse. Such reassurance was given in July 2012 by the then ECB President, Mario Draghi, when he famously said that, within its mandate, the ECB was ready to do "whatever it takes" to preserve the euro. As an unequivocal commitment to safeguarding our currency, this statement removed unwarranted fears, restored confidence, and strengthened the resilience of the financial system and the wider economy.
+
+Credibility and trust are the most valuable assets a central bank has, and they are tested repeatedly. During the COVID-19 pandemic, the ECB acted swiftly and decisively to stabilise markets with its pandemic emergency purchase programme. When war returned to Europe and inflation surged, our policy responses once again anchored trust. This has been confirmed by surveys: Eurobarometer data show that trust in the ECB remained broadly stable through both the pandemic and the inflation shock.
+
+[2] Confidence and credibility have tangible economic benefits. Our analysis indicates that if inflation expectations had been as poorly anchored as they were in the 1970s, policy rates would have had to climb to around 8% at the peak of the tightening cycle, imposing enormous costs on households and firms.
+
+But while central banks provide the ultimate line of defence, enhancing the resilience of the financial system is a shared responsibility, because only if we can collectively withstand shocks are we able to provide continuity and stability when it matters most. This is a top priority for all of us, public and private sector alike. In times of disruption, it is our preparedness and ability to act decisively that ensures the financial system can continue to function and payments can continue to flow.
+
+Today | will first reflect on what financial sector resilience entails in an era of heightened risks. | will then discuss the role of the ECB in fostering private sector resilience, in offering backstop functions and in modernising central bank money — our financial system's anchor of stability.
+
+## Resilience in an era of heightened risk
+
+## Protecting vital functions to preserve the resilience of the financial system
+
+Preserving the resilience of our financial system entails, first and foremost, protecting its vital functions.
+
+We are all familiar with the key role of payment and financial market infrastructures. They are the arteries that allow money and financial assets to circulate smoothly through the economy. Much like the arteries in the human body, if they are blocked, the entire system is put at risk. A failure in any of these functions reverberates quickly through households, firms and governments alike.
+
+So what happens when one of these functions fails? Recent episodes can provide some answers.
+
+When payments fail, the economy freezes and citizens look to the central bank for reassurance. This was illustrated most dramatically by the power blackout in the Iberian Peninsula on 28 April this year. As power and telecommunications services went down, digital payments collapsed. Card spending fell by over 40%, e-commerce dropped by more than 50% and overall consumption in Spain plunged by a third in a single day. Even in unaffected regions, citizens sought a safe and reliable backstop. What they turned to was central bank money in the most basic, resilient form available — cash — and cash withdrawals surged to well above normal levels.)
+
+Liquidity can disappear just as suddenly. In March 2023 Silicon Valley Bank lost USD 42 billion of deposits in a single day, the largest and fastest bank run in US history. In the digital age, what once took weeks or months can unfold in hours.4! Without the immediate intervention of the Federal Reserve System and the Federal Deposit Insurance Corporation, guaranteeing all deposits and launching a new funding programme, the collapse of Silicon Valley Bank could have sparked wider depositor flight across regional banks and escalated into a systemic panic.
+
+The lesson from these cases is clear: when private channels seize up or infrastructures fail, it is the central bank that must step in to preserve stability. And in today's world, marked by geopolitical fragmentation, rapid technological change, rising cyber threats and the growing impact of climate change, the risk of such disruptions is rising.
+
+## An era of heightened risk
+
+We are living through an unusual constellation of risks, where geopolitical, technological and environmental forces interact and amplify one another. This makes resilience not just a desirable attribute but the foundation of stability itself. And in the trade-off between efficiency and resilience, we must increasingly err on the side of resilience.
+
+Let me highlight three sources of risk.
+
+The first is geopolitical fragmentation, which is reshaping global trade and finance. Global trade policy uncertainty may have fallen somewhat from its peak in April, but it has picked up again more recently and still remains well above historical norms. In this environment, traditional shock absorbers that work via diversified trade networks and cross-border financial holdings are at risk of being eroded. As a result, crises may well become more frequent, including rare but highly disruptive tail events.
+
+Fragmentation also increases the temptation to weaponise existing dependencies. We see this in the sphere of payment systems and currencies, which are increasingly wielded as instruments of
+
+## influence.
+
+Europe is particularly exposed. Today, 65% of card payments in the euro area are processed by two non-European companies, and 13 of the 20 euro area countries rely entirely on these international schemes. Meanwhile, mobile payment apps, which are largely controlled by global technology firms, are rapidly gaining ground, already accounting for nearly 10% of retail transactions and expanding at double-digit rates. These trends pose strategic questions for Europe's financial sovereignty, particularly in a world where access to financial infrastructures can be restricted as a tool of coercion.
+
+This is not a matter of protectionism. Foreign companies can help to bring competition and innovation to our markets. But we should not be dependent on them for the smooth functioning of payments in Europe. In a world where our dependencies can be used against us, independence is a precondition for resilience. Ensuring that we have domestic, pan-European payment solutions should be part of the "march to independence' we need to undertake, to use the words of ECB President Christine Lagarde.
+
+## [8]
+
+The second source of risk is technology. Innovation is transforming the very nature of money and financial services. Global stablecoins denominated in foreign currencies and crypto-assets promise efficiency, but, if widely adopted, could undermine monetary sovereignty.
+
+At the same time, the digitalisation of finance is vastly expanding the attack surface. Cybersecurity has therefore become a critical concern. In a recent survey, three in five central banks reported an increase in the frequency of cyberattacks on their financial systems in the past year alone." The stakes are enormous. The global cost of cyber risk is estimated to exceed USD 200 billion per year. 41] A single successful attack on a systemically important financial market infrastructure could erode confidence and disrupt the entire financial system. Building cyber resilience is therefore not just a technical requirement; it is essential for financial stability and for trust in money.
+
+Adding to the challenges of geopolitical fragmentation and technological vulnerability is a third source of risk: climate change, which acts both as a trigger of immediate shocks and a long-term structural threat. More frequent and more intense extreme weather events, such as heatwaves, floods and wildfires, can disrupt infrastructures directly and pose financial stability risks."2] Between 1980 and the end of 2023, EU Member States suffered more than €738 billion in losses from these kinds of events.
+
+[13]
+
+Together, these forces create an environment of heightened vulnerability. Geopolitics, technology and climate change are interconnected challenges that feed into one another and magnify systemic fragility. In such a world, resilience becomes a critical factor in safeguarding financial stability and ensuring the economy can withstand the shocks that lie ahead.
+
+This means that all actors in the financial system must step up their levels of preparedness. And | am heartened to see that Member States — like here in the Netherlands — and the European Commission are making a decisive contribution to this effort as part of their overall preparedness strategies.14]
+
+## The role of the central bank in enhancing the resilience of the financial system
+
+So what is our role as a central bank in enhancing resilience in practice? We have a dual responsibility.
+
+First, we must act as the backstop of last resort when the system comes under acute stress. When markets freeze, when payments falter and when confidence evaporates, it is the central bank that must step in to prevent collapse.
+
+Second, but just as importantly, we must strengthen the system proactively, so that these backstops are rarely, if ever, needed. That means making sure that the private sector is as resilient as possible through our supervisory and oversight functions so that the financial system can absorb shocks rather than transmit them.
+
+This duality is fundamental. The public relies on us to serve as emergency firefighters when a crisis strikes and to oversee fire-resistant structures that make crises less likely and less damaging.
+
+## Defences that reduce the likelihood of intervention
+
+Let me start with the four key elements that form our first line of defence, aimed at minimising the need for intervention.
+
+## Monetary policy
+
+The first is our monetary policy framework, which ensures that liquidity flows smoothly and that financial conditions are aligned with our intended policy stance. The framework is designed to allow us to respond to shocks in either direction as we pursue our primary mandate of price stability. It also helps us address risks in financial markets that could hamper the effective implementation and singleness of our monetary policy."
+
+We have a broad range of tools that we can use as necessary to fulfil our mandate. These include main refinancing operations and longer-term refinancing operations, standing facilities such as the marginal lending facility, and asset purchase programmes covering both public and private assets.
+
+Crucially, all refinancing operations are conducted through fixed-rate tender procedures with full allotment."©] Moreover, they are supported by a broad collateral framework that accepts both marketable and non-marketable assets. This inclusiveness ensures that a wide range of counterparties can access central bank liquidity. Time and again, this approach has proved its worth during crises, acting as a built-in cushion against external shocks. Liquidity is, after all, the lifeblood of the financial system, enabling payment, settlement and clearing systems to operate seamlessly — even under stress.
+
+## Payment, clearing and settlement systems
+
+Resilience also depends on the smooth functioning of payment, clearing and settlement systems. We contribute to this in two ways.
+
+First, our TARGET Services"4 facilitate the free flow of central bank money, securities and collateral across Europe. These services allow the ECB, together with the national central banks, to provide a
+
+risk-free asset for settling transactions between financial institutions in central bank money. Settlement in central bank money is the international standard precisely because it is the least risky and most reliable form of money. 48]
+
+Second, the Eurosystem promotes the safety and resilience of payment, clearing and settlement systems through its oversight mandate. This mandate extends beyond financial market infrastructures to also include electronic payment instruments, schemes and arrangements, as well as critical service providers.42] To manage operational risks, the Eurosystem has notably set out comprehensive requirements, which include business continuity measures, timely recovery strategies (including the use of secondary sites) and specific provisions for information security, cyber resilience, physical security, outsourcing and IT risk management.2 We also collect information on interdependencies within the financial ecosystem to support crisis management. This allows us to quickly identify key points where disruptions could occur during an adverse event and to map possible contagion paths.
+
+## Banking supervision
+
+Another crucial function forming our first line of defence is the supervision of banks. Supervised banks are required to maintain capital and liquidity buffers commensurate with their risk profiles, as well as strong governance and risk management frameworks, 24)
+
+They must also have robust business continuity, recovery and communication plans in place. Critical functions must be restored within predefined recovery time objectives. For highly critical systems, such as real-time settlement and interbank payment interfaces, this means restoration within hours to prevent liquidity freezes or cascading failures.
+
+Our supervisory framework has proven its value. Despite facing significant challenges, including the pandemic, Russia's war in Ukraine and the fastest monetary tightening in decades, European banks have remained resilient. Instead of amplifying these shocks, they have absorbed them, underlining the importance of supervision as a means of ensuring resilience. 24]
+
+## Cyber resilience
+
+Let me turn to a particularly cross-cutting challenge: cyber risk. In an era of geopolitical tensions and rapid technological advancements, cybersecurity has become a top priority. And cyberattacks are increasingly used to target the financial sector. For instance, the number of cyber incidents reported to the ECB by significant banks doubled between 2022 and 2024.25] Defending our financial system is not just a financial necessity, but a matter of European security.
+
+We have therefore made a significant effort to strengthen cyber resilience in the euro area. In 2024 the ECB conducted a cyber resilience stress test of 109 banks.24! Additionally, our staff have developed an approach for macroprudential cyber resilience stress testing.25] Furthermore, | chair the Euro Cyber Resilience Board for pan-European Financial Infrastructures, which brings together central banks, market participants, Europol and the European Union Agency for Cybersecurity.29] This kind of collaborative platform between the public and private sectors is crucial for sharing intelligence, preventing and detecting attacks, and coordinating a rapid response.24 It reflects the scale and
+
+seriousness of the threat, and underscores the need to embed resilience deeply in our financial ecosystem.
+
+## Backstops of last resort
+
+Let me now address what happens when prevention is not enough and crises arise. In such cases, our second line of defence must come into action. This is when central banks are called upon to provide three credible backstops.
+
+## Liquidity
+
+The first backstop is the ECB's role as lender of last resort. When markets freeze, the central bank serves as the ultimate supplier of liquidity. Without this safety net, liquidity shocks can quickly spiral into solvency crises and systemic collapse. We have seen the importance of this role time and again. During the pandemic, for example, we complemented liquidity operations with capital relief measures for banks, freeing up an estimated €1.8 trillion for lending and loss absorption. 28] These interventions ensured the continued flow of credit to households and businesses, effectively preventing a credit crunch that could have deepened the recession.
+
+## Financial market infrastructures
+
+The second backstop is keeping payment and settlement systems running. The Eurosystem operates the TARGET Services, including T2 (our real-time gross settlement system) and T2S (our panEuropean securities settlement platform). Together, these form the backbone of Europe's financial infrastructure. T2 alone processes roughly 90% of the total value settled by large-value payment systems in euro — more than €1.8 billion every single day.
+
+These infrastructures are designed with resilience at their core. Their two-region/four-sites architecture provides for both interand intra-regional failover. This ensures that even in the most extreme circumstances — like natural disasters, pandemics, cyberattacks or terrorist incidents — critical payment and securities settlement operations can continue, with interruptions of service kept to a minimum.
+
+In addition, through TARGET Instant Payment Settlement (TIPS), we enable payment service providers to facilitate instant money transfers between individuals and firms. These can be completed within seconds, at any time of the day and on any day of the year. TIPS settles these payments in central bank money, and operational resilience is achieved through its three-site set-up. This infrastructure will become even more important as instant payments increasingly become the norm, and especially as payment service providers will be required to offer customers an instant payment
+
+service as of next month.
+
+## Cash in the digital era
+
+The third backstop is the availability of central bank money for day-to-day retail payments.
+
+Cash plays a vital role in this regard. For over two decades, banknotes in circulation have consistently exceeded 10% of euro area GDP. And in periods of stress — for example, the global financial crisis, the Greek sovereign debt crisis, the pandemic, Russia's invasion of Ukraine and most recently the power blackout in the Iberian Peninsula in April 2025 — demand for cash surges as citizens seek the security of central bank money. 22]
+
+Looking ahead, a digital euro would serve as an additional safeguard to enhance the resilience of digital retail payments by offering a digital form of cash. This would complement the resilience provided by physical cash, which, while essential, cannot be used for online transactions — which now make up one-third of our day-to-day transactions. As | explained two weeks ago in the European Parliament, a digital euro would allow Europeans to pay at all times with a universally accepted digital means of payment, even in the event of major disruptions. Business continuity would notably be ensured through the distribution and automatic rerouting of transaction across three different regions, each equipped with multiple servers. Furthermore, the digital euro's offline functionality would provide an extra layer of security by allowing payments to be made even when internet connectivity is disrupted or access to physical cash distribution networks is limited. 24
+
+## Conclusion
+
+Public institutions, and central banks in particular, have a unique responsibility to ensure the resilience of the financial system. Our duty is twofold: to build strong lines of defence that keep the system strong in normal times, and to provide credible backstops when all else fails.
+
+This is how we anchor trust. Resilience is not an abstract ideal — it is what ensures households can access their money, firms can finance their investments and governments can fund essential services, even in the darkest hour. It is what enables the economy to keep functioning when shocks hit.
+
+History has shown that in times of crisis, people instinctively turn to their central bank. What they seek is reassurance that the system will endure. That reassurance can only be provided if we have built resilient institutions, infrastructures and money.
+
+In a world shaped by geopolitical tensions, technological disruption and climate change, this responsibility has grown even greater. But it is also clearer than ever. By ensuring resilience, we preserve stability. By preserving stability, we sustain trust. And by sustaining trust, we safeguard the value of our currency for the people of Europe.
+
+This is, and will always remain, our core mission.
+
+1.
+
+Draghi, M. (2012), "Verbatim of the remarks made by Mario Draghi", speech at the Global Investment Conference, London, 26 July.
+
+2.
+
+Dreher, F. (2024), "Trust in the ECB — insights from the Consumer Expectations Survey", Economic Bulletin, |ssue 3, ECB.
+
+3.
+
+Cipollone, P. (2025), "Making\_euro cash fit for the future", The ECB Blog, 4 August; and Faella, F. and Zamora-Pérez, A. (2025), "Keep calm and carry cash: lessons on the unique role of physical currency across four crises", Economic Bulletin, |lssue 6, ECB, forthcoming.
+
+4.
+
+Koont, N., Santos, T. and Zingales, L. (2024), "Destabilizing Digital 'Bank Walks", NBER Working Papers, No 32601, National Bureau of Economic Research, June. 5.
+
+See "Daily Trade Policy Uncertainty (7-day Moving Average)" in Economic Policy Uncertainty Index, Economic Policy Uncertainty.
+
+6.
+
+Farrell, H. and Newman, A. (2025) "The Weaponized World Economy — Surviving the New Age of Economic Coercion', Foreign Affairs, September/October.
+
+7.
+
+Klein, A. (2024), "Payment systems' changing role from economic growth to the new foreign policy lever", Commentary, The Brookings Institution, 13 February.
+
+8.
+
+Lagarde, C. (2025), "'C'est le début d'une marche vers l'indépendance' de |'Europe", podcast interview on L'invité de 8h20, France Inter, Radio France, 31 March; and Lagarde, C. (2025), "Tariffs will be negative the world over", podcast interview on The Pat Kenny Show, Newstalk, 2 April.
+
+9.
+
+Cipollone, P. (2025), "The quest for cheaper and faster cross-border payments: regional and global solutions", speech at the BIS Annual General Meeting, Basel, 27 June; and Lane, P.R. (2025), "The Cork Economics Society Conference 2025, Cork, 20 March.
+
+10.
+
+Central Banking staff (2025), "Cyber attacks rise in three-fifths of jurisdictions — Central banks lacking incident response team report highest rate of attacks", Central Banking, 18 August.
+
+11.
+
+Jamilov, R., Rey, H. and Tahoun, A. (2021), "The Anatomy of Cyber Risk", NBER Working Paper, No 28906, National Bureau of Economic Research, June.
+
+12.
+
+Chabot, M. and Bertrand, J-L. (2023), "Climate risks and financial stability: Evidence from the European financial system", Journal of Financial Stability, Vol. 69, December; and ECB/ESRB Project Team on climate risk monitoring (2021), "Climate-related risk and financial stability", ECB, July.
+
+13.
+
+Climate-ADAPT, "Economic losses and fatalities — Summary results — 1980 to 2023", European Environment Agency; and Directorate-General for Climate Action (2025), "5 things you should know about extreme weather", news article, European Commission, 9 July.
+
+14.
+
+European Commission (2025), "Communication on the European Preparedness Union Strategy", 26 March.
+
+15.
+
+European Central Bank (2025), An overview of the ECB's monetary policy strategy — 2025.
+
+16.
+
+"Full allotment" means that the Eurosystem satisfies all bids received from counterparties against eligible collateral at the fixed rate set by the Governing Council.
+
+17.
+
+Bindseil, U. (2025), "TARGET Services: the backbone of European financial markets", The ECB Blog, ECB, 14 July.
+
+18.
+
+See Bank for International Settlements (2012), Principles for financial market infrastructures, April.
+
+19.
+
+For more on the ECB's oversight mandate, see our web page on oversight.
+
+20.
+
+The relevant Eurosystem requirements are set out in the following main standards/frameworks: the schemes and arrangements) and the CROE (Cyber resilience oversight expectations for financial market infrastructures, part of the broader Eurosystem Cyber Resilience Strategy).
+
+21.
+
+See ECB, Understanding the banking union and ESFS.
+
+22.
+
+banking\_system", speech at The Brookings Institution, Washington D.C., 25 April.
+
+23.
+
+Elderson, F. (2025), "Resilience offers a competitive advantage, especially in uncertain times", speech at the Morgan Stanley European Financials Conference, London, 19 March.
+
+24.
+
+ECB Banking Supervision (2024), "ECB concludes cyber resilience stress test", press release, 26 July; and McCaul, E. (2024), "Enhancing banks' resilience against cyber threats — a key priority for the ECB", The Supervision Blog, ECB, 26 July.
+
+25.
+
+Vermeulen, R., Sydow, M., Brousse, C., Cascdo, F., Fique, J., Marques, C., Nyholm, J. and Virel, F. (2025), "Cyber resilience stress testing from a macroprudential perspective", Macroprudential Bulletin, Issue 27, ECB, 10 March.
+
+26.
+
+See ECB web page on Euro Cyber Resilience Board for pan-European Financial Infrastructures.
+
+27.
+
+Cipollone, P. (2024), "Building\_a solid cyber defence for the new geopolitical season", speech at the tenth meeting of the Euro Cyber Resilience Board for pan-European Financial Infrastructures, Frankfurt-am-Main, 21 November.
+
+28.
+
+ECB Banking Supervision (2020), "ECB Banking Supervision provides further flexibility to banks in reaction to coronavirus", press release, 20 March.
+
+29.
+
+The obligation, laid down in the Instant Payments Regulation, will apply from 9 October 2025. 30.
+
+Faella, F. and Zamora-Pérez, A. (2025), "Keep calm and carry cash: lessons on the unique role of physical currency across four crises", Economic Bulletin, |ssue 6, ECB, forthcoming.
+
+31.
+
+introductory statement at the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 4 September.
+
+CONTACT

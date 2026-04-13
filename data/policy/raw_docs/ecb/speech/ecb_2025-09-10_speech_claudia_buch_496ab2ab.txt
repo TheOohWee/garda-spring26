@@ -1,0 +1,185 @@
+## SPEECH
+
+## Financial stability, supervision and regulation: building a 21st century infrastructure for better, evidence-based policymaking
+
+## Keynote speech by Claudia Buch, Chair of the Supervisory Board of the ECB, BIS Innovation Summit
+
+10 September 2025
+
+Let me begin by thanking the organisers of the BIS Innovation Summit for inviting me to speak." This Summit provides an important platform to explore how innovation is reshaping the future of finance, with this year's theme of future-proofing central banks. Some 17 years after the great financial crisis, banks are operating in a very different landscape. In Europe, institution-building has progressed through the banking union. Digital innovation and new business models have transformed the way finance operates, and artificial intelligence (Al) is likely to accelerate these trends even further. The risk environment has changed significantly, and geopolitical risks are heightened. All of this has an impact on financial safety and soundness, financial sector regulation and supervisory decision-making.
+
+The financial sector came through this period relatively unscathed. The benefits of financial sector reforms may therefore be easily forgotten. Some even conclude that the financial sector (and thereby the real economy) would be better off with lighter regulation and supervision. Of course, regulation and supervision must continue to evolve, and improving effectiveness and efficiency can be useful to reduce unnecessary complexity. But rolling back core safeguards or weakening resilience in the name of "lighter-touch" oversight would be to ignore what history has told us many times: we tend to extrapolate from the recent past and underestimate the vulnerabilities and fault lines that have built up in the financial system. "This time" is unlikely to be different.2]
+
+Any decision on the future of financial regulation and supervision thus needs to holistically assess the effects of reforms and to take changes in the external environment into account. This is what "evidence-based policymaking" is about. It begins by defining a broad policy objective. In the case of the post-crisis policy agenda: to reduce the likelihood of financial crises and their potential impact. The second step is to define concrete, measurable indicators related to the policy objective. In a third step, suitable policy measures are defined, and their impact is assessed ex ante. Fourth, the impact of these measures can be assessed. This provides information on the benefits of the regulatory and supervisory framework, along with potential unintended side effects. This "policy cycle" ensures that the evidence base is continually updated and that confounding factors are taken into account. The significant fiscal support for the real economy (and indirectly for the financial sector) during recent shocks is a case in point.
+
+Evidence-based policy requires a 21st century infrastructure providing timely empirical evidence, using all available data and the best analytics to inform policy debates. Relevant elements of such an
+
+infrastructure already exist. In the policy and academic world we have made significant progress towards developing key building blocks.
+
+Yet, the elements of the infrastructure to inform supervisory and regulatory decisions have often not kept pace with the rapidly changing environment. Microdata sets can typically not be shared among authorities, let alone internationally; repositories of models and of analytical results are rare; analytical work performed by authorities often remains internal to official institutions; and external academic work may not be sufficiently targeted to inform relevant policy debates.
+
+Further developing a 21st century infrastructure for evidence-based policymaking and supervision will ensure that policy decisions are based on sound evidence. It can allow us to harness the benefits of technological innovation. This requires work on five mutually reinforcing pillars:
+
+- &gt; evaluation frameworks that create the conditions for systematic learning and for assessing the effects and potential unintended side effects of supervisory and regulatory decisions in a structured way;
+- &gt; repositories and meta-analyses that pool dispersed findings into cumulative knowledge;
+- &gt; data centres and common documentation to ensure that measurement is consistent and scalable;
+- &gt; innovation in modelling and analytical tools that expand the frontier of what can be analysed and monitored; and
+- &gt; structured exchanges with the research community that channel expertise towards policy-relevant questions.
+
+The BIS has an important role to play in advancing each of these pillars — by fostering collaboration among authorities, pooling knowledge, and supporting the development of the infrastructure that evidence-based policymaking requires.
+
+## Evaluation frameworks
+
+Over the past decade, the Financial Stability Board (FSB) and the Basel Committee for Banking Supervision have developed frameworks to evaluate policy and regulatory decisions. These frameworks can be used to inform current policy debates. Public consultations are a key element of these evaluation frameworks, seeking input from various stakeholders, including from the institutions affected, but also from academics and non-governmental organisations.)
+
+In 2017 the G20 endorsed the FSB Framework for the Evaluation of Post-Crisis Financial Sector
+
+Reforms, 41 Implementation proceeds in two steps. First, relevant topics are identified by scanning for potential unintended effects or areas where reforms may not be delivering as intended. This initial stage involves consultations with stakeholders, while quantitative indicators and qualitative inputs are used to narrow down priority areas for evaluation. In the second stage, different methodological
+
+approaches are applied to assess the effects of reforms. These approaches range from descriptive analysis to more advanced econometric identification strategies, using microdata and macrodata.
+
+This framework has been used to analyse several aspects of the post-crisis reform agenda, such as the impact on lending to small and medium-sized enterprises, on infrastructure finance or the effects of the too-big-to-fail reforms. Overall, these studies find that the benefits of the reforms outweigh any potential, unintended consequences.
+
+Likewise, the Basel Committee has an extensive analytical agenda, including systematic impact assessments. The first key element is a Regulatory Consistency Assessment Programme, which examines whether countries have incorporated Basel standards into national legislation in a timely and consistent manner. In addition, the Committee evaluates the quantitative impact of Basel III standards on banks' balance sheets and on the broader financial system. These impact assessments rely on large-scale data collections from banks worldwide, combined with scenario analyses and stress teststyle methodologies.
+
+Such evaluation frameworks significantly reduce the costs of evaluations, which can indeed be high if organised in an ad hoc manner. The frameworks guide the choice of empirical techniques, including descriptive statistics, qualitative results and econometric identification techniques, all of which have their merits. Early planning is important, as collecting relevant data and information ex post can be very costly. Improving the data infrastructure can thus significantly contribute to the evaluation of regulation and supervision.
+
+Relatedly, discussions on streamlining reporting requirements should be guided by sound cost-benefit analyses. Frameworks for this exist at the national and European level, and the Organisation for Economic Cooperation and Development (OECD) has carried out useful surveys of the available frameworks.] When changing statistical reporting requirements, the ECB is required to conduct a systematic assessment of the merits and costs of the new data collection.
+
+## Repositories and meta-analyses
+
+There is plenty of empirical evidence on the effects of supervision and regulation. Using this evidence to make more informed policy decisions requires easy access to a comprehensive set of studies. Maintenance of repositories and conducting of meta-analyses is essential for this. By design, repositories are open to the public and benefit from the input of academics and external analyses.
+
+The Bank for International Settlements (BIS) maintains a repository which can form the nucleus for additional work. The Financial Regulation Assessment: Meta Exercise (FRAME) contains studies on the effects of capital and liquidity regulation as well as the too-big-to-fail reforms. This repository currently contains 83 studies and 139 quantitative impact estimates from 15 countries, classifying each across 18 dimensions — such as country, time period, bank type, or regulatory ratio — to enable a structured comparison of results.42]
+
+A meta-analysis based on the studies compiled in FRAME reveals significant heterogeneity in the estimated effects of capital requirements on loan growth.) The average effect is positive: a 1 percentage point higher capital ratio is associated with around 0.4 percentage points higher loan growth. Studies that account for general-equilibrium effects find stronger impacts than partialequilibrium analyses. Moreover, the transitional impact of higher capital standards differs from the long-run effect: during the build-up phase, when banks need to increase their capitalisation and resilience to shocks, tighter requirements may weigh on lending. In the steady state, higher capitalisation supports credit growth. As regards liquidity requirements, the net stable funding ratio has a countercyclical effect on bank lending. Banks with more stable funding prove to be more resilient in downturns and less procyclical in expansions.
+
+Repositories are used in many other fields as well. In medicine, for example, the Cochrane organisation provides a repository of impact assessments. There are, in fact, parallels between the fields of medicine and finance: as with a specific medical treatment, regulations and supervisory action can have intended effects and unintended consequences, which may require a change in the "therapy". But, without clearly identifying cause and effect, without separating the treatment and the control group, one may draw the wrong conclusions.
+
+Generally, using Al tools can significantly reduce the cost of building repositories by improving automating the identification, classification and summarising of relevant studies. On the development side, natural language processing and machine learning can be used to extract and cluster key findings, methodologies and policy implications from large volumes of analytical studies. In ECB banking supervision, for example, we are using an Al tool "Athena" to retrieve key information quickly when performing day-to-day supervision tasks."4] AI tools deployed internally ensure that confidential information is protected. On the searchability side, large language models (LLMs) can make it easier to consult repositories by asking questions through chatbots, such as "What does the literature say about the impact of countercyclical capital buffers based on the most relevant underlying studies?".
+
+Tools available on the market, such as Semantic Scholar and Connected Papers, already help researchers navigate scientific literature through semantic mapping. Integrating these tools and LLMs into repositories of studies that assess the effects of regulation and supervision can streamline maintenance and development, making the evidence base more comprehensive and user friendly.
+
+At the ECB, we are developing the Athena database to consolidate relevant regulations, guidelines and supervisory methodologies. Currently, we are developing and testing these tools for internal use, but we are very open to sharing the project's outcomes with other authorities. To the extent that only public information is included, regulatory databases could also be made available externally once quality assurance tests have been carried out.
+
+Providing platforms for sharing codes and results is another important use case for repositories. To inform policy discussions, it is typically not necessary to share microdata. Sharing codes, protocols and analytical results can be sufficient.
+
+The International Banking Research Network (IBRN) is an example of how common questions can be answered without sharing data. Since its establishment in 2012, the IBRN has brought together central banks and international institutions to study the cross-border transmission of shocks and the effects of
+
+financial regulation. Each participating authority runs a common empirical exercise on its confidential supervisory data. The results are then compared across countries. This approach preserves data confidentiality while making it possible to obtain robust, cross-country evidence. External academics can join the country teams, research results are published, shared and discussed at research conferences. One example is a cross-country study, which shows that liquidity shocks can transmit to lending through international banks, the concrete effects depending on banks' balance sheet structures, use of internal capital markets, and access to official liquidity facilities") This evidence would not have been visible from looking at aggregate data alone, and it helps policymakers better anticipate the cross-border effects of shocks and interventions.
+
+The Network of Central Banks and Supervisors for Greening the Financial System is another example of a forum for developing common analytical tools and sharing results.
+
+Within ECB Banking Supervision, we have created a Virtual Lab, which is a cloud-based collaboration platform offering Al capabilities and a user-friendly environment for sharing and developing codes.4] Not only has the Virtual Lab enhanced collaboration within European banking supervision, it has also allowed us to work with non-EU authorities in interdisciplinary, cross-functional teams.
+
+This collaborative approach contributes to the creation of public goods by making information and resources accessible to a broader audience.
+
+## Data centres and common data documentation
+
+Good policy analysis needs good data. This means that what is available should be correctly documented, and that access rights and governance structures around access rights should be clearly established. At the national level, data centres are available that allow external researchers to access and use microdata. |NEXDA is a network of granular data providers in central banks, statistical authorities, and international organisations.
+
+As part of its efforts to foster high-quality research, the ECB has launched a pilot project granting external researchers controlled access to anonymised bank-level data. The initiative tests different modes of data access, including through research data centres in national central banks, and can pave the way for a permanent infrastructure for research use of ECB-managed datasets.) In European banking supervision, we have created is a single data lake "Agora" which integrates large volumes of structured data in a centralised supervisory data source, allowing for more efficient monitoring of information and access rights.
+
+## Promoting and harnessing innovation
+
+The above examples show that evidence-based policymaking and data-driven supervision can benefit from innovation in modelling and data processing. Given the ongoing structural changes in economic and financial markets, the modelling of structural breaks in the data and the use of novel techniques to analyse interactions between newly emerging markets (such as the cryptocurrency market) and the
+
+core financial system are particularly promising. The BIS Innovation Hub can play an important role in facilitating and sharing innovative solutions.
+
+ECB Banking Supervision is using suptech tools for modelling and analytical work./5] In addition to the tools already mentioned, we are using a tool "Navi" to analyse networks and to visualise and navigate institutional structures and interlinkages within the financial system. Another tool, Gabi, optimises regression models on a large scale, enabling supervisors to perform stress tests on a large set of models. These tools strengthen the ability to monitor emerging risks and adjust supervisory strategies based on deeper, data-driven insights. Gabi can also facilitate collaboration with external academics, allowing for the exchange of ideas and methodologies that can enhance the robustness and effectiveness of stress-testing frameworks.
+
+Looking ahead, further investment in technology and digital solutions will be a key priority for European banking supervision to support an efficient and evidence-based supervisory process.
+
+## Communication and network building
+
+Policymakers face urgent questions but often lack the time and resources to gather the necessary evidence. Researchers, meanwhile, have the analytical tools and skills to provide relevant evidence but focusing on policy-relevant research, including replication studies, may not always be incentivised by academic journals.
+
+Bridging the gap between policymaking and academia is essential if we want evidence-based supervision to keep pace with innovation and the risk landscape. We can achieve this by creating dedicated workstreams, engaging proactively with the academic community and establishing structured formats for exchange. By channelling the questions that matter most to the people best placed to answer them, we can turn collaboration into a core strength of 21st century supervision.
+
+One example of the ECB's involvement with the academic community is our participation in the Marie
+
+Sktodowska-Curie Actions (MSCA) Industrial Doctoral Network on Digital Finance." European banking supervision's involvement includes hosting six doctoral candidates on its premises for 12 months. These researchers will work with our suptech team on various research topics related to digital finance.
+
+Another flagship initiative is the ECB Banking Supervision annual research conference, which provides a forum for leading academics, policymakers and supervisors to exchange views on key supervisory challenges and emerging risks.
+
+## Summing up
+
+The changing risk landscape and the digitalisation of financial services affect growth and financial stability. Understanding how requires up-to-date information and analysis, including sound impact assessments of financial sector regulation and the effectiveness of supervision.
+
+Developing a 21st century infrastructure is key to generate, share and act upon robust evidence. This embeds rigour and accountability into the policy process itself. This infrastructure can build on existing elements and harness innovation, particularly through the use of Al tools.
+
+Evaluation frameworks, repositories, meta-analyses, and data centres are key elements of this infrastructure. They provide the empirical foundation for supervision and regulation at a time when the value of post-crisis reforms is being contested. This infrastructure supports our agenda of conducting efficient, effective and risk-based supervision.
+
+1.
+
+| would like to thank Filippo Bartoli, Konstantin Bottenberg, Vincenzo Chiarella, Theodoros Mastrokostopoulos, and John Roche for their very helpful input and comments on an earlier version of this speech. All remaining errors and inaccuracies are my own.
+
+2.
+
+Reinhart, C.M. and Rogoff, K.S. (2011), This Time Is Different: Eight Centuries of Financial Folly, paperback ed., Princeton University Press. In his recent book, Rogoff discusses the implications of the recent "low for long" interest rate environment, concluding that "... the odds that the system can reset without having a serious crisis seem low'. See Rogoff, K.S. (2025), Our Dollar, Your Problem — An insider's view of seven turbulent decades of global finance, and the road ahead, Yales University Press, New Haven and London, p. 278.
+
+3.
+
+FSB, Consultations.
+
+4.
+
+FSB (2017), "Framework for Post-Ilmplementation Evaluation of the Effects of the G20 Financial
+
+5.
+
+FSB (2018), "Evaluation of the effects of financial regulatory reforms on infrastructure finance", 20 November; FSB (2019), "Evaluation of the effects of financial regulatory reforms on small and medium-sized enterprise (SME) financing", 29 November; FSB (2025), "Evaluation of the Effects of the G20 Financial Regulatory Reforms on Securitisation", 22 January; FSB (2021), "Evaluation of the effects of too-big-to-fail reforms" 1 April.
+
+6.
+
+Thedéen, E. (2024) "Charting the course: prudential regulation and supervision for smooth sailing", Speech, 23 October
+
+7.
+
+BIS, Current data collection exercises.
+
+8.
+
+OECD (2020), Regulatory Impact Assessment, OECD Best Practice Principles for Regulatory Policy, OECD Publishing, Paris; OECD (2014), Regulatory Compliance Cost Assessment Guidance, OECD
+
+Publishing.
+
+9.
+
+ECB (2016), The ECB's merits and costs procedure in the field of European statistics, November.
+
+10.
+
+Boissay, F., Cantu, C., Claessens, S. and Villegas, A. (2019), "Impact of financial regulations: insights from an online repository of studies", BIS Quarterly Review, Bank for International Settlements, 5 March.
+
+11.
+
+ibid.
+
+12.
+
+ECB Banking Supervision (2025), "Benefits from advanced technology infrastructure in supervision", Supervision Newsletter, 14 May.
+
+13.
+
+Buch, C.M. and Goldberg, L.S. (2014), /nternational Banking and Liquidity Risk Transmission: Lessons from Across Countries, Working Paper, No 20286, National Bureau of Economic Research, July.
+
+14.
+
+McCaul, E, (2024), "From data to decisions: Al and supervision", article for Revue Banque, 26 February.
+
+15.
+
+ECB, Pilot project for research access to confidential statistical data
+
+16.
+
+ECB Banking Supervision (2025), op. cit.
+
+17.
+
+The network is funded by the European Union's Horizon Europe research and innovation programme.
+
+## CONTACT
+
+## European Central Bank

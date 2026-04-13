@@ -1,0 +1,335 @@
+SPEECH
+
+## Financial integration in Europe: where do we stand after the banking union's first decade?
+
+Speech by Claudia Buch, Chair of the Supervisory Board of the ECB, at the "Globalisation: What's Next?" conference co-organised by the Banque de France, the Centre for Economic Policy Research, the World Bank and the University of Surrey
+
+Paris, 30 April 2024
+
+More than a decade ago, plans to create a banking union were becoming reality, The banking union was Europe's response to the great financial crisis and Europe's sovereign debt crisis. These events had shown that, in the absence of centralised supervision and crisis management frameworks, cross-border banking can lead to excessive risk taking, to risks spreading across countries, and to a vicious banksovereign nexus. The main objectives of the banking union were to break the nexus between bank and sovereign fragility, to restore private liability in banking, and to prevent excessive risk taking. But it was also hoped that banking union would foster healthy financial integration, bringing with it the benefits of integrated markets such as greater risk sharing and welfare-improving competition.
+
+The design of the banking union envisaged common supervision, resolution and deposit insurance in the euro area. Ten years on from its launch, only two of its pillars, European supervision and resolution, are in place. Where do we stand? Have risks been reduced, has risk sharing been enhanced, and are banking markets more integrated?
+
+In many ways, the banking union has been a clear success. The single European rulebook is in place, and common supervisory standards are directly applied by the ECB across Member States on the largest banks ("significant institutions"). The ability to benchmark more easily across banks is a significant advantage compared to purely national supervision. And European oversight of smaller banks ("less significant institutions") has been equally beneficial.)
+
+We have seen a number of positive developments in terms of institutional integration and private risk sharing. With the Single Resolution Board and the Single Resolution Fund (SRF), institutions and safety nets have been put in place to deal with banks in distress, providing private, industry-funded resources to finance resolution.
+
+Indicators of integration, which declined after the global financial crisis, have stabilised or started to trend upwards again. And this is despite the severe shocks that Europe was exposed to over the past few years.
+
+But to take full account of the banking union to date, we need to paint a more nuanced picture. There are three main points | would like to discuss today.
+
+First, significantly changing market structures, including the cross-border presence of banks, takes time. Europe's banking markets are quite well developed, which limits the potential for new entrants to challenge the market positions of incumbent banks. Banks that do operate across borders do so mainly through subsidiaries rather than branches. At the same time, digitalization of financial services diminishes the role of physical borders and can increase price competition at the margins.
+
+Second, the first decade of the banking union was rather unique in terms of risks and risk sharing. For most of the decade, macroeconomic volatility remained low. In more recent years a series of shocks hit the European economies: first the pandemic, then Russia's war against Ukraine and the energy crisis. Banks went into these episodes being well capitalised and hence resilient. Furthermore, supervisors promptly granted them flexibility to use existing buffers. Yet, extraordinary fiscal and monetary policy support measures played a major role in buffering the shocks and the banking union's new channels of private risk sharing, such as banks' enhanced loss-absorbing capacity and the single resolution safety net, hardly needed to be used.
+
+Third, to achieve further and sustainable financial integration, completing the banking union remains a priority. This means closing the remaining gaps in the resolution framework and introducing a European deposit insurance scheme. But progress on capital markets union is equally important. Banking and capital markets complement each other. Non-bank financial intermediation has gained in importance and the risks it generates do not stop at national borders. At the same time, capital markets in Europe remain relatively fragmented and supervised at the national level.
+
+## Integration of European financial markets: slow but gradual progress
+
+Integrating financial markets offers the promise of more competition, better financial services and greater diversification of risks specific to sectors, economies, or regions. Cross-border risk sharing is especially important in a currency union like the euro area, where a common monetary policy is implemented across different countries with different economic conditions.
+
+But are European financial markets delivering on this promise? Or do the potential adverse consequences of financial integration — such as excessive risk taking"! and spillovers of shocks — prevail?
+
+## Size of European financial markets
+
+Today, European financial markets are well developed and can, by some measures, even be considered saturated. Total financial assets in the euro area increased from around 300% of GDP in 2002 to a peak of over 800% in 2021, before falling slightly on account of lower valuations due to higher interest rates. 6] In relative terms, financial assets in the euro area are greater than in the United States, where they equate to almost 500% of GDP (Slide 3).
+
+This increase in the size of the financial sector is in line with global trends. |t reflects the growth of the non-bank financial intermediation sector, such as money market funds, hedge funds and investment funds.
+
+[8] New providers of digital financial services have increased their market share. The fintech sector has been growing rapidly in recent years, with year-on-year costumer growth rates of more than 50% in Europe in the period between 2020 and 2022. And although BigTech firms provide limited financial services in the EU, they have the potential to scale up rapidly.0]
+
+All this has increased the competitive pressure on European banks.
+
+That said, Europe is still more bank-based than other parts of the world. Euro area banking assets have remained relatively stable over the past two decades: in 2002, they measured 240% of GDP; this increased to 300% in 2011, while as of end-2022 they measured 290% of GDP. By comparison, this figure stands at around 120% of GDP in the United States, where non-bank financial institutions play a larger role." Funding sources for European corporates have remained relatively stable, with banks continuing to account for around 30% of the total (Slide 4).
+
+## Integration of European financial markets
+
+At the same time, European banking markets are certainly not fully integrated. The competitive environment differs across countries. National implementation of directives differs across Member States. There is relatively little cross-border retail banking activity, with slow movement towards further integration (Slide 5). Cross-border merger and acquisition activity in banking has been weak. Most lending takes place within national markets. Cross-border lending within the euro area accounts for 7% of total retail lending, while lending to borrowers outside of the euro area accounts for 11% (Slide 6).
+
+Again, the comparison with the United States is instructive. In both jurisdictions, laws designed to facilitate interstate — or inter-Member State — branching were put in place in the early 1990s.2] But the outcomes of these processes could hardly have been more different.
+
+In the United States, the 1994 Riegle-Neal Interstate Banking and Branching Efficiency Act lifted restrictions on interstate branching. This led to profound changes in the US banking landscape, with banks converting subsidiaries into branches or establishing new branches. The number of out-of-state branches in the United States increased from just 64 in 1994 to almost 25,000 in 2005.03)
+
+In Europe, by contrast, the implementation of the Second Banking Directive in 1992 — which enabled banks to establish branches in any other Member State — did not produce similar results. To this day, it is still more common for banks to operate across borders through subsidiaries established and authorised in host countries than through cross-border branch networks. 14]
+
+Financial integration can be measured in different ways, and each indicator tells a different part of the story. "5 Price-based indicators of financial integration (such as interest parity tests) typically show a greater degree of integration than quantity-based indicators (such as savings-investment correlations). And banks do not necessarily have to move across borders for prices to converge — assets can be priced on the same market, and risks can be shared, without banks having a presence in a given market. Crossborder holdings of equity can provide a channel for this kind of risk-sharing.
+
+Let's look at the evidence.
+
+In Europe, both price and quantity-based indicators of financial integration have increased since the start of Economic and Monetary Union (Slide 7). Integration indicators peaked before the global financial crisis with only a limited recovery since then." However, the pre-crisis period may not be a good benchmark for sustainable integration as there was a significant build-up of risk and insufficient resilience in the financial system.
+
+Price-based indicators do not show a strong overall trend. The co-movement of prices increased strongly before the sub-prime crisis and fell just as strongly in the aftermath. In recent years, it has recovered to a level similar to that seen when the euro was introduced. The effect the banking union is difficult to see, not least because its announcement coincided with that of the Outright Monetary Transactions. If anything, price-based indicators of integration have become less volatile and spikes in volatility have become shorter in duration.
+
+Quantity-based indicators have been more stable throughout. This stands to reason: it takes time for financial institutions to establish a direct presence abroad or to build up customer relationships across
+
+## borders. 48]
+
+But this does not necessarily imply a lack of effective competition. It is the degree of (price) competition at the margins that matters. Knowledge that new market entrants are waiting in the wings might spur competition and lead to prices converging, even without large-scale cross-border market entry.
+
+Banks do indeed not need to establish affiliates to provide services across borders. EU freedoms allow authorised institutions to operate throughout the EU, for instance by providing services via digital platforms. Non-EU banks may establish branches in individual Member States, subject to national laws. And new digital platforms provide services such as payments and consumer finance.
+
+These channels of integration should, ultimately, lead to a convergence of interest rates across countries. Zooming in to the interest rates that banks charge to their customers and pay on their deposits indeed shows a much smaller dispersion today than in the mid-1990s (Slide 8).
+
+Anecdotal evidence also shows that price competition in Europe is indeed rather fierce in some market segments. In investment banking, for example, fees often tend to be lower in Europe than in the United States. And, in recent years, margins on loans and advances have tended to be higher in the United States. 20]
+
+Identifying what lies behind these trends is not straightforward.2IThe monetary policy environment has certainly played a major role, as convergence increased during the period of low interest rates. But greater competition stemming from the entry of new non-bank financial intermediaries, fintechs and big techs is relevant as well.!22] And the entry of non-domestic institutions — even from a low starting point — may have contributed to the convergence of prices (Slide 9).
+
+The integration of markets for banking services has a key role to play for the degree of competition and the efficient provision of services. The integration of equity markets and cross-border shareholdings is equally important though when it comes to risk sharing.
+
+Ultimately, equity owners act as the first line of defence if losses materialise. The more widespread and dispersed ownership, the better risks are shared. Moreover, cross-border ownership implies that shares are increasingly being priced on the same market.
+
+Equity markets provide a mixed picture. Price-based indicators show a lower co-movement of share price valuations and thus a lower level of integration than for other market segments (Slide 10),23] At the same time, investors from other euro area countries hold the bulk of European shares and other equity instruments (Slide 11). Having investors from across the EU share in the risks and rewards of European equities helps to ensure greater resilience to local shocks.
+
+This trend has been promoted by the growth of the fund industry, including exchange-traded funds, which have made it easier to invest in shares issued by non-resident firms. Intra-European shareholdings and foreign direct investment have more than doubled since 2008 (Slide 12).
+
+Overall, indicators of financial integration are mixed. The co-movement of prices suggests that integration has progressed quite well, while quantity-based indicators of the actual cross-border presence of financial firms indicate that there is integration potential that remains unexploited.
+
+## Risk sharing in the banking union
+
+To assess integration from a welfare perspective, it is necessary to consider the trade-off between risk diversification and exposure to common shocks. The risk of financial contagion is particularly high if markets are not fully integrated.
+
+24]
+
+So, are we now on a stronger, more resilient integration path?
+
+In this first decade of banking union, significant progress has been made in strengthening banks' lossabsorbing capacity. Banks are now required to have a higher financing share of Common Equity Tier 1 (CET1) capital, which is the highest-quality and most loss-absorbing form of capital. The CET1 ratio increased from 12.7% of risk-weighted assets in 2015 to 15.7% at the end of 2023. The leverage ratio, which is based on banks' total assets, has also increased, albeit more modestly — from 5.3% in 2016 to 5.8% at the end of 2023.
+
+There has been progress on the legislative and institutional side. The single rulebook provides a common set of prudential standards for banks operating in the banking union. The Single Supervisory Mechanism ensures that all banks are subject to consistent, high-quality supervisory standards.
+
+Of course, even the most effective supervision cannot prevent all bank failures. In a competitive market, exiting the market must remain a possibility. The Single Resolution Mechanism was therefore established to ensure the orderly resolution of failing banks, protecting taxpayers from public bailouts in times of stress.
+
+But resolution also requires funding. In addition to higher capital requirements, other significant steps have thus been taken to enhance the capacity for banking sector losses to be absorbed and distributed without having to use public funds.25]
+
+First, minimum requirements for own funds and eligible liabilities (MREL) ensure that banks are funded by capital and debt that can be converted into equity in times of stress. Holders of these instruments are largely non-bank financial institutions, many of which are located outside of the euro area (Slide 15). This contributes to risk-sharing both, across financial sectors and globally.
+
+Second, the Single Resolution Fund, which is financed by contributions from the banks, provides €78 billion for the resolution of banks. Over a period of 8 years, the fund has has reached its target level of at least 1% of covered deposits in participating Member States.24
+
+The third element of the safety net is the European Stability Mechanism Treaty, which would provide for a financial backstop to the Single Resolution Fund. But the Treaty has not yet been ratified in all EU Member States — this is a major gap that needs to be closed.
+
+This enhanced capacity to absorb losses has not been fully tested, however. The first decade of the banking union has been rather unique. After a period of relatively stable growth, European economies were hit by a number of severe shocks, but these did not have much of an impact on banks' balance sheets.2
+
+Since the pandemic, for example, there has been no significant increase in non-performing loans, despite the decline in GDP during this period (Slide 16).
+
+What explains this dichotomy?
+
+The pandemic was a global shock against which there was little ex ante insurance. Fiscal authorities provided ex post insurance through various domestic channels.!28] In Europe, the Recovery and Resilience Facility provides a means of cross-border risk sharing. It consists of more than €600 billion of grants and loans to EU economies and is financed by debt issued by the European Commission on behalf of the EU. This fiscal policy support indirectly benefited banks, as corporate insolvencies were avoided and losses contained. In addition, accommodative monetary policy provided ample liquidity support.
+
+As a result, unlike during normal recessions, the pandemic recession did not lead to an increase in corporate insolvencies (Slide 17). Scarring effects were contained, risk premia and banks' credit losses did not rise. Capital buffers of banks even increased.
+
+This rather unique macroeconomic experience makes it difficult to assess what the degree of private sector risk sharing would look like in more normal times.
+
+Recent estimates of risk sharing point to some improvement. This can mainly be attributed to the savingscredit channel: if the domestic economy is hit by a positive shock, residents can save more and invest abroad. In the event of a negative shock, residents can borrow from abroad.
+
+the
+
+During the global financial crisis, many of the European countries affected could not draw on the savingscredit channel and instead experienced a sudden stop of capital flows.2] This was not the case during pandemic crisis, when private intra-euro area cross-border flows showed a high degree of resilience. In absolute terms, however, the level of risk sharing in the banking union is still lower than in the United States.22 On average, the impact of shocks to GDP on consumption in the US is reduced by about 70% due to risk-sharing through capital, fiscal and credit channels.24J In the euro area, the equivalent figure is less than 40%.Moreover, amongst the different channels, the credit channel remains the dominant shock absorber in the euro area, given Europe's bank-based financial model.
+
+## Integration requires progress beyond banking
+
+What steps are needed to further promote integration?
+
+Within European banking supervision, we have already taken various steps to remove obstacles to crossborder integration. We published a guide clarifying that cross-border mergers within the euro area would not be treated differently from domestic mergers. 22] As to the use of branches, we have clarified that the possibility of turning subsidiaries into branches exists, that it is well covered in the supervisory framework, and that European Banking Supervision would not stand in its way, 33] Moreover, banks operating across borders through subsidiaries can request liquidity waivers, enabling liquidity to be pooled across legal entities. To mitigate potential concerns of host country authorities regarding the potential costs of bank distress at the local level, concrete proposals have been made how to safeguard financial stability at group and subsidiary level.24]
+
+In addition, significant progress has been made over the past months with regard to two important regulatory files that strengthen European banking markets.
+
+First, implementing Basel III via the Banking Package, as agreed by the the European Parliament and the Council in December 2023, will strengthen European banks. 25) Well-capitalised banks can better lend to the real economy and better provide services to citizens, particularly in times of stress.
+
+Second, the proposal on Crisis Management and Deposit Insurance (CMDI) closes relevant gaps in the resolution framework.25 it expands the range of options available to the European authorities when dealing with the resolution of medium-sized banks. This enhances regulatory certainty and reduces the probability of relying on public funds for the resolution of bank distress.
+
+But while institution building and supervisory guidance have clearly made progress, there are still many barriers to cross-border activities. Some are deep-rooted and include culture, language and different legal systems.] Remaining frictions are often highly persistent, so it is even more important to remove those obstacles to integration that can be changed.
+
+First, reaching a political agreement on the banking union's third pillar, a European Deposit Insurance Scheme (EDIS), is important. The recent vote in the Committee on Economic and Monetary Affairs in favour of the EDIS proposal is certainly a welcome development in this regard.22] European deposit insurance would ensure a more comparable level of protection of depositors, thus potentially stimulating cross-border demand for deposits. Host jurisdictions' concerns on the national costs of bank distress would be alleviated, thus reducing incentives to keep capital and liquidity resources locally. For banks, the cross-border management of capital and liquidity would become easier, thus potentially increasing incentives to go abroad. Not least, a more integrated deposit insurance framework would increase ex-ante confidence in the European crisis management framework. Progress with EDIS may also unlock political will to change the Single Rulebook by providing more room for cross-border liquidity waivers and allowing for cross-border capital waivers.
+
+Second, progress on the capital markets union is just as important as progress on banking union. The two are intrinsically linked.42 Today, financial institutions wanting to expand across borders must deal with an array of regulations on securities markets, differences in insolvency legislation, and different accounting and tax regimes. This makes cross-border integration costly and may ultimately prevent market entry.
+
+A capital markets union needs stronger European supervision because risks do not stop at national borders. To contain systemic risks from non-bank financial intermediation, we need not only common supervisory standards but also European supervision to contain such risks. The European Supervisory Authorities, especially the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA), are already fostering supervisory convergence. But to be more effective, they need sufficient oversight powers and associated resources. As in European banking supervision, European supervision of the most systemic capital market participants can be organised in cooperation with national supervisors.
+
+## European financial markets in an international context
+
+To finish, | would like to widen the perspective by turning to the international context.
+
+Integration of European financial markets is certainly not complete, but significant progress has been made. While cross-border entry remains limited, price mechanisms are working better. Banking markets have become more open to competition, new digital financial services are increasingly blurring national borders. We have strong, new institutions in the Banking Union, and new risk sharing mechanisms, including more industry-funds to cover potential losses. Private risk sharing benefits from cross border ownership, including of MREL. Moreover, many proposals how to promote integration are under discussion.
+
+But European financial markets do not operate in isolation. Large European banks have significant international exposures. All European banks are affected by global price trends and movements in global markets. The European real economy is closely integrated with the global economy. It is exposed to potential disruptions to trade, supply chain bottlenecks, volatility in energy markets, and changing capital flows.
+
+The risk of fragmentation in international markets can thus have negative repercussion for Europe. And this risk has increased, following the pandemic, the surge in inflation, and rising geopolitical tensions.44] Governments are increasingly aligning their economic policies with security interests.42] Trade and foreign direct investment between geopolitically distant blocs have already declined, while intra-bloc trade and investment appear to be more resilient.43]
+
+Fragmentation of international financial markets can be detrimental for financial stability because there are no global risk sharing mechanisms.4! Supervisors and resolution authorities closely cooperate, but this cooperation is much less binding than in Europe. The risk of ring-fencing and protection of national interests in times of crisis is thus potentially higher.
+
+Against this backdrop, our role as supervisors is, first and foremost, to ensure that banks are resilient and are properly managing the global risks to which they are exposed. European banks are better capitalised and have higher liquid buffers compared to the situation at the beginning of the banking union. But good risk management and sufficient resilience also require forward-looking risk assessments and scenario analyses. This needs to take into account that the shocks which hit European economies over the past years have hardly tested banks' resilience due to the strong fiscal and monetary policy response.
+
+In terms of policy, our greatest opportunity to strengthen European banks' resilience to external shocks without relying on public funds lies in bolstering the capacity for private risk sharing. Completing both, the banking union and the capital markets union, thus remains crucial. Ensuring that banks have robust capital and liquidity positions, and that they are resilient with regard to cyber risks remains our priority in the SSM.
+
+But we should not forget that close international cooperation remains more important than ever. The Financial Stability Board (FSB) and the Basel Committee for Banking Supervision (BCBS) are important fora for coordination on policy issues relevant for global financial stability such as the increasing importance of non-bank financial intermediaries or providers of Crypto-related financial services. Implementing Basel III is a key element of a stable international banking system, ensuring comparable standards, and supporting resilient banking systems that can best service society.
+
+## Annexes
+
+30 April 2024
+
+## Slides
+
+| would like to thank Pascal Busch, Julian Ebner, Alessandro Giovannini, Maciej Grodzicki, Manfred Kremer, Pierre Marmara, Natalia Martin Fuentes, Marie Lafontaine, Samuel McPhilemy, Philippe Molitor, Caterina Negri, Francois Peyratout, Massimiliano Rimarchi, John Roche, Jean-David Sigaux, Vlad Tomozei, Sascha Titze and Niels Weiffenbach for most helpful comments and input to an earlier version of this speech. All remaining errors and inconsistencies are my own.
+
+- 2.
+
+The outcomes of the Supervisory Review and Evaluation Process (SREP) are subject to a benchmarking process performed by the ECB's second line of defence function. See ECB (2024), Supervisory Manual, January.
+
+3.
+
+The methodologies for key supervisory processes like the SREP have also been harmonised across European banking supervision for less significant institutions, subject to proportionality in terms of the frequency and complexity of assessments. The outcomes of these processes are also subject to regular benchmarking across European banking supervision. See ECB (2022), LS/ supervision report 2022 December.
+
+- 4.
+
+Empirical analyses shows that financial liberalisation tends to increase bank risk-taking in both developed and developing countries. See Cubillas, E., &amp; Gonzalez, F. (2014). Financial liberalization and bank risktaking: International evidence. Journal of Financial stability, 11, 32-48.
+
+5.
+
+See European Systemic Risk Board (2014), "Is Europe overbanked?", Reports of the Advisory Scientific Committee, No 4, June.
+
+6.
+
+Data in this paragraph are taken from Financial Stability Board (2023), Global monitoring report on nonbank financial intermediation 2023, 18 December. The figures include financial assets of central banks. Data for the US are for the end of 2022.
+
+ibid.
+
+According to Financial Stability Board data, the category "other financial intermediaries" (OF Is) grew from around USD 7 trillion in 2003 to more than USD 41 trillion in 2021. This category includes money market funds, hedge funds, other investment funds, captive financial institutions and money lenders, central counterparties, broker-dealers, finance companies, trust companies, and structured finance vehicles. The OFI category excludes banks, insurers and pension funds.
+
+9.
+
+See Cornelli, G. et al (2023). Fintech and big tech credit: Drivers of the growth of digital lending. Journal of Banking &amp; Finance, 148, 106742; and Cambridge Centre for Alternative Finance (2024), "The Future of Global Fintech", January.
+
+10.
+
+See European Banking Authority, European Insurance and Occupational Pensions Authority and European Securities and Markets Authority (2024), Report on 2023 stocktaking of BigTech direct financial services provision in the EU, February.
+
+11.
+
+FSB (2023), op. cit.
+
+12.
+
+In the EU, the implementation of the Second Banking Directive in 1992 enshrined the freedom for banks that have received authorisation in one Member State to establish branches in other Member States, without requiring separate authorisation from the authorities of the host country. In the United States, the Riegle-Neal Interstate Banking Act allowed interstate branching, while leaving flexibility for individual states to erect barriers to out-of-state branch entry.
+
+13.
+
+Johnson, C.A. and Rice, T. (2008), "Assessing a Decade of Interstate Bank Branching", Washington and Lee Law Review, Vol. 65, No 1, pp. 73-128.
+
+14.
+
+Notable exceptions include Nordea and Luminor, which operate branches across the Baltic region, and a number of banks that relocated to the euro area in the context of Brexit. See Enria, A. (2021), "How can we make the most of an incomplete banking union?", speech at the Eurofi Financial Forum, Ljubljana, 9 September.
+
+15.
+
+For a recent survey of measures of financial integration, see Donadelli, M., Gufler, |. and Paradiso, A. (2024), "Financial market integration: A complex and controversial journey", International Review of Financial Analysis, Vol. 92, March.
+
+ECB (2022), Financial Integration and Structure in the Euro Area, April. The price-based composite indicator aggregates ten indicators for money, bond, equity and retail banking markets; the quantity-based composite indicator aggregates five indicators for the same market segments except retail banking. The indicators are bounded between zero (full fragmentation) and one (full integration). Increases in the indicators signal greater financial integration. For a detailed description of the indicators and their input data, see the report's Statistical Web Annex and Hoffmann, P., Kremer, M., &amp; Zaharia, S. (2020). Financial integration in Europe through the lens of composite indicators. Economics Letters, 194, 109344.
+
+17.
+
+Lane, PR. and Milesi-Ferretti, G.M. (2017), "International Financial Integration in the Aftermath of the Global Financial Crisis", IMF Working Papers, No 2017/115, May.
+
+18.
+
+The ECB's two composite indicators provide an aggregate picture of integration across the main market segments (money, bond, equity and banking markets) in terms of prices and quantities since the start of the euro. See ECB (2022), Financial Integration and Structure in the Euro Area, April; and Hoffmann, P., Kremer, M. and Zaharia, S. (2020), "Financial integration in Europe through the lens of composite indicators", Economics Letters, Vol. 194, September.
+
+19.
+
+The ECB's banking market sub-index aggregates indicators of cross-country dispersions of interest rates on new loans to households (for consumer credit and total loans) and non-financial corporations, as well as indicators of cross-country dispersions of deposit rates for households and non-financial corporations on deposits with agreed maturities. The sub-index is much higher today than it was in the mid-1990s, indicating that there is now a stronger co-movement of interest rates.
+
+20.
+
+Di Vito, L. et al. (2023), "Understanding the profitability gap between euro area and US global systemically important banks", Occasional Paper Series, No 327, ECB.
+
+21.
+
+Literature has linked both monetary union and the adoption of various EU banking directives with deepening financial integration. See, for example, Kalemli-Ozcan, S., Papaioannou, E. and Peydro, J.-L. (2010), "What lies beneath the euro's effect on financial integration? Currency risk, legal harmonization, or trade?", Journal of International Economics, Vol. 81, No 1, pp. 75-88.
+
+Financial Stability Board (2019), FinTech and market structure in financial services: Market developments and potential financial stability implications, 14 February.
+
+23.
+
+The ECB's equity market sub-index aggregates measures of industry-level valuation differentials across countries and differences between the cross-sectional dispersions in sector and country index returns.
+
+24.
+
+Allen, F. and Gale, D. (2000), "Financial Contagion", Journal of Political Economy, Vol. 108, No 1, pp. 133.
+
+25.
+
+Laboureix, D. (2024), "Recent achievements and the road ahead", ECON speech, 21 March.
+
+26.
+
+In 2024, additional contributions from banks would only be collected in the event of specific circumstances or resolution actions involving the use of the SRF.
+
+27.
+
+Stanley annual conference, 12 March.
+
+28.
+
+European Systemic Risk Board (2021), "Financial stability implications of support measures to protect the real economy from the COVID-19 pandemic", 16 February, and ESRB (2022), "Fiscal support and macroprudential policy Lessons from the COVID-19 pandemic", 21 November.
+
+29.
+
+Giovannini, A., loannou, D. and Stracca, L. (2022), "Public and private risk sharing: friends or foes? The interplay between different forms of risk sharing", Occasional Paper Series, No 295, ECB, Frankfurt am Main, June.
+
+30.
+
+Cimadomo, J., Gordo Mora, E. and Palazzo, A.A. (2022), "Enhancing\_private and public risk sharing — lessons from the literature and reflections on the COVID-19 crisis", Occasional Paper Series, No 306,
+
+ECB, Frankfurt am Main, September.
+
+31.
+
+Cimadomo, J., Gordo Mora, E., &amp; Palazzo, A. A. (2022). "Enhancing\_private and public risk sharing", ECB Occasional Paper (2022/306), September.
+
+32.
+
+ECB (2021), Guide on the supervisory approach to consolidation in the banking\_sector, 12 January.
+
+33.
+
+Enria, A. (2021), "How can we make the most of an incomplete banking union?", speech at the Eurofi Financial Forum, Ljubljana, 9 September.
+
+34.
+
+For a proposal of how such waivers could be enacted, with limited legislative intervention, without jeopardising liquidity support in times of stress, see. Enria, A. and Fernandez-Bollo, E. (2020), "Eostering the cross-border integration of banking\_groups in the banking union", The Supervision Blog, 9 October.
+
+35.
+
+European Commission (2023), "Latest updates on the banking package", December.
+
+36.
+
+On 24 March, the European Parliament approved its position on the CMDI package. See European and deposit insurance framework (CON/2023/19),.
+
+38.
+
+It is well established that cultural differences contribute to informational asymmetries that raise the cost and difficulty of trading across borders; see Portes, R. and Rey, H. (2005), "The determinants of crossborder equity flows", Journal of International Economics, Vol. 65, No 2, pp. 269-296; Buch, C. (2005), "Distance and International Banking", Review of International Economics, Vol. 13, No 4, pp. 787-804; and Brei, M. and von Peter, G. (2018), "The distance effect in banking and trade", Journal of International Money and Finance, Vol. 81, pp. 116-137.
+
+39.
+
+See European Parliament (2024), "Report on the proposal for a regulation of the European Parliament and of the Council amending Regulation (EU) 806/2014 in order to establish a European Deposit Insurance Scheme", April.
+
+40.
+
+See ECB (2024), Statement by the ECB Governing\_Council on advancing the Capital Markets Union, 7 March and Eurogroup (2024), Statement of the Eurogroup in inclusive format on the future of Capital Markets Union. These recent statements lay the groundwork for future progress on the capital markets union. Moreover, the recently published report by Enrico Letta calling for a strong political commitment to empower the Single Market paves the way for a truly integrated financial market for the coming legislative term.
+
+- 41.
+
+Lagarde, C. (2023), "Central banks in a fragmenting world", speech at the Council on Foreign Relations' C. Peter McColough Series on International Economics, 17 April.
+
+42.
+
+Baba, C. et al. (2023) "Geoeconomic Fragmentation: What's at Stake for the EU", IMF Working Papers, No 2023/245, November.
+
+43.
+
+IMF (2023), World Economic Outlook -Chapter 4: Geoeconomic Fragmentation And Foreign Direct Investment, April.
+
+44.
+
+Global Systemically Important Banks are required to issue capital and loss absorbing debt in accordance with Financial Stability Board Total Loss Absorbing Capacity (TLAC) standards. However, at the international level, there is no equivalent of the SSM's Single Resolution Board, Single Resolution Fund, or European Stability Mechanism backstop.
+
+CONTACT

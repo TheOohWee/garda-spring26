@@ -1,0 +1,201 @@
+Remarks by Sharon Kozicki Deputy Governor Canadian Association for Business Economics June 13, 2024 Ottawa, Ontario
+
+## Exceptional policies for an exceptional time: From quantitative easing to quantitative tightening
+
+Good morning. Thank you, Bolanle, for your kind introduction. I am pleased to be here in my hometown of Ottawa with the Canadian Association for Business Economics.
+
+I always enjoy speaking to a room full of economists and business professionals who are interested in the economy. You've long been some of the most engaged consumers of central bank speeches. The COVID-19 pandemic and subsequent rise in inflation have broadened the audience for speeches like this one. Canadians have questions for us at the Bank of Canada, and we want to answer them.
+
+So today my overarching themes will be transparency and accountability. I will begin by taking you back to the start of the pandemic when the world faced a health and economic crisis like nothing we'd experienced before. I will walk you through what the Bank saw and how we interpreted that information. Then I will talk about some of the actions we took, particularly our use of two exceptional tools: quantitative easing, or QE, and extraordinary forward guidance.
+
+I'll discuss some of the analysis we've done on the effectiveness of QE, which we used for the first time in the pandemic. I will also go into the unwinding of QE, known as quantitative tightening, or QT, which is a key part of the monetary policy cycle.
+
+In the second half of my speech, I will dive more deeply into the Bank's efforts to assess our actions during the pandemic and learn from that analysis. I'll talk about some of the lessons that we've already shared with Canadians. And I'll give you some insight into a new review we are doing on our use of exceptional
+
+monetary policy tools in the pandemic, including details on how we will communicate the results of that work.
+
+After an event like the COVID-19 pandemic, it is important to take a step back and learn from the experience. That way we can sharpen our response for the next crisis. Sharing what we learn with the public is critical so Canadians not only understand our actions, but also know we are accountable to them.
+
+We have a lot to talk about, so let's dive in.
+
+## A crisis like no other
+
+First, let me take you back to March 2020. As the COVID-19 pandemic took hold, large parts of the economy shut down and financial markets were severely shaken. Policy-makers here and around the world were worried we would see a repeat of the Great Depression.
+
+Confronted with an unprecedented crisis, the Bank took immediate action. We cut the policy rate to 0.25%, which is our effective lower bound. We also launched emergency liquidity facilities and programs to restore financial market functioning. And the Bank did not act alone. Governments in Canada did their part, as did governments and central banks around the world.
+
+By the summer of 2020, financial markets were functioning again, but Canada was still in a health and economic crisis. 1 Millions of people had lost their jobs and we were facing the deepest economic decline in decades. Inflation had turned negative, and there were worries that deflation would take hold. We did not have a vaccine at that point, so there was no way to know when, or even how, the pandemic would end.
+
+Faced with the unknowable, Governing Council judged more stimulus was needed to revive the economy and sustainably return inflation to the 2% target. Interest rates were as low as they could go, so the next step was to look in our extended monetary policy tool kit. 2 Two tools were well suited: QE and extraordinary forward guidance.
+
+## Our exceptional actions
+
+Remember, monetary policy is all about shifting the timing of spending to stabilize economic activity and inflation. Central banks lower interest rates to encourage spending when the economy is weak. Whether it is individuals buying things such as home office furniture and fitness gear or a business investing in, say, new facilities or equipment-this spending protects jobs and ensures the economy won't end up as weak as it could have been.
+
+1 J. Fernandes and M. Mueller, 'A Review of the Bank of Canada's Support of Key Financial Markets During the COVID-19 Crisis,' Bank of Canada Staff Discussion Paper No. 2023-9 (April 2023).
+
+2 G. Johnson, S. Kozicki, R. Priftis, L. Suchanek, J. Witmer and J. Yang, 'Implementation and Effectiveness of Extended Monetary Policy Tools: Lessons from the Literature,' Bank of Canada Staff Discussion Paper No. 2020-16 (December 2020).
+
+But when policy interest rates are as low as they can go, central bankers need other tools to add stimulus. This is where QE and extraordinary forward guidance come in.
+
+Under QE, a central bank buys a lot more government bonds than usual. This bids up the price of the bonds and lowers their returns, or yields. Lower yields on government bonds pull down the lending rates that matter to households and businesses. This makes borrowing cheaper.
+
+Extraordinary forward guidance also helps bring down longer-term rates. The way it works is a central bank signals it will keep the policy rate at its lowest possible level until a specific condition is met or for a specific period, which is typically longer than financial markets would otherwise expect.
+
+By lowering borrowing costs, both QE and extraordinary forward guidance encourage spending and reduce the risk that inflation will fall short of the 2% target.
+
+These exceptional policies can also have an effect through the exchange rate. 3 All else equal, lower interest rates in Canada may prompt some investors to shift their funds out of Canadian dollars and into other currencies. This could lead the Canadian dollar to depreciate. A weaker currency makes Canadian exports more attractive, which boosts the economy.
+
+Let's turn now to the effectiveness of QE and extraordinary forward guidance during the pandemic.
+
+One way to gauge the impact of exceptional policies is to look at how other interest rates moved compared with our policy rate. Here, I'll compare how much five-year government bond yields fell relative to the decline in our policy rate.
+
+Let's consider the last four periods when the Bank cut interest rates by 150 basis points (bps) or more: the mid-1990s, the early 2000s, the 2008-09 global financial crisis and, finally, the COVID-19 pandemic ( Chart 1 ). Keep in mind, we could not lower the policy rate as much in the pandemic as in the other periods because we were already close to the effective lower bound. Despite this, fiveyear rates moved more relative to our policy rate during the pandemic.
+
+3 S. Kabaca and K. Tuzcuoglu, 'International Transmission of Quantitative Easing Policies: Evidence from Canada,' Bank of Canada Staff Working Paper No. 2022-30 (June 2022)
+
+## Chart 1: The movement of long-term rates relative to the policy rate in recent easing cycles
+
+Ratio of change in the five-year Government of Canada bond yield to the total decline in the policy rate
+
+Note: The five-year yield for the pandemic cycle peaked in December 2019, the month the first COVID-19 cases emerged globally. The decline in both the policy rate and the five-year rate is from their highest level to their lowest level within the easing period. Source: Bank of Canada
+
+The pandemic was the first time the Bank used QE and only our second time using extraordinary forward guidance. The higher movement of five-year rates relative to the policy rate during the pandemic suggests these exceptional policies were effective.
+
+Focusing in on QE, there are various ways researchers can assess the impact of large-scale bond purchases on yields. A common method is to use e vent studies, which look at how much bond yields move at the time central bank purchases are announced. Using this method, Bank staff estimate the impact of QE to have been about 20 bps on 10-year government bond yields. However, the impact may have been much larger. The same study finds that because there was some expectation the Bank would do QE even before purchases were announced, 10year bond yields could have been as much as 80 bps higher without QE. 4
+
+For context, we would need to cut the policy rate by a lot more than 20 bps or 80 bps for it to have a similar impact on 10-year yields. This is because the effect of policy rate changes typically fades away after a couple of years.
+
+4 For more, see Azizova, C., J. Witmer and X. Zhang, 'Assessing the Impact of the Bank of Canada's Government Bond Purchases,' Bank of Canada Staff Discussion Paper No. 2024-5 (June 2024). An earlier study looked at the impact of the initial announcement of the Government Bond Purchase Program. See Arora, R., S. Gungor, J. Nesrallah, G. Ouellet Leblanc and J. Witmer, 'The impact of the Bank of Canada's Government Bond Purchase Program,' Bank of Canada Staff Analytical Note No. 2021-23 (October 2021).
+
+Let me explain why bond yields would have been higher without QE.
+
+Early in the pandemic, governments were issuing far more bonds than usual. If investors were to purchase the higher volume of bonds over a short period of time, they would expect higher yields. But the Bank's QE purchases meant that investors didn't have to increase their purchases as the bonds were issued. This helped keep yields, and borrowing rates for households and businesses, from rising. 5 Put another way, the Bank's research suggests that without QE, longerterm interest rates would not have been as low as they were.
+
+Of course, many domestic and global factors affected bond yields early in the pandemic. This means estimates of QE's impact on yields are imprecise. Likewise, it is difficult to be exact in estimating how QE affected the economy.
+
+Bearing that uncertainty in mind, the research I mentioned earlier finds that QE may have pushed up gross domestic product (GDP) by as much as 3% at its peak. 6
+
+So, let's now look at how the economy actually fared during the pandemic ( Chart 2 ). Recall that we were worried about a repeat of the Great Depression. Millions of people were out of work, GDP was cratering and inflation was well below target. There were concerns that making up lost ground would take years.
+
+5 An evaluation of the economic impacts of QE based on this estimate could understate the effectiveness of QE. For instance, this estimate assumes the government bond demand curve is linear and may not fully capture the impact of QE on yields.
+
+6 This number is based on QE having an 80-bps impact on bond yields. Estimates of the impact of these lower interest rates on the economy are sensitive to the model used.
+
+## Chart 2: The economy recovered relatively quickly during the COVID-19 pandemic
+
+Real GDP, quarterly data, index: 2019Q4 = 100
+
+Note: GDP is gross domestic product. In the April 2020 Monetary Policy Report, the Bank used scenarios rather than a base-case projection due to the uncertainty of the COVID-19 pandemic. Range of scenarios represents the plausible paths the economy could have taken based on those scenarios.
+
+Sources: Statistics Canada and Bank of Canada calculations and projections
+
+Last observation: 2024Q1
+
+Instead, the economy recovered relatively quickly. In Canada, vaccines were rolled out widely in the first half of 2021. GDP rebounded and reached its prepandemic level later that year, supported by monetary and fiscal policy.
+
+Another way to see the impact of our monetary stimulus is to look at growth rates of money and credit.
+
+There are many different measures of money. But let's look at M1++, which includes currency in circulation-the bank notes in people's purses, pockets or wallets-plus chequing and savings deposits. The growth rate of M1++ tends to reflect the impacts of all our monetary policy actions, including changes to the policy interest rate and our use of exceptional tools.
+
+During the pandemic, M1++ grew much faster than in other periods of monetary policy easing since 1990. That's despite limits on how much the policy interest rate could be reduced ( Chart 3 ).
+
+As monetary policy eases, it also stimulates borrowing by households and firms. This shows up in credit growth, with a lag relative to money growth. During the pandemic, credit growth also increased, though its higher growth rate was still within historical experience.
+
+Together, these data suggest our policies were effective in increasing borrowing.
+
+## Chart 3: Money and credit growth rates increased in the COVID-19 pandemic
+
+Year-over-year growth rates, monthly data
+
+Note: Core CPI range is CPI-trim and CPI-median. M1++ is all currency in circulation as well as chequing and savings deposits.
+
+Sources: Statistics Canada and Bank of Canada
+
+Last observation: March 2024
+
+Before moving on, I'd like to comment more generally on money growth and inflation. I'm not going to pretend that we got everything right in our pandemic response, but the evidence suggests that the run up in inflation that started in 2021 was mainly driven by supply-side issues, including commodity price swings and supply disruptions. 7 When we look at the last three decades, we see very little correlation between money growth and inflation.
+
+With that said, let's now move on to quantitative tightening.
+
+## Our progress in unwinding QE
+
+By mid-2021, it was clear the economic recovery was happening faster than we expected. For its part, inflation had climbed above 3% and over the months that followed it began to broaden. It was getting closer to the time to start tightening. In October 2021, we were the first major central bank to end QE. We started raising the policy interest rate in March 2022. And then in April 2022, we began QT. 8 As monetary policy tightened, money growth eased and then contracted ( Chart 3 ).
+
+When we started QT, we said we would let bonds roll off our balance sheet as they matured and not replace them. This would allow our balance sheet to shrink
+
+7 For more, see F. Bounajm, J.-G.-J. Roc and Y. Zhang, 'Sources of pandemic-era inflation in Canada: an application of the Bernanke and Blanchard model,' Bank of Canada Staff Analytical Note No. 2024-13 (June 2024), and Y. Chen and T. Tombe, 'The Rise (and Fall?) of Inflation in Canada: A Detailed Analysis of Its Post-pandemic Experience,' Canadian Public Policy 49, no. 2 (June 2023): 197-217.
+
+8 See W. Du, K. Forbes and M. Luzzetti, 'Quantitative Tightening Around the Globe: What Have We Learned?' National Bureau of Economic Research Working Paper No. 32321 (April 2024).
+
+predictably and has allowed government debt holdings to shift gradually from the Bank to the private sector. Since we began QT, our Government of Canada bond holdings have declined by about 45%, without disrupting financial markets ( Chart 4 ). QT also proceeded smoothly through the tensions in the US banking sector in the spring of 2023.
+
+Chart 4: Changes to the Bank of Canada's balance sheet Monthly data
+
+Source: Bank of Canada
+
+Last observation: May 2024
+
+We expect QT to end sometime in 2025, which would also make us one of the first central banks to wrap up the normalization process.
+
+Why has QT been so smooth in Canada? I like to think it's because we have been transparent. Information on our bond holdings and their maturities is publicly available. And we have provided regular updates to the public and market participants on where we are going and our progress in getting there.
+
+## Being accountable to Canadians
+
+That brings me to transparency and accountability. Let's briefly go back to the beginning of the pandemic. Try to remember just how little we knew about the virus and how it would affect our lives and the economy.
+
+In those early days, there was simply too much uncertainty for our standard analysis, and that is exactly what we told Canadians. We didn't provide a basecase projection in the April and July 2020 Monetary Policy Reports . Instead, in April, we outlined various scenarios of how the crisis might play out. And in July, we used a central scenario to help explain our assumptions about the pandemic and the economy. In both cases, we were clear about what we didn't know and about the range of possibilities we were considering.
+
+We were also transparent about the actions we were taking. For example, we released a summary of deliberations for the unscheduled rate decision on March 13, 2020, and we provided weekly balance sheet updates after rolling out largescale asset purchases to restore market functioning.
+
+As the pandemic progressed, we began to reflect on the effectiveness of our policy decisions and other actions. We shared those findings with the public.
+
+In the July 2022 Monetary Policy Report , when inflation was near its peak, we detailed the main factors behind our prior inflation forecasting errors. 9 I want to highlight two key points about this. First, we did this work at a time when prices were still climbing sharply-in essence, we were reviewing our actions in real time. Second, we didn't wait until the crisis was over to share our findings with the public. We put them out as quickly as we could. We did this because we wanted to be transparent with and accountable to Canadians.
+
+In December 2022, Governor Tiff Macklem spoke in detail about the lessons learned from the Bank's experience with unexpectedly high inflation. He also touched on how those lessons would shape our decision-making process going forward. 10
+
+In March 2023, Deputy Governor Toni Gravelle gave a speech assessing the Bank's market interventions during the pandemic. 11 His remarks drew from a detailed review by staff of the emergency programs and facilities the Bank used to restore market functioning at the onset of the pandemic. 12
+
+Over the course of 2023, my colleagues and I continued to speak frankly about what we were seeing in the data and our takeaways. In his year-end speech, the Governor updated Canadians on how we were applying pandemic lessons to our work. And he detailed how the Bank was enhancing its models, surveys and analysis to sharpen our future responses, particularly in times of uncertainty. 13
+
+As well, I'd be remiss not to mention that my remarks today draw on research and analysis by Bank staff throughout the pandemic. This work is crucial to building our understanding of how the economy acts in unpredictable times and to ready us for the next crisis.
+
+So where are we now? Higher interest rates have worked, inflation is now below 3% and we are seeing more signs that underlying price pressures are easing ( Chart 5 ). This makes it a good time to take stock of our pandemic response.
+
+9 See Bank of Canada, 'Appendix: Main factors behind inflation forecast errors,' Monetary Policy Report (July 2022).
+
+10 T. Macklem, 'Putting the resolute in resolutions: Looking ahead to lower inflation' (remarks to the Business Council of British Columbia, Vancouver, British Columbia, December 12, 2022).
+
+11 T. Gravelle, 'The Bank of Canada's market liquidity programs: Lessons from a pandemic' (remarks to the National Bank Financial Services Conference, Montréal, Quebec, March 29, 2023).
+
+12 G. Johnson, 'A Review of the Bank of Canada's Market Operations Related to COVID-19,' Bank of Canada Staff Discussion Paper No. 2023-6 (March 2023).
+
+13 T. Macklem, 'The path to price stability' (remarks to the Canadian Club Toronto, Toronto, Ontario, December 15, 2023).
+
+Chart 5: Total and core inflation have eased but remain above the 2% target
+
+Note: CPI is consumer price index. Core CPI range is CPI-trim and CPI-median. Inflation targeting was introduced in 1991 and the target was gradually lowered from 4% in November 1991 to 2% in December 1995.
+
+Sources: Statistics Canada and Bank of Canada
+
+Last observation: April 2024
+
+As I mentioned earlier, we are putting together an in-depth review of all our exceptional actions taken during the pandemic, including the market-functioning programs, QE and extraordinary forward guidance. This review will draw on analysis that's already been done, and some that is in-progress. It will lay out our lessons learned, including some we've already shared, and identify questions that will guide future work.
+
+It is important that we learn from our own actions, but it is also important to get other perspectives. Therefore, this review will be assessed by external experts. We expect the final report to be published early next year.
+
+While this review is a significant step, it is not the final word. Questions will continue to be asked that may shape if and how we use our exceptional tools in the future. These questions are particularly valuable in a world where the next crisis may look different from those in the past.
+
+## Conclusion
+
+To wrap up, the pandemic was a period defined by the unknowable. Uncertainty was particularly high. So, the Bank took a risk management approach to decision-making. We considered alternative futures and thought about the consequences of making policy errors. Governing Council then chose a policy course that accounted for those risks.
+
+Our research into our use of exceptional tools during the pandemic suggests those policies helped lower longer-term interest rates by increasing monetary policy stimulus even after the policy rate was brought as low as possible. The unwinding of QE through QT has gone smoothly.
+
+However, it is worth remembering that we faced an unprecedented shock when we decided to use QE. The bar for us to use QE again is very high.
+
+Last week, we cut the policy rate to 4.75%. If inflation continues to ease-and our confidence that inflation is headed sustainably to the 2% target continues to increase-it is reasonable to expect further cuts. But we are taking our interest rate decisions one meeting at a time.
+
+It is comforting to see inflation come down. But it is alarming that it rose as much as it did. Our focus now is on the lessons we can take from our pandemic experience and how those lessons will guide the future application of monetary policy.
+
+Thank you for your time. I'm happy to take any questions.

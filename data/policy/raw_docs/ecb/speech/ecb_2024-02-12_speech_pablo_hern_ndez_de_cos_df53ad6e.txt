@@ -1,0 +1,107 @@
+## Pablo HernÆndez de Cos: Fit-for-purpose external statistics in a changing global landscape
+
+Opening remarks by Mr Pablo HernÆndez de Cos, Governor of the Bank of Spain, at the Conference "External statistics after the pandemic: addressing novel analytical challenges", organised by Irving Fisher Committee on Central Bank Statistics of the Bank for International Settlements, European Central Bank and Bank of Spain, Madrid, 12 February 2024.
+
+* * *
+
+## Good morning,
+
+It is a great pleasure for me to welcome you to the second Conference on External Statistics, organised by the Irving Fisher Committee on Central Bank Statistics of the Bank for International Settlements, the European Central Bank and the Banco de Espaæa. This conference aims to promote the interaction between compilers and users of these crucial statistics.
+
+Let me first thank you all for showing such a great interest in the conference. A large number of contributions have been received from statisticians, analysts and researchers, which I believe will provide an excellent basis for discussing and exchanging ideas over the next two days.
+
+I would also like to give special thanks to Philip Lane, who is sure to contribute some very inspiring ideas about the challenges of maximising the usefulness of external statistics for accurate analysis and sound policy making.
+
+And I am also grateful to our colleagues from the Bank for International Settlements and the European Central Bank for choosing our institution to co-organise this second edition of the conference.
+
+***
+
+Before turning to the subject of the conference, I would like to say I am particularly fond of the external sector and its statistics, as they remind me of a time when, as a young researcher, I immersed myself in them to better understand the external challenges facing the Spanish economy. External statistics are currently bringing very good news about the Spanish economy, but this has not always been the case.
+
+In the past, with its integration into the European Union and the adoption of the euro, greater external openness allowed Spain to boost its economic growth and converge towards the most advanced economies in Europe, thanks to more active participation in global markets, the adoption of foreign innovations, the availability of external financing and increased competition in its economy.
+
+However, the external sector also represented a significant macro-financial vulnerability for Spain when persistent external imbalances built up. This was the case during the expansionary phase experienced by the Spanish economy from the late 1990s until the
+
+Great Financial Crisis, a period marked by significant competitiveness losses vis-à-vis Spain's main trading partners. The accumulation of these imbalances was fuelled by a context in which growth expectations - based on domestic demand - turned out to be very optimistic and by the availability of abundant financing from abroad on very favourable terms.
+
+During this phase current account deficits rose very significantly, to 9.4% of GDP in 2007, contributing to a substantial increase in Spain's negative net international investment position (IIP) (to 97.6% of GDP in 2009). At the time Spain had one of the largest external imbalances among the advanced economies.
+
+Indeed, the high dependence on external financing dramatically increased the impact on our economy of the Global Financial Crisis and the tensions in the euro area. In an initial phase, the financial crisis led to high capital outflows, following an abrupt correction of Spain's growth prospects. As in other highly-indebted peripheral euro area economies, Spain's large external debt proved to be a major source of macroeconomic vulnerability, particularly during periods of financial turbulence or changes in investor sentiment.
+
+But the picture has changed radically over the last decade. Following the Great Financial Crisis, the external sector has made a huge contribution to the recovery of the Spanish economy. This has been achieved through a very significant adjustment underpinned by a series of structural reforms that led to an internal devaluation process, reversing the competitiveness losses accumulated in the past. In terms of relative unit labour costs (ULCs), these losses amounted to almost 20% from the introduction of the monetary union until 2008, but were virtually corrected by 2015 thanks to the competitive adjustment process undergone by the Spanish economy. These sustained gains over time were made possible by the relative wage moderation, while the improvement in relative labour productivity occurred mainly during the largescale job destruction experienced during the recession.
+
+The improved competitiveness of the Spanish economy boosted export growth, leading to gains in global real market shares, which, during the recovery from the economic crisis, performed better than in our main euro area trading partners. Thus, Spain's market share grew by around 2% between 2010 and 2019, in contrast to the declines seen in France and Italy and the stability in Germany.
+
+This has allowed us to maintain sustained current account surpluses for the first time in our recent economic history. And they have even survived the COVID-19 pandemic, the energy crisis caused by the Russian invasion of Ukraine and the tightening of interest rates. In 2023, there was a current account surplus - of around 2.5% of GDP, a higher percentage than in 2019 (the year before the health crisis) - for the twelfth consecutive year.
+
+The resilience of the current account to the shocks of recent years has been underpinned by the recovery of tourist flows as the COVID-19 pandemic subsided and by the strong dynamism of non-tourist service exports. These developments prompted a significant correction of Spain's negative net IIP, which fell by 40 percentage points (pp) of GDP from 2009, to stand at 53.6% of GDP in the third quarter of 2023.
+
+The adjustment was concentrated in the private sector, whose negative net IIP fell by 70.7 pp of GDP between 2009 and 2023, to 5.8%, mainly as a result of the correction of the private financial sector's debtor position.
+
+This sector had accumulated a high level of external indebtedness in the form of debt securities during the expansionary stage prior to the financial crisis. Conversely, the debtor external balance of general government is now higher than in 2009 (up by 12.5 pp of GDP to 38.2%), in line with public debt developments.
+
+Despite this adjustment, Spain's negative net IIP remains comparatively high, so external surpluses will continue to be needed to reduce this potential source of vulnerability. This objective requires, in particular, the consolidation of a path of structural correction of public finances, with a view to reducing the high level of public debt accumulated in recent years, since, as I have already mentioned, the process of external deleveraging of the Spanish economy has been concentrated in the private sector, while the public sector's debtor position has increased. At the same time, export growth in the medium term could be jeopardised if the deterioration in ULCs relative to our main euro area partners observed since the pandemic continues over time. Sustained external surpluses ultimately depend on real productivity gains that allow for wage growth without undermining firms' competitiveness. To mitigate these risks, we need to adopt a set of structural policies aimed at boosting productivity by improving productive capital, labour force skills and market efficiency, removing obstacles to business growth.
+
+****
+
+In a more general context, it is clear that openness has enabled the global economy to experience sustained and widespread growth over the past few decades, but this has also led to the accumulation of certain vulnerabilities.
+
+Recent extraordinary shocks, the COVID pandemic and the war in Ukraine have significantly disrupted global value chains and commodity markets and have created an environment of heightened uncertainty and geopolitical tensions.
+
+These new developments have emerged in the last few years, but before that we had already seen trade tensions between the United States and China. And, unfortunately, in recent weeks we have added to the list the war in the Middle East and the still unknown consequences of the Red Sea crisis.
+
+These shocks have clearly raised new questions about the future of globalisation and the growing importance of geopolitical factors in economic relationships.
+
+In this sense, although globalisation of the good trade was already slowing before the pandemic, concerns about the resilience of global value chains and the security of the supply of strategic products are now becoming more apparent.
+
+This is particularly relevant for countries as open as the European Union, which is probably the most open region in the world. In 2019 the share of foreign trade in the EU's GDP reached 54% after increasing significantly, a percentage that is double the figure for the United States (26%). Let me give you another figure: the share of global
+
+value chain participation in trade is around 20 pp higher in the European Union than in the United States. The same conclusion can be reached if you look at financial figures, such as the stock of gross external assets and liabilities relative to GDP, which is again higher for the European Union than for the United States.
+
+We are more open and, therefore, more dependent, so we have to be particularly concerned about the potential risks that could arise from changing patterns in globalisation if these changes do not take place in an orderly manner.
+
+In the global context, beyond the European Union, these concerns are driving decisions made by firms and governments alike. Governments are increasingly concerned that, in this new scenario, trade and financial openness could create excessive dependencies on third countries. Accordingly, they are trying to respond to this new environment and have moved geopolitical considerations higher up in their agendas with policies seeking, precisely, to limit external vulnerabilities.
+
+In this new globalisation context, governments and firms could be moving towards a scenario where they favour diversification over dependence, security over efficiency, or regionalisation over globalisation.
+
+****
+
+Against this background, external statistics, which have traditionally been crucial to monitor the health of open economies, are again becoming increasingly important, as they are key to supporting more informed decisions by policymakers to pursue the most efficient strategies.
+
+I am afraid that the statistical community is once again under strong pressure to keep statistics fit for purpose. You will need to make a tremendous effort to keep up with these developments and find solutions to the growing demand for information.
+
+This brings me back to the objective of the conference: discussing how to deal with new analytical challenges in order to keep external statistics fit for multiple needs. With this aim in mind, key conceptual and practical issues relating to international accounts will be explored over the next two days.
+
+Two coordinated global initiatives illustrate the relevance of the issues on the agenda: the revision of the International Monetary Fund's Balance of Payments and International Investment Position Manual (coordinated with that of the UN System of National Accounts) and the G-20 Data Gaps Initiative 3.
+
+The issues addressed by these two initiatives are manifold. The fragmentation of multinational enterprises' (MNEs) production processes across the globe and its impact on the exchange of intellectual property products, the expansion of digital trade and the greater complexity of financial flows are just a few of the challenges that complicate the work of statistical authorities around the world.
+
+It is becoming increasingly difficult to disentangle who the ultimate investors are, as they are lost in a long string of transactions around the globe. This can have serious implications for analysing financial stability in our economies. We might be more
+
+vulnerable and more exposed to certain economies and to certain instruments than we might at first think. Providing more insight into non-bank financial intermediation, climate change or the informal economy are also novel challenges for external statistics producers, but the list goes on. There are a number of interrelated issues involved, all of which require analysts to manage and receive more information from external statistics compilers, as well as more complex quality assurance processes.
+
+It seems that prioritisation will be a central issue in the practical implementation of the new editions of the statistical standards. And for this prioritisation, I believe meetings between users and compilers, such as this conference, are essential.
+
+But prioritisation is not enough. In order to provide more timely and granular information to analysts and policy-makers while keeping the burden on compilers and reporters reasonable, further modernisation and efficiency gains are essential.
+
+To gain efficiency, better use must be made of existing information. Access to private sector and administrative data and data sharing mechanisms between statistical agencies, both at national and international, level are key.
+
+In this regard, tax records, social security data, credit card data or mobile phone data have proved to be very useful in complementing surveys and other traditional data sources during the COVID pandemic.
+
+These tools bring to the discussion new partnerships for the production of statistics (private-public or public-public) and call for strengthened collaboration between national statistical offices and central banks.
+
+Confidentiality barriers should be knocked down by revising related regulations and making use of the best technological solutions. Promoting the extensive use of the Legal Entity Identifier (LEI) is also an important objective that would facilitate the identification of counterparties and thus data-sharing at the international level.
+
+Efficiency and data-sharing leads me to the important measures that we must forge ahead with to make granular information available to researchers through data laboratories and thus multiply the usefulness of the enormous amount of information that we handle.
+
+In this regard, national central banks and other authorities need to coordinate to make microdata from complementary sources available to researchers. Let me provide an example. I consider it of the utmost importance that the analysis of trade flows in goods and services - based on data that are largely in the hands of statistical institutes and tax authorities - be combined with that of the financial variables closely monitored by central banks and, particularly, with data on foreign direct investment. These are complementary areas whose analytical potential would be multiplied enormously if trade and finance data could be made available at the microdata level.
+
+Another aspect of data-sharing relates to the idea of collecting the information only once and consistently. We are trying to move in this direction as regards reporting by
+
+credit institutions with the Integrated Reporting Framework (the so-called IReF), which will harmonise, standardise and integrate existing ESCB requirements for collecting statistical information from banks across statistical domains and countries.
+
+Likewise, one might ask whether a similar approach could be used for multinational enterprises. Indeed, MNEs need to report a large amount of information in different regions, in compliance with different reporting regulations. Any effort to standardise such reporting would surely imply a lower burden on these enterprises and result in more consistent and better quality information for the authorities and, ultimately, sounder assessment and policy analysis.
+
+***
+
+All in all, high-quality and timely external statistics that also minimise the burden on reporting institutions are essential. I hope you will be able to rise to the many challenges that lie ahead and ensure that these data are fit for the high purposes for which they are needed. I wish you a pleasant stay in Madrid and a very fruitful conference.

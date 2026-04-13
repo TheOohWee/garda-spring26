@@ -1,0 +1,249 @@
+SPEECH
+
+## Staying the course in troubled waters: safeguarding the stability of the global banking system
+
+## Speech by Claudia Buch, Chair of the Supervisory Board of the ECB, The Brookings Institution
+
+Washington D.C., 25 April 2025
+
+Good morning and thank you for the opportunity to speak with you today. [ ] 1
+
+An environment characterised by heightened geopolitical risks requires resilient banks. More than 70% of global banks' chief risk officers cite cyber resilience as an area in need of significant attention over the next five years, according to a recent survey conducted by the Institute of International Finance (IIF). [ ] Many highlight geopolitical risk and operational resilience as key areas of concern. Recent market reactions to the announcement of tariffs show how quickly the environment in which banks operate can change. 2
+
+To stay the course in these troubled waters, safeguarding the stability of global banking systems has to be our main priority . The global financial system is highly interconnected. International banking is the lifeblood of the global economy. Today, banks' outstanding international claims amount to around 40% of global GDP. [ ] This is in stark contrast to a long phase during the 20th century when global markets were practically shut down. In 1963, banks' international claims accounted for less than 2% of GDP. [ ] 3 4
+
+A flourishing global economy is hardly conceivable without resilient banks. Banking plays a role similar to that of another industry that underpins global trade: shipping. Just as the shipping industry ensures the smooth flow of goods across the globe, banks provide essential services such as cross-border trade finance, global payments processing, correspondent banking, or foreign exchange services.
+
+And global industries need global standards. Take the shipping industry as an example. The International Maritime Organization was founded in 1948, with the aim of ensuring 'the safety and security of shipping and the prevention of marine and atmospheric pollution by ships' through global conventions. [ ] This international coordination has certainly not come at the expense of international trade, including seaborne trade: Global trade volumes are now 370 times higher than in the early 1950s. [ ] 5 6
+
+Insufficient regulation and supervision of risks in global industries can have severe consequences . The global financial crisis made one thing clear: when banks take excessive risks and teeter on the brink of failure, they can put public finances at risk and drag down the real economy. Over the past half-century, there have been only two episodes of sharply declining global trade - the global financial crisis and the COVID-19 pandemic. And the wounds inflicted take a long time to heal.
+
+After 17 years, the global financial crisis may seem like just a fading memory. Yet its lessons couldn't be more pertinent today. The global economy navigates through troubled waters, strained by heightened geopolitical risks, trade tensions, and financial market volatility.
+
+And just as the global shipping industry needs regulation and supervision, so does global banking. Financial stability, consistent capital and risk management standards across jurisdictions, and fair competition benefit all market participants. Guidelines are needed to ensure that counterparts operate according to the same set of rules and that adverse shocks don't put the functioning of the entire system at risk. The Basel Committee on Banking Supervision was instrumental in establishing international capital standards several decades ago to prevent regulatory arbitrage and to promote stability. [ ] That very same objectives remain just as relevant today. 7
+
+It is sometimes argued that banking rules are too complex. But banks themselves are highly complex institutions, especially those operating across multiple jurisdictions. For regulation to effectively address the industry's specific needs and vulnerabilities, it must be sufficiently detailed. The same is true in shipping, which is governed by dozens of international conventions that address specific risks and provide safeguards. [ ] To non-experts, these rules may seem complex, but each serves a specific and dedicated purpose. 8
+
+Today, I would like to focus on three main themes.
+
+First, open markets have clear advantages, but common guardrails are needed to ensure that these benefits can be reaped . Over the past decade, reforms to the common standards governing the global financial system have contributed to financial stability and thus provided a foundation for growth in the real economy.
+
+Second, with the Single Supervisory Mechanism (SSM) in Europe, we are playing our part in ensuring that European banks are well supervised and remain trusted counterparts. The benefits of the banking union are clearly evident in a resilient banking sector, the establishment of common supervisory standards and a unified approach to bank resolution.
+
+Third, we remain committed to global standards and supervisory coordination. In an environment of heightened geopolitical risks, high leverage in parts of the global financial system and high economic uncertainty, the achievements of the last decade are at risk of being undermined. We must work together to ensure that financial markets remain open and stable. Failing to do so risks a future of fragmentation, increased costs, and diminished opportunity for all.
+
+## Regulation and supervision of banks in Europe: a quick recap
+
+The banking union was established ten years ago as a strong European response to the global financial crisis and the euro area sovereign debt crisis. Before the banking union, supervisory and crisis management practices varied between countries. Yet the crises sent a clear message to policymakers: a more integrated approach to supervision and resolution was needed to restore trust in the banking sector. Policymakers listened. They created the banking union.
+
+And markets listened as well - the banking union has been a crucial step in re-establishing trust in European banks. With the help of a consistent supervisory framework, we have enhanced the credibility and transparency of European banking supervision and contributed to strengthening the resilience of the sector.
+
+The banking union rests on three pillars: the SSM, the Single Resolution Mechanism, and the European deposit insurance scheme - which is yet to be completed. Currently, deposit insurance is provided at national level through harmonised European rules. [ ] 9
+
+The SSM has brought significant improvements to European banking supervision. The European Central Bank (ECB) directly supervises 114 significant institutions across the 20 participating countries . [ ] Less significant institutions are supervised directly by national authorities, with the ECB overseeing the process to ensure consistency. 10
+
+At the heart of European banking supervision is the Supervisory Review and Evaluation Process (SREP). It provides a comprehensive assessment of each bank's risk profile, governance and business model viability. In the SSM, this process is carried out by Joint Supervisory Teams - composed of supervisors from both the ECB and national authorities - supported by horizontal functions that provide specific expertise.
+
+Last year, the ECB's Supervisory Board decided on a comprehensive reform to make supervision more efficient and effective. This reform will allow us to better target the most relevant risks for each bank and to ensure that any deficiencies we find are remediated swiftly. [ ] This greater efficiency and stringency of the SREP process ultimately also benefits the banks. 11
+
+The main outcome of the supervisory review are Pillar 2 capital requirements and guidance . [ ] While Pillar 1 establishes minimum capital requirements, the Pillar 2 requirement (P2R) is a binding requirement tailored to the specific risks of each bank. It covers risks not fully captured by the Pillar 1 legislation - such as concentration risk and interest rate risk in the banking book. The ECB benchmarks these requirements across institutions, which is a significant improvement on the previous, purely national supervision. 12
+
+The guidance on Pillar 2 (P2G) offers a forward-looking perspective on bank capital, based on stress test results . It is not binding but provides banks with guidance on the capital they should maintain to withstand stress scenarios and address emerging risks. One such emerging risk is rising geopolitical tension, which is a key risk driver of the EBA's 2025 stress test scenario. [ ] This scenario includes severe disruptions to global supply chains and international trade, leading to a marked slowdown in economic growth alongside sharp increases in energy and commodity prices. The stress test is currently underway, and results will be published in August 2025. 13
+
+This approach to supervision ensures a level playing field for all banks operating in the euro area. It operates within a broader, harmonised regulatory framework that applies consistently across all 27
+
+Member States of the EU. The Single Rulebook establishes common standards for all banks operating within the EU, providing a foundation for regulatory consistency beyond the banking union.
+
+Effective as of January this year, the final elements of Basel III have been incorporated in EU banking rules, building on the previous reforms introduced in 2019. The updated Capital Requirements Regulation [ ] (CRRIII) applies directly across all EU Member States, ensuring uniform standards without the need for dedicated national implementation. The new rules are being phased in gradually until the end of 2032. [ ] 14 15
+
+A distinguishing feature of EU banking law is its broad application of the Basel standards. While the Basel Framework is primarily intended for internationally active banks, the EU applies these standards to all credit institutions. At the same time, the Single Rulebook takes into consideration specific characteristics of the European economy. Small and medium-sized enterprises (SMEs), for example, account for a large share of employment and are financed mainly through bank loans. [ ] The SME supporting factor reduces capital requirements for loans to such enterprises. This and other adjustments have raised questions from an international comparability standpoint, and the Basel Committee's 2014 assessment found the EU to be 'materially non-compliant' with its standards in certain areas. The materiality of these deviations thus needs to be carefully assessed going forward. 16
+
+Generally, when assessing the impact of regulations, well-established evaluation frameworks can provide valuable insights. The ECB and the European Banking Authority (EBA) have conducted comprehensive impact assessments on the effects of the finalized Basel III framework in Europe. These studies indicate that the benefits in terms of enhanced financial stability significantly outweigh the initial adjustment costs.
+
+[ ] Moreover, impact assessments show that the impact of the Basel III reforms is mitigated be the fact that banks adjust their behaviour and that there is a long phase-in period. [ ] 17 18
+
+Overall, the European approach to regulation and supervision has paid off. The combination of a broad implementation of the Basel standards and proportionate application of rules has contributed to a more resilient banking sector. European banks have weathered recent storms well, including the COVID-19 pandemic, the energy crisis, and the March 2023 turmoil in international banking markets. While policy interventions have certainly played a role in stabilising the real economy, this resilience of European banks can largely be attributed to their strong capital and liquidity buffers.
+
+Having said that - what are the facts? How have European banks performed over the past decade? Here is a quick overview.
+
+## Resilience of European banks
+
+Today, the European banking sector is in a fundamentally stronger position than it was in the aftermath of the global financial crisis. [ ] European banks are well capitalised, with an aggregate Common Equity Tier 1 (CET1) ratio of 15.9% as of the end of 2024, higher than that of 2015, after the ECB took over banking supervision, with 12.7%. For comparison, in 2006, average Tier 1 ratios stood at around 8% in 2006 19
+
+underscoring the step change in capital strength since the crisis. [ ] The leverage ratio has also improved from 5.0 to 5.9% between 2015 and 2024. [ ] The vast majority of banks maintain a comfortable buffer above the regulatory requirements. 20 21
+
+Liquidity conditions remain favourable. Banks have smoothly transitioned to market-based funding as monetary policy has moved out of the phase of quantitative easing and low interest rates. The ability to access retail and wholesale funding remains intact, though some institutions will need to further prepare for a potentially tighter liquidity environment. [ ] 22
+
+The quality of banks' assets remains strong, with the non-performing loan (NPL) ratio at 1.9% - well below the level ten years ago (7.5%). [ ] This reduction in NPLs did not happen by chance. It reflects supervisory action by the ECB. Our Guidance to banks on non-performing loans, published in 2017, outlines supervisory expectations for how banks should identify, manage, measure, and write off NPLs. [ ] In 2018, we followed this up by setting out our expectations for prudential provisioning levels for NPLs expectations the ECB began applying in 2021. [ ] These steps were instrumental in accelerating the decline in NPL volumes. More recently, we intensified our efforts in the 2021 SREP, introducing a bankspecific capital add-on to Pillar 2 requirements for banks whose NPL coverage fell short of our expectations. [ ] 23 24 25 26
+
+Bank profitability has increased, supported by interest rates moving out of the low-for-long environment. Banks' return on equity has increased from an average of 5.5% during the period of low interest rates to 9.8% on average in 2023-2024. Higher net interest margins have been a key driver. At the same time, efficiency gains have played a role, with the average cost-to-income ratio of European banks falling from 66% in 2020 to 55% in 2024.
+
+Looking ahead, banks face considerable headwinds, which may affect their profitability. Net interest income has likely peaked, while a potential deterioration in asset quality, continued margin compression and subdued loan volumes may further weigh on earnings, particularly for those banks that benefited most from the hiking cycle. [ ] 27
+
+However, domestic developments are only part of the picture. European banks are deeply embedded in the global financial system, with significant cross-border exposures and reliance on international funding sources. This interconnectedness underscores the importance of a stable international framework to ensure financial stability both within Europe and globally.
+
+## Priorities for European banking supervision
+
+European banks face a range of challenges, from geopolitical tensions and macro-financial uncertainty to technological disruptions and climate-related risks. With this in mind, we have identified three key priorities for the next three years: managing macro-financial and geopolitical risks, ensuring timely remediation of supervisory concerns and strengthening banks' digitalisation strategies.
+
+Geopolitical risks and uncertainty have become a serious challenge for financial markets. Geopolitical risk is not a new risk category. But it drives the traditional risks of doing banking in ways that are difficult to predict and quantify. Protectionism, economic fragmentation, and geopolitical conflicts have been on the rise. [ ] Banks must be able to assess how these phenomena could affect their business models, capital positions, and liquidity needs. 28
+
+The ECB has recently introduced a framework describing how geopolitical risks affects banks' traditional risk categories. [ ] Banks' governance and risk management frameworks need to ensure that banks adequately integrate geopolitical risks into their decision-making. Geopolitical risks should be reflected in banks' capital and liquidity planning, including stress testing, to capture potential disruptions. Provisioning practices must move beyond historical data to factor in geopolitical uncertainties. [ ] Not least, geopolitical risks, including the impact of tariffs, feature prominently in this year's EU-wide stress test, alongside a dedicated exploratory scenario analysis assessing banks' ability to model counterparty credit risk under stress. [ ] 29 30 31
+
+Another priority for our supervision is remediation. While progress has been made in identifying weaknesses in key areas such as governance, remediation has not always been sufficiently fast. This is why we are shifting our focus towards ensuring that material shortcomings are addressed within clear and reasonable timelines. Risk data aggregation and risk reporting is one area where banks can still improve. The ability to make timely, well-informed decisions depends on having accurate, comprehensive risk data. Remediating remaining deficiencies requires committing the necessary resources to invest into up-to-date information systems.
+
+Not least, digitalisation presents both opportunities and challenges for banks. Emerging technologies, strategic partnerships and new business models offer ways to improve efficiency and customer services but they also introduce new risks, particularly in cybersecurity and operational resilience. Banks must strike the right balance between innovation and prudent risk management to address risks associated with digitalisation.
+
+Cyber threats remain a particular area of focus. Cyber threats are rising, and we conducted our first cyber resilience stress test last year. [ ] Banks depend on a small number of critical third-party providers, especially in cloud services, which can be a driver of systemic risk. We have thus strengthened our oversight of third-party providers. [ ] 32 33
+
+## Priorities for global financial stability
+
+The global financial system is a highly connected ecosystem, with banks at its core. Crises in one part of the system can swiftly cascade across economies, endangering financial stability worldwide. From the banking crises of the 19th century to the Great Depression, from the Latin American debt crisis of the 1980s to the global financial crisis, policymakers and investors have often believed that 'this time' was different - only to be proven wrong. [ ] Overvaluation combined with high leverage have often been followed by a painful market corrections and financial contagion. 34
+
+These episodes highlight the need for a stable framework that protects banks from sailing into troubled waters unprepared. Banks need to have the ballast to withstand sudden shifts in economic conditions, and they need to navigate with sufficient distance between them to avoid collisions. Without such safeguards, there is a risk that too many banks sail too close to the wind - taking on excessive risks in pursuit of shortterm gains - only to find themselves unable to stay afloat when conditions suddenly change.
+
+Strong global standards can limit the risk of financial crises and contagion. In 1974, the Basel Committee on Banking Supervision was established and laid the foundations for the first Basel capital standards in 1988 with the introduction of the Basel I Framework. Over the years, the Basel standards have evolved in response to crises, addressing vulnerabilities exposed by the global financial crisis. The Basel standards are prime examples of the importance of multilateral cooperation in banking oversight. A predictable regulatory environment enables efficient cross-border operations, fosters trust among counterparties and reduces the probability of crises.
+
+European banking supervision is responding to geopolitical risks, and we need reliable international frameworks. Financial stability is a global public good requiring strong global safeguards. We thus strongly support the work programmes of the Basel Committee and the Financial Stability Board. Only through continued collaboration can we promote a resilient global banking system that stands firm against future uncertainties.
+
+Global financial stability benefits all. It benefits citizens who entrust their savings to banks. It benefits taxpayers who otherwise would have to bear the costs of a bank's failure. But even more so, rules that protect financial stability benefit the banking industry itself. A stable and predictable regulatory environment enables efficient cross-border operations, rather than dealing with different national rules. It ensures trust in counterparts. It reduces the probability of financial crises that ultimately entail large costs for investors in banks - holders of equity and bail-inable debt would be the first to lose if a crisis strikes. And these benefits are not confined to internationally active banks; they also affect more regionally oriented banks. Risks of global financial markets span across business models.
+
+## Conclusions
+
+Global markets require common global standards - not to constrain but to enable activity. This holds true for global trade and shipping, and even more so for the financial sector. International financial markets and contagion channels can be quite opaque. If trust suddenly vanishes, not only could financial markets stop functioning, but they can also bring the real economy down with them.
+
+The global economy has enjoyed a decade of relative financial stability, based on adherence to common standards and supervisory cooperation. This is a significant achievement. But precisely at a time where financial stability could be challenged by heightened risks, memories of past crises are fading. There is increasing pressure to prioritise short-term profits and growth over long-term resilience.
+
+We thus need continued cooperation to ensure that the global financial system remains resilient and at the service of the real economy. This requires reliable guardrails for international banking activities, but also adequate frameworks to contain spillovers from non-bank financial intermediaries and on IT and cyberrelated risks.
+
+We remain committed to this cooperative approach. By focusing on resilience today, we strengthen banks' ability to support sustainable growth tomorrow. The best safeguard against accidents at sea is to have sufficient water under the keel and not sail too close to the wind.
+
+1.
+
+I would like to thank Korbinian Ibel, Michel Kohn, Massimiliano Rimarchi, Salvatore Rinaldi, and John Roche for their very helpful input and comments on an earlier version of this speech. All remaining errors and inaccuracies are my own.
+
+2.
+
+See EY and Institute of International Finance (2025), ' ', 14th annual EY/IIF global bank risk management survey. Agility in volatility: Rebalancing CRO priorities in a shifting risk matrix
+
+3.
+
+Bank for International Settlements (2025), ' ', statistical release , January. BIS international banking statistics and global liquidity indicators at end-September 2024
+
+4.
+
+McCauley, R.N., McGuire, P. and Wooldridge, P. (2021), ' ', BIS Quarterly Review , September. Seven decades of international banking
+
+5.
+
+See International Maritime Organization, ' '. Introduction to IMO
+
+6.
+
+See World Trade Organization, ' '. Evolution of trade under the WTO: handy statistics
+
+7.
+
+See Goodhart, C. (2011), The Basel Committee on Banking Supervision: A History of the Early Years, 1974-1997 , Cambridge University Press, Cambridge.
+
+8.
+
+See International Maritime Organization, ' '. List of IMO Conventions
+
+9.
+
+Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit
+
+(OJ L 173, 12.6.2014, p. 149). guarantee schemes
+
+10.
+
+Banks are generally classified as significant if they have total assets exceeding €30 billion, but other factors - such as their importance to the domestic economy or their cross-border activities - can also lead to this classification. See ECB, ' ' with reference date 1 March 2025, and ECB, ' '. List of supervised banks What makes a bank significant?
+
+11.
+
+For more detail, see Buch, C. (2024), ' ', The Supervision Blog , ECB, 28 May. Reforming the SREP: an important milestone towards more efficient and effective supervision in a new risk environment
+
+12. Buch, C. (2025) ' ', The Supervision Blog , ECB, 11 March. 13. Reviewing the Pillar 2 requirement methodology
+
+EBA (2025) ' ', press release, 20 January The EBA launches its 2025 EU-wide stress test
+
+14.
+
+(OJ L 176, 27.6.2013, p. 1). Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012
+
+15.
+
+See European Commission (2024) ' ', 24 July. Banking package: Moving forward with the implementation of the Basel standards, while preserving the international level playing field
+
+16.
+
+See Recital 44 of the CRR.
+
+17.
+
+See Budnik, K., Dimitrov, I., Gross, J., Lampe, M. and Volk, M. (2021), ' ', Macroprudential Bulletin , No 14, ECB, 26 July, and European Banking Authority (2024), ' ', 7 October. Bank for International Settlements, ' '. See the evaluation frameworks of the and the . Macroeconomic impact of Basel III finalisation on the euro area Basel III monitoring exercise results based on data as of 31 December 2023 Financial Regulation Assessment: Meta Exercise Financial Stability Board Basel Committee on Banking Supervision
+
+18. ↑
+
+19.
+
+ECB (2024), '' ''. Aggregated results of the 2024 SREP
+
+20.
+
+, December 2006. Tier 1 ratios in 2006 are not directly comparable with today's CET1 ratios, as they were calculated under the pre-crisis Basel II framework and included a broader range of capital instruments. In addition, the sample of banks covered in 2006 differs from the current group of significant institutions supervised by the ECB. ECB Financial Stability Review
+
+21.
+
+ECB Supervisory Banking Statistics.
+
+22.
+
+Buch, C. and Schnabel, I. (2025), ' ', The ECB Blog , ECB, 18 March. Managing liquidity in a changing environment
+
+23.
+
+These ratios include cash balances at central banks and other demand deposits. The NPL ratio excluding cash balances at central banks and other demand deposits is 2.3% as at Q4 2024.
+
+24.
+
+ECB Banking Supervision (2017), ' ', March. Guidance to banks on non-performing loans
+
+25.
+
+ECB Banking Supervision (2018), ' ', March. Addendum to the ECB Guidance to banks on non-performing loans: supervisory expectations for prudential provisioning of non-performing exposures
+
+26.
+
+These have remained in use up to the 2024 SREP cycle, which resulted in non-performing exposure Pillar 2 requirement add-ons for 18 banks. See ECB Banking Supervision (2024), ' '. Aggregated results of the 2024 SREP
+
+27.
+
+ECB (2024), , November. Financial Stability Review
+
+28.
+
+IMF (2025), 'Geopolitical Risks: Implications for Asset Prices and Financial Stability', Global Financial Stability Report , Chapter 2, April.
+
+29.
+
+Buch, C. (2024), ' ', keynote speech at the eighth European Systemic Risk Board (ESRB) annual conference on 'New Frontiers in Macroprudential Policy', Frankfurt am Main, 26 September. Global rifts and financial shifts: supervising banks in an era of geopolitical instability
+
+See ECB Banking Supervision (2024), ' 31. IFRS 9 overlays and model improvements for novel risks
+
+', July.
+
+ECB Banking Supervision (2025), ' ', press release , 20 January. ECB to stress test 96 euro area banks in 2025
+
+32.
+
+ECB Banking Supervision (2024), ' ', press release 33. ECB concludes cyber resilience stress test
+
+, 26 July.
+
+The (DORA) is an EU regulation that applies as of 17 January 2025. More information is available on the of the European Banking Authority. Digital Operational Resilience Act website
+
+34.
+
+See Reinhart, C.M. and Rogoff, K.S., This Time Is Different: Eight Centuries of Financial Folly , Princeton University Press, Princeton, 2011.

@@ -1,0 +1,273 @@
+SPEECH
+
+## Bridges to the future: managing bank risk amid uncertainty
+
+## Speech by Claudia Buch, Chair of the Supervisory Board of the ECB, at the Morgan Stanley annual conference
+
+London, 12 March 2024
+
+Thank you very much for inviting me to speak at Morgan Stanley's annual conference. It is almost one year to the day since bank distress in the United States and Switzerland tested the resilience of the banking system. Europe's banks have weathered those storms quite well — thanks both to their own resilience and to the swift policy response in the countries affected.
+
+The reports prepared by the authorities following the banking turmoil last year provide important lessons — on the importance of good risk management and governance, the need for swift follow-up to supervisory findings, and the need to remain vigilant with regard to macroeconomic risks that can expose fault lines.
+
+Today | would like to draw on these lessons and discuss how banks can prepare for the risks that may lie ahead. Geopolitical risks dominate the headlines. Climate and environmental risks are real. These risks and other global trends such as demographic change and digitalisation will require structural adjustment. When and how these risks and structural changes will materialise — and how they affect our economies — is highly uncertain.
+
+As regards the short-term, forecasters remain relatively optimistic: they are expecting a soft landing this year in terms of global economic growth. 21 Many longer term trends and uncertainties are not reflected in market-based risk measures, however./3]
+
+Good risk management and sound supervision thus require us to look beyond the market's baseline scenario and into the future.
+
+John Maynard Keynes once observed that "For the importance of money essentially flows from its being a link between the present and the future." Keynes was referring to the motives for holding liquidity in the form of money versus holding less liquid assets — a choice influenced by the level of interest rates and by expectations for the future. A choice that ultimately depends on people's confidence in the stability of banks and the value of their deposits.
+
+In the same vein, banks' balance sheets are a crucial link — an economic bridge — between the past, the present and the future. Banks are the main providers of money and credit in our economies. And more than in any other sector, their past decisions shape the way our economies evolve in the future. Managing bank risks thus requires an understanding of how the past shapes banks' balance sheets today and how well banks are prepared for future contingencies.
+
+Let me give an example.
+
+The average loan currently on the books of a European bank was granted just before the outbreak of the COVID-19 pandemic. Since then, a lot has changed: we have moved from a low interest rate environment to an environment of higher inflation and higher interest rates. Growth projections have repeatedly been revised down.
+
+The average loan expires only in the next decade. It is hard to predict how our economies and the political environment will have evolved by then.
+
+So | would like to discuss how echoes of the past shape banks' balance sheets today, how much we know about the effects of the new macro-financial environment on banks' longer-term performance, and how we can ensure that the bridge they provide to the future would remain stable under adverse conditions. Sound, well-run banks can support the climate transition and the structural change that is needed in our economies. But banks that are not sufficiently resilient can threaten welfare and amplify future stress. We must therefore recognise that we have a shared responsibility in European banking to remain adaptable, make robust plans, and be prepared for the risks that may lie ahead.
+
+## The echoes of the past
+
+While we may see banks as the economic bridge to the future, their balance sheets and operational infrastructure echo the past. The maturity of bank assets is relevant here, but IT and operational infrastructures are equally important, and often outdated. Almost 90% of banks under ECB direct supervision depend on at least one end-of-life IT system for business-critical activities. This affects their ability to compete in an increasingly digitalised economy and to strengthen their resilience to cyberattacks.
+
+| would like to mention some of the strongest echoes from the past here -and how they are still reverberating through the banking sector today.
+
+After the 2008 financial crisis, central banks around the world lowered interest rates. Globally, interest rates were at historic lows during the period of quantitative easing. The United Kingdom, for example, saw the lowest levels of inflation for 150 years in the period between 1997 and 2016.4 The volatility of inflation was low as well.
+
+Growth during this period of low interest rates was low but stable. Advanced economies averaged real GDP growth of 1.9% per year from 2010 to 2022, (81
+
+One of the most direct effects of low interest rates was a compression of banks' net interest margins and thus bank profitability. Risk premia were relatively compressed, especially in the corporate bond sector. We saw a surge in the issuance of riskier bonds, characterised by lower ratings and a trend towards longer maturities.
+
+Banks' compressed profit margins incentivised a search for yield, as traditional interest-generating activities became less profitable. The focus shifted to fee-generating services such as asset management, investment banking or financial advisory services. While this kind of revenue diversification can increase balance sheet resilience, fee and commission business can entail higher risks. Low profitability also requires cost-cutting, potentially limiting banks' ability to invest in more resilient infrastructure, including in IT.
+
+During the low interest rate period, credit risk, liquidity risk and interest rate risk looked quite contained. Non-performing loans (NPLs) on the balance sheets of significant banks under ECB supervision gradually fell, from above 7% in 2015 to less than 2% in 2023.00 Many of these were legacy loans from before the financial crisis. Banks effectively worked out these loans and removed them from their balance sheets, following clear guidance from supervisors." Stable growth supported this decline in NPLs and prevented a build-up of new ones.
+
+Liquidity risk was also contained because of quantitative easing. Modelling deposits and liquidity risk was thus not the most pressing issue for banks. And this still has implications today: many banks' models, developed and calibrated during the period of low interest rates, do not incorporate sufficient assumptions on shifts in deposits due to higher interest rates.2]
+
+So, during the period of low interest rates, risks were low — and so were returns.
+
+surface.3]
+
+But vulnerabilities in the financial system were slowly building up below the In their search for yield, many investors moved into riskier asset classes. Banks, pension funds and insurance companies all saw their profit margins compressed, which potentially encouraged investments in higher-yielding but also riskier activities.
+
+standards.4]
+
+Banks may not have been adequately pricing credit risk into their underwriting Banks increased their exposure to leveraged finance products, with worsening underwriting standards.) Debt levels and real estate prices increased rapidly in many euro area countries. While interest rates remained low, underlying vulnerabilities due to higher debt levels or collateral revaluations remained hidden.)
+
+The non-bank financial sector expanded. Overall, the search for yield not only increased banks' exposure to contagion risks; it also contributed to a broader build-up of risk within the financial system.
+
+Macroprudential policymakers responded to increased vulnerabilities. During the period of low interest rates, macroprudential authorities implemented a variety of measures designed to mitigate the build-up of vulnerabilities among banks' customers. Here, | am thinking in particular about borrower-based measures, which limit credit to banks' customers. Some macroprudential authorities also put in place capital buffers designed to safeguard banks' resilience.
+
+After the onset of the pandemic, the relatively benign macroeconomic environment changed quite suddenly. The pandemic was an unexpected global shock and there was no ex-ante insurance its economic impact. There were also no models that could help predict the economic impact of lockdown measures and travel restrictions of a kind that had not been seen for a century.
+
+against In March 2020, indicators of market stress thus showed an abrupt increase in uncertainty. Strong policy action was needed to calm markets and provide ex post insurance. Fiscal authorities swiftly introduced large support programmes to protect households and firms.44 Monetary policy provided ample liquidity. And supervisors acted in tandem to make sure that banks could use their capital buffers if needed. ECB Banking Supervision's recommendation that banks should not pay out dividends was instrumental in supporting lending."
+
+Macroprudential buffers were released as authorities sought to create space for banks to continue lending. These buffers were, however, rather limited in size. One of the key lessons from the impact of the pandemic on the banking sector was the importance of building up adequate releasable capital buffers so that, even in the event of exogenous shocks, banks have the capital available to continue providing critical services to the real economy.42]
+
+These policies were successful. Unlike during normal recessions, the pandemic-related recession did not lead to an increase in corporate insolvencies. Scarring effects were contained. Risk premia and banks' credit losses did not rise, and banks' capital buffers even increased.
+
+In short, we are coming out of a period of declining loan losses and reduced insolvencies and NPLs, underpinned by unprecedented fiscal and monetary interventions. While these measures have been pivotal in stabilising the financial system, they may have also contributed to the build-up of risks — risks that may not yet have fully materialised.
+
+## The new macro-financial environment
+
+Meanwhile, the macro-financial environment has changed significantly. Inflation and interest rates are higher, growth is weakening, and it is highly uncertain how the real economy will adapt to global trends. Pressure for structural change has certainly increased.
+
+Inflation increased after the pandemic, prompting central banks to begin a rapid rate hiking cycle. Russia's invasion of Ukraine then pushed up energy and food prices further, with inflation rising to levels not seen in decades. The ECB responded by raising interest rates by a cumulative 450 basis points between July 2022 and September 2023 — the fastest rate hiking cycle in the history of the euro area. The ECB also transitioned from quantitative easing to quantitative tightening by ending net purchases under its asset purchase programme as of July 2022, then announcing a reduction in the portfolio from March 2023 onwards.29! This has taken liquidity out of the banking system, which is already triggering changes in banks' funding mix. For example, some banks have obtained more market funding by issuing securities or have increased interest rates to attract deposits:
+
+Fiscal policy is also adjusting. Support measures introduced during the pandemic and the energy crisis are being unwound. The EU's revised economic governance framework will require gradual debt reduction. Fiscal policy may become more targeted and shift its focus towards the climate transition and security. This may limit its ability to provide extensive support to households and firms in financial distress.
+
+The financial system has so far absorbed recent shocks. For the banking sector, the increase in interest rates was a real-world scenario that would have previously been considered an extreme stress event. The "Basel interest rate shock" that supervisors use to assess interest rate risk in the banking book assumes a shift of 200 basis points. The short-term impact of higher interest rates has been positive for banks' interest margins.
+
+Yet, underlying vulnerabilities may not have been exposed. Fault lines that have built up in the past can become increasingly relevant over time. Good risk management needs to recognise that the effects of higher interest rates evolve over time. Essentially, all assets in the economy need to be revalued, and some effects may only become visible at a later stage.
+
+In addition, banks have new risks to manage. Climate change, geopolitical factors, digitalisation and demographic change affect banks in many ways. But risk models that may have worked well in the past do not capture these risks well. Moreover, many of them are hard to quantify and to be priced.
+
+There is a lot we do not know yet.
+
+But let me focus on what we do know.
+
+Banks have become more profitable in recent quarters. In the second quarter of 2023 their average return on equity reached double digits, largely because of wider net interest margins. The passthrough of higher policy rates to deposit rates has been slower than during previous monetary policy cycles. Mirroring higher profitability, bank valuations have reached pre-pandemic levels.
+
+The sustainability of profits depends on decisions that are taken now. But it will be determined by a number of factors that we can only imperfectly assess at present.
+
+The first factor is competition for deposits. When interest rates started rising, banks were slow to offer higher rates on deposits because they had other sources of cheap funding. However, banks are now starting to offer higher rates. As banks compete more intensively for deposits because they have less excess liquidity, they're likely to offer even higher interest rates to attract and keep customers. This puts downward pressure on interest margins.
+
+The second factor is the demand for credit. In the era of low interest rates, one main source of profits were higher lending volumes, kept artificially high by extraordinary liquidity support. The recent increase in interest rates has thus boosted interest margins. But as the economy slows down, and as public support recedes, demand for credit may also fall. This posing downside risk to profits and makes it more difficult to pass through higher interest rates to borrowers.
+
+The third factor is asset quality. Tight financing conditions can push over-extended borrowers into financial distress. Highly indebted borrowers with variable rates are particularly vulnerable. While asset quality indicators have been quite robust, there are early signs of a deterioration in loan portfolios, including in loans to smaller firms and to firms in sectors such as construction and real estate. For residential real estate, early arrears, which give an indication of loans that are likely to default, increased significantly over the past year, although they remained below pre-pandemic levels.24
+
+One sector which is particularly vulnerable to higher interest rates is commercial real estate.
+
+Commercial real estate accounted for 9% of the loan books of significant banks in the second quarter of 2023. A little less than 4% of these loans were classified as non-performing — above the average NPL ratio for loans overall. The ECB has been closely monitoring these developments since 2018 through supervisory activities focusing on commercial real estate risk. In 2023, we communicated shortcomings to the banks concerned and we expect them to address issues in a timely manner.
+
+The higher interest rate environment also poses risks in the non-bank financial sector. Banks and NBFls can be closely interconnected through funding channels, ownership linkages and common risk exposures. In addition to being a potential source of counterparty credit risk for banks, NBFls may pose indirect risks by amplifying negative market movements. This would be especially true if financing conditions were to tighten further and these institutions were forced abruptly to unwind their positions. The incidents surrounding Archegos Capital Management and liability-driven investment funds in the
+
+United Kingdom show clearly how contagion from NBFls can spread through the financial system in times of volatility and uncertainty.
+
+Banks need to properly assess and manage these risks. They need to assess how changes in interest rates might affect their profitability in the future. The ECB recently carried out a targeted review of interest rate and credit spread risk management, and | would like to share some of the findings.
+
+First, banks need to improve their models to better reflect customer behaviour. Some models were calibrated using data from low interest rate periods, neglecting phases when interest rates rose. This may lead banks to overlook important dynamics such as the deposit withdrawals that typically characterise periods of increasing interest rates. Additionally, some models are not validated, backtested and recalibrated often enough. In some cases, modelling assumptions did not appear to be justified by actual customer behaviour.
+
+Second, many banks lack a well-defined framework for assessing indirect effects of interest rate changes such as greater competition for deposits and lower asset quality. Rising interest rates can lead to a deterioration in asset quality and an increase in the cost of risk. Yet banks' models often disregard these effects. Additionally, changes in saving behaviour and increased competition for deposits may create more pressure to adjust deposit rates.
+
+So far, banks have managed to contain their exposure to interest rate risk. However, as the interest rate environment continues to evolve, these weaknesses in their asset and liability management frameworks could become more prominent.
+
+## Future uncertainty
+
+Uncertainty was a central concept in Keynes' understanding of money as a link — a bridge — between the present and the future. As we look ahead, we are indeed stepping into a future filled with unknowns. Climate change, geopolitical risks, demographic change and new technologies will shape the future evolution of the real economy and the financial sector. Yet predicting what's next is both difficult and uncertain.
+
+In terms of baseline scenarios, current market sentiment is relatively positive. The International
+
+Monetary Fund, for example, has a positive outlook for the global economy in 2024.24] However, the optimism is tempered by heightened geopolitical risks and significant macro-financial shifts, which inject a high degree of uncertainty into global markets and forecasts.
+
+There is indeed a high degree of uncertainty surrounding this baseline. And not only has the range of possible scenarios widened, it is also increasingly difficult to attach probabilities to them. The Bank of England has, for a long time now, used fan charts to illustrate the range of possible outcomes around a central scenario. It now has signalled its intention to make even greater use of alternative scenarios. This builds on lessons learned from recent the of events global challenges, including unpredictability
+
+like wars and pandemics, which traditional models struggle to forecast.25]
+
+Sentiment could shift quickly if actual outturns were to deviate from the baseline scenario. An escalation of global conflicts could, for example, trigger an increase in risk aversion. Vulnerabilities could rise to the fore, affecting energy supply, global value chains or growth.
+
+Banks must remain vigilant, preparing for all eventualities in a landscape rife with uncertainties. Banks' exposure to adverse shocks could be very idiosyncratic, requiring individual scenario assumptions. As supervisors, our role is to ensure that banks adopt dynamic and prudent risk management practices and are ready to adapt to the changing environment. At the same time, regulation, by ensuring appropriate capital requirements, serves as the cornerstone of a robust banking system, particularly against a backdrop of more frequent shocks. Timely and faithful implementation of Basel 3 is thus in our collective interests. Having the new Basel rules in place by 2025 will support resilience and the competitive position of European banks.
+
+Banks have to deal with the implications of "radical uncertainty" [24] We cannot assign probabilities and expected losses to future events. Because conventional risk management often relies on historical data to estimate probabilities for the future, radical uncertainty requires a pivotal rethinking. Many novel risks are hard to quantify or price, but banks still need to prepare for them.
+
+Adopting a strategy grounded in radical uncertainty involves building resilience and flexibility into the very fabric of a financial institution. This means developing adaptive, scenario-based strategic planning that allows rapid changes in the response to unexpected market movements. It also means adopting a culture of continuous learning, where the focus shifts from attempting to predict the future to being prepared for any number of possible futures. It means dynamic governance and risk management, evolving as new information emerges and as the external environment changes. Finally, it means building resilience in terms of capital, IT infrastructures, and operational resilience.
+
+ECB Banking Supervision has taken a number of actions to help banks navigate through the uncertainty. Let me give three examples.
+
+First, banks need to define strategies to deal with new risks such as climate-related and environmental risks. Most banks have had to design risk management strategies for these risks from scratch. ECB Banking Supervision has thus formulated expectations for the way materiality assessments of climaterelated and environmental risks should be conducted, how to enhance disclosures and to enable risk management strategies to be defined.!25) Currently, we are assessing progress made and, if necessary, we will use all measures in our supervisory toolkit to ensure the sound management of climate and environmental risks.
+
+Second, good information systems and data management are equally important in dealing with uncertainty. As we have identified shortcomings in banks' risk data aggregation and reporting strategies, we have established our supervisory approach to assist banks in improving their capabilities in this area. The ECB will shortly publish a guide, which is being finalised following a recent public consultation, setting out and reinforcing our supervisory expectations. 21
+
+Third, heightened uncertainty that stems from cyber incidents means that banks need to manage IT risks effectively. Many banks operate with ageing IT systems, making them vulnerable to cybersecurity threats, data breaches and operational disruptions. Moreover, banks are becoming more dependent on a handful of -in some cases large -third-party service providers. We are encouraging banks to take a comprehensive approach to managing IT risks, which should include regular cybersecurity assessments, incident reporting mechanisms and recovery plans to address potential IT disruptions.
+
+We are identifying and assessing deficiencies in banks' outsourcing arrangements and cybersecurity management. The ongoing system-wide cyber resilience stress test will provide valuable insights.
+
+And more broadly, stress testing continues to evolve. Stress tests need to integrate multiple scenarios. This would simulate a broad spectrum of potential risks and impacts, potentially offering a more comprehensive understanding of vulnerabilities and resilience mechanisms within banking systems.21
+
+The path ahead requires banks to be adaptable and ready to recalibrate strategies and operational practices in response to novel risks. This agility will be key to navigating the uncertain waters of the future and ensuring that the banking sector remains robust and prepared for what lies ahead.
+
+## Conclusion
+
+Money is a bridge between the present and the future, and banks are critical providers of money. Their resilience will determine the stability of the future financial system, and it will ensure trust in the monetary system.
+
+Bank resilience, in turn, echoes the past and is shaped by decisions taken today for an uncertain future. During the period of low interest rates and in a relatively stable macroeconomic environment, vulnerabilities built up in the financial system. Meanwhile, our economies have been exposed to significant shocks. European banks withstood these storms — thanks to their resilience and to prompt policy interventions. The recent significant increase in interest rates has boosted bank profitability, but its full effect on the economy and on banks' balance sheets is still to be seen.
+
+Banks' future resilience hinges on their ability to adapt to a changing environment marked by higher interest rates and evolving risks. In a world of geopolitical tensions, environmental challenges and rapid digitalisation, forward-looking risk management requires questioning assumed patterns and working with scenarios. This calls for going beyond traditional risk management practices and embracing the unpredictable nature of future challenges. The currently good level of profitability provides banks with a good opportunity to strengthen resilience — in terms of capital, IT and operational resilience.
+
+1.
+
+Basel Committee on Banking Supervision (2023), Report on the 2023 banking turmoil, October; Board of Governors of the Federal Reserve System (2023), Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank, 28 April; Swiss Financial Market Supervisory Authority (2023), Lessons Learned from the CS Crisis, 19 December.
+
+2.
+
+The World Economic Forum's January 2024 Chief Economists Outlook, which surveys chief economists from the public and private sectors, revealed that, although a majority of those surveyed anticipate a moderate global economic weakening in 2024, the anticipated slowdown is seen as a beneficial adjustment to counteract inflationary pressures that have arisen from excessive demand. See World Economic Forum (2024), Chief Economists Outlook: January 2024, 15 January.
+
+3.
+
+See Chart 5 in Buch, C. (2024), "European banking supervision a decade on: safeguarding banks' resilience amid global challenges", speech at the House of the Euro, Brussels, 12 February.
+
+4.
+
+Keynes, J.M. (1936), The General Theory of Employment, Interest, and Money, Palgrave Macmillan, United Kingdom.
+
+5.
+
+Based on data from AnaCredit. We calculated that the average loan was granted around four years ago by counting the days between the date of inception and the latest available reference date (volume-weighted average). We calculate an average remaining maturity of around seven years by deducting the period computed in the first step from the original maturity.
+
+6.
+
+See IT and cybersecurity: no grounds for complacency, Supervision Newsletter, November 2023
+
+- 7.
+
+Reis, R. (2022), "The Burst of High Inflation in 2021—22: How and Why Did We Get Here?", June.
+
+8.
+
+IMF, World Economic Outlook, January 2024
+
+9.
+
+Kapp, D., Kostka, T., Kristiansen, K. and Sgrensen, C. (2019), "Valuations in corporate bond and equity markets", Financial Stability Review, ECB, November.
+
+10.
+
+ECB (2023), Financial Stability Review, November.
+
+11.
+
+In 2017, for example, ECB Banking Supervision set out supervisory expectations regarding the identification, management, measurement and write-off of NPLs. We supplemented this in 2018 by announcing our supervisory expectations when assessing a bank's levels of prudential provisions for NPLs, which we started to apply in 2021. This announcement played an important role in accelerating the reduction in NPLs. See ECB (2017), Guidance to banks on non-performing loans, March; and ECB (2018), Addendum to the ECB Guidance to banks on non-performing loans: supervisory expectations for prudential provisioning of non-performing\_exposures, March.
+
+12.
+
+This includes in particular assumptions on non-maturing deposits are bank deposits with no fixed term or maturity date, such as savings accounts or checking accounts, which can have a significant impact on a bank's liquidity profile.
+
+13.
+
+See, for example, European Systemic Risk Board (2016), Macroprudential policy issues arising from low interest rates and structural changes in the EU financial system, November.
+
+14.
+
+See ECB (2020), Trends and risks in credit underwriting standards of significant institutions in the
+
+15.
+
+Enria, A. (2021), "Enhanced outlook and emerging risk in the banking\_union", speech at the University of Naples, 2 July.
+
+16.
+
+See European Systemic Risk Board (2022), "Implications for the financial system of guarantee schemes and other fiscal measures to protect the real economy".
+
+17.
+
+EU countries designed expansive national stimulus packages, which included direct fiscal injections, tax relief measures and wage subsidies, and increased spending on health and social services to mitigate the impact of the pandemic. And at EU level, Next Generation EU — the €750 billion postpandemic recovery fund — provided grants and loans to support reforms and investments by Member States. See European Systemic Risk Board (2022), "Implications for the financial system of guarantee schemes and other fiscal measures to protect the real economy".
+
+18.
+
+Dautovié, E., Gambacorta, L. and Reghezza, A. (2023), "A new tool in the box: dividend restrictions as
+
+19.
+
+13 countries participating in European banking supervision currently have positive countercyclical capital buffer rates and 10 countries have systemic risk buffers in place, while 15 countries have borrower-based measures. See European Systemic Risk Board (2024), National measures of macroprudential interest in the EU/EEA, 13 February.
+
+20.
+
+Schnabel, I. (2023), "Quantitative tightening: rationale and market impact", speech at the Money Market Contact Group meeting, Frankfurt am Main, 2 March.
+
+21.
+
+See "Financial Stability Review', ECB, November 2023
+
+22.
+
+International Monetary Fund, 30 January.
+
+23.
+
+See the statement by Bank of England Governor Andrew Bailey at a House of Commons Treasury Committee session, 20 February 2024.
+
+24.
+
+Kay, J. and King, M. (2020) Radical uncertainty: Decision-making for an unknowable future, The Bridge Street Press
+
+25.
+
+ECB (2020), Guide on climate-related and environmental risks, November.
+
+26.
+
+ECB (2023), Guide on effective risk data aggregation and risk reporting, draft for public consultation,
+
+July.
+
+27.
+
+Federal
+
+See Woods, S. (2022) "Bufferati", speech given at City Week 2022, 26 April; and Barr, M. (2023) "Multiple Scenarios in Stress Testing", speech at the stress test research conference at the
+
+Reserve Bank of Boston, Boston, Massachusetts, 19
+
+October

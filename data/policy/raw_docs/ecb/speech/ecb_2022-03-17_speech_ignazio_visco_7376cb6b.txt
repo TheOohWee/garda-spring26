@@ -1,0 +1,111 @@
+## The interaction between monetary and fiscal policies in the pandemic crisis and beyond
+
+Remarks by Ignazio Visco Governor of the Bank of Italy
+
+The ECB and Its Watchers XXII
+
+Hybrid event, 17 March 2022
+
+Coordination between fiscal and monetary policy has been a key factor at a global level over the last two years, to contrast the consequences of the pandemic crisis and to support the recovery as the state of emergency began to subside. In these brief remarks, I will first focus on the similarities and, more specifically, the differences between the policy mixes implemented in the United States and in the euro area, and then on how I see the situation evolving in light of the Russian invasion of Ukraine.
+
+In essentially all countries, following the outbreak of the pandemic, governments stepped in to strengthen health systems and support household income and credit to firms; fiscal policies everywhere were strongly facilitated by the accommodative stance of monetary policy. In the US, however, fiscal measures were especially bold: the public debt-to-GDP ratio rose by 25 p.p. in 2020-21, to over 130 per cent. In the euro area, instead, the debt ratio increased by 15 p.p., to slightly less than 100 per cent, despite a much deeper decline of nominal GDP in 2020 (by 4.8 per cent, against 2.2 in the US) and a slower recovery last year (7.5 versus 10.1 per cent in the US); it was, until the outbreak of the Russia-Ukraine war, on a steady downward trend. At the same time, concerns over the impact of structural changes to growth potential led to the launch of the recovery and resilience programmes associated with the Next Generation EU initiative.
+
+The extraordinary support to households provided by the US fiscal policy is particularly evident when comparing the dynamics of GDP to household disposable income (Figure 1): in 2020, just as the former recorded its sharpest collapse in real terms in the entire postWorld War II period (-3.4 per cent), real household disposable income grew by over 6 per cent, its largest rise since the mid-1980s. In the euro area, on the other hand, it declined, even though by a much smaller extent than GDP (-0.6 versus -6.4 per cent).
+
+The different dynamics of household disposable income across the two economies translated into very diverse effects on consumer and aggregate demand and consumer price inflation. In the US, GDP returned to its pre-crisis trend at the end of last year, but aggregate data hid a somewhat elevated degree of heterogeneity between sectors:
+
+while demand in the service sector was (and still is) restrained by pandemic-related factors, the goods sector increasingly showed signs of overheating (Figure 2). In the spring of 2021, for example, personal consumption expenditure in the durable goods sector was already more than 30 per cent higher than its pre-crisis level.
+
+Even in the euro area, goods purchases were less affected by lockdowns and fears of contagion, but their growth rates remained relatively contained and, at end-2021, consumption expenditure in this sector was still lower than its modest pre-pandemic trend.
+
+Pressures on consumer prices have been intensifying in the US since the spring of last year, with headline inflation peaking at 7.9 per cent last February (Figure 3); core inflation played a key role throughout this process: in April 2021 it had already risen to 3 per cent and, last month, it had reached 6.4 per cent, the highest in 40 years (the picture remains essentially the same if we look at the personal consumption expenditure price index, which rose to above 6 per cent in January, with its core component increasing to 5.2 per cent). Headline inflation also rose in the euro area, to 5.8 per cent in February, but energy and food took the lion's share, as the growth of the 'core' component was more than 3 percentage points lower (2.7 per cent).
+
+* * *
+
+Before the Russian invasion of Ukraine, to understand the economic outlook on both sides of the Atlantic and how the policy mix should have evolved accordingly, three key factors were especially important.
+
+The first factor is related to the developments in the energy market. Oil prices rose, gradually but steadily, at the global level from the lows of the most acute phase of the health emergency: on the eve of the war, they were 60 per cent higher than in January 2020 (for both the US and Europe). Gas prices in the US recorded similar dynamics, almost doubling with respect to January 2020 (Figure 4). But it was the cost of European gas, strongly dependent on supply from Russia, that really skyrocketed: between September 2021 and February 2022 it averaged at over 8 times the value of January 2020; after the outbreak of the war it was even higher, with a peak of 20 times the level of January 2020, before returning somewhat closer to the previous average in the last few days. This is particularly worrying due to the special role of gas in determining retail prices not only for heating and industrial uses, but also for electricity at large.
+
+It is consequently important to assess the effects of Europe's energy crisis on consumer prices, also beyond their direct effects on headline inflation. A significant share of the rise in core and food inflation, in fact, is due to higher energy prices; in particular, we may estimate that, absent the energy shock, headline inflation in February this year would have been 3.5 percentage points lower, at a level, therefore, only slightly above the ECB's 2 per cent target. The failure of inflation forecasts in 2021 has been repeatedly highlighted: however, indirect effects stemming from the increase in the costs of production - mostly due to unpredictable geopolitical factors that are outside the realm of economics explain almost entirely the upward surprises recorded on core inflation in the euro area in the second half of the year.
+
+The energy shock has also relevant consequences for aggregate demand in energy importing economies, where it translates into a drag on domestic resources. In the euro area, the deterioration of the terms of trade, mostly due to the rise of energy prices, has reduced the purchasing power of domestic incomes (which includes all sectors of the economy) by about 1 percentage point in 2021, and is expected to have an even larger impact in 2022.
+
+The repercussions of the energy shock are likely to be especially severe for households. In the euro area, should gas and oil prices remain at the exceptionally high levels currently implied by future contracts, the increase in consumer prices would cumulatively curtail their disposable income by around 4 percentage points in 2021 and 2022. These losses are asymmetrically distributed across families, hitting more heavily the less well-off who typically devote a larger portion of their incomes to energy purchases.
+
+The second key factor is related to the labour market. In the US the growth of nominal wages (measured as average hourly earnings) amounted to more than 4 per cent last summer, nearing 6 per cent in January 2022 (Figure 5). In the euro area, instead, the increase in wages (as measured by negotiated wages, which tend to grow broadly in line with actual earnings, but are much less volatile) still remains below 2 per cent. The substantial slackening that we continue to observe in the intensive margin of labour utilisation - in the third quarter of 2021 hours per worker were still almost 2 per cent less than on the eve of the pandemic - and the low level of vacancy rates - which does not suggest any potential signal of a mismatch between the supply and demand of labour - have not pointed so far to the possibility of a worryingly persistent acceleration of nominal wages. It goes without saying that this is a factor whose evolution will have to be closely monitored.
+
+The third factor concerns inflation expectations. In the US, longer-term expectations (beyond five years) do not show clear signs of a de-anchoring, providing an encouraging perspective on the possibility, for the Fed, of bringing actual inflation down without implementing surprising and abrupt changes in the monetary stance, which could trigger a recession (Figure 6). In the euro area, the process of the gradual re-anchoring of longer-term expectations from the lows observed in the last few years is being completed, even if a relatively large percentage of analysts continues to predict inflation to be somewhat below our 2 per cent (symmetric) target in five years.
+
+Given these developments - while in the US the Federal Open Market Committee decided it wise to quickly reduce asset purchases and implemented an effective line of communication aimed at preparing the public for the lift-off of the target range for the federal funds rate - in the euro area a gradual normalisation of monetary policy was deemed to be the most appropriate stance. From the evidence that I have briefly summarised, I strongly believe that monetary policy in the euro area has not been behind the curve.
+
+Indeed, I would venture to say that the re -anchoring of inflation expectations, after a rather long period during which the ECB has successfully countered material deflationary risks, also bears witness to the success of the new monetary policy strategy completed in
+
+July of last year. And there is certainly good reason to believe that, given wage prospects and the state of expectations, headline inflation will progressively converge to 2 per cent as the serious disturbances generated by the dramatic evolution of the Russia-Ukraine war fade away.
+
+The rise in energy prices (which has also been accompanied by price increases of other commodities, most prominently food) is, in fact, a clear and unexpected supply-side shock, one that may admittedly last for some time. In addition, as I have observed, it is likely to have important negative effects on aggregate demand and, in turn, on the medium-term inflation outlook. While both monetary and fiscal policy may, in principle, counter the inflationary effects of energy costs, only the latter is able to directly influence these costs, also offsetting the loss in disposable income - at least in part and to the extent that it does not jeopardise debt sustainability - and limiting their impact on the economy. That said, the main response to what is essentially a tax cannot come from monetary policy, especially in the absence of a wage-price loop and with inflation expectations re-anchoring to the central bank's objective.
+
+However, these issues emphasise the importance of swiftly designing a strategy, particularly at the European level, that, while in the short run helps to curb the unjustified spike in energy prices, on a more structural basis takes into consideration the issue of energy source diversification, energy storage and the identification of common resources for managing energy crises. It is a challenge that, today, goes hand in hand with the one posed by climate change and its resolution is essential also for avoiding uncontrolled and dangerous increases in the relative prices of fossil fuels.
+
+* * *
+
+The Russian invasion of Ukraine implies some very important changes in the economic outlook of the euro area and in the assessment of risks. Further increases of energy prices will not only affect the short-term inflation outlook, but will also determine significant headwinds to domestic demand, while the announced sanctions and the sharp deterioration of Russia's economic conditions will weaken external demand and cause potential risks to financial stability. Household and business confidence may be strongly shaken. This would result in a worsening of the prospects for GDP growth and, in turn, greater downside pressures to inflation in the medium-term, which could follow the large price increases observed so far and, perhaps, still to come over the rest of the year.
+
+The ECB staff has made some new baseline projections available - which were discussed by the Governing Council last week - built on the assumptions that disruptions to energy supplies and impacts on confidence are only temporary, while global supply chains are not significantly affected. Overall, GDP growth is projected to 3.7 per cent in 2022 and 2.8 per cent in 2023, a downward revision of, respectively, 0.5 and 0.1 percentage points compared to December 2021. On the other hand, inflation is set to average 5.1 per cent in 2022, increasing markedly since December, and 2.1 per cent in 2023.
+
+The outlook has severely worsened since the cut-off date used in the projections. Looking beyond the short-term volatility of oil and gas prices, whose fluctuations follow the unfolding of the conflict and of diplomatic efforts, there are grounds to believe that these projections are already outdated. It is clear that households will be hard hit by the energy (and food) price shock, particularly those in the lower income brackets, with higher propensity to consume and lower savings buffers. The situation of elevated uncertainty will affect the less liquidity-constrained households, whose precautionary savings are likely to rise, in line with historical regularities, negatively affecting consumption. The dramatic increase in uncertainty also suggests that, in the current circumstances, focusing on scenarios analysis is a more useful and wiser approach than relying on point projections.
+
+The war also considerably increases the tail risks. Here I am primarily referring to the worrying possibility of gas shortages pushing energy prices further up or forcing for some time gas and electricity rationing, disrupting production. But market integration and multilateral cooperation also risk being very much affected. What we are living through is a profound, as well as dramatic, watershed, which may lead to economic patterns that are now difficult to define.
+
+In this respect, I believe that the public discussion that has followed the ECB Governing Council's latest decision about the perceived prevalence of a hawkish tone lacks focus. By acknowledging the situation of high Knightian uncertainty that we are facing we decided that we could not commit our actions beyond the very short term. Even proceeding along the path of gradual monetary policy normalisation, we chose to keep all our options open, as it is clear that we are not yet in a position to fully assess the economic implications of this unprecedented situation. On one hand, second-round effects on nominal wages and longer-term inflation expectations have to be closely monitored; on the other, the effects on real activity and incomes, and through them on aggregate demand and price developments, obviously have to be taken into account.
+
+Our contribution - and responsibility - in such difficult times is not to increase but instead to reduce uncertainty. To this end, another aspect that plays a very important role is the commitment that, within our mandate and under stressed conditions, flexibility will remain an element of monetary policy whenever the emergence of threats to the transmission mechanism of monetary policy jeopardises the attainment of price stability. Indeed, guaranteeing a smooth functioning of financial markets and assessing the implications of our decisions on financial conditions with great care are necessary conditions for delivering on our medium-term price stability mandate.
+
+Our decisions remain intertwined with those of the fiscal authorities. As I mentioned, a supply-side shock should be tackled predominantly by fiscal policy which could shield the economy by diminishing the transmission of price increases from energy to consumer goods and limiting the loss in disposable income. The de facto coordination between fiscal and monetary policy, which has worked well in the last two years to counteract and contain the economic and financial consequences of the pandemic crisis, is still necessary today. I believe that if fiscal policy is effective in attenuating the impact on households and businesses of the incredible leap in energy prices and if monetary policy proceeds with caution, absent the second-round effects that I already
+
+mentioned, we will be able to successfully continue the gradual normalisation of our monetary policy stance started at the end of last year.
+
+This said, fiscal policies should remain focused on increasing growth potential, while preserving the good health of public balances, two closely interconnected objectives. The relevance of the former is magnified by the challenges that will characterise the next decade, including the inevitable normalisation of the growth rate of the economy and of short- and long-term interest rates as well as the ageing of the population. Regarding the second objective, countries with high public debt will have to progressively improve their primary balance.
+
+Of course, an immediate end to the Russian aggression in Ukraine could quickly put an end to the escalation of energy prices, bringing inflation down and helping us to put the economy back on a growth path. In expressing solidarity with the Ukrainian people, I believe I speak for everyone when I say that peace is the result we all hope for.
+
+FIGURES
+
+## Real disposable income and GDP
+
+(annual data; percentage changes)
+
+Source : US Bureau of Economic Analysis and Eurostat (real disposable income for the euro area in 2021 is estimated).
+
+## Figure 2
+
+## Demand in the goods and service sectors
+
+## a. United States
+
+(monthly data; indices: Jan. 2020 = 100)
+
+Goods sector
+
+Service sector
+
+b. Euro area (quarterly data; indices: 2019q4 = 100)
+
+Goods sector
+
+Service sector
+
+Source : US Bureau of Economic Analysis and estimates based on Eurostat data. Note : dashed lines show pre-pandemic trends.
+
+## Contributions to consumer price index inflation (monthly data; percentage changes and percentage points; year-on-year growth)
+
+Source : US Bureau of Labor Statistics and Eurostat.
+
+## Figure 4
+
+Source : Refinitiv.
+
+## Wages (monthly data; percentage changes; year-on-year growth)
+
+Source : US Bureau of Labor Statistics and ECB.
+
+Source : Survey of Professional Forecasters , Federal Reserve Bank of Philadelphia, February 2022; Survey of Professional Forecasters , ECB, February 2022; euro area data exclude one outlier.

@@ -1,0 +1,137 @@
+## 20.03.2024
+
+## Monetary Policy Transmission and the Banking System
+
+The ECB and Its Watchers Frankfurt Pablo Hernandez de Cos
+
+Governor
+
+| would like to thank the Institute for Monetary and Financial Stability and the Goethe Universitat for inviting me to take part in this event, thus giving me the opportunity to share with you some reflections on the transmission of monetary policy through the banking system during the current hiking cycle.
+
+| will start by summarising some features that could have potentially altered the strength and speed of the monetary policy transmission mechanism in the euro area in comparison with previous tightening cycles. | will then focus on the evidence we have on how monetary policy has been transmitted during the last two years to financial conditions and, ultimately, activity and prices.
+
+## Specific features of the current monetary policy tightening cycle
+
+The first factor that could have potentially altered the strength and speed of the monetary policy transmission mechanism in the recent tightening process is related to structural changes in the euro area banking system. Banks are now better capitalised and display higher liquidity ratios than in the past. This is mostly attributable to new regulations introduced after the global financial crisis. Additionally, there has been an increase in the degree of concentration in the banking sector.' And the economic literature suggests that greater concentration in the banking sector and the existence of healthier banks tend to weaken the monetary policy transmission mechanism.?
+
+' For instance, the average share of assets held by the five largest banks in the euro area has risen from 60% in 2008 to 68% at the end of 2022. For further details, see EU structural financial indicators: end of 2022.
+
+? In particular, better capitalised banks are able to obtain funding at lower costs and to absorb potential losses associated with the tightening of monetary policy and, as a consequence, can grant more loans and at a lower price (see Altavilla, C., F. Canova and M. Ciccarelli. (2020). "Mending the Broken Link: Heterogeneous Bank Lending Rates and Monetary Policy Pass-Through". Journal of Monetary Economics, vol. 110, pp. 81-98, Holton, S., and C. Rodriguez d'Acri. (2018). "Interest rate pass-through since the euro area crisis". Journal of Banking &amp; Finance, vol. 96, pp. 277-291, or Gauvin, M. S. (2014), "Bank Characteristics and Procyclicality: A Theoretical Approach", Journal of Financial Risk Management). And the empirical evidence shows that banks operating in countries with higher levels of bank concentration increase
+
+A second factor relates to the debt burden of the euro area non-financial private sector, which has become less sensitive to interest rates hikes in the short term. Between 2012 and 2022, the share of households' bank debt with an interest rate fixation period of up to one year fell from 35% to 24%, while for non-financial firms the proportion of bank debt either maturing within a year or with an interest rate fixation period of up to one year declined from 70% to 59%.° However, the gross debt to income ratios of households are now higher than in the 2000 and 2005 tightening episodes, which would tend to strengthen transmission.*
+
+Third, there has been a shift from bank to bond funding over the last decade, with bond debt increasing from 16% to 24% of non-financial corporations' total debt between 2012 and 2022. This, together with the faster monetary policy pass-through to bond rates than to bank rates, implies faster transmission than in the past.
+
+Fourth, when the ECB started to tighten its monetary policy, money market rates were in negative territory and there was an excess of liquidity in the banking system. This very accommodative starting position may have weakened the pass-through of market rates to deposit rates. However, cutting rates to negative levels can compress term rates by more than an equally sized cut from one positive level to another. This is because of frictions that encourage investors to move along the duration and risk scale when interest rates are negative. Symmetrically, raising rates from negative to zero or positive levels could also have a disproportionate tightening impact on the term structure.®
+
+Fifth, some euro area countries had experienced a significant increase in house prices over the decade running up to the pandemic, with signs of overvaluation.* And housing represents a major part of household wealth and bank assets. The tightening of monetary policy may contribute to an adjustment in house prices, especially in countries with stretched valuations. Thus, a potential decrease in house prices would weigh negatively on household wealth, with a possible impact on consumption due to wealth effects. Additionally, it would have a negative impact on banks' portfolios, by reducing the value of the collateral provided to banks by households and firms, which might ultimately affect credit developments.
+
+Sixth, as regards the origin of the inflationary episode, adverse supply shocks, notably bottlenecks and the energy shock that followed Ukraine's invasion by Russia, have played a greater role this time. As a result, the tightening took place in a context of weak growth and high uncertainty, which may have contributed to amplifying the tightening of financing conditions through higher risk premia and tighter credit standards. But, of course, the deposit remuneration to a lesser extent and offer bank credit at lower costs (see Mayordomo and Roibas (2023), "The pass-through of market interest rates to bank interest rates", Banco de Espajfia, or Van Leuvensteijn, Sorensen, Bikker and Van Rixtel (2013), "Impact of bank competition on the interest rate pass-through in the euro area", Applied Economics).
+
+3 These results, however, mask a significant degree of heterogeneity across countries.
+
+4 See "The banking channel of monetary policy tightening in the euro area". Philip R. Lane, at the Panel Discussion on Banking Solvency and Monetary Policy, NBER Summer Institute 2023 Macro, Money and Financial Frictions Workshop, July 2023.
+
+5Advance communication of an imminent hike can attenuate this threshold effect. See, Altavilla et al (2021): "Combining negative rates, forward guidance and asset purchases: identification and impacts of the ECB's unconventional policies", ECB Working Paper Series No. 2564.
+
+® See the ESRB reports on "Vulnerabilities in the residential real estate sectors of the EEA countries".
+
+opposite might have been true when the reversal of the surge in energy prices and the easing of supply chain bottlenecks took place.
+
+Finally, the current tightening cycle has been unprecedented both in terms of its magnitude and speed. Between July 2022 and September 2023 (i.e. in 14 months) policy rates rose by 450 bp and were accompanied by a significant reduction in our balance sheet. The possible existence of non-linearities, in particular those related to the deterioration of private sector balance sheets, could have strengthened the transmission.
+
+## How has the ECB's monetary policy been transmitted to financial conditions?
+
+As to what has actually happened during this hiking cycle in terms of transmission, and focusing on the banking sector, the evidence so far shows the following stylised facts:
+
+First, since December 2021, when the tightening cycle began, up to the present, the passthrough of higher market rates to the remuneration of time deposits has been weaker than would have been expected on the basis of historical regularities. Specifically, the cumulated increase in time deposit interest rates observed in this cycle has been around 100 bp and 20 bp lower for households and non-financial corporations, respectively, than the historical regularities of past hiking cycles would have suggested.
+
+Based on the analysis of data from a pool of around 100 European banks, we find that this weak pass-through could be attributable to banks' reduced funding needs to support their lending, given ample liquidity and weak credit demand.' The greater concentration in the banking sector also contributed to the weakness of the pass-through. And the fact that the remuneration of deposits was above market interest rates at the beginning of this cycle, reflecting banks' reluctance to reduce it into negative territory during the expansionary monetary policy phase also played a role. In particular, it may have led credit institutions to
+
+' For more details on the potential drivers of the pass-through to deposit and mortgage rates over the period December 2021 —-December 2022, see Mayordomo and Roibas (2023), "The pass-through of market interest rates to bank interest rates", Banco de Espafia
+
+delay the increase in deposit remuneration until the spread over market rates turned negative.
+
+Second, the average increase in interest rates on new loans for house purchase has been in line with historical patterns. However, in this case, it was found that banks whose total deposit remuneration had risen the least over the reference period and banks that were better capitalised passed through the increase in market interest rates to their mortgage rates to a lesser extent.
+
+In the case of new loans to non-financial corporations, the pass-through has been more intense. In particular, the cumulated increase has been 50 bp higher than what would have been expected given past hiking cycles. This could be related to the weaker macroeconomic environment and higher uncertainty in the current cycle, shaped by a sequence of supply shocks, compared to past tightening episodes, resulting in higher credit risk premia.
+
+Third, credit standards have tightened significantly since 2022, in contrast to the slight easing observed in the tightening cycle of 2005-2006. The tightening has also been more severe than during the sovereign debt crisis, although not as sharp as during the global financial crisis.
+
+The contraction in credit supply during the current tightening cycle is mainly attributable to the greater risk perceived by lenders, associated with the weak macroeconomic outlook, together with a deterioration in banks' perceptions of borrowers' creditworthiness. These factors are related to the negative supply shocks observed in this cycle, in contrast to the positive demand shocks that predominated during the 2005 monetary policy tightening cycle.
+
+In addition, banks' cost of funds and balance sheet constraints have also contributed to the tightening, although to a lesser extent. According to recent research conducted at the
+
+Banco de Espajia,® less capitalised banks have tightened their credit standards on loans to firms to a greater extent in the current hiking cycle. This can be explained by poorly capitalised banks having lower loss-absorption capacity than well-capitalised banks, meaning that they may not be able to take on additional risks.
+
+Fourth, the tightening in credit standards, coupled with lower demand for funds, has resulted in a marked slowdown in credit flows, which, since end-2022, has been more intense than historical regularities would have suggested.
+
+Indeed, in recent years, credit developments have repeatedly surprised on the downside compared to projections based on historical patterns. In this regard, research conducted by the Banco de Espana shows evidence of non-linear effects of the transmission of monetary policy to credit standards for loans to non-financial corporations due to the unprecedented intensity of the increase in interest rates. ECB analysis also shows that a non-linear model taking into account not only the overall size of the rate hikes but also the size of rate hikes per unit of time gives a much better fit when trying to replicate the observed loan creation developments.'°
+
+Fifth, in terms of the impact on the financial vulnerability of households and firms, as expected, the increase in interest payments associated with the increase in interest rates has been more pronounced in euro area countries with a strong prevalence of floating rate contracts or short-term loans in the stock of mortgages and corporate debt, such as Spain and Italy.11 The SAFE (Survey on access to financing by enterprises) also shows that
+
+8 See Garcia-Posada, M. and P. Paz (2024), "The transmission of monetary policy to credit supply in the euro area", mimeo.
+
+° See Garcia-Posada and Paz (2024), "The transmission of monetary policy to credit supply in the euro area", mimeo.
+
+1° For further details, see "Tite banking channet of monetary policy tightening in the euro area". Philip R. Lane, at the Panel Discussion on Banking Solvency and Monetary Policy, NBER Summer Institute 2023 Macro, Money and Financial Frictions Workshop, July 2023.
+
+"! For the euro area, the cumulated increase since December 2021 in the average interest rate on outstanding bank loans has been 90 bp and 240 bp for households and firms, respectively. In Spain the cumulate increase in the average cost of outstanding bank debt has been 230 bp and 270 bp for households and firms, respectively.
+
+the financing gap of euro area firms (the difference between their financing needs and actual financing) has widen measurably in the course of 2023.
+
+In this regard, an analysis based on the historical relationship between the probability of default on loans granted by Spanish banks and the level of interest rates shows some evidence of a non-linear relationship between these two variables for both mortgages and loans to SMEs.'? However, these effects are only sizeable for very large increases in interest rates and, especially, when the increase takes place in an adverse macroeconomic scenario. This latter condition has not been fulfilled in the current juncture in Spain. Additionally, interest rates have risen significantly but not enough for the emergence of sizeable non-linear effects.
+
+Acomplementary analysis using micro data for Spain confirms the existence of a relatively linear relationship between the increase in the share of financially vulnerable households and firms and the rise in the interest rates in the current juncture,'* with the exception of indebted households with below-median income, for which there is some evidence of small non-linear effects once interest rates increase by more than 250 bp.
+
+"2 The PD is modelled with an autoregressive logit specification with macro-financial controls, as in the top-down stress test model of Banco de Espafia (FLESB). The estimation sample comprises loans of significant institutions (Sls). Under the baseline scenario, macroeconomic variables other than interest rates are fixed at values in line with central forecast, whether under the adverse scenario, they are fixed at stressed levels in line with the 2023 FLESB and EBA stress test exercises. Household mortgages refer to loans to physical persons with housing present as real guarantee, whereas loans to SMEs refer to loans to firms that qualify for this definition in sectors of activity other than real estate development and construction.
+
+18 Simulations performed using data from the Spanish Survey of Household Finances (Banco de Espafia, 2020) for households, and the Central Balance Sheet Data Office integrated database (CBI) of 2021 for firms. Households are considered vulnerable when debt service costs exceed 40% of their income, whereas a firm is considered to be vulnerable when its interest coverage ratio is below one. The interest coverage ratio is calculated as (GOP + financial revenue) / financial costs.
+
+But there is also evidence that the strong growth in nominal income has slowed the increase in the percentage of vulnerable indebted households and firms. In the case of households, the strong increase in income reflects both the rise in nominal wages and the favourable performance of employment, which has grown by more than we had expected". In the case of firms, sound corporate earnings have also kept the increase in the percentage of vulnerable indebted firms in 2023 at moderate levels.
+
+very
+
+Finally, as regards the impact on the euro area banking sector, the contained increase in the financial vulnerability of households and firms is also reflected in the limited
+
+14 In the Spanish case, for example, according to estimates drawing on our Survey of Household Finances, the share of vulnerable indebted households rose moderately, from 10.5% in 2020 to just 11.2% in 2023 Q3.
+
+materialisation of credit risk, even if default rates and NPLs are increasing in some sectors and customer segments, most notably for exposures to commercial real estate, SMEs and consumer loans'&gt;.
+
+As a result, credit risk still falls short of the deterioration that could be expected, based on historical regularities, following a deteriorating economic outlook, higher interest rates and increases in bankruptcies. In this regard, there is evidence that the build-up of credit risk on banks' balance sheets has been dampened by banks pre-emptively rebalancing their loan and securities portfolios towards safer assets.
+
+The rise in interest rate margins, as a consequence of the interest rate increase, together with the limited materialisation of credit risk has led to a recovery in banks' profitability and banks have remained well capitalised.
+
+All in all, these results suggest the lack of amplification mechanisms through the banking system in the transmission of the tightening of monetary policy in the current cycle.
+
+## How have tighter financial conditions been transmitted to activity, employment and prices?
+
+As to the evidence on the second leg of our monetary policy, from financial conditions to activity and prices, it is of course very difficult to assess in real time. However, some available analyses are useful in order to make a preliminary assessment.
+
+First, since the start of the current monetary policy tightening cycle, the Eurosystem staff macroeconomic projections have systematically overestimated GDP growth and these
+
+'8 In the Spanish case, the stock of Stage 2 household loans grew between end-2022 and 2023 Q1, but has fallen thereafter. And non-performing household loans increased slightly between 2023 Q1 and 2023 Q3 (the latest available data). In the case of loans to non-financial corporations, NPLs in banks' credit portfolios continued to fall, while Stage 2 loans picked up in 2023 Q3. In any event, the total stock of problem loans (NPLs and Stage 2 loans) to both households and firms on banks' balance sheets fell slightly during the first three quarters of 2023.
+
+downward surprises do not seem to be fully explained by errors in the technical assumptions, including the changes in the stance of fiscal and monetary policy. In these projections the impact of financial variables on activity and inflation is largely based on historical correlations and linear models. Therefore, this evidence might be signalling a stronger transmission of monetary policy to macroeconomic variables than in the past.
+
+But, of course, we cannot rule out that other factors apart from monetary policy may explain these systematic errors in the projections. And, in this regard, the labour market has demonstrated remarkable resilience over the past two years, as illustrated by lower than expected unemployment rates, compared to staff projections. Even though those projections were directionally correct in predicting a slowdown in employment growth, the latter has been much higher than expected, more than compensating for stronger than expected increases in the labour force. The persistent underestimation of employment growth could be attributed, at least to some extent, to labour hoarding by firms in a context of a very tight labour market and an economic slowdown largely perceived as transitory.
+
+In the case of inflation, Eurosystem projection errors were significant in 2022 but their accuracy has significantly improved since the end of 2022. And projection errors have been mainly related to surprises in energy commodity prices and global supply chain disruptions"®.
+
+Second, Banco de Espafia evidence based on recursive estimates of the impact of (nonsystematic) monetary policy shocks by means of a structural VAR (SVAR) model shows that, in the current tightening cycle, the transmission of monetary policy to GDP growth and inflation would have been somewhat more intense than that observed -on average -
+
+16 Chahad, M., Hofmann-Drahonsky, A.-C., Meunier, B., Page, A. and Tirpak, M. (2022), "What explains recent errors in the inflation projections of Eurosystem and ECB staff?", Economic Bulletin, Issue 3, ECB; Chahad, M., HofmannDrahonsky, A.-C., Page, A. and Tirpak, M. (2023), "An updated assessment of short-term inflation projections by Eurosystem and ECB staff", Economic Bulletin, Issue 1, ECB.
+
+before this unprecedented tightening cycle. This is especially the case for growth, whereas the evidence for inflation is less conclusive."'
+
+## Conclusions
+
+Allin all, the evidence | have presented today suggests that the transmission of the current monetary policy tightening cycle to private-sector financing conditions has been forceful and, in some cases, stronger than would be expected on the basis of historical regularities. This reflects some specific features of the current tightening cycle, such as the origin of the inflationary episode in adverse and longer-than-expected supply shocks and the unprecedented intensity and speed of the hiking that seems to have given rise to nonlinear effects on the credit supply.
+
+By contrast, there is no evidence of amplifications effects through the banking system linked to the deterioration of private sector balance sheets. The strong growth in the nominal incomes of households and firms seems to have limited the impact on credit risk. The positive evolution of employment has played a crucial role in this regard. Also, the implementation of Basel Ill reforms in the EU to all banks, regardless of their size, has improved the liquidity and solvency position of EU banks, thus helping the banking system to absorb and not amplify negative shocks.
+
+As regards the second stage of monetary policy transmission, some of the available empirical evidence might be signalling a stronger transmission to aggregate demand. However, we have persistently underestimated employment growth and we do not find conclusive evidence of a differential impact of our monetary policy on inflation in comparison with previous tightening cycles.
+
+This analysis confirms that a stronger than expected monetary policy impact remains a downside risk to the euro area growth outlook, as mentioned in our last monetary policy statement. Thus we shall be closely monitoring the materialisation of such risks and calibrate accordingly the degree of monetary restriction, in particular in a context in which our staff projections are currently anticipating a gradual return of inflation towards our 2% symmetric target in the medium-run and with the risks to the inflation outlook being, in my view, balanced.
+
+17 The in-house evidence is based on recursive estimates on the impact of (non-systematic) monetary policy shocks by means of a Structural VAR (SVAR) model extension from Brandt et al (2021) "What drives euro area financial market developments? The role of US spillovers and global risk", ECB Working Paper No. 2560 , identified through sign restrictions.
