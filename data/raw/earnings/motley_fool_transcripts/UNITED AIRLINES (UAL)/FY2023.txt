@@ -1,0 +1,573 @@
+Ticker: UNITED AIRLINES (UAL)
+Fiscal Year: FY2023
+Query Used: UNITED AIRLINES (UAL) FY23 earnings call transcript motley fool
+Source URL: https://www.fool.com/earnings/call-transcripts/2021/07/21/united-airlines-holdings-inc-ual-q2-2021-earnings/
+Title: United Airlines Holdings Inc (UAL) Q2 2021 Earnings Call Transcript
+Fetched At (UTC): 2026-04-13T01:04:07.201791+00:00
+
+UAL earnings call for the period ending June 30, 2021.
+
+Image source: The Motley Fool.
+
+United Airlines Holdings Inc 
+(
+UAL
+1.20%
+)
+
+Q2 2021 Earnings Call
+Jul 21, 2021, 10:30 a.m. ET
+
+Operator
+
+Good morning and welcome to United Airlines Holdings Earnings Conference Call for the Second Quarter 2021. My name is Brandon and I'll be your conference facilitator today. Following the initial remarks from management, we will open the lines for question. [Operator Instructions]
+
+This call is being recorded and is copyrighted. Please note that no portion of the call may be recorded, transcribed or rebroadcast without the Company's permission. Your participation implies your consent to our recording of this call. If you do not agree with these terms, simply drop off the line.
+
+I will now turn the presentation over to your host for today's call, Kristina Munoz, Director of Investor Relations. Please go ahead.
+
+Kristina Munoz -- Director, Investor Relations
+
+Thanks, Brandon. Good morning everyone and welcome to United's second quarter 2021 earnings conference call. Yesterday, we issued our earnings release which is available on our website at ir.united.com. Information in yesterday's release and the remarks made during this conference call may contain forward-looking statements, which represent the Company's current expectations or beliefs concerning future events and financial performance. All forward-looking statements are based upon information currently available to the Company. A number of factors could cause actual results to differ materially from our current expectation. Please refer to our earnings release, Form 10-K and 10-Q and other reports filed with the SEC by United Airlines Holdings and United Airlines for a more thorough description of these factors.
+
+Also during the course of our call, we will discuss several non-GAAP financial measures. For a reconciliation of these non-GAAP measures to the most directly comparable GAAP measures, please refer to the tables at the end of our earnings release.
+
+Joining us on the call today to discuss our results and outlook are Chief Executive Officer, Scott Kirby; President, Brett Hart; Executive Vice President and Chief Commercial Officer, Andrew Nocella; and Executive Vice President and Chief Financial Officer, Gerry Laderman. In addition, we have other members of the executive team on the line available to assist with the Q&A.
+
+And now, I'd like to turn the call over to Scott.
+
+Scott Kirby -- Chief Executive Officer
+
+Thanks, Kristina. Good morning everyone and thanks for joining us today. It was great to see many of you in person at our United Next event last month in New York. And personally, it's been great to be back out on the road during the quarter, talking to employees and customers and hearing anecdote after anecdote about how great it is to be back traveling. Thank you also to all the people of United Airlines for all that they did to take care of our customers and each other through the crisis and for all that they're doing now to really and truly change the customer experience at United Airlines.
+
+Before I really begin, I thought I'd take a moment to address the most talked-about issue among airline investors recently, the delta variant. As you'll hear from our bullishness today, we haven't seen any impact at all on bookings, which continue to just get stronger and stronger every week, but of course that is backwards-looking data. Since early 2020, however, no airline has been more willing to candidly acknowledge the risk and challenges posed by COVID-19, and importantly, no airline has been quicker to aggressively confront them than United. We've worked hard to protect that operational flexibility. In fact, it's part of why we haven't had the same mass group cancellation challenges that our competitors have faced as we ramped our schedule over the last couple of months.
+
+That all said, we think the most likely outcome is that the continued recovery in demand continues largely unabated. That's the most likely and logical outcome because the evidence is overwhelming that someone who is vaccinated is highly protected against severe disease, hospitalization and death. The un-vaccinated still face an elevated risk of serious illness and death from COVID-19. In fact, recent reporting says that over 97% of hospitalizations are for un-vaccinated people which implies that you're about 50 times more likely to wind up in the hospital for COVID if you're un-vaccinated. But the un-vaccinated are also a smaller and shrinking percentage of the general population and an even smaller minority among the most vulnerable groups. And for United Airlines specifically, our customer surveys at the end of June also revealed that 84% of our MileagePlus members were already fully vaccinated. And so while we expect case count [Phonetic] to rise, given the vaccination rates they will still remain well below the peak and hospitalizations and deaths will not rise nearly as much. That leads to the logical outcome that the reopening continues on track. I'd acknowledge that shutting down or continuing the reopening also has a political dimension to it and that's a lot harder to predict. And so it's possible we will have a temporary pullback in the reopening. But given the data science around vaccines, that seems like a lower probability outcome and, regardless, it will be temporary, even if it does happen.
+
+Turning now back to our results. Gerry and Andrew will provide a lot more detail. But if I was going to briefly summarize where things stand right now, I'd say the demand is recovering even faster than we had hoped domestically, both leisure and business demand. And internationally we see the exact same pattern every time new borders are reopened. And while the US isn't yet opened to Europeans the data and science, including the demonstrated safety of air travel, similar vaccination and case rate and similar level of variance in Europe and the US support an opening and we expect it to happen at some point. And when the borders do open, we expect to see the same robust hockey stick increase in demand that we've already seen domestically.
+
+On the cost front, we remain on target for the near and long term. And as Gerry will detail, assuming the grounded 777s are back flying, we expect our 2022 CASM-ex will be lower than 2019, which means we're right on track to deliver CASM-ex that's 4% lower in 2023 and 8% lower in 2026 as we shared at our United Next event last month.
+
+Today with the robust demand trends that we see and our return to profitability, we don't just see the light at the end of the tunnel. We're exiting the tunnel. We're focused on upgauging our hub, significantly improving the product and decommoditizing air travel by transforming our customers' onboard experience. This opportunity is unique to United. It is why we're so confident in our 2023 and 2026 financial targets.
+
+As we exit the tunnel, there is still a steep hill to climb to get back to and then exceed our pre-COVID margins. But we also have some important upcoming tailwinds that will benefit United more than others. First, our coastal hubs and our decision which stands alone among network -- large network carriers, not to retire widebody aircraft means that we are ready to capture the pent-up demand for long-haul international travel. Second, our opportunity to upgauge our fleet while also driving increased connectivity as part of United Next means we can accelerate the margin improvements we saw from investments in the mid-con hubs in 2018 and '19.
+
+And of course our confidence in United's future is also fueled by the incredible performance of the United team. Even in the midst of a global pandemic, our NPS scores rocketed up 30 points year-over-year. And our 50 point year-over-year improvement in the J.D. Power survey was the largest of any US airlines. This customer-centric service culture and an influx of nearly 500 new aircraft along with an unprecedented retrofit of our existing narrowbody will transform our customers' experience. It will also usher [Phonetic] an incredible new post-pandemic era for United's customers, employees and shareholders, creating a new era driven by innovation that makes the travel experience better. And I'm really proud of the work the team did in the second quarter to innovate with customers and our employees.
+
+And with that, I'll turn it to Brett.
+
+Brett J. Hart -- President
+
+Thanks, Scott. I want to start by congratulating the entire United family on our expected return to profitability in the second half of this year. The United team has worked toward this milestone of achieving positive adjusted pre-tax income for over a year and could not be more proud. During the second quarter, United continued our work to make the travel experience safer and more convenient for our customers. We recently made new enhancements to our already industry-leading app to allow customers to schedule COVID-19 tests and have results directly verified through the Travel-Ready Center platform within the United app.
+
+In May, we announced a first of its kind collaboration to use Abbott's COVID-19 Home Test and app to enable our customers to self-administer a rapid antigen test and use the verified negative test result to board an international flight to the United States. As borders continue to open, we are working to make the return to international travel as convenient as possible for our customers. These initiatives make us uniquely ready to facilitate international travel and further position us as the leading international airline in the US.
+
+In addition, we recently launched our "Your Shot to Fly" sweepstakes working effectively with the federal government to creatively encourage people to get vaccinated and ultimately get back on planes again. We feel optimistic from the recent progress among European countries allowing US tourists to enter the various -- to enter with various vaccine and testing requirements. Countries such as Iceland, Croatia, Greece, Italy, France and Spain have all began accepting US travelers for the summer tourist season and we look forward to more destination options for our customers in the coming months. We continue to encourage the Biden administration to open up international travel and appreciate the bipartisan as well as industry support to ease international travel restrictions. And Andrew will detail further. The demand surges we've seen to countries once restrictions are loosened gives us even greater confidence regarding the long-term outlook for international travel.
+
+On the domestic side, all states have reopened local economies and removed travel restrictions enabling the surge in domestic leisure travel we're currently seeing. We remain focused on United's transformation to be the airline customers choose to fly. We have already eliminated change fees and with our new aircraft order we will improve the customer experience. We're adding seatback entertainment to all of our aircraft, improving Wi-Fi and innovating with customer-friendly technology like [Indecipherable], like ConnectionSaver which saved over 140,000 connections in the second quarter.
+
+News from Washington, D.C., continues to be a focal point for United. We are encouraged by the bipartisan efforts to make needed investments in our nation's infrastructure. Infrastructure is the backbone of our economy and it must be robust, sustainable and resilient to meet the needs of today and tomorrow. We support modernizing our nation's air traffic control system and advancing sustainable aviation fuel as important aviation infrastructure investment that also reduce industry emissions.
+
+Moving on to other highlights within our global network. At United, we continue to be a proud partner for our communities. Throughout the quarter we expanded efforts to support those impacted by COVID-19 crisis in India. United remain the only US carrier to serve India, a distinction we hold to date, and help transport more than 300,000 pounds of critical medical supplies to the region. We additionally launched a fundraising effort to enable our customers to donate to relief partners.
+
+In the quarter, we announced new initiatives with multiple partners to advance our sustainable goals across the United States. These partnerships cover a range of sustainable initiatives, including decarbonization, sustainable aviation fuel and sustainable agriculture. During the quarter, we also announced a new order with Boom Supersonic for the Overture, the first large commercial aircraft optimized to run on 100% sustainable aviation fuel. We also announced our latest investment under United Airlines Ventures and Heart Aerospace, an electric aircraft start-up developing an aircraft that has the potential to fly customers up to 250 miles before the end of this decade. United continues to lead the industry with a multipronged approach to our commitment to reducing our greenhouse gas emissions by 100% by 2050 without relying on traditional offsets and we look forward to more to come on this front.
+
+And with that, I will turn it over to Andrew.
+
+Andrew Nocella -- Executive Vice President and Chief Commercial Officer
+
+Thanks, Brett. I'm going to start off today by thanking the best commercial team in the business. Our combined efforts and agility over the last 18 months led us to this moment today announcing the generally positive TRASM, PRASM and yield outlook for the second half of 2021, something hard to imagine just 12 months ago. The revenue outlook is allowing for a much improved and profitable financial results on adjusted pre-tax basis for the second half of the year and Gerry will talk about that in just a bit.
+
+Our realistic view of the pandemic's impact on our business and industry was sometimes questioned. However, a realistic assessment from day one, combined with capacity corresponding to real demand, not what we hoped demand would be, were the keys and prepared us for what comes next. We'll let facts guide us the entire way and I'm pleased to report today the facts point to a strong recovery of our business across all segments. As Scott said, we're coming out of the tunnel. We now have a clearer path, not only to profitability in the near term, but a path to higher long-term margins even in an environment with elevated industry domestic capacity.
+
+During the crisis we are pleased with our TRASM performance and in the second quarter our TRASM was down 11% versus 2019. Our performance in Q2 is well ahead of our original guidance but largely consistent with our updated mid-quarter expectations. International long-haul demand, business demand and yields just improved faster than expected three months ago. We still face significant headwinds for the second half with borders being closed and business traffic not fully back, but ultimately we expect these headwinds will transition to tail.
+
+Our ability to adjust our global network to transport record amounts of cargo is one of our proudest accomplishments and a clear differentiator versus others. In fact, during the quarter, United generated $606 million in cargo revenues, our highest cargo revenue quarter ever, up 105% from 2Q 2019. With long haul passenger demand now increasing, we will cease most of these cargo-only flights for the remainder of 2021, although we continue to project [Phonetic] strong cargo yields for the remainder of this year. During the crisis, we also carefully planned and collaborated across divisions to execute a bounce-back plan for the second half of 2021. Our summer capacity plan continued a measured phase-in of that capacity. For Q3 we expect system capacity to down 26% versus Q3 of 2019, up about 39% versus capacity flown in Q2. We expect domestic capacity to be down about 20% versus Q3 2019 and up 43% versus Q2.
+
+Business travel, which was down over 90% versus 2019 for most of Q2 has inflected sharply in June. It's currently down about 60% versus pre-pandemic levels. We expect two more inflection points in business demand. First, at the end of the summer and second, the new budget cycle beginning in January. We expect business demand to improve by the end of the third quarter to be down about 40% to 45% versus 2019.
+
+Our recent survey of business customers now indicate over 90% plan to return to travel, including international travel in the second half of '21. That is up from around 55% earlier this year. On our last conference call, we talked about the fact that domestic yields for United will be positive this summer and that we still expect it to be the -- that we still expect that to be the case. Overall domestic yields are still likely to be slightly negative in the quarter due to business traffic slower recovery. To give you some color on yield, Q3 right now booked domestic yields today are running ahead of 2019. That higher yield is also matched with higher booked load factors relative to 2019. We really have set ourselves up from an RM perspective very well.
+
+International demand is also recovering, but as we anticipated at a slower rate. For Q3 we expect international capacity to be down 36% versus 2019 relative to down 53% in Q2. The demand bounce back does differ considerably by cabin and by region and even within the region depending on travel restrictions. While business demand is down, we've used special incentives to get our MileagePlus members back onboard with better access to Polaris seats via awards and upgrades.
+
+Asia was the first region to be impacted by COVID and continues to be the slowest to recover. There is the largest number of border restrictions. It will likely be 2023 at least until we see a normal schedule to Asia. In the meantime, our global network already includes new service to India and Africa to compensate for reduced Asian flying.
+
+Our European schedule this summer is quickly ramping back up. However, with continued restrictions on Europeans from entering the US and on US travelers from entering key countries in Europe, including the UK, we anticipate that it will be the spring of 2022 prior to resuming a normal schedule. We expect our summer Atlantic load factors to be around 70% in 2021, 16 points lower than 2019. I have to add that we think the summer of 2022 across the Atlantic has the potential to be our best season ever with pent-up demand and easing border restrictions.
+
+We continue to see structural changes in global long-haul flying that we believe will create tailwinds for United as borders continue to open. We expect to have 30 incremental widebody jets available to schedule in the summer of 2022 versus 2019, which is why our recent aircraft order we're focused on narrow-body aircraft only.
+
+We continue to operate our 767 fleet which we used just a few weeks ago to begin service to Croatia, the optimal plane for this type of mission. Overall, we expect that our TRASM for Q3 will be positive. Premier members of the MileagePlus program are rapidly returning to flying on United, a great sign for 2022 business demand. Year-to-date, three quarters of our top Premier members have already flown with us or have booked a flight. Of the Premier members that have not planned to fly yet, our research shows that they tend to be fliers focused largely on global long-haul markets that simply haven't opened up yet. Many of our Premier members are also maintaining an active spend on one of our credit cards, increasing the level of program engagement in 2021 among our top members to more than 90%. Our Chase co-brand card programs are thriving. Our June 2021 new accounts domestic sales and account retention metrics all exceed June 2019 figures.
+
+I just want to also spend a few moments today talking about United Next. United Next is simply our acceleration of many of our pre-pandemic strategies. It's a plan to close the short gaps in our commercial strategies, customer focus and passenger amenities. Most importantly, our plan is for gates to increase by 30% by 2026. 50-seat RJs allowed United to grow schedule depth as we built our mid-con hubs. But it's now time to replace many of these jets with modern and more fuel-efficient 737s and A321s, lowering our unit costs and increasing profits, while at the same time increasing our product quality with amenities such as seatback entertainment at every seat and larger overhead bins. Most importantly, United Next is not about increasing seat density in planes, reducing comfort, lowering onboard amenities or reducing the number of first-class or Economy Plus extra legroom seats as others have done. In fact, our premium seat counts will increase by 75% in North America per departure by 2026 versus 2019. And, of course, that's aligned with the revenue potential of our United hubs. United Next will allow us to differentiate and decommoditize our network, segment our products and put customers first but also maintain fair competitiveness with low-cost competitors while offering a superior product.
+
+We're excited to come out the other side of this tunnel and plan for an amazing and bright future. I'd like to thank the entire United team for their efforts as well. Together, we've made an amazing difference.
+
+With that, I'll turn it over to Gerry and he'll talk about our financial results for Q2 and the outlook for Q3. Gerry?
+
+Gerald (Gerry) Laderman -- Executive Vice President and Chief Financial Officer
+
+Thanks, Andrew. Good morning, everyone. For the second quarter of 2021, we reported a pre-tax loss of $600 million and an adjusted pre-tax loss of $1.6 billion. Our adjusted EBITDA margin for the second quarter ended down 10.7% in line with our prior guidance with our adjusted EBITDA margin, a positive 9% for the month of June. Our adjusted operating expenses for the second quarter ended down 32% versus the second quarter of 2019, which was slightly worse than prior guidance of down 33%. The entire difference though is attributable to greater fuel consumption and higher fuel prices as compared to what we anticipated when we provided second quarter guidance. All of our other costs came in as we expected, giving us continuing confidence in our ability to achieve our near term and long-term cost targets. As previously noted, as the demand environment continues to improve we expect to generate positive adjusted pre-tax income in the month of July. In fact, as we have said we expect to generate positive adjusted pre-tax income for both the third quarter and fourth quarter this year. Despite business and long-haul international demand not being fully recovered, we are pleased that our return to profitability is expected to occur well before prior expectations and we anticipate another step function improvement once business and international demand fully return.
+
+Turning to our outlook on costs. We expect our third quarter CASM-ex to be up approximately 17% versus the same period in 2019 with capacity down 26% versus 2019. To put the CASM-ex number in perspective, while capacity may be down 26% we are not simply flying 26% less of the same network. Given our current international and domestic mix where we are currently flying more short-haul domestic flights and combined with the temporary grounding of our fleet of Pratt powered 777 widebody aircraft, this has created an incremental 6 point headwind to our CASM-ex because of lower stage length and lower gauge versus 2019. Our cost outlook additionally includes investments necessary for future flying such as training and maintenance costs. On the positive side, embedded in this outlook is also the early success from our $2 billion structural cost savings plan.
+
+We expect CASM-ex will better represent our true cost performance once our capacity reverts back to 2019 levels and when the network begins to be reshaped with our United Next plan and we achieve the full implementation of our cost initiatives. We are currently in our 2022 planning process and though we won't share details today, we feel confident that our 2022 CASM-ex will be lower than 2019. We expect that our 2022 outlook demonstrates substantial progress toward hitting our long-term CASM-ex targets of down 4% in 2023 and down 8% in 2026 versus 2019.
+
+In addition to the structural cost reductions, our United Next targets are enabled by our recent announced order for 270 new narrowbody aircraft, which when added to our existing order book provide them with 500 narrowbody aircraft on firm order. We expect 191 of these aircraft to be delivered through the end of 2023. And for those of you in the aircraft financing community, this includes 13 737 MAX 8s through the remainder of this year, 20 MAX 8s and 20 MAX 9s in 2022 and 56 MAX 8s, 15 MAX 9s, 50 MAX 10s and 16 A321neos in 2023.
+
+Regarding capital expenditures this year. We currently expect adjusted capex for the full year to run about $4.5 billion. This assumes we take delivery of all eight 787-10 aircraft scheduled for later this year. With Boeing's recent announcement regarding delays in delivering 787, it is possible that some of these aircraft and the related capex may slip into next year.
+
+In closing, our expectation for adjusted pre-tax profitability in both the third and fourth quarters represent a milestone that the entire United family has worked toward since the beginning of the pandemic. Gone are the days of talking about empty aircraft, cash burn and job losses. We have now shifted our focus fully toward the long-term path for United Airlines and United Next plan. We believe our achievement throughout the crisis fully prepared us to execute on our plan to both maximize earning power and be the airline that customers choose to fly.
+
+And with that, I'll hand it over to Kristina to start the Q&A.
+
+Kristina Munoz -- Director, Investor Relations
+
+Okay. Thank you, Gerry. We will now take analyst questions. Please limit yourself to one question and if needed one follow-up question. Brandon, please describe the procedure to ask a question.
+
+Operator
+
+Thanks, Kristina. [Operator Instructions] And from Raymond James we have Savi Syth. Please go ahead.
+
+Savanthi Syth -- Raymond James -- Analyst
+
+Hey. Good morning, everyone. Your 3Q revenue guide is very strong and -- both relative to 2Q and compared to one of your peers. I was wondering what factors are driving that strength and what suffered during the assumptions you're building in for that business demand recovery? Thanks.
+
+Andrew Nocella -- Executive Vice President and Chief Commercial Officer
+
+Hi, Savi. It's Andrew. Good morning. What I'd say about our guide is that, and I've said this I think over the last few conference calls that in particular our coastal hubs have really suffered during the pandemic. Traffic goes down and those hubs a lot more than mid-cons and small community -- are mid-con hubs and small communities around the country. And we really see an acceleration in demand now out of those hubs, including leisure and business for -- business for domestic, in particular, which is really great to see. And it goes to say again that those headwinds, which were so significant during the crisis, are going to flip to tailwinds for United and provide us, I think, a lot of opportunity, kind of going forward.
+
+A little more color, for example, Newark in Q2 of this year was really our worst-performing revenue hub and we expect Newark in Q3 to be one of our best, to give you a little bit more color on what we're seeing there. So there's a lot more to come, I think. I'm really excited about this because these headwinds were just so significant during the crisis and I think they will be tailwinds as we come out of the crisis.
+
+Savanthi Syth -- Raymond James -- Analyst
+
+Andrew, just a follow-up too. Just -- it seems like you did a lot better job of also kind of tilting toward leisure VFR lately, maybe not similarly at some other airlines. But just wondering what mix of those new markets or capacity remain on as things normalize. And just really trying to understand if there is an opportunity here to change the seasonality of the network.
+
+Andrew Nocella -- Executive Vice President and Chief Commercial Officer
+
+Excellent question and thank you for the vote of confidence there. I'm sure our scheduling folks really appreciate it. We did, as I would say, tilt our capacity toward more leisure-oriented markets during the crisis and we continue to do so and will do so for at least the rest of this year. And tilting of those ASMs toward more leisure-oriented markets I think has helped us during this recovery. To the extent we did that better than others, I think our revenue forecast will be better than others. And so, we're pretty proud of that. We do intend to keep a bigger footprint in these leisure markets going forward, in particular, Florida where United was undersized. And that undersizing had led to Q1 results for United that could seasonally trail others. And we're hopeful that on the other side of this crisis as we rebuild the airline and we rebuild the network, we're going to build this better and we're going to be a bigger player in these leisure oriented markets in the Q1 time period than we have historically been.
+
+Operator
+
+And from Bank of America we have Andrew Didora. Please go ahead.
+
+Andrew Didora -- Bank of America Merrill Lynch -- Analyst
+
+Good morning, everyone. Just really kind of a follow-on to Savi's question on revenues. Maybe, Andrew, can you maybe talk about how the booking curve has sort of changed over the course of 2Q, now into 3Q? I would assume you have a lot more visibility today in terms of your 3Q revenue outlook as compared to back in April. And is there any color you can maybe give us in terms of what percentage of your anticipated 3Q revenues are already booked right now and how that compares to normal periods?
+
+Andrew Nocella -- Executive Vice President and Chief Commercial Officer
+
+Sure. Everything is starting to return to normal, which is great to see. So right now, about 60% of our revenue for Q3 is on the books and we have, obviously, I think, a really good visibility in July and August. And in particular, I'd say, August looks really -- quite good. September, we have less visibility into, but we still feel very bullish about that as business traffic returns. So overall things are returning to normal. The booking curve isn't exactly normal yet, but it is quickly getting there, particularly from the domestic point of view. So hopefully that takes care of your question. But -- again about 60% is booked.
+
+And I'll also add that we do expect positive PRASM in all three months for the domestic entity for the quarter.
+
+Andrew Didora -- Bank of America Merrill Lynch -- Analyst
+
+Got it. That's helpful. And then maybe, Gerry, you called out the CASM impact from the staging gauge differential here in 3Q of 6 point. Should we think about that as a similar impact on TRASM as well?
+
+Gerald (Gerry) Laderman -- Executive Vice President and Chief Financial Officer
+
+Yeah. Stage and gauge obviously impact all those stats. So there is going to be some impact as well on TRASM.
+
+Andrew Nocella -- Executive Vice President and Chief Commercial Officer
+
+I'll add. There is -- but the dilemma we face from a capacity point of view is the 777 aircraft that are grounded are large capacity domestic movers and we use those for Hawaii and hub to hub. And so right now we're flying well below where we'd like to be in Hawaii and it goes without saying that Hawaii is an incredibly strong part of our network. And so we would have absorbed that and I think we would have still done very well in Hawaii, even with those extra seats. So we're really disappointed they are missing.
+
+And then domestically within the continental United States on the hub to hub missions where our load factors are just off the charts, we are -- the simple way to describe it is like clog in the system, because we don't have enough gauge between our hubs to flow the appropriate number of passengers over them. So we really want those aircraft back and we think those aircraft are really important to our CASM, but they also unlock, at least right now in Hawaii, better results and they unlock a lot more connecting traffic through our domestic system. So hopefully that gives you color as to how we think it impacts CASM, as well as TRASM.
+
+Operator
+
+And from J.P. Morgan we have Jamie Baker. Please go ahead.
+
+Jamie Baker -- J.P. Morgan -- Analyst
+
+Hey. Good morning, everybody. So Scott kind of a follow-up to a question I asked you in New York at the event a couple of weeks ago. I noted that bad things seem to happen to the industry every 10 years or so. So as it relates to the 2026 guide, it looks like we're probably in the clear. Anyhow the follow-up --
+
+Scott Kirby -- Chief Executive Officer
+
+Actually [Phonetic] definitely glad to have full perspective.
+
+Jamie Baker -- J.P. Morgan -- Analyst
+
+Yeah. So you have these financial targets. You have your largest aircraft order in history. If we do hit some sort of a speed bump, do you sacrifice the targets or do you adjust the capex and the delivery schedule? Basically is the order book sacred or is it a lever you can pull to protect the financial targets? Just trying to better understand the priority there.
+
+Scott Kirby -- Chief Executive Officer
+
+Well, I'll actually let Gerry start.
+
+Jamie Baker -- J.P. Morgan -- Analyst
+
+Okay.
+
+Gerald (Gerry) Laderman -- Executive Vice President and Chief Financial Officer
+
+Yes. Jamie, yeah, as we said at that event, certainly starting in 2024 we have enough flexibility in the order book to be able to adjust based on what the macro environment would dictate. So that's a decision we can make as we approach the later years of this. [Phonetic]
+
+Scott Kirby -- Chief Executive Officer
+
+And I just would add also that we -- I think we've created a track record and it is certainly true that we are committed to targets. When we put targets out there, we're committed to achieving those targets and we're going to achieve our 2023 and 2026 targets. And if that requires adjustments in the plan one way or another, we'll make adjustments to make sure that we achieve those targets.
+
+Andrew Nocella -- Executive Vice President and Chief Commercial Officer
+
+And, Jamie, one of the nice things about this order as well as our fleet that has some aircraft as you know that are aging, simply replacing those aircraft and not doing anything else helps us with gauge, which helps us with those targets.
+
+Jamie Baker -- J.P. Morgan -- Analyst
+
+Okay. That's helpful. Thank you both. And then just a bit of a modeling question. There wasn't a huge change in fuel efficiency just looking at ASMs per gallon from the first quarter to the second quarter. I mean, a little bit of an improvement. But with more international turning on in the current quarter, can you give us some consumption guidance fourth quarter as well, if you happen to have it?
+
+Andrew Nocella -- Executive Vice President and Chief Commercial Officer
+
+Jamie, I can't [Phonetic] give you a precise number right now, but keep in mind, just given the mix with a higher proportion of regional flying by definition as widebodies come back and become -- revert back to normal, that will help the fuel efficiency.
+
+Operator
+
+From Goldman Sachs we have Catherine O'Brien. Please go ahead.
+
+Catherine O'Brien -- Goldman Sachs -- Analyst
+
+Good morning, everyone. Thanks for the time. So maybe one more on costs. As we move to unit costs being down from 2019 levels next year, outside of capacity what are the other tailwinds we should be thinking about? I know you called out the 6-point impact from gauge and the 777 grounding. But outside of that, are there some ramp-up headwinds today that we should think about abating as we move into the fourth quarter and 2022 and just any color on the size of that impact? Thanks.
+
+Gerald (Gerry) Laderman -- Executive Vice President and Chief Financial Officer
+
+I think the most significant tailwind actually, aside from gauge and stage length kind of reverting back, is the ramp-up of the structural cost saving. So if you want to model something right now, we'll give you some more color as we finalize '22. But right now, you could model that about half of those savings are in our numbers for the rest of this year. And then starting in 2022, early in the year first quarter, let's say that 80% ramping up to 100% by mid-year. So that's probably the most significant tailwind I can think of as we normalize the business.
+
+Catherine O'Brien -- Goldman Sachs -- Analyst
+
+Okay. Great. That's really helpful. And then one maybe for Andrew. Throwing it back to 2020, in February 2020 when you got the Chase extension you entered into, I believe at the time of the announcement you noted to drive $400 million increase in annual cash. And we were about to get some more details on that and then COVID hit. So we didn't really -- I don't remember getting a time frame for when you'd hit that. I'm guessing the pandemic maybe hit pause in the ramp-up. But can you just give us some color on what portion of that uplift you've seen flow through your P&L to date and how you expect that to trend over the next year or two? Thanks.
+
+Andrew Nocella -- Executive Vice President and Chief Commercial Officer
+
+Yeah. Definitely everything has been interrupted by the pandemic although we have seen recently where our numbers are now equal to or greater than 2019. So we're pretty excited about that. And our new agreement with Chase, it was effective then, and it's impacted in our -- everything we do here in our financials already. But the real -- I think the real value in this is our working relationship with Chase is just incredibly good right now and we're coming up with all creative ideas, new products and that's fueling the card growth and the new number of cards we're putting out there and spent on the historic cards. So that's maybe not every answer to the question you would like to hear. But what I would say is that the relationship is going well, which gives me great faith that we're going to hit the targets we put out there. I don't have the exact timeline as to when that will happen. It was clearly interrupted by the pandemic, but we're back on course.
+
+Operator
+
+From Jefferies we have Shiela Kahyaoglu. Please go ahead.
+
+Shiela Kahyaoglu -- Jefferies -- Analyst
+
+Hey. Good morning, everyone. Thank you. So maybe, it seems like capacity additions are coming back at a faster rate and I appreciate the coastal hub. Can you maybe provide a little bit more color around CASM-ex below 2019 in 2022? What are your assumptions around capacity and maybe mix of international and domestic?
+
+Gerald (Gerry) Laderman -- Executive Vice President and Chief Financial Officer
+
+So it's still a little early to give you the capacity guidance. We do that in a normal course. But I can tell you, just given the size of the fleet as it stands today, we expect 2022 capacity to be higher than 2019. But we'll give you more precise numbers in the normal course.
+
+Shiela Kahyaoglu -- Jefferies -- Analyst
+
+Okay. No --
+
+Andrew Nocella -- Executive Vice President and Chief Commercial Officer
+
+Gerry is going to add. I think with the incremental widebody jets that we have available, along with our expectation about what the transatlantic market is going to look like next year, it wouldn't shock me that we see international growth faster than domestic growth for next summer.
+
+Shiela Kahyaoglu -- Jefferies -- Analyst
+
+Yeah. I guess on that note, somewhat related to that big picture, you mentioned in your prepared remarks on the international side, you're one of the carriers that have kept your widebodies going so that supply demand picture might look more attractive as international comes back. But domestically what we're seeing is low cost carriers are doubling their fleet or expanding their fleet substantially as you guys are too and increasing gauge. How do you think the supply demand picture plays out through 2026? How do you think United is positioned with that?
+
+Gerald (Gerry) Laderman -- Executive Vice President and Chief Financial Officer
+
+Well, I'll just go back to our United Next plan where I think we thoughtfully talked about all the details there. We are working to make sure that we build our connectivity, our schedule depth and most importantly our gauge. And we think those factors along, of course, with our customer focus, are really going to drive our profitability in really unique ways relative to many of our competitors over the next few years in an industry where we absolutely expect elevated domestic capacity growth for everybody over the next few years. So we feel really good that we've identified this. We've articulated a way to manage it here at United together from a revenue and a cost perspective and a customer perspective to make sure that we can meet the targets that Scott laid out in New York a few weeks ago and he laid out just a few minutes ago here.
+
+Operator
+
+From Wolfe Research we have Hunter Keay. Please go ahead.
+
+Hunter Keay -- Wolfe Research -- Analyst
+
+Hey. Good morning. Do you think that investors, Scott, should just ratchet down our permanent expectations for pricing power for this industry?
+
+Scott Kirby -- Chief Executive Officer
+
+No.
+
+Hunter Keay -- Wolfe Research -- Analyst
+
+Why not? I mean, it's so clear that the market puts multiples on industries that can price. And the decision to deflate pricing and outrun it with lower CASM, I just -- it's hard to see why that makes sense when it's such a clear track record for this industry works is when they're pushing price. And look what you just did right now with the yield performance, not suggesting you're going to be down 25% forever, but I'm sure it was pretty satisfying to be able to push that price.
+
+Scott Kirby -- Chief Executive Officer
+
+Well, first I disagree with the premise of the question.
+
+Hunter Keay -- Wolfe Research -- Analyst
+
+Okay.
+
+Scott Kirby -- Chief Executive Officer
+
+And look, I recognize that you've got a perspective, respect that. But we had a pretty good track record in 2018, 2019. I think it was your research report that pointed out, we grew EPS by 74%. This is in a large degree a continuation of the strategy that is working well with the improvement, I think that we're really focused on decommoditizing air travel and getting customer choice. So it's about far more than growth, but even the 2018-2019 plan was working. It is in your research report. It seems like the best evidence that we can do this without disinflating, I think was the term you used. I'm confident that we're going to do that and particularly confident that when you take the mix of what the international market is going to look like and the percentage of our revenues combined with I think our ability to decommoditize travel domestically that our targets for 2023, 2026 are arguably conservative and that's going to ultimately be good for our shareholders.
+
+Hunter Keay -- Wolfe Research -- Analyst
+
+Okay. Yeah, look, thanks for the time, Scott. I don't want to be disrespectful here. I appreciate the conversation. A quick modeling question for you too, I have you, Gerry. Should we assume that the SWB CASM is going to be in '22 and '23 above or below 2019, if you are willing to help us out with that?
+
+Kristina Munoz -- Director, Investor Relations
+
+I'll follow up with you offline Hunter.
+
+Hunter Keay -- Wolfe Research -- Analyst
+
+Okay.
+
+Scott Kirby -- Chief Executive Officer
+
+Yeah.
+
+Hunter Keay -- Wolfe Research -- Analyst
+
+All right. Thank you.
+
+Scott Kirby -- Chief Executive Officer
+
+Sorry. We'll get you those numbers.
+
+Operator
+
+From Cowen and Company we have Helane Becker. Please go ahead.
+
+Helane Becker -- Cowen and Company -- Analyst
+
+Thanks very much, operator. Hi everybody and thank you very much for your time. So kind of a different question. You have an open contract with your pilots and I know you have the letter agreement to agree to the differentials, so that you're able to ramp up as the recovery occurs. Can you just talk about how you're thinking about entering those negotiations again in, I don't know whether it's 2021 or 2022, but when should we think about that contract again?
+
+Brett J. Hart -- President
+
+Hi, Helane. This is Brett Hart. How are you doing?
+
+Helane Becker -- Cowen and Company -- Analyst
+
+Fine, Brett.
+
+Brett J. Hart -- President
+
+Look -- I think probably the underlying -- premise of your question also points out that we obviously will have a really good working relationship with our pilots throughout the pandemic, worked hand in hand with them. And at the end of the day, we are confident that when we do get to an agreement that will be one that works for our pilots and for the overall Company. But as you can, I'm sure, appreciate we don't get into discussing the specifics of our discussions or negotiations or the time frame for reaching agreements in public or on earnings calls. But I appreciate the question.
+
+Helane Becker -- Cowen and Company -- Analyst
+
+Okay. Well that's helpful. Thank you. Just the other question is, as we think about the improvements that you're talking about and efficiency, I don't know, Andrew, or Gerry, how should we think about it like working through the next two-and-a-half years? Are you just going to give us guidance every quarter for how we should think about those efficiencies or is there some number beyond minus 4% in 2023 that we will be able to mark to?
+
+Gerald (Gerry) Laderman -- Executive Vice President and Chief Financial Officer
+
+Helane, that's really the heart of the $2 billion of structural cost savings. And as I said earlier, by next summer, I would expect 100% of those in the numbers. And then we will continue -- and will continue to provide guidance. Keep in mind those structural savings include savings that will continue to grow as we grow the airline. So it will come out through our continuing CASM guidance over the next few years.
+
+Operator
+
+From Evercore ISI we have Duane Pfennigwerth. Please go ahead.
+
+Duane Pfennigwerth -- Evercore ISI -- Analyst
+
+Hey, thanks. I really appreciate the time. Just a couple for me. On cargo, Andrew, I think you said no more dedicated freighters. I assume this is just a function of passenger demand coming back, but maybe you could just expand on that. And if we think about sort of your cargo capacity in total, maybe no more freighters, but more longer haul flights coming back. How do you think about your cargo capacity in total?
+
+Brett J. Hart -- President
+
+Sure. Correct. We are not going to be able to do more cargo only flights. We're obviously disappointed by that, given where yields currently stand. The reason for that is the aircraft can be better deployed in passenger markets. However, many of those passenger markets are also not exactly optimal cargo markets. They do have cargo, but they're not optimal cargo markets. The 52 777s that are grounded means we just have less flexibility on this front than we would otherwise had. If those aircraft were flying, we clearly would continue our program missions [Phonetic] because we'd have the ability to do both. So then when we look at capacity available to fly, it's still really significant as we put all these passenger planes back in the air and we think we've got this properly accounted for in our forecast. And we think we are going to have another great cargo quarter in Q3 and it's already gotten off to a really good start. That being said, it's going to be different in the amount of the all [Phonetic] cargo flights. So -- but I tell you all we don't really disclose details, but all the numbers are in there and hopefully we can do a little better on cargo than we are currently planning. But there is a marked change in our cargo footprint starting today -- really starting a few weeks ago obviously, and we'll see where it goes. But we are still very bullish on cargo for the remaining half of this year.
+
+Duane Pfennigwerth -- Evercore ISI -- Analyst
+
+That's super helpful. And just for my follow-up on Scope. Scope is something that United talked a lot about in the past. Obviously in the recent investor update you talked about big upgauge from 50-seaters. But I have to think -- just thinking about high frequency with 50-seaters going fully to mainline, maybe that implies less frequency. I have to think there are many markets where 70 or 76-seater would be optimal. How should we be interpreting a kind of the lack of commentary around Scope? And is it something, maybe longer term, maybe beyond the forecast period that you offered that you think still makes sense?
+
+Scott Kirby -- Chief Executive Officer
+
+To be clear, when we induct a MAX 10 or an A321neo, it's not replacing a 50-seat RJ route for route. There is a cascade that starts at the top that goes all the way down. So 50-seater routes today will often go to 76-seater route in the new United Next vision. So just the economics of that are a little bit different than maybe you described. I'm not 100% sure. But -- so we still will do that. As we look at our fleet counts and hubs and schedule depth, it is not our intention to reduce service to smaller communities in the United Next plan and we've laid this out in great detail. That being said, it's also really not going to increase our schedule depth or size in smaller communities either. We're going to grow via gauge, which we think is the right way to do it, given where our hubs stand, particularly our mid-continent hubs where again most of the growth is gauged. There is a little bit of frequency, but most of the growth is gauged. So hopefully that helps answer the question.
+
+Operator
+
+From UBS we have Myles Walton. Please go ahead.
+
+Myles Walton -- UBS -- Analyst
+
+Thanks. Good morning. It's a bit of a follow-up to Hunter's question again. But I'm curious, Scott, if you've thought about perhaps using a return on invested capital or efficiency metric to go alongside your pre-tax margin, your pre-tax income, financial metrics which govern your long-term incentive schemes as a way to sort of answer the question around the efficiency of assets being put underutilization?
+
+Gerald (Gerry) Laderman -- Executive Vice President and Chief Financial Officer
+
+Hey. It's Gerry. We actually always look at the return on investments we want to make and kind of our rule of thumb is kind of mid-teens to justify making those investments. So that's always part of the equation. But I do think at the end of the day pre-tax ultimately is the best way to look at things. The other components of it just all go into that, but we do look at returns on investments we're making.
+
+Myles Walton -- UBS -- Analyst
+
+Okay. But not in the [Indecipherable] just pre-tax income is the governing metric.
+
+Gerald (Gerry) Laderman -- Executive Vice President and Chief Financial Officer
+
+I think it's just the one that reflects how well we're -- we expect to do.
+
+Michael Leskinen -- Vice President Corporate Development and Investor Relations
+
+Hey, Myles. This is Mike Leskinen. I would just add that even if you think about replacing some of the older aircraft with new technology, you look at the 787 or the 737 MAX aircraft, even in that scenario, you're getting a mid teen return on invested capital. And so the return on invested capital is the gating item. We're driving pre-tax margin but ROICs are well ahead of our weighted average cost of capital and it is a hurdle.
+
+Operator
+
+And from Bernstein we have David Vernon. Please go ahead.
+
+David Vernon -- Bernstein -- Analyst
+
+Hey. Good morning, guys. Thanks for taking the time. So, Scott, I wanted to talk kind of at a high level here about how investors should think about the upside you see in decommoditizing travel. We get a little pushback that this is just a buzzword, if you will. I'm just wondering if you can talk about how much -- whether this is just about a revenue premium that you can earn for having higher-priced seats on the departure. And if so if there's a way to think about that relative to kind of maybe the revenue you might have earned without the strategy? And also if you could talk a little bit about whether this is also about limiting how much of the inventory that you put out in the market is actually exposed to low cost competition on a day-to-day basis and how that might be changing over the next couple of years since you implement this United Next strategy.
+
+Scott Kirby -- Chief Executive Officer
+
+Well, I'll start and Andrew can add on, if he wants. On the point about decommoditizing air travel, it's hard to put a precise quantification on it today. But I think customers do care about quality and do care about the product. If you get on airplanes and talk to customers or just watch airplanes and people flying, I think that is an inescapable conclusion. There is at least one airline in the US that embarked on this a decade ago and it was quite successful. There's certainly room for two of us in the United States. It's the largest travel market in the country for two of us to pursue that strategy. And frankly, United has I think the most opportunity because we're in the big -- our hubs happen to be in the biggest premium market where our seven hubs are. And so I think there is more upside for us than there is for anyone to pursue this strategy. And so I don't know for sure how much that turns into in terms of a revenue premium or growth that -- and RASM that's faster than the rest of the industry, because it's not as easy to quantify some of the works that we do, but confident that it will lead to strong results for United.
+
+Andrew Nocella -- Executive Vice President and Chief Commercial Officer
+
+Yeah. The only thing I would add is that flying approximately 300 single class 50-seaters with no premium product on board at all up against competitors that had premium products is just a step-change function for United as we take that number down. We already saw with the introduction of the CRJ-550, which is our 50-seat dual class aircraft really great progress, prior to the pandemic on being able to monetize those premium seats. We see our competitors do it all day long. And we are simply underrepresented in this category and flying the wrong aircraft into big cities with no premium seats. And by the way our hubs have a lot of premium demand. And we just under index to it and that was wrong and we're going to correct it and we're going to correct it really quickly.
+
+Operator
+
+From Stifel we have Joseph DeNardi. Please go ahead.
+
+Joseph DeNardi -- Stifel -- Analyst
+
+Thanks. Good morning. Scott or Gerry, can you talk about capex needs on the widebody side? When do you need to address that with an order, when does the delivery start do you think? And then based on that, in what year do you see yourselves getting below $7 billion in capex?
+
+Gerald (Gerry) Laderman -- Executive Vice President and Chief Financial Officer
+
+Actually I'm looking at Andrew who always wants to ask me for aircraft. But keep in mind over the last few years, we've taken 20 some-odd widebody aircraft. We haven't retired any. We have a lot of widebody aircraft. Andrew just talked about that. And so the focus right now is really on the narrow body. And Andrew can provide some color, but I can tell you that it really depends on both the speed of recovery throughout the world and then the opportunities that Andrew and [Technical Issues].
+
+Scott Kirby -- Chief Executive Officer
+
+Yeah, Gerry, I'll just add what I think I've said. But I just [Phonetic] reiterated that because we took delivery of a large number of widebody aircraft -- or we ordered some right prior to the pandemic, those aircraft are coming online over the next 12 months. So we will have available to schedule up to 30 incremental widebody jets for the summer of 2022. So that really does provide a lot of growth, possibly for a number of years depending on market condition. So we'll watch this carefully.
+
+The second thing that I said a few weeks ago that I'll say again is, we're carefully looking at the lifespan -- the economic lifespan of these widebody jets. And I can tell you prior to the pandemic, we were thinking many of them, particularly the 777 and 767 fleet, could go 30 years or more. And I'll give kudos to our maintenance team for keeping these aircraft in great shape to allow us to have that optionality. So we do have optionality to fly these aircraft longer than I think people automatically assume. And then the last thing I'll add is the interiors on all these aircraft, including the older ones we've just been describing have been recently retrofitted. We've completed our entire 777 fleet and we're close to completing the 767 fleet with brand new interiors from nose to tail to give a great, great customer experience onboard. So with that we have a lot of incremental widebodies that have just arrived and we have a lot of brand new aircraft on the inside that have a long lifespan left and so we have a lot of optionality. And to the extent we want to grow, it will be because we have growth opportunities, but we'll monitor that over the next few years. So that's a lot more details than you probably wanted, but that kind of explains where we are from a widebody point of view.
+
+Gerald (Gerry) Laderman -- Executive Vice President and Chief Financial Officer
+
+And I'll just add, the fairly straightforward analysis to justify that growth, it goes back to the financial targets that we just talked about, that they need to demonstrate that we can hit those returns, which they do by they way on a regular basis.
+
+Joseph DeNardi -- Stifel -- Analyst
+
+Okay.
+
+Brett J. Hart -- President
+
+And I'll add one more because I feel so passionate about this point, the retention of the 767-300s, I think gives us, and any of the airline that has done that, a structural competitive advantage. These aircraft between their size and trip cost, CASM and passenger comfort are really amazing machines and they enabled, as I said earlier, this new route to Croatia and many new routes that we're talking about that could otherwise, I don't think be flown over the next few years profitably.
+
+Joseph DeNardi -- Stifel -- Analyst
+
+Okay. So does 2025 capex come back down to $3 billion to $4 billion range or is it still elevated? And then Scott, you talked, I think last call or the call before about doubling loyalty EBITDA and haven't heard much on that. Is that like an aspirational goal that we should kind of discount significantly? What are the drivers behind being able to do that? Thank you.
+
+Scott Kirby -- Chief Executive Officer
+
+Well, it's our goal. I wouldn't discount it because I think we're going to do it. But you can choose to if you want. And this is one of those that, until we have something to announce, it's another one of those that we're not going to have something to announce until we have something to announce, though I saw the team meeting earlier this morning on it and they're looking for me later today to get an update. So we are doing. There is a lot of activity on it, but we're not going to have anything to say publicly until we're ready to make probably a big announcement.
+
+Gerald (Gerry) Laderman -- Executive Vice President and Chief Financial Officer
+
+And on capex, it's too early to really give capex projections beyond 2023.
+
+Operator
+
+Thank you. We will now take questions from the media. [Operator Instructions] From Wall Street Journal we have Alison Sider. Please go ahead.
+
+Alison Sider -- The Wall Street Journal -- Reporter
+
+All right. Regarding your conversations with the government about lifting travel restrictions, is there anything that the administration is asking for from airline in terms of contact tracing or extending the mask mandate or checking vaccine status? Is there anything that you will have to do as part of an agreement to lift those restrictions eventually?
+
+Scott Kirby -- Chief Executive Officer
+
+Hey, Ali. We are working closely with the government and it's a two-way conversation where they're getting input from us, input from them. All of us want to make sure we do this safely and comfortably that when people get back to flying, it's not only safe that people feel confident in the safety. And we certainly haven't advocated for any of those specific policies. But if the government brought those things forward, we indicated a willingness, for example, with vaccine requirements, which are happening in much of the world already. United, uniquely our digital team, has done a pretty amazing job of creating an automated way for customers to upload that information. I think it's easier on United to deal with vaccine requirements around the world than any airline in the world. So we're doing those kinds of things and we're very open to any requirements that they have. But look forward to working with the administration to get it back open.
+
+Alison Sider -- The Wall Street Journal -- Reporter
+
+Got it. Thanks.
+
+Operator
+
+And from Bloomberg we have Justin Bachman. Please go ahead.
+
+Justin Bachman -- Bloomberg -- Deputy News Director
+
+Hi. Thanks for the time today. This question is maybe for Andrew or Scott, but it goes back to Scott's comment at the top of the call on the delta variant, any impact probably being short and people are confident in the rebound. I'm curious like as far as your business today, is this a lot of people who are repeat customers and flying quite a bit compared to during the pandemic, or are you seeing people come back who may not have flown since 2018 or 2019? I'm just curious about the mix of who is flying today and your confidence about those habits continuing even if the pandemic takes another turn. Thanks.
+
+Scott Kirby -- Chief Executive Officer
+
+Sure. Good morning, Justin. We track this pretty carefully, particularly from a MileagePlus point of view and particularly from the Premier population and MileagePlus. And what we can tell you is that while the penetration of MileagePlus on the aircraft is still below our historic norms by about 7 or 8 points, we see that number gaining strength each month and more and more customers are coming back. And our Premier members are back to flying again and using our credit card. And the ones that aren't are because they only generally fly global long haul and those particular borders are closed or are difficult to get into. So we do see this returning to normal from all the things we look at. The other thing I would tell you is as we've kind of gone through this crisis, headlines have driven cancellation and no-show factors higher. And I can assure you right now no-show and cancellation factors are completely normal. We've seen no change in them over the last few weeks. And they're basically slightly above 2019 levels which they have been for quite some time. So we don't see any change. Of course, I'm not saying exactly what's going to happen in the future, but I can just tell you right now things look good and we do look like demand is recovering and maintaining a strong recovery even with the negative headlines.
+
+Justin Bachman -- Bloomberg -- Deputy News Director
+
+Okay. Thanks for the help.
+
+Operator
+
+And from Reuters we have Tracy Rucinski. Please go ahead.
+
+Tracy Rucinski -- Thomson Reuters -- U.S. Aviation Correspondent
+
+Hi. I also wanted to go back to Scott's comments at the top of the call. Scott, you mentioned a potential temporary reopening pullback. Can you be more specific on what that pullback could look like and where and what kinds of scenarios you're preparing for from a demand perspective?
+
+Scott Kirby -- Chief Executive Officer
+
+Well, I don't know what it would look like. I think it would be something government-related that there are some new rules or recommendations, which I don't think -- which I think is unlikely. I mean, I think the most logical and likely outcome is that we largely continue unabated. But if something did happen, we've had a history going really all the way back to the last weekend of February of 2020 reacting quickly, realistically, nimbly and we put a team together last year to deal with kind of the shutdown in March of last year. That team has not been disbanded. That team continues to exist for managing the vagaries and the ups and downs because we've known all along that there is going to be ups and downs and there's going to be up and downs between now and the time that enough of the world is vaccinated that this really recedes into the background, which we look forward to. But there will be ups and downs and we're prepared to deal with whatever those are knowing that we can't precisely forecast exactly what the ups and downs are going to be.
+
+Gerald (Gerry) Laderman -- Executive Vice President and Chief Financial Officer
+
+Hey. It's Gerry. Let me just add. Yeah, one of the things we learned in the pandemic was the need to be able to be flexible financially. So as we've begun to invest money we also build an off-ramp in case we have to bank in one direction or the other.
+
+Tracy Rucinski -- Thomson Reuters -- U.S. Aviation Correspondent
+
+What are you hearing from your -- from corporations in terms of their reopening plans? There were reports yesterday, for example, that Apple is delaying its return to office by a month.
+
+Andrew Nocella -- Executive Vice President and Chief Commercial Officer
+
+Hi. It's Andrew. I did read that in the newspaper. Overall we're hearing a return to this new normal as the end of the summer occurs in September. Obviously, some may come back in October or even November. But we are anticipating a return to normalcy. And therefore, we're also anticipating the step up in business travel in September and then once again in January when the new budget seasons start. We've already seen, for example, our advanced business bookings for September are now only down I think about 50%. And we expect that number to continue to get better and finish the month at around 40% to 45% down based on where we are right now.
+
+Operator
+
+Thank you. We will now turn it back to Kristina Munoz for closing remarks.
+
+Kristina Munoz -- Director, Investor Relations
+
+From everyone here in this call, thanks for joining the call today. Please contact Investor Relations or media relations, if you have any further questions and we look forward to talking to you in the next.
+
+Operator
+
+[Operator Closing Remarks]
+
+Duration: 69 minutes
+
+Kristina Munoz -- Director, Investor Relations
+
+Scott Kirby -- Chief Executive Officer
+
+Brett J. Hart -- President
+
+Andrew Nocella -- Executive Vice President and Chief Commercial Officer
+
+Gerald (Gerry) Laderman -- Executive Vice President and Chief Financial Officer
+
+Michael Leskinen -- Vice President Corporate Development and Investor Relations
+
+Savanthi Syth -- Raymond James -- Analyst
+
+Andrew Didora -- Bank of America Merrill Lynch -- Analyst
+
+Jamie Baker -- J.P. Morgan -- Analyst
+
+Catherine O'Brien -- Goldman Sachs -- Analyst
+
+Shiela Kahyaoglu -- Jefferies -- Analyst
+
+Hunter Keay -- Wolfe Research -- Analyst
+
+Helane Becker -- Cowen and Company -- Analyst
+
+Duane Pfennigwerth -- Evercore ISI -- Analyst
+
+Myles Walton -- UBS -- Analyst
+
+David Vernon -- Bernstein -- Analyst
+
+Joseph DeNardi -- Stifel -- Analyst
+
+Alison Sider -- The Wall Street Journal -- Reporter
+
+Justin Bachman -- Bloomberg -- Deputy News Director
+
+Tracy Rucinski -- Thomson Reuters -- U.S. Aviation Correspondent
+
+More UAL analysis
+
+All earnings call transcripts
+
+This article is a transcript of this conference call produced for The Motley Fool. While we strive for our Foolish Best, there may be errors, omissions, or inaccuracies in this transcript. As with all our articles, The Motley Fool does not assume any responsibility for your use of this content, and we strongly encourage you to do your own research, including listening to the call yourself and reading the company's SEC filings. Please see our Terms and Conditions for additional details, including our Obligatory Capitalized Disclaimers of Liability.
+
+The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy.
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+
+Don't wait — this offer ends soon.

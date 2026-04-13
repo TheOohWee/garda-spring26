@@ -1,0 +1,657 @@
+Ticker: MSC (MSM)
+Fiscal Year: FY2020
+Query Used: MSC (MSM) FY20 earnings call transcript motley fool
+Source URL: https://www.fool.com/earnings/call-transcripts/2020/10/27/msc-industrial-direct-msm-q4-2020-earnings-call-tr/
+Title: MSC Industrial Direct (MSM) Q4 2020 Earnings Call Transcript
+Fetched At (UTC): 2026-04-13T01:06:07.810367+00:00
+
+MSM earnings call for the period ending September 30, 2020.
+
+Image source: The Motley Fool.
+
+MSC Industrial Direct 
+(
+MSM
+0.68%
+)
+
+Q4 2020 Earnings Call
+Oct 27, 2020, 8:30 a.m. ET
+
+Operator
+
+Good morning, and welcome to the MSC Industrial Supply 2020 fourth-quarter and full-year conference call. [Operator instructions] Please note that this event is being recorded. I would now like to turn the conference over to John Chironna, vice president of investor relations and treasurer. Please go ahead.
+
+John Chironna -- Vice President of Investor Relations and Treasurer
+
+Thank you, Constantino, and good morning, everyone. Erik Gershwind, our chief executive officer; and Kristen Actis-Grande, our chief financial officer, are both on the call with me. As on our last call, we are all remote, so bear with us if we encounter any technical difficulties. During today's call, we will refer to various financial and management data in the presentation slides that accompany our comments, as well as, our operational statistics, both of which can be found on the investor relations section of our website.
+
+Let me reference our safe harbor statement under the Private Securities Litigation Reform Act of 1995, a summary of which is on Slide 2 of the accompanying presentation. Our comments on this call, as well as, the supplemental information we are providing on the website, contain forward-looking statements within the meaning of the U.S. securities laws, including statements about the impact of COVID-19 on our business operations, results of operations, and financial condition, expected future results, expected benefits from our investment and strategic plans and other initiatives and expected future growth and profitability. These forward-looking statements involve risks and uncertainties that could cause actual results to differ materially from those anticipated by these statements.
+
+Information about these risks is noted in our earnings press release and the risk factors and the MD&A sections of our latest annual report on Form 10-K filed with the SEC, as well as, in other SEC filings. The risk factors include our comments on the potential impact of COVID-19. These forward-looking statements are based on our current expectations and the company assumes no obligation to update these statements. Investors are cautioned not to place undue reliance on these forward-looking statements.
+
+In addition, during this call, we may refer to certain adjusted financial results, which are non-GAAP measures. Please refer to the GAAP versus non-GAAP reconciliations in our presentation, which contain the reconciliation of the adjusted financial measures to the most directly comparable GAAP measures. I'll now turn the call over to Erik.
+
+Erik Gershwind -- Chief Executive Officer
+
+Thank you, John. Good morning, everybody. And let me start by saying that I hope everyone remains safe and healthy. We have a pretty packed agenda this morning, so we'll get right into it.
+
+I'm going to begin with a brief overview of our fiscal fourth quarter and I'll then turn it over to Kristen so she can review the financials with you. After that, we're going to look forward and we're going to look forward to the next three years to discuss what is the next stage of our transformation journey. We've completed the heavy lifting of our sales force transformation and are now focused on accelerating market share capture and improving profitability. This is a companywide effort that we're calling Mission Critical.
+
+And Mission Critical is more than just a project name, it's reflective of our business strategy of serving as a mission-critical partner to our customers on their plant floors. And it also reflects the fact that accelerating market share capture and improving profitability and doing so with urgency is mission critical for our organization and our stakeholders. A lot more is coming on this shortly, but I'll first turn to the quarter, and we've provided some highlights on Slide 3. Our fiscal fourth-quarter financial results continue to reflect solid execution in a tough environment.
+
+Versus the prior year period, overall sales were down 11.3% or 12.7% on an average daily sales basis. Gross margin was down 40 basis points and operating margin was 9.8% as compared to 10.7% in the prior year. Excluding one-time adjustments, our operating margin was 11.2%, down just 30 basis points from 11.5% in the prior year due to implementing effective cost controls. This all resulted in solid earnings for the quarter.
+
+As we noted in our August sales release, sales of our nonsafety and nonjanitorial product lines have continued to improve sequentially through the quarter. Sales of safety and janitorial products also continued growing, with year-over-year growth of roughly 20% each month on average and for the quarter. Looking at our performance by customer type. National Accounts declined slightly more than 20%, while our core customers declined mid-teens and CCSG was down in the low double-digits.
+
+Government sales and that's both state and federal, were up significantly due to the surge in large safety and janitorial orders, partially offsetting the declines in the other customer types. As you may have seen in our operational statistics released earlier this morning, September average daily sales declined 8.5% and our October estimated sales declined 4.6% and benefited from some large orders. All of this shows that sales levels have continued to lift and have seen a slight increase in the rate of improvement over the past couple of months. Most manufacturing end markets, while showing sequential improvements in the quarter, are still soft.
+
+Many national accounts are running one shift as opposed to the two or three shifts they were running pre-pandemic. Our job shop and machine shop customers continue carrying smaller-than-normal backlogs. These customers remain cautious about spending and they're burning off inventory as much as possible, given continued uncertainty. The persistence of COVID-19 and its potential for future surge is certainly playing a role in all of this.
+
+And this caution is reflected in recent sentiment indices, such as the MBI, which remains negative on a rolling 12-month average. That said, the readings have improved over the past couple of months and actually reached neutral territory in September. Should this improvement continue, it would bode well for our business and should translate into continued sequential lift in our revenues. In terms of end markets, the softness in industrial demand was broad-based, with acute weakness in heavily metalworking-centric end markets such as aerospace and oil and gas.
+
+There are some pockets of strength in certain areas, but not in our core end markets which remain suppressed. We continue to hear that local distributors are suffering. And the longer that the weak conditions persist, the more pressure they're coming under. This continues to create market share capture opportunities and we are focused on capitalizing on them.
+
+Moving now to gross margins. I remain pleased with our performance. In particular, we're executing well on both the pricing and the purchase cost fronts. We're seeing strong realization from our annual price increase and we're continuing to benefit from supplier programs on the purchase cost line.
+
+You'll note that our sequential drop from the third quarter to the fourth quarter in gross margin was on the higher side of the typical seasonal decline. This was strictly the result of mix and, in particular, the sale of PPE-related SKUs. Absent this headwind, we maintained underlying gross margin stability. September and October gross margins continued our recent trending.
+
+Price and costs are performing well, but will likely have continued PPE mix pressure in the first quarter, similar in size to that of our fourth quarter. Looking beyond the first quarter, as we move past the PPE-related mix noise, we expect gross margins to remain at levels close to or at prior year. Cash flow in the quarter remained strong and allowed us to repay a significant amount of debt. Before I turn it over to Kristen, I want to take a moment to thank Greg Clark for his interim leadership of our finance team.
+
+He and the team did an exceptional job over the past few months, particularly during the COVID crisis. We're grateful, Greg, for your hard work. And of course, you continue to be an integral part of our future efforts. And Kristen, welcome aboard.
+
+Welcome to your first earnings call and we're thrilled to have you. So with that, I will turn it over to you.
+
+Kristen Actis-Grande -- Chief Financial Officer
+
+Thanks, Erik. It's great to be here, and I am looking forward to the work ahead of us. Over the coming months, hopefully, I'll have an opportunity to meet those of you on the phone who I haven't met already, although that will probably be virtual, of course. As Erik mentioned, I'm going to run us quickly through the numbers for our fiscal fourth quarter and then, we'll devote time to discussing Mission Critical.
+
+On Slide 4 of the presentation, you'll find key metrics for the fiscal fourth quarter and full year on a reported basis. Slide 5 reflects adjusted results and those will be the primary focus of my comments this morning. Our fourth-quarter sales were $748 million, a decline of 11.3% versus the same quarter last year. Our average daily sales in the fiscal fourth quarter were $11.7 million, a decrease of 12.7% on an ADS basis versus the same quarter last year.
+
+Our operating margin was 9.8% compared to 10.7% in the same period last year. Excluding severance and other costs, our adjusted operating margin was 11.2% versus an adjusted 11.5% in the prior year. Within our operating profits, Erik touched on the items impacting our gross margin, which was 41.6% or 40 basis points below the prior year. So I'll go a little deeper now into our operating expenses.
+
+Total operating expenses in the fourth quarter were $238 million or 31.9% of sales versus $263 million or 31.2% of sales in the prior year. This also includes about $11.2 million of costs related to severance and the review of our operating model mentioned on previous calls. You'll see a sizable drop in our total company headcount in our operating statistics. This was the result of actions tied to our structural cost initiative and explains the severance costs in the quarter, which were $8.1 million of the $11.2 million.
+
+Excluding those costs, operating expenses as a percent of sales were 30.4% in the prior year, excluding $6.7 million of costs related to severance, operating expenses were also 30.4% of sales. Our results for the quarter reflect the swift cost containment measures we implemented due to COVID-19, including temporary reductions in variable hours, in executive and management salaries, temporary suspension of our 401(k) match, a hiring freeze, and virus-related travel restrictions. We've now reversed some, but not all of these temporary actions. For example, in our fiscal first quarter, we restored our 401(k) match.
+
+All of this resulted in earnings per share of $0.94. And adjusted for severance and other costs, earnings per share was $1.09. Turning to the balance sheet on Slide 7. We achieved strong free cash flow of $171 million in the fourth quarter.
+
+A key driver was the $32 million decrease in inventory from last quarter to $543 million. This reflects typical contraction in a soft environment, but also maintains levels that support share capture. We also benefited from a large reduction in receivables. We continue to manage our liquidity very closely.
+
+Given the stabilizing environment, we paid down over $300 million of our revolving credit facility in August, as well as, $20 million of maturing private placement debt. Our total debt as of the end of the fourth quarter was $619 million, comprised primarily of a $250 million balance on our revolving credit facility, $20 million of short-term fixed rate borrowings, and $345 million of long-term, fixed-rate borrowings. Cash and cash equivalents were $125 million, so our net debt was $494 million. In September and October, we deployed our strong cash flow by paying down another $120 million of our revolving debt.
+
+Overall, our balance sheet and liquidity remain very healthy. I'll turn it back to you now, Erik.
+
+Erik Gershwind -- Chief Executive Officer
+
+Thanks, Kristen. Turning to Slide 8. Many of you know that over the past couple of years, we've been working hard to reposition MSC from a spot-buy supplier to a mission-critical partner on the plant floor of our industrial customers. Our focus now turns to implementing Mission Critical to deliver reaccelerated market share capture and a step change in improving profitability over the next three years.
+
+We plan to do so with the same sense of urgency that we demonstrated during the pandemic. I'll start with reaccelerating market share capture, which is on Slide 9. Our target is to outgrow the markets in which we compete by at least 400 basis points over the cycle. This market share growth capture is indexed against industrial production or the IP Index.
+
+Our analysis shows that IP is highly correlated with our growth rate over a cycle and it's a good proxy for the relative health and performance of the end markets that we serve. This is shown on Slide 10. IP is not perfect over shorter timeframes as the aggregate IP Index includes some of our noncore end markets as well. Nonetheless, we're going to use it going forward as our primary benchmark, as it gives us the opportunity to better measure our performance over time.
+
+This does not mean that sentiment indices, such as the MBI, are no longer important indicators to gauge the state of our markets. They are, but they're less indicative of outgrowth or share capture since they're purely sentiment service. Competitor and supplier growth rates also remain relevant, but differences in end market and product line exposure result in different levels of market growth for each of us. Spread above IP over a cycle is, we believe, the best gauge for outgrowth of our markets.
+
+Looking over extended periods of time, average IP growth is in the 2% to 3% range. So this implies MSC growth of at least 6% to 7% over a cycle. We believe that the actions we've taken recently, and those that we're taking now and into the near future, build to this level of outperformance over time. At the same time, we think that we can outgrow the market over the nearer term as well.
+
+And so our goal is to exit fiscal 2021 at roughly 200 basis points above IP. Most forecasts indicate a return to low single-digit positive growth for IP and during calendar 2021. Adjusting for our fiscal calendar, and assuming that these forecasts are accurate, it would mean that we would expect to be growing in the mid single-digits in our fiscal fourth quarter. But that would still be slightly down for the full fiscal '21, taking into account the PPE headwind that we will face primarily in our fiscal third quarter.
+
+There are five growth priorities that will deliver this above-market growth. And none of these should surprise you, given that they're aligned with the work that I've spoken about pre -- previously. What you should take away from this discussion, though, is the details within each and the specific actions and investments that we're making to produce measurable returns. Let me spend a moment on each one.
+
+First is metalworking. This is the core of our business, a position where we have leadership today and where we think we can widen our lead. We will do this by building on our talented team of metalworking specialists through hiring and training. We've begun this effort in earnest and plan to add about 25% to our metalworking specialist team over the course of the year.
+
+We'll also continue adding to our industry-leading product and supplier portfolio, and we'll introduce value-added services to our customers such as MSC MillMax, an exclusive technology that we just brought to market. It's a proprietary product that, with a simple tap on a machine, uses data and analytics to optimize our customers' machining operations. Early customer response has been very good. And more importantly, MSC MillMax is delivering improvements to their operations.
+
+We're now making it available to all of our customers. The second lever, selling the strength of our broad portfolio. This encompasses investing in our CCSG or Class C consumables business, leveraging the cross-selling that results from it, and leveraging the programs that we've put in place with those supplier partners who have recently invested with MSC and stepped-up programs. Our joint opportunity funnels are growing nicely along each of these dimensions and we are focused on converting those into new business.
+
+The third lever, expanding our solutions footprint and that includes: vending, VMI, and our growing implant solutions program. We're finding that bringing these solutions to our customers consistently produces higher growth, better retention rates, and stronger lifetime value. As a result, we're increasing investments into each of them and we're raising our performance expectations. Our goal for implant solutions program sales is to double them over the next three years.
+
+Our fourth lever is digital. E-commerce has long been a strength of ours and represents roughly 60% of our sales today. However, standing still is not an option and so we're raising the bar on ourselves to produce a better experience for our customers. We have hired a new leader, who is staffing a new team with deep digital expertise.
+
+Their focus will be on our website and on other digital tools that bring us closer to our customers and build higher levels of loyalty and retention. This will include a new product information system, a new search engine, a new user experience, and the new front-end transactional engine. The fifth lever is diversified customer end markets. While the core of the business is selling into durable metal-cutting manufacturers, we're also focused on building scale in other areas that are countercyclical and that still leverage many of our strengths.
+
+Government is a good example of this. It's no secret that we had some execution issues there a couple of years back. We've worked hard to rebuild our team and our business, and we're seeing the payoff in the form of accelerated growth rates, which of course, have been aided by COVID relief. We plan to continue building on this momentum.
+
+Towards that end, we'll be adding hunter roles that are specific just to government. I'll now turn to our second goal, as summarized on Slide 11, to deliver ROIC, return on invested capital, in the high teens within the next three years. This would imply profit growth of at least the high single digits and it would also imply incremental margins in the high teens. Again, all of this assumes that IP grows in the ranges that I mentioned earlier on.
+
+We launched an operational cost and productivity initiative to deliver on this goal back in fiscal 2020. As you've heard me mention, we expect this initiative to deliver about 200 basis points in cost down on an operating expense-to-sales ratio basis over the next three years. I'm going to now turn things over to Kristen, who will give you more details on the actions that will define our productivity runway.
+
+Kristen Actis-Grande -- Chief Financial Officer
+
+As Erik mentioned, a significant part of the Mission Critical program is to reduce operating expenses as a percent of sales. The cost takeout is going to come from an assortment of programs aligned to three separate tracks. So the first is sales and service, the second is supply chain, and the third is general and administrative costs. Erik covered some of the sales and service initiatives, so I'll elaborate a little bit more on supply chain and the G&A tracks.
+
+Let me first say that the productivity comes from a number of projects and we are tracking each of them closely, with several already announced or even executed. For example, under supply chain, we recently announced that we will be closing one of our smaller distribution centers located in Dallas and moving the service to the remainder of our distribution network. We are also stepping up our use of automation and robotics at several of our customer fulfillment centers for packaging. This was started last year in Harrisburg and is now being expanded to Elkhart.
+
+These moves will improve our productivity and allow associates to perform greater value-added services. We have also renegotiated our freight contracts and will realize significant savings over the next three years. When it comes to G&A, in our fiscal fourth quarter, we completed a process redesign of our talent acquisition function, which resulted in outsourcing that function. This is allowing us to find talent at a faster pace and reduced cost.
+
+Another example is the voluntary retirement program we offered in our fourth quarter. The take-up on the program was very good, as is evidenced by the significant headcount drop in our fiscal fourth quarter. While we will likely reinvest some of these cost savings over time into the five growth initiatives that Erik mentioned earlier, the program will still produce meaningful overall cost reduction. We've also revised our travel policy such that a significant portion of the COVID-related temporary travel cost savings will become permanent.
+
+And finally, we're renegotiating indirect spend contracts, where we'll see an opportunity for further savings. Stepping back from these examples, just kind of thinking about the overall operating expense dollars. In fiscal '20, we reported operating expenses of $993 million. In fiscal '21, the add-back of costs associated with the temporary cost reduction measures roughly offsets the reduction in variable costs from slightly lower sales.
+
+As Erik mentioned, Mission Critical includes growth investment, and that will be in the range of about $15 million in our first year of the growth program which is 2021. This will be more than offset by total structural Mission Critical savings in 2021 in the range of $25 million. And by the way, this is in addition to approximately $20 million of savings that we've already achieved in 2020. Putting all of this together means that we would expect operating expenses to be slightly down if sales are flat to slightly down in fiscal '21.
+
+Now let's dig into 2021 a little bit more to supplement what Erik mentioned earlier on the growth line. On gross margin, we expect the full year to be flat to down 50 basis points year over year. An operating margin framework is shown on Slide 13 for GAAP and 14 for adjusted figures. Operating margins will naturally vary based on the sales level.
+
+If sales are down slightly on an adjusted basis, we would expect operating margin to be in the range of 11.2%, plus or minus 20 basis points. If sales are flat, we would expect operating margin to be in the range of 11.4%, plus or minus 20 basis points. And finally, if sales are slightly up, we would expect operating margin to be in the range of 11.7%, plus or minus 20 basis points. And then I'll turn it back over to you, Erik.
+
+Erik Gershwind -- Chief Executive Officer
+
+Thanks again, Kristen. Before we open things up for questions, I'll just close with a brief summary here. Over the next three years, we are implementing a change equation that we believe will accelerate market share capture and improve profitability. On the growth side of that equation, we're targeting growth rates of at least 400 basis points above market over the cycle by investing in the five growth levers I described earlier.
+
+Our investments will be funded by costs being taken out of the business and we're looking to grow profits faster than sales. This will enable us to improve returns on invested capital into the high teens. All of this is aligned with our ongoing work to reposition MSC from a spot-buy supplier to a mission-critical partner on the plant floor of our industrial customers. The results will not come overnight, particularly, given that we're still dealing with the uncertainty being driven by COVID-19.
+
+However, you saw some early actions being taken in the fiscal fourth quarter and more is to come. As we move into fiscal 2021, despite the uncertain environment, we're going to press ahead with urgency. This is going to be a year of taking measurable action to change the course of this business over the long-term. It will be a year of investment, investment that will be more than funded through cost savings.
+
+2021 is also going to be a year about recommitting to our values: doing the right thing, being humble, putting our customers first, embracing differences, being transparent, transforming, and most importantly, delivering results. We'll now open up the line for questions.
+
+Operator
+
+[Operator instructions] The first question comes from the line of Kevin Marek with Deutsche Bank. Please go ahead.
+
+Kevin Marek -- Deutsche Bank -- Analyst
+
+Hi, good morning.
+
+Erik Gershwind -- Chief Executive Officer
+
+Good morning, Kevin. How are you?
+
+Kristen Actis-Grande -- Chief Financial Officer
+
+Hi, Kevin.
+
+John Chironna -- Vice President of Investor Relations and Treasurer
+
+Good morning, Kevin.
+
+Kevin Marek -- Deutsche Bank -- Analyst
+
+Good. Good. You noted that a big focus operationally going forward is on share capture. I was wondering if you could talk about some of the customers or end markets beyond government where you feel like you can expand nicely?
+
+Erik Gershwind -- Chief Executive Officer
+
+Yes. Sure, Kevin. Look, I think the first thing I'll say is the share capture algorithm or formula that we laid out has five levers to it. And first and foremost, look, we are reinvesting into our core business, so that's metalworking, that's some of the solutions programs that I talked about, that's the CCSG business, and our key supplier partners who've invested with us.
+
+That's all about reinforcing the core. One of the five that I mentioned was diversified end markets. And look, we highlighted what today would be the biggest one of those in government. We've talked about putting a full-court press on to it.
+
+We've been pleased with the performance to date. And so it's encouraging us to do more. Certainly, outside of government, we have our eye on a couple of others. I would say, for competitive reasons, I'll sort of be opaque about which ones.
+
+But the nice thing is, the ones that we have our eye on fall within the umbrella of where there is some business today. We do have some scale and it will be about pressing harder. But it would be areas that fit within our industrial profile, but are outside of our core metalworking markets.
+
+Kevin Marek -- Deutsche Bank -- Analyst
+
+Great. Thanks. And then just one more before I pass it on. Wondering if you could give us an updated color on kind of customers during the pandemic, kind of government or otherwise, and whether you've seen some of those customers show willingness to reorder with you? Or whether you found, over time, that most of them are really one-time opportunistic buyers?
+
+Erik Gershwind -- Chief Executive Officer
+
+You mean -- so Kevin, you're referring to some of the PPE, where we provided PPE into those customers?
+
+Kevin Marek -- Deutsche Bank -- Analyst
+
+Yeah. Yeah. That or even outside PPE, if you saw customers kind of come to you because maybe others couldn't service them during the kind of the depths of the pandemic. Just kind of an update on that dynamic.
+
+Erik Gershwind -- Chief Executive Officer
+
+Yeah. Look, we certainly, Kevin, there's likely some of both going on, which mean -- which is to say that a lot of where we serve was our core customers, who've been with us for a long time. Certainly, there were cases where we were able to help companies, organizations that normally didn't do a lot of business with us. I would say the majority, though, and where our focus was helping out our long-term customers the most, where we have long-standing relationships.
+
+Kevin Marek -- Deutsche Bank -- Analyst
+
+That's great. Thank you. I'll pass it on.
+
+Erik Gershwind -- Chief Executive Officer
+
+Thanks, Kevin.
+
+Operator
+
+The next question is from the line of Hamzah Mazari with Jefferies. Please go ahead.
+
+Mario Cortellacci -- Jefferies -- Analyst
+
+Hi, this is Mario Cortellacci filling in for Hamzah. Just wanted to ask a question on just your sales force productivity. And you talked about, obviously, the measurable actions to reaccelerate your market share capture. But I guess, just could you give us an idea of how you're measuring sales force productivity today? How that has maybe changed? Or how has that tracked relative to history, given where we're in corona and your headcount reductions? And then also, with your optimization, do you expect that those productivity measurements to change going forward and to reach your goals for 2023?
+
+Erik Gershwind -- Chief Executive Officer
+
+Yeah, Mario, so you raised a good point. We enumerated five growth levers. One of the areas in which you will see us investing is into the sales force. Investments into the sales force are really an enabler that underpin each of the five.
+
+And so, if you think back, and obviously, from the highest of levels, the easiest way to look at sales force productivity is sales per headcount. I think, right now, it's a pretty deceiving and pretty tricky metric. And I say that because if you think about what's happened over the past couple of years here, Eddie, who's our head of sales, had determined that we were over-indexed to farmers and under-indexed to hunters. And what you saw pre-COVID, you may remember, sales headcount came down pretty considerably as part of that plan.
+
+And the plan was to build it back up by expanding our hunter population. That remains the plan. We had a little diversion there with COVID, where we lost the ability to really hire in earnest for two, three quarters. We are back to hiring.
+
+What I would tell you in terms of how we're measuring performance is, it's going to be getting -- it is getting, right now, a lot more granular than just looking at sales per head. So for each of those five levers that I mentioned, what Eddie and the sales management team are building are down to the MSA level, performance tracking, and scorecards along each of the five. So for us, it won't just be about do we hit a certain sales per head. It's got to be hitting the sales in the programs in which we're investing.
+
+And that sort of look is going to allow us to really optimize performance at a grassroots level. The other thing it's going to allow us to do is we realize things change. And so as the three years unfold and there'll be another three years beyond that, to throttle up or throttle down the levers based on where we're seeing performance.
+
+Mario Cortellacci -- Jefferies -- Analyst
+
+Great. And then just one more and I'll turn it over. Just I think Kristen had mentioned that you guys are -- you renegotiated your freight contracts. I just wanted to know if you could provide more detail on that? Are you able to quantify any of the savings you're expecting over the next few years? And then, also, I mean, what's your outlook for inflation on freight? And how do you think that's going to impact your gross margin line, again, kind of heading toward your targets?
+
+Erik Gershwind -- Chief Executive Officer
+
+Yeah. So Mario, as you can imagine, given our logistics model, which is a centralized model, the majority of our freight costs are overnight, next-day shipping with large carriers. And so we'll -- what I would tell you, without getting too specific or detailed, but it's been improvements in really all areas of the supply chain, but particularly, around programs with our carriers where we're able to work out win-win arrangements. I think I probably won't go deeper than that.
+
+John Chironna -- Vice President of Investor Relations and Treasurer
+
+Erik, this is John. I would just add to Mario's very last comment. Keep in mind that freight, for us, the bulk of our freight frayed out that you see in the 10-K and in our reporting. That's not in our gross margin.
+
+That's part of SG&A. So just to be clear on that.
+
+Mario Cortellacci -- Jefferies -- Analyst
+
+Got it. That's helpful. I appreciate it.
+
+Erik Gershwind -- Chief Executive Officer
+
+And Mario, I will mention one other thing on the freight line. And this is part of the work that was done with Mission Critical, where, with kind of a deeper look using kind of sophisticated analytics, a deeper look into the business. One of the things that we did see, in addition to just renegotiations, was an opportunity to optimize our freight and order patterns with customers. So meaning, by aggregating orders as opposed to shipping out onesie-twosies, we could sort of shrink the whole pie for us and the customer and bring freight costs down.
+
+So within the footprint of what Kristen was describing, that is another program.
+
+Mario Cortellacci -- Jefferies -- Analyst
+
+Great. Thank you so much.
+
+Operator
+
+The next question comes from the line of David Manthey with Baird. Please go ahead.
+
+Erik Gershwind -- Chief Executive Officer
+
+Dave, we can't hear you, if you're there. You may be muted.
+
+Operator
+
+Mr. Manthey can you hear us? [Technical difficulty] Mr. Manthey, we can't hear you. Can you hear us? Moving on to the next question.
+
+The next question comes from the line of Michael McGinn with Wells Fargo. Please go ahead.
+
+Michael McGinn -- Wells Fargo Securities -- Analyst
+
+Hey, guys, good morning.
+
+Erik Gershwind -- Chief Executive Officer
+
+Good morning, Mike.
+
+John Chironna -- Vice President of Investor Relations and Treasurer
+
+Good morning, Mike.
+
+Kristen Actis-Grande -- Chief Financial Officer
+
+Good morning, Mike.
+
+Michael McGinn -- Wells Fargo Securities -- Analyst
+
+I was wondering if I could switch gears and talk about free cash flow in terms of the investments that you're making. You mentioned vending as one of the drivers for Mission Critical. Also, digital is a big component. Can you talk about what you're expecting capex to be or as a percent of sales or maybe dollars over this three-year horizon?
+
+Kristen Actis-Grande -- Chief Financial Officer
+
+Yeah. Yeah, sure. So capex for '21 and beyond, we're definitely expecting to see kind of an increase over our historic run rate. I'd say, '21 capex dollars, you can expect to be about $70 million to $75 million range.
+
+And if you look at kind of what that represents as an increase over our historic patterns, I'd say about half of that is investment into digital related to the growth levers that Erik described and the other half is kind of split across the other initiatives we discussed, things like solutions, for example. So we will see a higher sustained level of capex for a few years that helps bring those growth levers online and enables the programs that Erik talked about.
+
+Michael McGinn -- Wells Fargo Securities -- Analyst
+
+Great. And then on the operating margin framework, you guys put up a great quarter in terms of just operating execution here. And it seems like the midpoint of your '21 framework is kind of flat with your year-end '20 levels and it sounds like we're getting a little better growth. Just curious, what are the ins and outs in terms of the cost? And then the mix factors in terms of gross margin is -- are these on-site vending lower growth, but better operating? I'm just curious, why wouldn't this great SG&A run rate stick? If you could just kind of tackle that at a high level.
+
+Kristen Actis-Grande -- Chief Financial Officer
+
+Sure, sure. So maybe let me start with just gross margin. So I think if things play out favorably for us from a mix perspective, we've got line of sight to keeping gross margins flat, 20% to 21%. So I'd say, right now, mix is kind of the biggest lever or driver of gross margin that we're really keeping an eye on.
+
+We mentioned some of that PPE-driven, but if we don't see a big mix headwind, I think you can expect to see gross margins stay roughly flat. If we do see a bit more of a mix headwind, we think the max exposure there is probably down 50 basis points. Maybe pivoting to kind of the opex side of the equation, to your point, we did have a strong fourth-quarter opex expenses versus the prior year, we're down about $25 million. So if you kind of like pick apart the pieces of that, about roughly $10 million of it is tied to just variable related costs associated with the revenue decline.
+
+About $7 million of that would be some of the upside from the Mission Critical savings in 2020 that we discussed. And then if you break down the remainder, I'd say about half of that is cost reductions related to temporary cost actions we took. And then the other half is what I'll call kind of just generalized spending delays. We slowed a few things down and then we're picking them back up in 2021.
+
+So of the $25 million that we were down in Q4, I'd expect about 8% to 9% of that comes back online in Q1, and it's a little bit more indicative of what a run-rated figure could look like for '21.
+
+Michael McGinn -- Wells Fargo Securities -- Analyst
+
+Got it. Appreciate the time. Best of luck and I'll pass it along.
+
+Kristen Actis-Grande -- Chief Financial Officer
+
+Thanks.
+
+Operator
+
+The next question comes from the line of Ryan Merkel with William Blair. Please go ahead.
+
+Ryan Merkel -- William Blair and Company -- Analyst
+
+Hey, everyone, thanks to the great details.
+
+Erik Gershwind -- Chief Executive Officer
+
+Hey, Ryan. How are you?
+
+Ryan Merkel -- William Blair and Company -- Analyst
+
+Good. So first off, the growth programs you mentioned are not new. I think, Erik, you mentioned that. So my question is, what has changed that you're now in a position to structurally drive share gains? Is it mainly that the heavy lifting on the sales force optimization is done? Or is the investment in digital and on-site solutions equally as important?
+
+Erik Gershwind -- Chief Executive Officer
+
+Yeah. Ryan, I think you got a couple of things going on that explain why more conviction. Number one, yeah, I mean -- and I think you called out a lot of it. We went through a lot of heavy lifting, as you know, over the last couple of years to reposition the sales force.
+
+It was distracting. Most of that work is behind us. So I think one is moving past the change. Two would be -- seeing some of these programs in action and gaining conviction around what they do for the customer and what they do for us in terms of growth, I think, is two.
+
+Three, the other big thing I'll call out, Ryan, is having a structural cost program to take costs out to fund investment in the growth. So that the investment isn't simply coming on the backs of the shareholders, but that we're funding it through productivity. So I think what you're seeing is increased conviction in the programs and a mechanism to fund it. And then the last thing I'll add is, Eddie has done a really nice job with the sales team in terms of increasing the level of rigor, inspection, and execution.
+
+So I would tell you, from my standpoint, Ryan, the confidence is greater in investing into the area because I do feel like the execution between what he's driving, what Kristen's bringing to the table as our CFO in terms of improving operating performance, the inspection will be greater.
+
+Ryan Merkel -- William Blair and Company -- Analyst
+
+Yup. Yeah, that makes sense, especially funding the new sales hires with cost takeout. So let me ask about that. I think Kristen mentioned $25 million of costs coming out in 2021.
+
+So two questions. Is that all structural? And then secondly, over the next three years, how much costs are you targeting to take out?
+
+Kristen Actis-Grande -- Chief Financial Officer
+
+Yeah. Hey, Ryan. So for '21, the $25 million, yes, I would characterize that as structural cost savings. And then over the course of three years, we're targeting about $90 million to $100 million of cost takeout related to Mission Critical.
+
+Erik Gershwind -- Chief Executive Officer
+
+Yeah. So Ryan, just on that one. On that point, realize that for us, too, if we're going to see 200 basis points of opex improvement and we're talking about the need to reinvest into growth. Then you can imagine, right, the total cost number has to be bigger because of the reinvestment.
+
+Ryan Merkel -- William Blair and Company -- Analyst
+
+Right.
+
+Kristen Actis-Grande -- Chief Financial Officer
+
+Yeah. Exactly, yeah. So as Erik mentioned, this is really about funding growth, investing in those -- investing into those growth levers.
+
+Ryan Merkel -- William Blair and Company -- Analyst
+
+OK. Super helpful. Thanks. I'll pass it on.
+
+Erik Gershwind -- Chief Executive Officer
+
+Thank you.
+
+Kristen Actis-Grande -- Chief Financial Officer
+
+Thanks, Ryan.
+
+Operator
+
+The next question comes from the line of Chris Dankert with Longbow Research. Please go ahead.
+
+Chris Dankert -- Longbow Research -- Analyst
+
+Hey, good morning, everyone.
+
+Kristen Actis-Grande -- Chief Financial Officer
+
+Good morning.
+
+Chris Dankert -- Longbow Research -- Analyst
+
+You guys 9mentioned that doubling the implant sales over the next three years, that's pretty aggressive growth. I guess, can you just kind of size us for today how big that is and where we're starting from?
+
+Erik Gershwind -- Chief Executive Officer
+
+Yeah, sure. And Chris, what I would say is that that program has been inside the company for a number of years now. It's definitely -- I think the change and the reason we're calling it out is, for a number of factors, it's picking up steam. So it's been done more reactively or on a case-by-case basis and has built to a point where, currently, it's in the range of around 5% of company sales.
+
+And so the doubling it over three years, yeah, that would mean around 10%. And the difference is it's going to become a proactive program and investment area as opposed to being done on a case-by-case basis.
+
+Chris Dankert -- Longbow Research -- Analyst
+
+Got it. Got it. Super helpful. And then, again, getting back to the high single-digit growth rate target over time here.
+
+Again, strong goal. I assume that means you've got a really kind of national account focus to kind of generate that level of growth. How are we kind of providing some guidelines or benchmarks for the salespeople on the ground to make sure that we're really capturing margin-accretive business and not just kind of bringing in stuff that ends up being difficult to really get the return on?
+
+Erik Gershwind -- Chief Executive Officer
+
+Yeah. Chris, what you're raising has been a big focus of Eddie, of the sales team, the sales management team, and specifically, around -- I think the words he uses are not bringing in empty calories where we get revenues, but don't make money from it. And what I would tell you is, the ways we ensure that are, number one, aligning compensation, rewards and incentives around not just top-line growth but profitable top-line growth, and we have several ways we do that. And then training and awareness and also, some more intelligence, that we're arming our sales team with more analytics, smarter -- being able to make smarter pricing decisions, using the full power of our database.
+
+So I would say all of those dimensions are in play to make sure that the growth is profitable.
+
+Chris Dankert -- Longbow Research -- Analyst
+
+Got it. Got it. If I could just dig on that just a tiny bit. As far as incentivizing for profitable growth, are we benchmarking to gross margin? Is it op margins? Just any color there for the actual salespeople on the ground would be great.
+
+Erik Gershwind -- Chief Executive Officer
+
+Yeah. What I would say with that, sales comp is sort of a sensitive subject. I won't get too specific other than to say a little bit of both of those things.
+
+Chris Dankert -- Longbow Research -- Analyst
+
+Understood. Well, thanks a lot for the color. I appreciate it.
+
+Erik Gershwind -- Chief Executive Officer
+
+Thanks, Chris.
+
+Operator
+
+The next question comes from the line of John Inch with Gordon Haskett. Please go ahead.
+
+Karen Lau -- Gordon Haskett -- Analyst
+
+Hi, good morning, everyone. This is Karen Lau dialing in for John.
+
+Erik Gershwind -- Chief Executive Officer
+
+Hi, Karen.
+
+Karen Lau -- Gordon Haskett -- Analyst
+
+Erik, I was wondering in your pillars for -- the growth pillars for Mission Critical, how or, if any, does -- if at all, does pricing come into play? Because I ask -- because, obviously, your key competitor, years ago, took a price down to try to accelerate growth. And looking at some of the initiatives that you're talking about, for instance, expanding into like relatively new customer category. I was just wondering how are you thinking about pricing going forward?
+
+Erik Gershwind -- Chief Executive Officer
+
+So what I would say, and it's one of the -- look, pricing is another one of those enabling initiatives in the company that sort of underpin everything we do. And I think there's -- I'll give you two answers that cut in different directions. Number one, of course, we're mindful of being competitive with the market and making sure we're competitive, that's the first thing I'd say. On the other hand, what I'd also say is that we think our value proposition is pretty unique and differentiated.
+
+We think we're bringing some new things to market in the way of -- one example was that MSC MillMax, where we're saving our customers a lot of money, improving their productivity. We want to make sure that we are getting rewarded for that. And so toward that end, we're selling over 1 million SKUs to hundreds of thousands of customers. There's lots of permutations there and it's very difficult for a salesperson to price right all the time.
+
+So we are bolstering our efforts into pricing, to get smarter in how we price, to use more science as opposed to just gut. And so on the one hand, certainly, there's competitive headwinds to price as there always are. On the other hand, we see a lot of opportunity to price smarter and just be more sophisticated and leverage the data and the science. And I think the proof in the pudding there has been -- we've talked about our -- the realization on the summer increase that we just took.
+
+It was strong. And we go back -- if you go back, you remember to the midyear that we took during fiscal '20 and we said the same thing, really strong levels of realization. And we think part of that is being aided by just being smarter.
+
+Operator
+
+Mr. Inch's line has been dropped. Moving on to the next question. The next question comes from the line of Patrick Baumann with JP Morgan.
+
+Please go ahead.
+
+Patrick Baumann -- J.P. Morgan -- Analyst
+
+Oh, good morning, Erik. Good morning, John, and welcome, Kristen. Just wanted to --
+
+Erik Gershwind -- Chief Executive Officer
+
+Hey, Pat.
+
+Patrick Baumann -- J.P. Morgan -- Analyst
+
+Hey, good morning. I just wanted to -- congrats on getting this out. Just wanted to start with kind of a big picture strategic question. Can you talk about the September and October monthly sales trends and just the difference between safety, jan-san, and the rest of the business? You mentioned something about large orders in October, I think.
+
+Any implication on near-term gross margins from that?
+
+Erik Gershwind -- Chief Executive Officer
+
+So let me start. I'll give -- I'll give you some more color on the growth trends and then talk gross margin, Pat. So on the growth trend, what we've seen, safety janitorial still hovering in nice growth territory, not where it was during the surge, but roughly in the 20%-ish range year-on-year growth, and it stayed there for now. Base -- all others, so everything other than safety janitorial, basically, what's going on is, if you go back to May was our trough, where we were down, all other was down in the high 20s.
+
+It's been steadily improving. And I would say, the last couple of months, the pace have improved and picked up a little bit. So all other, September, October, down low double-digits.
+
+Patrick Baumann -- J.P. Morgan -- Analyst
+
+OK.
+
+Erik Gershwind -- Chief Executive Officer
+
+And then the other part of your question was gross margin. Yeah, the color I offer for gross margin for Q1 is probably more of the same-ish with what you saw for Q4. And so the levers there, pricing continues to do well, costs continue to move in the right direction as expected. So we're pleased with the gross margin performance.
+
+I think the one thing is we do see some lingering PPE mix headwinds into Q1 as well. And what I said in the prepared remarks, call it similar impact to what you saw in our fiscal fourth quarter.
+
+Patrick Baumann -- J.P. Morgan -- Analyst
+
+And you're talking year over year, though, right? I mean it should step up sequentially like it normally does.
+
+Erik Gershwind -- Chief Executive Officer
+
+I would say we were more to -- similar sequentially.
+
+Patrick Baumann -- J.P. Morgan -- Analyst
+
+So first quarter similar to just fourth quarter sequentially?
+
+Erik Gershwind -- Chief Executive Officer
+
+Similar, yeah. And again, the big driver there is the PPE. Otherwise, it's the same.
+
+Patrick Baumann -- J.P. Morgan -- Analyst
+
+What was -- I'm sorry, what was the comment on large orders, though? You said the rest of the business, down low double-digits. Was the large orders, was that the -- in safety, jan-san or what was that?
+
+Erik Gershwind -- Chief Executive Officer
+
+Yeah. In October, mostly safety, jan-san.
+
+Patrick Baumann -- J.P. Morgan -- Analyst
+
+OK. Got it. Got it. And then on the 400 basis points of share gains that you're targeting to get to the 6% to 7% sales growth, I mean, this is another way of asking the investment question, I guess.
+
+Maybe it's not price. I don't know if there is an investment. Just curious what's required or what's embedded kind of basically from a gross margin perspective in that high teens incrementals as you think about that -- the growth rate? And I assume, is that a 2023 target? Or is that like over this period, 6% to 7%?
+
+Erik Gershwind -- Chief Executive Officer
+
+So basically, look, we realized, from where we're starting, we have work to do to get to 400-plus basis points. So basically, what it's saying is, by 2023, that's where we want to be and we're going to have markers along the way. So we want to exit 2021 at plus 200 over IP and see a steady climb up in terms of the share capture. I think our feeling on gross margins and what we had modeled out was sort of similar degradation year on year.
+
+That if you took our last few year averages, it's somewhere under 50 basis points, but some sort of primarily driven by mix, that that's our assumption. Hopefully, we can do better and we'd outperform if we really do well on price and cost, etc., but that was the assumption.
+
+Patrick Baumann -- J.P. Morgan -- Analyst
+
+Yeah. OK. That makes a lot of sense. Super helpful.
+
+And then last one for me is the restructuring this -- this -- in 2021. Is that -- is the adjusted framework and earnings kind of a 2021 thing? Or you think this is going to be a multiyear program and this will continue for kind of a number of years from a restructuring perspective?
+
+Kristen Actis-Grande -- Chief Financial Officer
+
+Yeah. On the restructuring, I'd say, based on kind of how we've teed things up now, we're likely to see a heavier volume of that in the first year, tapering in the second and third, but our goal here is to kind of continually refresh the pipeline. We're giving three-year guidance, but this is really about ongoing transformation of how we think about continuing to evolve the business, both from a growth and cost perspective. So I would say it's never out of the range of possibility that new things come into play in year two and year three.
+
+Patrick Baumann -- J.P. Morgan -- Analyst
+
+OK. I'll pass it on. Thanks so much for your time and best of luck.
+
+Erik Gershwind -- Chief Executive Officer
+
+Thank you.
+
+Kristen Actis-Grande -- Chief Financial Officer
+
+Thanks.
+
+John Chironna -- Vice President of Investor Relations and Treasurer
+
+Thanks, Pat.
+
+Operator
+
+The next question comes from the line of Steve Barger with KeyBanc Capital Markets. Please go ahead.
+
+Erik Gershwind -- Chief Executive Officer
+
+Sounds like we may have some technical difficulties.
+
+John Chironna -- Vice President of Investor Relations and Treasurer
+
+Yeah. Steve?
+
+Steve Barger -- KeyBanc Capital Markets -- Analyst
+
+Hey, can you hear me?
+
+Erik Gershwind -- Chief Executive Officer
+
+Yeah. There you are, Steve.
+
+John Chironna -- Vice President of Investor Relations and Treasurer
+
+We can hear you now, Steve.
+
+Steve Barger -- KeyBanc Capital Markets -- Analyst
+
+OK. Sorry. Yeah. Just can you square the centralized logistics model with the push toward more vending, VMI, and implant solutions? I'm just trying to understand how it will work on the ground.
+
+Is this hiring more specialists to get deeper with customers of a type? Or hiring more generalists that can work across end markets to drive diversification? Are we narrowing focus or expanding focus?
+
+Erik Gershwind -- Chief Executive Officer
+
+So what I would say is, we are, look, there's five levers here, Steve. And I would say we're focused on each of the five. And I would say, for the most part, it's a reinvestment into the core of the business, with diversified end markets being a little bit new, but for each of the five, there's going to be discrete focus. I do think -- or we do think -- and obviously, we're pressure testing, to your first part of your question, we pressure test the logistics model all the time, and we do think that the centralized model works fine with vending.
+
+It works fine with the implant solutions. And in fact, look, it's been a big part of the growth of the company in the past. We think we can do it better, for sure, and that's a big part of Mission Critical, but we think it works just fine.
+
+Steve Barger -- KeyBanc Capital Markets -- Analyst
+
+OK. And Kristen, I know it's early days for you, were you able to participate in the planning process? And how do you see the finance arm supporting this new focus on share reacceleration?
+
+Kristen Actis-Grande -- Chief Financial Officer
+
+Yeah. Yeah. So I was able to participate in some of the planning. Where I think finance has a really great opportunity to engage here is how we're partnering the business -- partnering with the business to really drive that performance, how we're thinking about the modeling, how we're tracking the programs.
+
+I mean that's an area -- just under two months in now, but as I think about kind of what my priorities are, near-term, that's an area where we're really going to strengthen our focus from a functional perspective.
+
+Steve Barger -- KeyBanc Capital Markets -- Analyst
+
+Got it. Thanks.
+
+Kristen Actis-Grande -- Chief Financial Officer
+
+No problem, thanks.
+
+Erik Gershwind -- Chief Executive Officer
+
+Thank you, Steve.
+
+Operator
+
+This concludes our question-and-answer session. I would like to turn the conference back over to John Chironna for any closing remarks.
+
+John Chironna -- Vice President of Investor Relations and Treasurer
+
+Thank you, Constantino. A quick reminder that our fiscal first-quarter 2021 earnings date is now set for January 6th, 2021. Before we get there, we'll be at several equity conferences over the coming months, so we look forward to seeing you there. I want to thank you all for joining us today, and please continue to stay healthy and safe.
+
+Bye for now.
+
+Operator
+
+[Operator signoff]
+
+Duration: 58 minutes
+
+John Chironna -- Vice President of Investor Relations and Treasurer
+
+Erik Gershwind -- Chief Executive Officer
+
+Kristen Actis-Grande -- Chief Financial Officer
+
+Kevin Marek -- Deutsche Bank -- Analyst
+
+Mario Cortellacci -- Jefferies -- Analyst
+
+Michael McGinn -- Wells Fargo Securities -- Analyst
+
+Ryan Merkel -- William Blair and Company -- Analyst
+
+Chris Dankert -- Longbow Research -- Analyst
+
+Karen Lau -- Gordon Haskett -- Analyst
+
+Patrick Baumann -- J.P. Morgan -- Analyst
+
+Steve Barger -- KeyBanc Capital Markets -- Analyst
+
+More MSM analysis
+
+All earnings call transcripts
+
+This article is a transcript of this conference call produced for The Motley Fool. While we strive for our Foolish Best, there may be errors, omissions, or inaccuracies in this transcript. As with all our articles, The Motley Fool does not assume any responsibility for your use of this content, and we strongly encourage you to do your own research, including listening to the call yourself and reading the company's SEC filings. Please see our Terms and Conditions for additional details, including our Obligatory Capitalized Disclaimers of Liability.
+
+Motley Fool Transcribing has no position in any of the stocks mentioned. The Motley Fool owns shares of MSC Industrial Direct. The Motley Fool has a disclosure policy.
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+
+Don't wait — this offer ends soon.

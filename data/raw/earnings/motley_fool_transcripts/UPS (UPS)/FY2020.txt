@@ -1,0 +1,723 @@
+Ticker: UPS (UPS)
+Fiscal Year: FY2020
+Query Used: UPS (UPS) FY20 earnings call transcript motley fool
+Source URL: https://www.fool.com/earnings/call-transcripts/2021/02/02/united-parcel-service-ups-q4-2020-earnings-call-tr/
+Title: United Parcel Service (UPS) Q4 2020 Earnings Call Transcript
+Fetched At (UTC): 2026-04-13T01:09:40.668599+00:00
+
+UPS earnings call for the period ending December 31, 2020.
+
+Image source: The Motley Fool.
+
+United Parcel Service 
+(
+UPS
++0.02%
+)
+
+Q4 2020 Earnings Call
+Feb 02, 2021, 8:30 a.m. ET
+
+Operator
+
+Good morning. My name is Stephen, and I will be your facilitator today. I would like to welcome everyone to the UPS investor relations fourth-quarter 2020 earnings conference call. [Operator instructions] It is now my pleasure to turn the floor over to your host, Mr.
+
+Scott Childress, investor relations officer. Sir, the floor is yours.
+
+Scott Childress -- Investor Relations Officer
+
+Good morning, and welcome to the UPS fourth-quarter 2020 earnings call. Joining me today are Carol Tomé, our CEO; and Brian Newman, our CFO. Before we begin, I want to remind you that some of the comments we'll make today are forward-looking statements within the federal security laws and address our expectation for the future performance or operating results of our company. These statements are subject to risk and uncertainties which are described in detail in our 2019 Form 10-K, subsequently filed Form 10-Qs, and other reports we file with the Securities and Exchange Commission.
+
+These reports, when filed, are available on the UPS Investor Relations website and from the SEC. For the fourth quarter of 2020, GAAP results included a non-cash after-tax mark-to-market pension charge of $4.9 billion, an after-tax transformation charge of $114 million, and an after-tax impairment charge of $545 million related to the company's decision to sell UPS Freight. The after-tax total for these items is $5.6 billion, an impact to the fourth quarter of 2020 EPS of $6.38 per diluted share. The mark-to-market pension charge of $4.9 billion included a benefit from higher-than-anticipated asset returns which did not fully offset the negative impact of lower discount rates.
+
+It also included the remainder of our current best estimate of potential central states coordinating benefits as of December 31, 2020. Additional details regarding the year-end pension charges will be available in a presentation posted to our investor relations website later today. Unless stated otherwise, our comments will refer to adjusted results, which exclude the year-end pension charges, transformation cost, and non-cash impairment charge. The webcast of today's call, along with the reconciliation of non-GAAP financial measures, are available on the UPS investor relations website.
+
+Following our prepared remarks, we will take questions from those joining us via the teleconference. [Operator instructions] And now, I'll turn the call over to Carol.
+
+Carol Tome -- Chief Executive Officer
+
+Thank you, Scott. We have a lot to cover with you this morning. We were very busy in the fourth quarter. I will review our peak season and then provide an update on our strategic progress.
+
+Brian will cover the financial details for the quarter and then finish with an outlook for 2021. Let me begin with a huge thank you to our more than 540,000 UPSers who are not only delivering one of the best peaks in our company history but also for their extraordinary efforts throughout 2020. UPSers are essential workers, and I could not be more proud of the team. In a year unlike any other, they delivered what matters.
+
+Looking at the fourth quarter, our results were strong and considerably better than we expected. Consolidated revenue in the quarter rose 21% from last year to $24.9 billion, and operating profit grew 26% from last year to $2.9 billion. This is the highest quarterly operating profit in the company's history, with record profit produced in each segment. For the year, UPS generated record revenue of $84.6 billion, with growth in all three segments.
+
+We increased operating profit by 7% to $8.7 billion, and we generated diluted earnings per share of $8.23, an increase of 9.3%. Turning back to the fourth quarter, let me address our holiday peak performance. The environment was very dynamic largely due to market demand exceeding market supply, but we were ready. Our early collaboration with customers and a disciplined approach to executing our peak plans proved to be very successful.
+
+We delivered industry-leading service levels which, in turn, accelerated new customer requests for our services. As peak holiday approached, we saw SMBs, or small and medium-sized businesses, increasingly turn to UPS. In the U.S., in the fourth quarter, SMB volume grew 28.5%, outpacing our larger customers, which grew by 4%. By running the network with more discipline and through the deployment of new tools, we reduced what we refer to as chaos costs or costs associated with bottlenecks and overtime pay.
+
+Additionally, SurePost Redirect reached a new record in December. Nearly 50% of SurePost volume was delivered by UPS drivers, optimizing our network. And just a comment about peak outside of the U.S., it was a very peaky peak with the highest volume in our history, delivered with excellent service levels. And while this peak was one of our best, we know that we can do even better.
+
+We have identified additional areas for improvement and are including them in our peak 2021 planning. During the height of the peak season, the FDA and other health authorities approved the use of COVID-19 vaccines. We were ready for this as we had reserved capacity in our network. We've been in the healthcare logistics business for more than 15 years.
+
+Our expertise in cold chain logistics positions us well. And thus far, we have provided above 99% service for vaccine delivery. Looking back to 2020, we laid a strong foundation for future success. On my first earnings call in July, I mentioned that we were operationalizing our strategy: customer-first; people-led; innovation-driven; through a better, not bigger, framework.
+
+We are making solid progress. From a customer-first perspective, speed and enabling capabilities are very important. Our goal is to provide the best digital experience powered by our Smart Global Logistics Network. And we're targeting our solutions to high-yielding sectors, like SMBs, among others.
+
+We've moved the needle on speed. For the year, weekend ground volume was up 93.9% over last year. And SMB volume on our Fastest Ground Ever lanes grew by 40% in the fourth quarter since we improved these lanes. We now have more than 700,000 accounts in DAP, which is our Digital Access Program.
+
+And revenue from that program grew more than 360% in 2020. We expect our DAP revenues to reach $1 billion in 2021. People-led focuses on building a better workplace for our people. Over the past several months, we've addressed some of the pain points here, and early feedback has been very positive.
+
+In fact, we've seen a 13-percentage-point improvement in likelihood to recommend, the primary metric we use to measure progress on our people-led initiative. As Brian will detail, during the quarter, we accelerated certain annual bonus awards that we're paying out over five years. Going forward, our annual management incentive plan will pay out in one year and will include targets for return on invested capital. Further, we are simplifying our sales incentive programs and incorporating profitability targets into those programs.
+
+These changes better align employee performance to the interest of all shareowners. People-led also means creating fewer but more impactful jobs and lowering our nonoperating costs. Brian will provide you with an update on our transformation activities. Innovation-driven means driving higher returns on the capital we deploy using new tools, processes, and technologies.
+
+Driving higher returns starts by improving our revenue quality. And here, our efforts are working. In the fourth quarter, U.S. Domestic revenue per piece was up 7.8%, the highest growth we've seen in more than 10 years.
+
+While this year-over-year growth rate reflects peak surcharges, it also reflects a change in mix as SMBs accounted for 64% of U.S. average daily volume growth in the quarter. We also saw solid SMB volume growth outside of the U.S. Lastly, we have tightened the linkage between our investments and returns.
+
+As I mentioned back in July, with the exception of our five core principles, everything else is under review. Last week, we announced that we had entered into an agreement to sell UPS Freight, our LTL business unit. UPS Freight is a capital-intensive, low-returning business. We do not need to own this business to provide an LTL solution for our customers.
+
+With the disposition of UPS Freight, we will be smaller, but we will be better, as without it, we will see an improvement in our operating margin and return on invested capital. Being better, not bigger also means derisking our balance sheet. We will use the proceeds from the sale of UPS Freight to pay down long-term debt. Looking ahead, uncertainty remains.
+
+While we are optimistic about the future, we don't know the pace of the vaccine rollout or the impact that a continuing pandemic will have on the global economy. On the other hand, we don't think e-commerce sales as a percentage of retail sales will decline, which means continued supply and demand imbalances. This scenario supports our efforts to improve revenue quality while optimizing our existing network. These efforts, coupled with a relentless focus on productivity and effective capital allocation, should result in both operating margin expansion and higher return on invested capital in 2021.
+
+But until we have more certainty with the economic environment, we are not providing revenue or earnings per share guidance. Let me close with a note of reflection. I've been in the CEO chair since June 1. It has been an honor and a privilege to serve, especially this year, a year the world won't forget.
+
+UPS is a purpose-driven company with a proud past and an even brighter future. I'm excited about the opportunities that lie ahead. And with that, I'll turn the call over to Brian.
+
+Brian Newman -- Chief Financial Officer
+
+Thanks, Carol, and good morning. In my comments today, I will cover four areas, starting with high-level macroeconomic trends, then the results for each of our business segments. Next, I'll review full-year cash and shareowner returns. And lastly, I'll wrap up with some color on our 2021 outlook, including full-year guidance for capital allocation.
+
+Let's start with the macro, which can be best described as dynamic and has created both opportunities and obstacles, pushing business activity in multiple directions. Global GDP for the fourth quarter is expected to finish down 1.7%, a slight improvement versus the third quarter. In the U.S., reported consumer sentiment in December was 80.7, up 3.8 points from November. And consumers continued to shop online with year-over-year growth for non-store retail sales up 24.3% to finish at 20.9% of all U.S.
+
+retail sales in the fourth quarter. On the commercial side of the U.S. economy, growth in industrial production during the fourth quarter remained negative at minus 4.7% year over year but improved 180 basis points from the third quarter. Overall, macro conditions are weak.
+
+However, the shift in buying patterns generated elevated residential demand. Moving to performance. For the quarter, consolidated revenue, profit, and EPS were all up more than 20%. UPS consolidated revenue increased 21% to $24.9 billion, and operating profit totaled $2.9 billion, 26% higher than last year.
+
+The operating margin for the company expanded to 11.5%, which was 40 basis points above last year, and diluted earnings per share was $2.66, up 26.1% from the same period last year. Our strong fourth-quarter financial results provide a glimpse into our strategic progress and what is possible. Moving into the segments. In U.S.
+
+Domestic, our success was driven by our revenue quality efforts and a disciplined approach to executing our peak plans. As expected, average daily volume increased 8.9% year over year to a total of 25.2 million packages per day. More importantly, customer mix improved. SMB volume growth accelerated 980 basis points sequentially, going from 18.7% growth in the third quarter to 28.5% in the fourth.
+
+Both SMBs and our larger customers grew residential shipments across air and ground products. Overall, B2C shipments increased 19.9% year over year and represented 67% of total volume. Conversely, both SMBs and large customers shipped fewer B2B packages on a year-over-year basis. B2B average daily volume finished down 8.3%.
+
+Health care and automotive were bright spots and delivered single-digit B2B growth. However, they were unable to offset weakness in retail and high tech. For the quarter, U.S. Domestic generated its highest-ever quarterly revenue, up 17.4% to $15.7 billion, driven by growth in ground products.
+
+We are extremely pleased with our revenue quality efforts which were well above our expectations. More specifically, SMB growth accelerated, and we had higher-than-anticipated peak season surcharge revenue. As a result, reported revenue per piece grew 7.8% year over year, with ground revenue per piece up 11.2%. Turning to costs.
+
+Expenses were up 17.7% over the fourth quarter of last year, and cost per piece was up 8.2%. Our expenses grew faster than revenue due to several factors. First, in 2019, we had $150 million in expense reductions from alternative fuel tax credits and lower management incentives that did not repeat. Second, total delivery stops increased by 15.7% due to high growth in single-piece shipments, and lower delivery density increased cost by $185 million.
+
+Third, in the quarter, we had higher benefit expenses of $100 million related to the employees hired early in 2020. And finally, as Carol mentioned, in the fourth quarter, we elected to accelerate the vesting of certain previous compensation awards, a one-time expense impact of $129 million. If you ignore the impact of the accelerated vesting of awards, we would have leveraged expense in the quarter. When we look specifically at our peak period, despite the complexities, our operators and engineers executed extremely well.
+
+Together with the sales teams, we controlled volume that entered the network, avoiding chaos costs while delivering best-in-class service. As one example, overtime hours in our operations in December went down 7.7% compared to last year. Pulling it all together, in the fourth quarter, the U.S. generated $1.4 billion in operating profit, an increase of 14.3% compared to last year.
+
+Moving to International. The segment delivered another quarter of record operating profit. We exceeded our volume expectation with total average daily volume up 21.9% driven by export and domestic volume growth in all regions. We added 365 flights above our normal schedules to support high market demand for our export services.
+
+In fact, total exports grew 27.8% on a year-over-year basis led by Asia exports, up 45%; and Europe exports, up 30.7%. B2C average daily volume grew 104.1%, while B2B was up 2%, the first quarterly B2B growth in 2020. For the quarter, international revenue was up 26.8% to $4.8 billion. Revenue per piece was up 3.8%, and cost per piece was up 0.3% year over year, which generated positive operating leverage in the quarter.
+
+For the fourth quarter, International delivered operating profit of $1.2 billion, an increase of 43.4%, and operating margin expanded 280 basis points to 24.3%. Operating profit and margin are both record highs for the segment. Looking at Supply Chain and Freight. The segment results were excellent, with revenue up 29% to $4.4 billion.
+
+Strong market demand drove revenue and profit growth in almost all business units. Forwarding had another great quarter led by elevated demand out of Asia. Our LTL business grew operating profit by focusing on revenue quality efforts, and healthcare had its best quarterly top-line and bottom-line growth ever driven by outbound direct-to-patient shipments, all while providing near-perfect service in late December for COVID-19 vaccine deliveries. Overall, in Supply Chain and Freight, operating profit was $331 million an increase of 26.3% year over year.
+
+Walking down our income statement. We had $175 million of interest expense. Other pension income was $327 million. And lastly, our effective tax rate came in at 23.2%.
+
+Now, let's turn to cash and shareowner returns. Our cash flow was strong throughout the year. We generated $10.5 billion in cash from operations, which included a benefit of $1.1 billion related to the CARES Act federal payroll tax deferral, offset by pension contributions totaling $3.1 billion. Capital investments totaled $5.6 billion, which includes 16 new aircraft, 16,000 new vehicles, and 18 facilities added to our Smart Global Logistics Network, all of which resulted in free cash flow for 2020 of $5.1 billion.
+
+In 2020, UPS distributed $3.6 billion in dividends, which represents a 5.2% increase on a per-share basis over 2019. Moving to our outlook for 2021. As Carol mentioned, due to the continuing economic uncertainty, we are not providing revenue or diluted earnings per share guidance at this time, but I do want to give you some color as you think about 2021. First, let me update you on what we have been calling Transformation 2.0.
+
+Through a combination of various programs, we plan to reduce our nonoperating expenses by more than $500 million in 2021. As Carol mentioned, we are focused on creating fewer but more impactful jobs. Second, we expect the sale of UPS Freight will close during the second quarter of 2021. So you will want to adjust your models accordingly.
+
+Third, we are gaining traction on our revenue quality initiatives. As a result, we would expect our small package revenue in 2021 to grow faster than our average daily volume. As we further evaluate the year, one of our wildly important initiatives is to review our network design and look at alternatives for how we expand capacity. And finally, because of our revenue quality initiatives, along with our actions to drive higher levels of productivity and take cost out, we expect operating margin and return on invested capital to expand.
+
+And just to comment on the first half of the year. We will face more difficult comps in the second quarter of 2021 than in the first quarter. As a result, we anticipate much stronger year-over-year financial results in the first quarter relative to the second quarter. While it is early in the quarter now, we are pleased with how the year has begun.
+
+Looking at full-year capital allocation in 2021, we expect capital expenditures to be about $4 billion, with 40% allocated to maintenance capex, 50% for both technology initiatives and network capabilities in 2021 with over half of this investment being deployed to International and healthcare, and the remaining 10% for growth projects that will come online after 2021. Dividends are expected to grow subject to board approval. And to further strengthen the balance sheet, we will pay off $2.5 billion of funded debt. We have no plans to repurchase shares or access the debt capital markets.
+
+And lastly, our effective tax rate is expected to be approximately 23.5%. Before I wrap up, I would like to confirm that we will host an investor meeting on June 9, where we will share multi-year financial targets and our specific plans for how we will achieve those targets. In closing, we are laser-focused on executing our strategy and leaning into the best market opportunities to improve the financial performance of the company, provide the best customer experience and benefit our shareowners. Thank you.
+
+And, operator, please open the lines.
+
+Operator
+
+Thank you. We will now begin the question-and-answer session. [Operator instructions] Our first question will come from the line of Amit Mehrotra of Deutsche Bank. Please go ahead.
+
+Amit Mehrotra -- Deutsche Bank -- Analyst
+
+Thanks, operator. Good morning, everybody. Congrats on the good results. Brian, just on your margin comment, just wondering if you can clarify on the second quarter if you expect margins to be up year over year in the second quarter.
+
+I understand the tougher comp. I was just trying to get a sense of how you're thinking about it on a year-over-year basis. And then I was just hoping also you can help us think about yield and cost per package as we progress through 2021. Yield progress has been great, but just wondering if that's something you can continue to sustain or build upon in 2021.
+
+Thank you.
+
+Brian Newman -- Chief Financial Officer
+
+Yes, Amit, happy to take that. So from a yield perspective, very happy with the progress, particularly in the U.S. business. We went from Q2 -- yield was minus 4.4%.
+
+We were flat in Q3 and up 7.8% in Q4. So I think you've heard us talk about the revenue quality actions we've been implementing. It's a combination of mix, it's a combination of surcharges and customer actions. So I think the progress speaks for itself.
+
+In terms of op margins for 2021, as I mentioned, we're committed to expanding our domestic op margin in the year. I won't get into Q1 versus Q2. We'll certainly give you some more guidance and clarity when we get together in June to talk about the second half of the year. But suffice it to say, the combination of revenue quality and cost actions will expand domestic margins in the year.
+
+Amit Mehrotra -- Deutsche Bank -- Analyst
+
+But just one quick related to that. The cost per package inflation was pretty high in the quarter, and you obviously called out some specific items. As we look at the progression over this year, the yield dynamics look sticky. Maybe cost per package can come down, at least the inflation in cost per package can come down, especially as you get B2B recovery.
+
+Is that a fair way to think about the spread between cost/price and cost per piece as we progress through the year relative to, obviously, what it was in the fourth quarter?
+
+Brian Newman -- Chief Financial Officer
+
+Yes. Amit, I think we talked on the last quarter about some of the headwinds we were walking into in the fourth quarter of '20. We had 40,000 employees coming on, which was about $100 million headwind. We were investing in Fastest Ground Ever.
+
+I guess what I would call your attention to if you're looking for margin progression and progress, we made an intentional decision, as Carol mentioned, to accelerate the vesting of some awards. And if you back that out, that was worth about 80 basis points. So we would have actually generated positive leverage in Q4. So as you think about that relationship, we would have seen positive leverage if we chose not to pull that forward.
+
+Hopefully, that answers.
+
+Amit Mehrotra -- Deutsche Bank -- Analyst
+
+Yes. Got it. Thank you very much. Appreciate it.
+
+Brian Newman -- Chief Financial Officer
+
+Yes.
+
+Operator
+
+Our next question comes from the line of Tom Wadewitz of UBS. Please go ahead, sir.
+
+Tom Wadewitz -- UBS -- Analyst
+
+Yes. Good morning. I wanted to give you -- I guess another angle on the domestic package margin. Congratulations on the strong results as well.
+
+I should say that first. How do you think about the kind of key factors that maybe drive stronger or weaker performance in domestic package margin improvement as you kind of look on a 2021? Is it how well B2B recovers? Is it kind of your cost initiatives? And do we think about kind of a building as you look out in quarters and even look further out in the pace of margin improvement? So I guess just a couple of things, trying to get more of a sense. Not a number, I know you don't want to give that. But how we think about the levers and whether that improvement is something that accelerates maybe beyond the second-quarter comment you gave.
+
+Carol Tome -- Chief Executive Officer
+
+Maybe I'll start, Brian, and then turn it to you.
+
+Brian Newman -- Chief Financial Officer
+
+Sure.
+
+Carol Tome -- Chief Executive Officer
+
+We look at Q4 as a turning point in our company, where our revenue grew faster than our ADV. And that was driven really by three factors in the U.S. We beat our U.S. expectations on the top line by nearly $850 million, and it was driven by higher peak surcharges.
+
+It was driven by a change in mix as we called out with that increase in SMB, almost 29%. And it was driven by the actions that we started last year to optimize our network, all along the better, not bigger framework. And we think this is proof positive that better, not bigger will work. And in the face of the demand capacity constraints, we believe that will continue.
+
+So as we look forward to 2021, we expect our revenue to grow faster than our ADV, which provides leveraging opportunities. But it doesn't stop at the top line, it also means continued productivity on the bottom line. So Brian called out our actions to take out $500 million of cost, that's cost that's being eliminated from our company. And then we are driving productivity in our operations expense lines as well.
+
+So it's a combination of better revenue quality and productivity that will lead to margin expansion not just in 2021 but beyond. Now, we're going to lay this out for you in great detail at our investor conference in June. So I hate to kick the can to June, but we're going to kick the can to June a bit because we've got some more work to do. Brian, anything you want to add to that?
+
+Brian Newman -- Chief Financial Officer
+
+Just, Tom, on the Q4, the inflection Carol referenced, I think if you look back the last decade or so, we're used to seeing peak in Q4 margins actually decelerate, go down from Q3. This was actually an inflection point where we actually saw an 8.6% go to an 8.8% on a sequential quarter-over-quarter basis. So I think the levers we're pulling on revenue, the levers we're pulling on costs that Carol referenced, we're looking for the right glide path. But we'll give you more clarity on that.
+
+Tom Wadewitz -- UBS -- Analyst
+
+Great. Thank you.
+
+Carol Tome -- Chief Executive Officer
+
+Thank you.
+
+Operator
+
+We have a question from the line of Brian Ossenbeck of J.P. Morgan. Please go ahead, sir.
+
+Brian Ossenbeck -- J.P. Morgan -- Analyst
+
+Hey, good morning. Thanks for taking my question. I just wanted to ask you about the capital intensity of growth. I think, Brian, you mentioned you're looking at network design and expanding some capacity.
+
+So maybe if you can clarify if that's in the U.S. Domestic or more broadly speaking across the whole network. And then just when you think about automation, how much more investment do you think you need to do there to sort of get the sort of leverage that you're talking about if we still see a pretty big step-up in B2C and e-commerce throughout the next year?
+
+Carol Tome -- Chief Executive Officer
+
+Well, I'll take the automation question. By the end of 2021, we expect that 88% of our packages will go through an automated sort. So we're reaching sort of where we want it to be in that regard. That doesn't, though, talk about robots and what we are doing with robot application inside of our domestic business.
+
+We've got some interesting pilots under way that are actually starting to take traction, particularly as it relates to label applications. And we'll be happy to share with you more information in that regard, too. It's pretty exciting when I think about what we can do from that perspective longer term. In terms of how we're spending our capital this year, Brian, you might want to talk about that.
+
+Brian Newman -- Chief Financial Officer
+
+Sure. So we pivoted a little bit. The buildings and auto piece is going to represent about $2 billion of the $4 billion. We do have about $1.6 billion of maintenance that we need to continue to invest in the business, and we're reserving the balance for growth.
+
+I think the shift toward higher return, we're going for shorter-term paybacks in areas like International and healthcare and technology, those are areas that we're pivoting to, to generally capture the growth in high-return areas.
+
+Carol Tome -- Chief Executive Officer
+
+Maybe a little bit more specificity here. We'll expand or retrofit about seven buildings in 2021. It's about 2 million square feet that will be added, 130,000 packages per hour. We are adding 11 new aircraft, which will certainly help support the demand that we're seeing outside of the United States.
+
+So we're planning to grow, but we're planning to grow smartly. It's about being better, not bigger.
+
+Brian Ossenbeck -- J.P. Morgan -- Analyst
+
+OK. Thank you very much.
+
+Operator
+
+Our next question will come from the line of Allison Landry of Credit Suisse. Please go ahead, ma'am.
+
+Allison Landry -- Credit Suisse -- Analyst
+
+Thanks. Good morning. So just sort of wanted to ask another question about domestic revenues growing faster than volumes. Obviously, you're focusing on SMBs and other high-margin sectors.
+
+But how do we think about just broadly growth at the largest customers? Are you taking any specific actions, price or otherwise, to materially reduce exposure to some of the low-margin but high-volume business? And then lastly, if you could just speak to your thoughts on the sustainability of the SMB growth rate. Thanks.
+
+Carol Tome -- Chief Executive Officer
+
+So let's just address the elephant in the room, which is our largest customer. We have over 19 million customers. Amazon is our largest customer. We enjoyed growth with that customer in 2020.
+
+If you look at total revenues for our company in '20, Amazon now makes up about 13.3% of our total revenues, up from 11.6% last year. But we had growth in other customers as well. As we look at our large enterprise customers in the fourth quarter alone, we had enterprise customers who are growing at 80% year on year. Full year, we had enterprise customers who are growing 100% year on year.
+
+So we see growth across the board. To your question, Allison, about the stickiness of the SMB customer, we are laser-focused here because this is such an important customer to us and one we think values our end-to-end network. So we have 16 customer journeys that we are investing into to improve the customer experience. Now, it started with our Fastest Ground Ever initiative, and we made good progress in that regard, but we are not done.
+
+We know there's more we can do to invest in that -- at that experience because speed really matters for this customer. But it's also about a frictionless digital experience. And I'll just give you one example of our 16 customer journeys. That's our billing system.
+
+If you look at our billing system for our SMB customers compared to our competitors, and if you did a Harvey ball comparison, you would see that many of our Harvey balls are empty, which means our capabilities are, well, at a competitive disadvantage. This is a system that was built by UPS years ago. Gosh, I don't know how long ago but years ago. We are replacing that system with a new SaaS-provided software application.
+
+And when you do the capability comparison against what we will have against our competitors, well, we're best-in-class. That matters to this customer because the billing system can be personalized for their experience, and every SMB customer is different. Now, we can't have this in every country around the world because some countries require paper still today. But in many countries, we can install this billing system, and we believe that will result in stickiness.
+
+It's also about the solutions that we provide. When we provide solutions to our customers, we see they stick with us, and the numbers are quite impressive in terms of the stickiness if they have a solution and don't have a solution. So we continue to invest in that. And at our June 9 investor conference, we're going to unpack this in pretty good detail for you, so you can get a sense of what we're talking about.
+
+The one other data point that I will share with you is churn. And I think we talked about churn on my first earnings call, didn't we? And we've got a laser focus on SMB churn. What we saw in December is our churn improved for the company year over year the first month this year. And we think that's really in large part because of the customer journeys we're investing in and our Fastest Ground Ever.
+
+And as a reminder, every point of churn improvement in the United States is about $170 million of revenue.
+
+Operator
+
+Our next question will come from the line of Allison Poliniak of Wells Fargo. Please go ahead, ma'am.
+
+Allison Poliniak -- Wells Fargo Securities -- Analyst
+
+Hi, good morning. Just turning back to the commercial customer within that B2B segment. Clearly, the industrial production has been on a positive trend line. Is that something you're seeing within your business as well? Any thoughts from your customers in that segment in terms of how they're thinking about 2021? Any color around that segment?
+
+Carol Tome -- Chief Executive Officer
+
+Well, to your point, Allison, the trends are certainly encouraging in terms of what we're seeing from a production perspective. Our largest commercial account is actually retail, and it's related to stores and how product flows to stores. So until we see more store openings, we think our commercial business could be under some pressure. But we did see some growth signs.
+
+Brian, you called out some signs of growth, didn't you?
+
+Brian Newman -- Chief Financial Officer
+
+Yes. We saw in the industrial side, Allison, healthcare, and auto were positive. Also, if we look internationally, we actually saw Asia and Europe contribute. And with the high tech in International, in particular, we saw 2% positive B2B growth in the quarter in International.
+
+That was the first positive sign in 2020. So hopefully -- the B2B trends stayed about the same, down 8% in the U.S., but hopefully, as the sectors come back, and as Carol mentioned, as retail opens back up, we can grow that as well.
+
+Carol Tome -- Chief Executive Officer
+
+There's just still so much uncertainty, isn't there? Because until we get this pandemic under control, it's a little -- we're just a little bit walking on Jell-o.
+
+Allison Poliniak -- Wells Fargo Securities -- Analyst
+
+I understood. Thank you.
+
+Carol Tome -- Chief Executive Officer
+
+Thank you.
+
+Operator
+
+We have a question from the line of Ken Hoexter, Bank of America. Please go ahead, sir.
+
+Ken Hoexter -- Bank of America Merrill Lynch -- Analyst
+
+Hey, great. Good morning and solid results. Just, Brian, can you clarify that margin comment? That was just domestic, or were you talking overall? And then I guess my question would be on the $500 million transformation. Is that the employee reductions that you've already done? Or are there other projects in the Transformation 2.0? I don't know if you also want to detail what was in the charges that you had this quarter.
+
+Thanks.
+
+Brian Newman -- Chief Financial Officer
+
+Yes. So on those two, Ken, the margin comment I was referring to was domestic, where we're looking to expand that on a year-over-year basis and committing to do that. The Transformation 2.0, I called out $500 million of benefit in 2021. That's related specifically to what we call Transformation 2.0, the nonoperating spend.
+
+The gross number on it was actually $750 million. So net of some investments, it was $500 million for the year. But please remember, when we talked about transformation, this was a non-op initiative. We're reducing our non-op spend by about 8%.
+
+So that's a good first step. We're going to move into Transformation 3.0 and get after the operating costs inside the business, which is the next wave. And I think we'll provide more detail and clarity on that as we get to June.
+
+Ken Hoexter -- Bank of America Merrill Lynch -- Analyst
+
+Just to clarify. So you're commenting on domestic, but you're not sending any target for International, right? Or would you commit to it being up as well?
+
+Brian Newman -- Chief Financial Officer
+
+So from a margin perspective, my reference was that domestic would expand. We're going to talk to you about the full-year margins when we get to June 9, Ken. So there's a lot of volatility going on right now, Asia, Europe, etc. So more clarity to come on that.
+
+Carol Tome -- Chief Executive Officer
+
+If you're trying to build a model -- I think we could help you if you're trying to build a model, that you should plan for operating profit to grow outside of the United States.
+
+Ken Hoexter -- Bank of America Merrill Lynch -- Analyst
+
+Yes, yes.
+
+Carol Tome -- Chief Executive Officer
+
+The margin question is highly dependent on supply and demand and whether or not surcharges will be maintained. They're holding today. The question is, will they hold for the balance of the year? We'll have much more clarity on that in June.
+
+Ken Hoexter -- Bank of America Merrill Lynch -- Analyst
+
+Thank you, Carol, Brian. Appreciate the time.
+
+Brian Newman -- Chief Financial Officer
+
+Yes. Thanks, Ken.
+
+Operator
+
+Next up, we have David Vernon of Bernstein. Please go ahead, sir.
+
+David Vernon -- Sanford C. Bernstein -- Analyst
+
+Hey, good morning. A question for you on that topic around surcharges and the holding of surcharges. As you're looking out at renegotiating contracts and talking to your customers, given the tightness of last year's market, can you give us some color on the receptivity of customers to be working with you, either through taking rate increases or working to help drive efficiencies at the edges of the network, that would help kind of make the customer base either a little bit stickier or more profitable as we get into '21 and '22?
+
+Carol Tome -- Chief Executive Officer
+
+We're very pleased with the relationships that we have with our good customers. This has been a challenging year for all of us. We have all exceeded this -- or enjoyed this unprecedented demand, which is, candidly, pressure. But as we work through it, we've been able to land really, I think, very favorable contracts for us and for our customers.
+
+It's really about optimizing the network, leaning into the customer segment that values our end-to-end network.
+
+David Vernon -- Sanford C. Bernstein -- Analyst
+
+And are those surcharges going to be rebased into base rates? Or like how do we see that playing out?
+
+Carol Tome -- Chief Executive Officer
+
+The way you should think about it is very different than the past. We're moving to more personalized pricing.
+
+David Vernon -- Sanford C. Bernstein -- Analyst
+
+Thank you.
+
+Carol Tome -- Chief Executive Officer
+
+You're welcome.
+
+Operator
+
+We have a question from the line of Jordan Alliger of Goldman Sachs. Please go ahead, sir.
+
+Jordan Alliger -- Goldman Sachs -- Analyst
+
+Yes. Hi. Just a quick follow-up on some of the density and productivity around the domestic front. I know that may still be to come on transformation.
+
+But can you maybe talk a little bit, assuming e-commerce obviously remains elevated, residential remains elevated? There are a couple of things you could point to that maybe improve, like stops per house or improve that delivery density, which you mentioned was a financial impact in the fourth quarter. And then secondly, just a quick follow-up. When you mentioned the financial outlook for the first quarter being better than the second quarter, I'm assuming you're talking about year-over-year profit growth on that front. Thanks.
+
+Brian Newman -- Chief Financial Officer
+
+Let me take the second. So yes, Jordan, you're right. On a year-over-year profit growth, certainly, the margins, we're lapping lower domestic margins in the U.S. Those ramp up to about 9.3% in the second quarter.
+
+So I was referring to -- for profit growth on that.
+
+Carol Tome -- Chief Executive Officer
+
+If we look at our productivity results, I'm pleased with what I'm seeing in our feed. I'm pleased with what I'm seeing in our sort. I'm pleased what I've seen in our hubs. I'm not pleased with what I've seen in our preload.
+
+And Nando and team are really looking at how they can drive productivity in our preload. And clearly, we've got some density opportunities. Now, we've been trying to drive synthetic density through our access points and our UPS stores. We have 22,000 access points and UPS stores that we are trying to utilize to drive delivery density.
+
+It's not working as well as we thought, quite candidly. So as a team, we've taken this as a strategic imperative. And we're going to talk about other ideas we have to improve density, given that you can't really change the demand pattern. But there are things that we can do internally, we believe, to drive productivity.
+
+So more to come. This will certainly be something that we unpack on June 9.
+
+Jordan Alliger -- Goldman Sachs -- Analyst
+
+Thank you.
+
+Operator
+
+We have a question from the line of Ravi Shanker of Morgan Stanley. Please go ahead, sir.
+
+Ravi Shanker -- Morgan Stanley -- Analyst
+
+Thanks. Good morning. Carol, you said in your prepared remarks that you do not expect e-commerce as a percentage of retail sales decline in 2021. Can you just unpack that comment a little more for us? What are your large retail customers telling you? If and when hopefully stores reopen again in a post-pandemic world back half of the year, do they expect traffic to return to stores or not? And what does that do to your e-commerce volumes?
+
+Carol Tome -- Chief Executive Officer
+
+So they're all hoping that their stores will reopen because they've got a huge investment in that real estate, of course. But from a demand perspective, there's no one out there that thinks the demand is going to change. We're in a new normal. Even our -- my relatives who are older are shopping online.
+
+Before, they would never do that. So they're all telling us they don't expect that demand to go back. There's been a step-change in the demand patterns, which then translates into a capacity shortfall, candidly. So if you think about what happened in peak of this year, there was about a 3 million ADV shortfall in terms of the demand.
+
+And if you look forward into 2021, you would expect that shortfall to consist, which just gives us an opportunity to continue to optimize our network.
+
+Ravi Shanker -- Morgan Stanley -- Analyst
+
+Thank you.
+
+Operator
+
+David Ross of Stifel, please go ahead, sir.
+
+David Ross -- Stifel Financial Corp. -- Analyst
+
+Yes. Thank you very much. Carol, I just wanted to talk a little bit about the labor issues. Fourth quarter and the peak, you guys handled exceedingly well and were able to demonstrate profitability.
+
+How much of a headwind was managing through this period of absences, rescheduling, pilots calling out sick, that kind of stuff that normally doesn't happen during peak? If you actually had a normal environment where somebody just didn't call up and say, "I'm out for the next two weeks," at last minute, how much would that have helped?
+
+Carol Tome -- Chief Executive Officer
+
+Well, you're right in that this is a very difficult environment, one that we've never been faced with before. But the team did a masterful job of managing through it. A few things were different than this peak than last peak. One was the use of PVDs or personal vehicle drivers.
+
+We've used them in the past. But this year, we really leaned into it. So in the United States, this year, we had 39,000 PVD drivers, and they delivered 69 million packages. That, we believe, drove $92 million of benefit in the quarter.
+
+So this is something that really worked very well, and we're going to lean into this as we think about peaks of the future. We were also able to use our dream tool, which is a dispatch tool to give our Teamster drivers who worked so hard, give them some time with their families, which hasn't been the case in prior seasons. So we were happy to be able to deliver that. We were also pleased with our ability to redirect our SurePost volume back into our network.
+
+We saw in December alone, 50% of the SurePost volume was directed back into the network, delivered by our UPS drivers. That resulted in productivity savings as well of about $44 million. Now, was there money left on the table? Sure. We had disruption with pilots in part of the world like Shanghai.
+
+For sure, we had some money left on the table. But I would say we had more good news than bad news coming out of the challenges in the fourth quarter.
+
+David Ross -- Stifel Financial Corp. -- Analyst
+
+That's excellent. Thank you.
+
+Carol Tome -- Chief Executive Officer
+
+Yes.
+
+Operator
+
+Our next question will come from the line of Bascome Majors of Susquehanna. Please go ahead, sir.
+
+Bascome Majors -- Susquehanna International Group -- Analyst
+
+Yes. Good morning, and thank you for taking my question. Carol, you've made a lot of progress very fast here. One thing that comes to mind is dealing with organized labor, which really wasn't an issue at your prior employer.
+
+I mean, you have a change in Washington that should be more labor-sympathetic. You're going to have a change at the head of the Teamsters Union this year. Can you talk about your strategy for that relationship and finding a happy medium that takes care of your employees, the union, and your shareholders over the next three to five years?
+
+Carol Tome -- Chief Executive Officer
+
+Yes. Well, as you know, we employ more Teamsters than any other company, and we love our Teamsters, employees. So UPSers first, Teamsters second. As we think about labor, our contract comes due in the United States, it comes due in 2023.
+
+And we think about a mutually beneficial outcome for both our Teamsters and UPS as we prepare for that contract. Reviewing labor is a strategic imperative. We want to keep those jobs. We want to grow jobs.
+
+So we're going to be speaking with the union representation about how we do that going forward. We're also, candidly, excited about what new administration could mean for pension reform. And pension reform would be good for us and it would be good for our Teamsters. So we will continue to work that agenda because we think it's in the best interest of all parties.
+
+Bascome Majors -- Susquehanna International Group -- Analyst
+
+Thank you.
+
+Carol Tome -- Chief Executive Officer
+
+Yes.
+
+Operator
+
+Our next question will come from the line of Scott Group of Wolfe Research. Please go ahead, sir.
+
+Scott Group -- Wolfe Research -- Analyst
+
+Hey, thanks. Good morning. So I want to ask on balance sheet cash flow. Carol, do you think this is the new -- sort of new normal for capex? How much do you want to improve the balance sheet before you start buying back stock? If we're at this inflection in margins, why not buy back stock now? And maybe just any thoughts around pension contributions for this year and pension impact.
+
+Thank you.
+
+Carol Tome -- Chief Executive Officer
+
+Thank you, Scott. Brian, why don't you take that question?
+
+Brian Newman -- Chief Financial Officer
+
+Yes. Sure, Scott. So look, we're focused on strengthening the balance sheet. I think in my prepared remarks, I talked about, for modeling purposes, assume no buybacks in 2021.
+
+We think by reinvesting in the business in areas that are driving higher cash returns, strengthening the balance sheet, Scott, we'll end up with a -- one of Carol's five imperatives, a strong credit rating as we go forward, which gives us optionality to evaluate opportunities, organic and inorganic.
+
+Carol Tome -- Chief Executive Officer
+
+From my perspective, we have ample room to allocate capital back into the business and back to the shareholders. We just want to make sure that we generate the right return on that. And to your point, I haven't been in this seat for that long, and it's a big company to try to get your hands around. But as we look at the opportunities to invest, we're going to have opportunities to invest.
+
+We just want to make sure that every dollar that we invest generates a higher return on capital. That's our goal. And the share buybacks will come. We thought, for modeling purposes, it was just helpful to say no buybacks.
+
+If we change our mind on that, we'll tell you what we're doing, and you can put it into your model.
+
+Operator
+
+Our next question will come from the line of Scott Schneeberger of Oppenheimer. Please go ahead.
+
+Scott Schneeberger -- Oppenheimer & Co. Inc. -- Analyst
+
+Thanks. Good morning. Hey, Carol, a decisive move with the sale of UPS Freight. Just would love to hear in this forum just some puts and takes in the decision-making process.
+
+And then just to get a little more granular, could you discuss the UPS Freight Ground with Freight Pricing program, where TFI will act as a reseller? And then some thoughts on how the divestiture will impact UPS's ability to serve the e-commerce market for heavier goods. Thanks.
+
+Carol Tome -- Chief Executive Officer
+
+So the question was a bit muffled, but I think it was on UPS Freight and the rationale of the decision behind UPS Freight and then the go-forward commercial agreement. So as I mentioned back in July, my first earnings call, other than our five core principles, everything in the business was under review and immediately looked at UPS Freight. I was on the UPS board for a long time. I went on the UPS board in 2003.
+
+So I was on the board when we acquired Overnite back in 2005. And I have been laser-focused on this asset because we had to impair it shortly after we bought it, and it's never turned out to be what we thought it would be. It's a capital-intensive, low-margin business that we don't need to own to offer this solution. So we're like if we can get a price where this asset is worth more to someone else than it is to us, shouldn't we move on that asset? But keep the commercial agreement so that we can serve our customers.
+
+And that's where we landed. We couldn't be happier with this announced acquisition. That should close, I think, the beginning of the second quarter.
+
+Brian Newman -- Chief Financial Officer
+
+Second quarter.
+
+Carol Tome -- Chief Executive Officer
+
+I'm thrilled for our freight UPSers because they're going to be now part of a big freight company. So from a career perspective, I think the opportunities for personal growth will be better for them. I'm thrilled for our shareowners and I'm thrilled for our customers because the commercial agreement will be a great agreement. And by the way, there's margin on that that's going to flow to our U.S.
+
+small pack business as well. So I think it's a win-win-win. Anything else, Brian?
+
+Brian Newman -- Chief Financial Officer
+
+Yes. No, there's some capex avoidance on a low-margin business, and we expect a positive improvement to our margins and ROIC, which are core focus. So I think it's a win-win.
+
+Operator
+
+We have a question from the line of Jack Atkins of Stephens. Please go ahead.
+
+Jack Atkins -- Stephens Inc. -- Analyst
+
+Great. Thank you. And just following up on that point. Are there may be some other non-core businesses, Carol, that maybe have come into the company through acquisitions over the last 10 or 15 years that could also be a target for potential divestitures? Or is it just sort of a one-off here with UPS Freight? Thank you.
+
+Carol Tome -- Chief Executive Officer
+
+Well, Jack, as you can appreciate, it wouldn't be appropriate for me to speculate on assets that might be available for sale. But everything is under review.
+
+Operator
+
+Brandon Oglenski of Barclays, please go ahead, sir.
+
+Brandon Oglenski -- Barclays -- Analyst
+
+Hey, good morning. Thanks for taking my question. Brian, could we come back to the pension impact and how that's possibly impacting cash flows this year? And I'm not sure, but did you guys reserve another charge for central states here, too?
+
+Brian Newman -- Chief Financial Officer
+
+Yes, Brandon. So we had a $6.5 billion mark, there's actually a deck that will provide you the details on it. But the discount rate change was a little over $4 billion. And in central states, we took what we believe to be the last reserve for that, which was a little over $2 billion.
+
+So those were the two elements that made up the mark. In terms of headwinds for up on the service cost side, if that's what you're asking about from a pension perspective, we have a similar headwind to what we had in 2020. It's about $300 million related to service cost in the U.S. business.
+
+Carol Tome -- Chief Executive Officer
+
+And Brian, we made some cash contributions in pension assets in 2020. We're not planning that in 2021.
+
+Brian Newman -- Chief Financial Officer
+
+Right. So we pulled forward about $1.7 billion in contributions into December of 2020 and don't anticipate having those in 2021, Carol.
+
+Brandon Oglenski -- Barclays -- Analyst
+
+Thank you.
+
+Brian Newman -- Chief Financial Officer
+
+Yes.
+
+Operator
+
+David Vernon of Bernstein, please go ahead, sir.
+
+David Vernon -- Sanford C. Bernstein -- Analyst
+
+Hey, guys, thanks for coming back. Hey, Brian, I just wanted to clarify. The $500 million non-op expense reduction we're expecting this year, that's a net of cost to implement number? I mean, I just want to make sure there aren't any other sort of nontypical inflationary costs that we should be kind of budgeting for or thinking about when we're building an outlook here for 2021.
+
+Brian Newman -- Chief Financial Officer
+
+We've got $750 million was the gross program. We reinvested to get to a net $500 million. We do have transformation charges associated with severance that will show up in the guidance that we give you.
+
+David Vernon -- Sanford C. Bernstein -- Analyst
+
+That will be adjusted out of results, though, right?
+
+Brian Newman -- Chief Financial Officer
+
+That will be noncore, so we'll adjust it out. And we'll shine a light on that for you.
+
+David Vernon -- Sanford C. Bernstein -- Analyst
+
+I mean -- and nothing like --
+
+Brian Newman -- Chief Financial Officer
+
+Sorry. The return on those investments are kind of seven to eight months. So we're looking for better returns. I think you'll find that the investment in the transformation charge is noncore, are good paybacks.
+
+David Vernon -- Sanford C. Bernstein -- Analyst
+
+OK. And then there's nothing like the investment in the speeding up of the network, the faster ground network sort of stuff. Are we going to be recreating any of those sort of like operational investments in the '21 period?
+
+Brian Newman -- Chief Financial Officer
+
+No. So it will be -- the majority will be related to the Transformation 2.0 programs we talked to you about.
+
+David Vernon -- Sanford C. Bernstein -- Analyst
+
+All right. Thanks again for the time.
+
+Brian Newman -- Chief Financial Officer
+
+Yes. Thanks.
+
+Operator
+
+We have Jairam of Daiwa. Please go ahead.
+
+Jairam Nathan -- Daiwa Capital Markets -- Analyst
+
+Yes. Hi. Thanks for taking my question. So I was just -- I wanted to refer to your capex plan, and you talked about 130,000 packages per hour increase.
+
+That's, I don't know, a 29 million packages daily volume. It's probably about 7%. And then on top of that, you have got the revenue quality. So is that kind of a run rate capacity increase we should expect? And about maybe, I don't know, like close to double-digit increase in revenue that is possible, that is a potential here longer term?
+
+Carol Tome -- Chief Executive Officer
+
+If you're looking for a longer-term answer, we're going to punt to June 9 because on June 9, we're going to lay out a longer-term plan, and we can answer that question in great detail.
+
+Jairam Nathan -- Daiwa Capital Markets -- Analyst
+
+OK. And just if I could follow-up. You talked about the 3 million shortage at peak. How do you make sure that you don't attract new entrants into the market with this strategy here? Like nature finds always a way.
+
+I guess markets also find a way somehow.
+
+Carol Tome -- Chief Executive Officer
+
+So there are a number of regional players, there are a number of new entrants that are coming in the market. Our job is to provide the best end-to-end experience so the customers that we are bringing into our network are those customers who value what we have to offer. In many ways, it's about leaning into segments like healthcare, like SMBs, and other high-growth areas that value our end-to-end network. And just on healthcare, if I could make a comment on vaccines because we haven't talked about it but thought I just might sure what we're doing in the vaccine solution here.
+
+As you know, it's a complicated supply chain. There's upstream supply chain, where the raw materials are delivered to the manufacturers; then there's a place where we play, which is delivering vaccines from the manufacturers to the dosing locations, and then there's the administration of the vaccines by the dosing locations. As it relates to the space that we play, manufacturers to the dosing locations, we've delivered about 225,000 shipments, about 36.5 million vaccines, at service levels at 99.99%. So our healthcare logistics team is just doing just a really great job of moving these vaccines forward and couldn't be more proud of that team.
+
+Jairam Nathan -- Daiwa Capital Markets -- Analyst
+
+OK. Thank you. That's all I had. Thank you.
+
+Scott Childress -- Investor Relations Officer
+
+Well, Stephen, thank you very much for hosting us and introducing. We appreciate all the comments we got and all the investors that joined us today. And that concludes the UPS fourth-quarter 2020 earnings call. Thank you.
+
+Duration: 61 minutes
+
+Scott Childress -- Investor Relations Officer
+
+Carol Tome -- Chief Executive Officer
+
+Brian Newman -- Chief Financial Officer
+
+Amit Mehrotra -- Deutsche Bank -- Analyst
+
+Tom Wadewitz -- UBS -- Analyst
+
+Carol Tom -- Chief Executive Officer
+
+Brian Ossenbeck -- J.P. Morgan -- Analyst
+
+Allison Landry -- Credit Suisse -- Analyst
+
+Allison Poliniak -- Wells Fargo Securities -- Analyst
+
+Ken Hoexter -- Bank of America Merrill Lynch -- Analyst
+
+David Vernon -- Sanford C. Bernstein -- Analyst
+
+Jordan Alliger -- Goldman Sachs -- Analyst
+
+Ravi Shanker -- Morgan Stanley -- Analyst
+
+David Ross -- Stifel Financial Corp. -- Analyst
+
+Bascome Majors -- Susquehanna International Group -- Analyst
+
+Scott Group -- Wolfe Research -- Analyst
+
+Scott Schneeberger -- Oppenheimer & Co. Inc. -- Analyst
+
+Jack Atkins -- Stephens Inc. -- Analyst
+
+Brandon Oglenski -- Barclays -- Analyst
+
+Jairam Nathan -- Daiwa Capital Markets -- Analyst
+
+More UPS analysis
+
+All earnings call transcripts
+
+This article is a transcript of this conference call produced for The Motley Fool. While we strive for our Foolish Best, there may be errors, omissions, or inaccuracies in this transcript. As with all our articles, The Motley Fool does not assume any responsibility for your use of this content, and we strongly encourage you to do your own research, including listening to the call yourself and reading the company's SEC filings. Please see our Terms and Conditions for additional details, including our Obligatory Capitalized Disclaimers of Liability.
+
+Motley Fool Transcribing has no position in any of the stocks mentioned. The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy.
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+
+Don't wait — this offer ends soon.
