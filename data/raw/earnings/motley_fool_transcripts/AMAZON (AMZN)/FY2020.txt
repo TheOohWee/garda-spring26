@@ -1,0 +1,307 @@
+Ticker: AMAZON (AMZN)
+Fiscal Year: FY2020
+Query Used: amazon (amzn) fy20 earnings call transcript motley fool
+Source URL: https://www.fool.com/earnings/call-transcripts/2021/02/03/amazon-amzn-q4-2020-earnings-call-transcript/
+Title: Amazon (AMZN) Q4 2020 Earnings Call Transcript
+Fetched At (UTC): 2026-04-12T20:51:41.439103+00:00
+
+AMZN earnings call for the period ending December 31, 2020.
+
+Image source: The Motley Fool.
+
+Amazon 
+(
+AMZN
++2.05%
+)
+
+Q4 2020 Earnings Call
+Feb 02, 2021, 5:30 p.m. ET
+
+Operator
+
+Thank you for standing by. Good day everyone, and welcome to the Amazon.com Q4 2020 financial results teleconference. [Operator instructions] I will be turning the call over to the director of investor relations, Dave Fildes. Please, go ahead.
+
+Dave Fildes -- Director, Investor Relations
+
+Hello, and welcome to our Q4 2020 financial results conference call. Joining us today to answer your questions is Brian Olsavsky, our CFO. As you listen to today's conference call, we encourage you to have our press release in front of you, which includes our financial results as well as metrics and commentary on the quarter. Please note, unless otherwise stated, all comparisons in this call will be against our results for the comparable period of 2019.
+
+Our comments and responses to your questions reflect management's views as of today, February 2, 2021, only and will include forward-looking statements. Actual results may differ materially. Additional information about factors that could potentially impact our financial results is included in today's press release and our filings with the SEC, including our most recent annual report on Form 10-K and subsequent filings. During this call, we may discuss certain non-GAAP financial measures, in our press release, slides accompanying this webcast, and our filings with the SEC, each of which is posted on our IR website.
+
+You will find additional disclosures regarding these non-GAAP measures, including reconciliations of these measures with comparable GAAP measures. Our guidance incorporates the order trends that we've seen to date and what we believe today to be appropriate assumptions. Our results are inherently unpredictable and may be materially affected by many factors, including fluctuations in foreign exchange rates; changes in global economic conditions and customer spending; world events; the rate of growth of the Internet, online commerce and cloud services; and the various factors detailed in our filings with the SEC. This guidance also reflects our estimates to date regarding the impact of the COVID-19 pandemic on our operations, including those discussed in our filings with the SEC, and is highly dependent on numerous factors that we may not be able to predict or control, including the duration and scope of the pandemic including any recurrence, actions taken by governments, businesses and individuals in response to the pandemic; the impact of the pandemic on global and regional economies and economic activity, workforce staffing and productivity and our significant and continued spending on employee safety measures; our ability to continue operations in affected areas; and consumer demand and consumer spending patterns as well as the effects on suppliers, creditors, and third-party sellers, all of which are uncertain.
+
+Our guidance also assumes, among other things, that we don't conclude any additional business acquisitions, investments, restructurings, or legal settlements. It's not possible to accurately predict demand for our goods and services, and therefore, our actual results could differ materially from our guidance. And now, I'll turn the call over to Brian.
+
+Brian Olsavsky -- Chief Financial Officer
+
+Thank you for joining us today. I realize that you may have questions about the news which we announced today in our press release but I would like to begin with some comments on Q4 results, and then we can proceed to your questions. First, I'd like to start by thanking the nearly one point three million Amazon employees who have risen to the challenge of serving customers around the world during this pandemic. We're proud that more than 500,000 people chose to take new jobs at Amazon in 2020.
+
+We're committed to providing all employees with great jobs including $15 an hour starting pay in the U.S., health insurance 401(k) matching, leading parental benefits, and upskilling opportunities. We remain focused on the safety of our employees and delivery partners, particularly in our fulfillment and logistics operations in stores, as well as the customers shopping in our whole foods market and other stores. The Q4 results include approximately $4 billion in COVID related operating costs, including additional employee pay during the holidays. We continue to see productivity headwinds from physical separation and training of new employees, and of course investments in PPE for employees and enhanced cleaning for our facilities.
+
+This key force spend brings our total COVID related costs for the year to more than $11.5 billion. Our teams worked hard in 2020 to ramp up in-house COVID-19 testing capabilities that are incremental to those already available to the general public. More than 700 employees are now being tested every hour, and globally, we've built hundreds of COVID-19 testing sites in two labs. We are encouraging essential employees working at Amazon fulfillment centers, AWS data centers, and Whole Foods Market stores across the country to receive the COVID-19 vaccine at the earliest appropriate time.
+
+We're also working at the federal and state levels to support the vaccinations of frontline employees and those in the community who are providing essential services throughout the pandemic, including enabling pop-up clinics in Washington State and Florida with more on the way. Now, some comments on Q4 results. Our fourth-quarter holiday season has always been the busiest time of our year. This year presented additional challenges for our teams as we work to meet strong customer demand, while simultaneously growing our operations footprint and welcoming far more new employees than any prior Q4.
+
+We welcome nearly 175,000 new full and part-time employees in Q4 alone. This compares with 50,000 in Q4 of 2019. We also continue to add buildings to our fulfillment and logistics network. The square foot is growing about 50% year over year in 2020.
+
+And unlike in a typical year when new buildings are mostly in place by the end of Q3, this year a significant number of them came online in Q4. As our teams pulled out all the stops to be ready for customer demand. It turns out we needed that capacity in order to fill the strong customer demand in Q4. Revenue for the quarter was $125.6 billion, versus our guidance range of $112 billion, to $121 billion.
+
+You'll remember that we kicked off the holiday season early for customers with Prime Day in October versus its usual timing in Q3. We then saw strong seasonal holiday demand through Q4. Our Q4 results also largely reflect the continuation of demand trends we have seen since the early months of the pandemic, particularly as people are staying at home, including for household staples and other home products. We saw sales growth across major product categories led by strong prime member engagement.
+
+Prime members continue to shop with greater frequency and across more categories than before the pandemic began. Prime members also continued to expand their usage of Primes digital benefits, including Prime Video and Prime Video channels. Amazon music launch Podcasts in September, and in Q4 Prime members listened to millions of hours of podcasts each month. Were reaching more customers with our grocery offerings.
+
+In Q4 we had another strong quarter that largely reflects a continuation of demand trends from Q3. We saw strong growth in new Prime member sign-ups. As demand remains strong in the quarter, the additional volume leverage helped to achieve higher than expected profits. We saw strong order volumes throughout the holiday season with good sales growth not only in our peak sales days, which include Prime Day, Black Friday, and Cyber Monday but also throughout the remainder of the quarter.
+
+We had good operational performance within our fulfillment centers and transportation network even as we added significant capacity. Third-party sellers also stepped up as never before to serve customers. The 2020 holiday season was the best ever for small and medium-sized businesses selling in our store. With their worldwide sales growing over 5% year over year in Q4.
+
+Third-party units represented 55% of total paid units during the quarter, the highest 3P unit next we've ever had since we invited businesses to sell on Amazon more than 20 years ago. Lastly, eight of the US's efforts were headlined by our Ninth Annual reInvent Conference. This is the first time in our history that the event was virtual and free. We had over 570,000 registered attendees during the three weeks long event.
+
+AWL continues to innovate at a rapid clip announcing more than 180 new services and features that reinvent across compute storage database machine learning and more. You can read more about this in our earnings release. The team also announced significant customer momentum with new commitments and migrations in JP Morgan Chase, Thomson Reuters, Viacom CBS, and Twitter just to name a few. We continue to see companies meaningfully growing their plans to move to AWS.
+
+In Q4, AWS sells the continuation of strong usage and revenue growth. AWS said that more revenue quarter over quarter and year over year than any quarter in its history, and is now a $51 billion annualized run-rate business supporting millions of active AWS customers. And just as they have all year, sellers partners and employees across Amazon stepped up to deliver on unprecedented customer demand, and for this, we remain extremely grateful. Today, we announce that our founder and CEO Jeff Bezos will transition to the role of executive chair in the third-quarter this year.
+
+And that Andy Jassy will become a chief executive officer at that time. Those of us who know Andy is excited to see him take on this greater responsibility. He's a visionary leader, a great operator, and understands what makes Amazon such a special innovative company. We're also said as Jeff will retain a very important role at the company that he founded and has guided for over 25 years.
+
+He has created a culture of invention and innovation that drives us every day, and we remain bound by our common focus and obsession with the customer. With that let's move on to Q&A.
+
+Operator
+
+Thank you. At this time we'll now open the call up for questions. [Operator instructions]. Thank you.
+
+Our first question is coming from Heath Terry with Goldman Sachs. Please, proceed with your question.
+
+Heath Terry -- Goldman Sachs -- Analyst
+
+Great, thanks. Just wanted to dig a bit deeper into the gravel acceleration that we saw in the international business. Obviously, pandemic aside, wondering if you could help us sort of break down the pieces of what drove that big into specific regions, specific initiatives that that drove that you know that that level of acceleration. And then, just on the aid of U.S.
+
+business but more of a housekeeping question, could you -- would you mind going through just where the backlog stands and any material drivers of changes in that to the extent there has been.
+
+Brian Olsavsky -- Chief Financial Officer
+
+Sure. Thank you, Heath. I would start on the international segment results. So yeah, it was a sequential growth jumped from 33% in Q3 to 50% in Q4.
+
+Part of that is the timing of Prime Day. But in the U.S., it was less pronounced sequential growth was 39%, to 40% in the North America segment. So there was something else going on in international in Q4. I would attribute it really to the government actions in lockdowns that we saw especially in the UK and Europe.
+
+I think that increased during the quarter unfortunately for the economy, but it did drive higher sales on our site. We also saw probably a larger impact of moving Prime Day from Q3 to Q4 in international just because it's a little more decent there. It's still ramping up but a very strong performance.
+
+Dave Fildes -- Director, Investor Relations
+
+Yeah, Heath. This is Dave. On the backlog number, it's at about $50 billion at the end of the year. The balance and that's up about 68% year over year.
+
+So that's one component of all the great work that AWS is doing of course. And you're seeing some continued very strong growth, strong usage, and revenue growth there $51 billion annualized run rate business. So it's, it's continuing to grow at a meaningfully larger absolute dollar rate than others out there. We're really pleased with the growth we see in there and it's Brian touched on at the opening just a lot of good, good engagement and innovation coming out of the reInvent conference as well.
+
+Operator
+
+Our next question comes from Eric Sheridan with UBS. Please, proceed with your question.
+
+Eric Sheridan -- UBS -- Analyst
+
+Thanks so much for taking the question. Just following up on some of the comments you made between the release, and in your opening comments Brian, wanted to know could be teased out how we should be thinking about the level of investments that are needed between the mix of fulfillment versus where you want to go on the customer service side and the logistics and delivery side as you look up to '21. And obviously, it's going to be a very different year in '21 than what we saw in '20 where you saw a surge in demand and a lot of capacity constraints that have opened up as the year goes on. And there'll be sort of tougher comp dynamic as you get into the middle of '21 as you're lapping against that demand impact in 2020.
+
+How do we think about the levels of investment you'll make where those investments are going to go, and what that means for sort of confidence on the demand side over the medium to long term. Thanks, so much.
+
+Brian Olsavsky -- Chief Financial Officer
+
+Sure, Eric. Obviously, we had a large investment last year group fulfillment capacity, including transportation 50% year over year. I would say that it's been 40 basis -- $44 billion on capex. Yes.
+
+Then -- we're still working through our plans for 2021. I think the added complexity here is the range of outcomes. Certainly was the case in 2020 but even for 2021, there's a lot of question as to the continuation of COVID conditions comping against prior-year sales. Sometimes you know there are things in there that are definitely wouldn't repeat probably the number of clubs we sold and hand weights and things like that, or computer monitors that people set up their home offices.
+
+But there is also a lot of people who engage more strongly with Prime benefits in 2020, and we think that will have a lasting impact both from the purchase frequency amount they purchase, use of digital benefits, etc. So, we are going to have to build probably for multiple scenarios and any on this upsy world. It's hard to turn that capacity on quickly, so generally means you may have to overbuild to protect the customer experience. On transportation, we made large investments in our transportation network in 2020.
+
+With that work's not done yet. We have a lot of continued expansion. So, we see that over definitely through 2021. I can't quantify it right now.
+
+Only -- I'm only giving guidance through Q1 right now, and we are still working -- through some of the plans as we do this time of year. And then infrastructure will remain a healthy part of our investment as well. We're supporting aid of U.S. business that is growing at a rapid clip both in usage and in revenue.
+
+We're expanding regions globally and have a lot of upside in that area talking with customers on their transition plants to the cloud. So, we definitely do not want to run out of capacity, and we work to not do that. So there could be a risk of forwarding spend in 2021 due to uncertainty, but we'll see them, as we move through the year.
+
+Operator
+
+Our next question comes from Doug Anmuth with JP Morgan. Please, proceed with your question. Doug, your line is open. Please, proceed with your question.
+
+Doug Anmuth -- J.P. Morgan -- Analyst
+
+Sorry. I muted. I apologize. Brian, I hope you could talk more about the importance of AMC Yellow Amazon logistics during the holiday season.
+
+If you could talk more about the percentage of packages, perhaps shipped from your fulfillment centers, and then where this can go in the coming years. And then also a quick comment on the COVID costs, you mentioned $2 billion in 1Q. Just curious how you think about it more on a full-year basis with some of the puts and takes that can be there. Thanks.
+
+Brian Olsavsky -- Chief Financial Officer
+
+Yeah. So, yeah for the full year were again $11.5 billion was our gross cost for 2020, $4 billion of that in Q4. We see a step down to closer to $2 billion in Q1 that compares with a $600 million spent last Q1 as the pandemic just started and we start reacting in March and, obviously, this cost escalated in Q2 and Q3. So, if we look at the core components of that right you know there's productivity that a lot of productivity drags from hiring, so many new employees, and also having a physical separation.
+
+That gets better all the time. It was exasperated a bit in Q4 because of all the new hires that we brought on over 170,000 new people that should moderate. That's why one of the reasons that we were -- we see a step down in Q1 versus Q4 volume related and also mix of employees. After that we're going to see again, hopefully, the vaccine gets going.
+
+Everyone gets vaccinated and we return it to normalcy that would be very helpful on a lot of fronts for everybody. And if not, there'll be a continuation of some of these costs. I will say that while we are very transparent, I try to be on the costs that we're seeing specifically around COVID. There are some positive things happening that counteract a bit of that.
+
+That's the least of which is the top line volume. In 2020, we grew 37% and an FX-Neutral basis versus growing 22% in 2019. And the fact that we've been running pretty full out since arguably in April but definitely into May has created operating efficiencies of its own as a counterbalance to the physical separation and the training of new employees. So there's a lot of moving parts in here.
+
+We're able to save about a billion dollars in transportation costs this year, excuse me in 2020 as virtually all travel was shut down and our sales teams found new ways to reach customers. We'll see how that develops over time. Marketing although it got back to probably more healthy levels in Q3 and Q4, definitely was lower in Q2 as we work through some capacity issues and it wasn't fruitful to invest in marketing when you're having trouble hitting existing customer demand. So, there are a lot of moving parts that you know I'll try and be transparent on as I can be during the quarter.
+
+And this again, Q1 is, we're seeing about $2 billion of absolute dollar COVID costs. And then, David real quick.
+
+Dave Fildes -- Director, Investor Relations
+
+Yeah. And just as we talked about AMC or Amazon logistics right. That's we think about that in terms of the facilities. It's a lot of the middle mile in the last mile elements that are under our management control.
+
+And so you're talking about sort centers at the middle mile delivery stations with the last mile. We talked about it on square footage basis, 2020 was a big-build year for us. Our footprint grew around 50%, about half of that incremental square footage fit into that sort of AMCL transportation side of the equation which is the higher mix and what you've seen of any incremental add in a year. It's a higher mix being 50/50 than what you've seen from us in the past.
+
+So a lot of focus on that. They're both because of the desire to pre-pandemic increase the One-Day delivery capabilities for Prime members, but also you know as we've moved through this year, it gets us a little bit more -- much more certainty on being able to get items from point A to Point B. So, we finished the year where you know now more than half our packages both the U.S. and worldwide are handled through AMCL, and a lot of work going into that.
+
+And so, we'll -- we'll look to expand and continue to build on that with our AMCL offerings. But as we said in the past, our delivery partners, independent delivery partners that are out there that the USPS is certainly you know overseas carriers as well are an important part of that, and they'll continue to help us scale that up and build up that offering and make it better.
+
+Operator
+
+Our next question comes from John Blackledge with Cowen. Please, proceed with your question.
+
+John Blackledge -- Cowen and Company -- Analyst
+
+Great. Thank you. Two questions. First, the other revenue line saw a significant acceleration in force.
+
+Just curious if you can talk about or providing further color on the advertiser demand that you saw in the fourth quarter. And then second on grocery, it was a big driver for Amazon in 2020. Just general thoughts on the grocery. And I think you mentioned in the release of seven communities rolled out Amazon Fresh grocery stores.
+
+How are they performing and should we expect a broader rollout.
+
+Brian Olsavsky -- Chief Financial Officer
+
+Sure. John, let me start with the other revenue question. Yes, we saw strength in other revenue grew 64% in Q4 versus 49% in Q, and 41% in Q2. That is primarily advertising that's the majority of it.
+
+I would say that there's been a recovery in advertising spend as the year progressed. The fact that we moved Prime Day into Q4 has an impact here because again, it carried a lot of clicks and eyeballs into Q4 for that -- for this time period. But I want to highlight a lot of great work being done by the advertising team. Their main principle is to help sellers vendors authors publishers and partners.
+
+Use our tools navigate them as fluidly as possible, and add value both for them and for our cause, and customers get to see and find and discover new and different products. There are some things that are adding to the efficiency of advertising. We're now using a deep learning model to show more relevant sponsored products and had success with that. We're improving the relevancy of ads shown on the product detail pages all the time, and we've seen rapid adoption of video creative format for sponsor brands, all these things help check out the conversion and the productivity of the advertising both for the seller or vendor involved and also for Amazon it makes it a more productive experience for the customer as well.
+
+Dave Fildes -- Director, Investor Relations
+
+John, on the grocery point. Yeah, we've got a couple of different formats. I think there's you know the go-grocery has a couple of locations open and off to a good start. A lot of interest in those in the technology that those offer as well as the Amazon Fresh locations sort about eight locations open and I think in the neighborhood of about a half dozen locations are confirmed at open.
+
+So more to come on those. And there are others that are kind of tangent of footprints on that. You know the go-stores there's around 25 of those that are out there that also an important part of that is food. So you see, it's -- we've talked about this a bit in the past is we're doing.
+
+With online grocery and branching out from whole foods and so many other physical footprint locations, and being able to offer that convenience but we also think that you know being able to offer some innovative physical store grocery offerings like these go in fresh, some of which have some pretty cool self-checkout capabilities and implement some of that just walk out the technical qualities are really some interesting areas that are resonating with customers. I think that they appreciate that not just in times of maybe not when physical contact with everyone in the store but just even beyond that the general convenience of being able to move throughout the store and check out more efficiently than you otherwise would in a traditional retail environment. So excited to do more on that front.
+
+Operator
+
+Our next question comes from Brian Nowak with Morgan Stanley. Please, proceed with your question.
+
+Brian Nowak -- Morgan Stanley -- Analyst
+
+Thanks for taking my questions. I have two. The first one to be curious to hear about any of the learnings you had from the strength of the international business in 2020, and how you think about the right types of investments to make in that business in '21 and beyond to ensure you retain as many of these users and wallets as you've gained throughout 2020. And the second one, understanding the comments Brian earlier about the sort of investments going forward, maybe just talk to us a little bit about one day.
+
+Are these investments you're making, could they get you back to a one-day product in the later part this year or in '22 when the world normalizes, or are these assets you're putting in place now not able to be deployed from a one-day perspective when overall e-commerce slows down a little bit.
+
+Brian Olsavsky -- Chief Financial Officer
+
+Sure, Brian. Let me start with your international question. I think the biggest learning is that if we can move 2021 volume into 2020, it creates good leverage for us and that's kind of what we saw. There was essentially a doubling of the growth rate versus probably the going rate for 2020.
+
+Now again that was a very hard volume because of the COVID restrictions and issues with our workforce keeping our workforce safe and everything else. But I think what you saw was some very high leverage on that model that overcame, some of the more fixed costs that we're seeing and the Prime benefits. So you know pre invested as we've discussed in the past in things like video and devices and other elements of the Prime offering now grocery you'll see you're starting to see, and we've added those Prime benefits ahead of probably the curve that you would have seen in North America. So that is always created a bit of a drag on operating income.
+
+That as well as investments in new geographies the investment in India. The investment that we've made over the last two or three years that are in places like the Middle East, Turkey, Brazil, Australia most recently Sweden, and the Netherlands in 2020. So there's a lot of moving parts under the International segment, but you're starting to see the benefit of the higher volumes. And with its higher advertising as well that we expected and we expect over time and we'll see the growth rate is gonna have the same challenges year over year that perhaps we'll see in North America.
+
+We're going to have a race between lapping things that may have been onetime in nature in 2020 versus accelerating Prime membership and Prime members purchases, purchase frequency, and adoption of digital benefits. So we'll see what that looks like in 2021. Very happy with the performance in 2020, and really, hats off to the teams in many countries around the world who are all dealing with the same issues that we were in North America.
+
+Dave Fildes -- Director, Investor Relations
+
+Another is a bit of an offshore but I just think you know it's worth mentioning it fits in the AWS business but you know we're continuing to see strong growth made AWS around the world as well and there's a number of international located customers out there like Mako Libre, Solando and others that we've lost in there that our great customers for us. So we're working on that and really looking to support that just globally. And I mentioned this before, but you know reInvent was a great way to bring a lot of those folks from around the world together virtually and free. And typically, we've recorded the revenue for reInvents from ticket sales and sponsorships.
+
+If your account for this COVID and not only this year of being virtual and free, AWS year-over-year revenue growth you'll get it actually accelerated adjusting for that from the third quarter to the fourth quarter. So a lot of fun innovation good innovation coming out of that event that we're excited to talk, talk more with customers about.
+
+Brian Olsavsky -- Chief Financial Officer
+
+And your question on One Day, I believe it was you know our investments will be consistent with establishing higher and higher levels of One Day. Yes, definitely. And we've been doing that throughout the year and it's been getting better. In fact, we had a lot of examples of deliveries right up to the last minute on December 24, in the United States for holiday gifts.
+
+So the One Day has been getting better, and it's the issue in 2020 was essentially around capacity and volume and getting things out the door and being able to then hit a shorten time period. So it wasn't that we were delaying or slowing down the shipment itself, it was the time taken to get through the warehouse and handle the backlog of demand. So as the year progressed, we did see that get better and better. We do forecast that it will get better.
+
+They are not quantifying this, right. I realize that, but I think you can generally notice wherever you particularly are wherever geography is some cities are back you know probably to One Day levels that they saw are even better pre-pandemic. Other areas that may have other dynamic issues are still working their way out of backlog and volume issues. But you know when they -- the dust settles and as we open up more and more capacity, you'll see greater and greater One-Day percentages for our Prime shipments.
+
+Operator
+
+Our next question comes from Justin Post with Bank of America. Please, proceed with your question.
+
+Justin Post -- Bank of America Merrill Lynch -- Analyst
+
+Right. Thank you. A couple. First, obviously that Jeff Bezos's announcement is quite important.
+
+I think Jeff Wilke is also retiring. Can you talk a little bit about if you expect any changes to Amazon, how we should think about that? And then maybe Dave Clark is taking over retail. Talk a little bit about that. And then secondly, obviously the backlog is really strong AWS is up 68% the margins did come down a little bit quarter over quarter to 28%.
+
+Can you talk about the deals how pricing is in the Cloud segment? Is it remaining robust? And for any reason, the margins came down a little bit quarter over quarter. Thank you.
+
+Brian Olsavsky -- Chief Financial Officer
+
+Sure, Jeff. Let me start with your comments on the CEO transition and then the consumer CEO transition. I think they are both examples of what are highly effective succession planning processes at Amazon. The board of directors obviously takes that very seriously.
+
+It is an annual discussion and is more often on succession plans development of key executives expanding the number of key executives, etc. And you see the byproduct of that as we expand the team as we -- five years ago set up the two CEO structure where Jeff Bezos while he was CEO of consumer, and Andy Jassy was CEO of AWS. We have strong single-threaded leaders on devices, Amazon Video, including Amazon Studios advertising. Yes, so I think there's a lot of bench strength within Amazon.
+
+And generally, we do try and push through the decisions down in the organization as we scale especially internationally as we try and do things consistent globally but recognize local differences in our model. So having said all that, succession planning is super important. The example you saw with Jeff Wilke. Jeff announced in the fall that he was stepping down to pursue some other goals and interests that he has outside of Amazon.
+
+He had been here for over 20 years had you know and been super pivotal in the development of our consumer business, our culture, and the development of layers and layers of leaders. And one of them was Dave Clark who has over the last five-plus years really been charged with developing some very fundamental things for our company. The expansion of the film center network, the expansion and creation of our transportation capacity, grocery delivery, and Go grocery plan, and a lot of other things, but you know Dave has you know had been a great leader in his own right. So when Dave or when Jeff Wilke decided to retire in the fall it was a natural transition to Dave Clark, and that just occurred in January and they're wrapping things up in the next month.
+
+So that's a successful example of succession planning and a successful transition. It's the same thing for Jeff Bezos as well. And I will reiterate that Jeff is not leaving, he is getting a new job. He's going to be executive chair of the board.
+
+Super important role. The board is super active and important in Amazon's success story. And you know Andy has been here since 1997. He is not only a visionary leader, but he's also a strong operator as I said, and he's got a great track record of developing multiple things and businesses within Amazon.
+
+Not the least of which is AWS which is arguably the most profitable important technical technology company in the world. So that's just a flavor on the insight on how it works. We're very happy to see both Jeff and Andy get a new perspective. So Andy has a chance to put his imprint on Amazon.
+
+He is certainly going to carry through culture and the vision and the invention factory that Amazon is, and we'll take that to the next level. Jeff will be the executive chair on the board. He will be involved in many large one-way door issues, which as we say one-way doors meaning the more important decisions things like acquisitions things like strategies, and going into grocery and other things. So Jeff's always been involved with that, and that's where you know we'll keep his time focused on, he'll keep his time focused on his new role.
+
+So very excited. they are all around to see the ability to have a strong transition to Andy in Q3. You know we'll be working on backfilling the AWS role, and we'll talk more about that in the future. But for now, todays about Andy and Jeff Bezos.
+
+Dave Fildes -- Director, Investor Relations
+
+And Justin about the AWS point. I mean, like I've mentioned before it's obvious growth rates strong. The factors we've talked about in the past continue to be in play and we're improving infrastructure planning to meet the capacity needs given the growth. We're seeing more broadly our results reflect that balance between the investing the price reductions, driving cost efficiencies and the margins are going to fluctuate quarter to quarter depending on those factors to the extent we are investing in the regions and some other elements.
+
+A few discrete things that aren't you know probably knew. But just to call out the driver of the produced impact from the change in the useful life of the servers you will call we amended the server useful life at the beginning of the year from three to four years., and so we saw some benefit to the AWS margins and the broader margins in total. When we look at that, the impact does diminish throughout this year. So, when we increased it beginning in January to benefit from this change in Q4 was about $538 million, which's down from $634 million in Q3, so that gives you some sense of it's it's coming down.
+
+That's the total amount it's allocated among the segments but the majority of those figures I just gave do relate to AWS because the significance of the server assets going in that segment and that impacts can continue to taper down over time. For example, into Q1 of 2021. One other element is just fx impact that's always going to get us to some degree but AWS customer billings are probably primarily denominated in U.S. dollars.
+
+The cost, so if you think about it many of the costs are going to be for buildout in local currency for data centers and the people that work there and power and what have you. So there's a bit of a foreign exchange difference there and that happens to be this time around a little bit bigger. We saw an unfavorable impact of about $96 million to the database margin this time around for fx. So just another point too to call out there.
+
+You mentioned the backlog to it. Yeah, look I think that's one data point. You know among many as you look at AWS, but I think we're really encouraged by just general large enterprise business adoptions continuing to do well as they're choosing AWS provider and speeding up innovations. You saw a long list of the many companies that we've announced arrangements with in the past 90-days, so really excited to continue to build on that.
+
+Operator
+
+Our final question comes from Ross Sandler with Barclays. Please, proceed with your question.
+
+Ross Sandler -- Barclays -- Analyst
+
+Hey guys, yeah just going back to the topic of shipping cost inflation, this is one of the few lines that's kind of variable and kind of increasing a little bit faster than the other fixed costs. Indeed, he mentioned that over half the orders are now going through Amazon logistics worldwide. When do you expect that rate of inflation per order to level out a little bit because of these efforts? And if you look at the cost curve in places like the U.K. where in London where you have you know well over half on your own last-mile delivery.
+
+Are you starting to see leverage there? Any comments on that. Thanks a lot.
+
+Dave Fildes -- Director, Investor Relations
+
+Yeah on that. This is Dave. I think it's not -- I won't give a forward kind of guidance next or what that level as well as off like some of the step-up in costs in disparity or the bigger gap I should say versus the unit growth rates that you're seeing there. There are a few factors I think.
+
+This is Q4, we did add on a lot of new capacity. As I said, it came on later in the year into Q4 more of it was in kind of transportation arm, and so the cost associated with that would be going in that trans cost piece. So that's one of the factors as you know along with the fact that you know we're continuing to try where we can to focus on improving One Day. I mean that varies from region to region with all that kind of challenges of COVID that have gone on this year, but that's a goal of ours is to get back to where we were in terms of the One Day unit mix and continue to build on to that.
+
+So that'll be something to keep an eye on as we move into 2021. Thanks for joining us on the call today and for your questions. The replay will be available on our Investor Relations website for at least three months. We appreciate your interest in Amazon, and we look forward to talking with you again next quarter.
+
+Duration: 42 minutes
+
+Dave Fildes -- Director, Investor Relations
+
+Brian Olsavsky -- Chief Financial Officer
+
+Heath Terry -- Goldman Sachs -- Analyst
+
+Eric Sheridan -- UBS -- Analyst
+
+Doug Anmuth -- J.P. Morgan -- Analyst
+
+John Blackledge -- Cowen and Company -- Analyst
+
+Brian Nowak -- Morgan Stanley -- Analyst
+
+Justin Post -- Bank of America Merrill Lynch -- Analyst
+
+Ross Sandler -- Barclays -- Analyst
+
+More AMZN analysis
+
+All earnings call transcripts
+
+This article is a transcript of this conference call produced for The Motley Fool. While we strive for our Foolish Best, there may be errors, omissions, or inaccuracies in this transcript. As with all our articles, The Motley Fool does not assume any responsibility for your use of this content, and we strongly encourage you to do your own research, including listening to the call yourself and reading the company's SEC filings. Please see our Terms and Conditions for additional details, including our Obligatory Capitalized Disclaimers of Liability.
+
+John Mackey, CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors. Motley Fool Transcribing has no position in any of the stocks mentioned. The Motley Fool owns shares of and recommends Amazon and recommends the following options: long January 2022 $1920 calls on Amazon and short January 2022 $1940 calls on Amazon. The Motley Fool has a disclosure policy.
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+
+Don't wait — this offer ends soon.

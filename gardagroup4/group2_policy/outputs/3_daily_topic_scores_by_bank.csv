@@ -1,0 +1,72 @@
+Source_Bank,Date,Topic,Topic_Score,Sentence_Count
+Bank of England,2025-12-17,General Macro,-0.041,73
+Bank of England,2025-12-17,Growth/GDP,-0.278,18
+Bank of England,2025-12-17,Inflation/Prices,-0.032,93
+Bank of England,2025-12-17,Interest Rates,-0.107,28
+Bank of England,2025-12-17,Labor Market,-0.167,18
+Bank of England,2026-02-04,General Macro,-0.1,40
+Bank of England,2026-02-04,Growth/GDP,-0.2,10
+Bank of England,2026-02-04,Inflation/Prices,-0.192,73
+Bank of England,2026-02-04,Interest Rates,-0.161,31
+Bank of England,2026-02-04,Labor Market,-0.714,7
+Bank of England,2026-03-18,General Macro,-0.033,122
+Bank of England,2026-03-18,Growth/GDP,0.0,12
+Bank of England,2026-03-18,Inflation/Prices,-0.189,222
+Bank of England,2026-03-18,Interest Rates,0.167,48
+Bank of England,2026-03-18,Labor Market,-1.0,6
+Bank of England,Unknown Date,General Macro,0.024,42
+Bank of England,Unknown Date,Growth/GDP,-0.227,22
+Bank of England,Unknown Date,Inflation/Prices,0.0,1
+Bank of England,Unknown Date,Interest Rates,-0.167,6
+Bank of England,Unknown Date,Labor Market,0.0,1
+Bank of Japan,2026-01-23,General Macro,-0.25,4
+Bank of Japan,2026-01-23,Inflation/Prices,-0.5,2
+Bank of Japan,2026-01-23,Interest Rates,0.0,2
+Bank of Japan,2026-02-02,General Macro,0.042,48
+Bank of Japan,2026-02-02,Growth/GDP,1.0,2
+Bank of Japan,2026-02-02,Inflation/Prices,0.0,64
+Bank of Japan,2026-02-02,Interest Rates,0.2,20
+Bank of Japan,2026-02-02,Labor Market,-0.333,6
+Bank of Japan,2026-03-19,General Macro,-0.5,10
+Bank of Japan,2026-03-19,Inflation/Prices,-0.062,16
+Bank of Japan,2026-03-19,Interest Rates,0.429,7
+Bank of Japan,2026-03-25,General Macro,-0.009,108
+Bank of Japan,2026-03-25,Growth/GDP,0.467,15
+Bank of Japan,2026-03-25,Inflation/Prices,0.107,112
+Bank of Japan,2026-03-25,Interest Rates,0.317,60
+Bank of Japan,2026-03-25,Labor Market,0.385,13
+European Central Bank,2026-02-05,General Macro,0.098,132
+European Central Bank,2026-02-05,Growth/GDP,0.5,10
+European Central Bank,2026-02-05,Inflation/Prices,-0.083,36
+European Central Bank,2026-02-05,Interest Rates,0.182,22
+European Central Bank,2026-02-05,Labor Market,-0.083,12
+European Central Bank,Unknown Date,General Macro,0.044,271
+European Central Bank,Unknown Date,Growth/GDP,0.294,34
+European Central Bank,Unknown Date,Inflation/Prices,-0.053,95
+European Central Bank,Unknown Date,Interest Rates,0.314,51
+European Central Bank,Unknown Date,Labor Market,-0.111,18
+European Central Bank,"sse 20, 6031",General Macro,-0.03,66
+European Central Bank,"sse 20, 6031",Growth/GDP,0.45,20
+European Central Bank,"sse 20, 6031",Inflation/Prices,0.086,81
+European Central Bank,"sse 20, 6031",Interest Rates,0.207,29
+European Central Bank,"sse 20, 6031",Labor Market,0.625,8
+US Federal Reserve,2026-01-27,General Macro,0.0,152
+US Federal Reserve,2026-01-27,Growth/GDP,0.474,19
+US Federal Reserve,2026-01-27,Inflation/Prices,0.0,50
+US Federal Reserve,2026-01-27,Interest Rates,0.104,48
+US Federal Reserve,2026-01-27,Labor Market,-0.474,19
+US Federal Reserve,2026-01-28,General Macro,-0.026,350
+US Federal Reserve,2026-01-28,Growth/GDP,0.222,27
+US Federal Reserve,2026-01-28,Inflation/Prices,0.0,51
+US Federal Reserve,2026-01-28,Interest Rates,-0.179,28
+US Federal Reserve,2026-01-28,Labor Market,-0.364,44
+US Federal Reserve,Unknown Date,General Macro,-0.028,600
+US Federal Reserve,Unknown Date,Growth/GDP,0.148,54
+US Federal Reserve,Unknown Date,Inflation/Prices,-0.068,192
+US Federal Reserve,Unknown Date,Interest Rates,-0.215,79
+US Federal Reserve,Unknown Date,Labor Market,-0.438,80
+Unknown Bank,Unknown Date,General Macro,-0.113,282
+Unknown Bank,Unknown Date,Growth/GDP,-0.01,198
+Unknown Bank,Unknown Date,Inflation/Prices,-0.101,178
+Unknown Bank,Unknown Date,Interest Rates,0.318,44
+Unknown Bank,Unknown Date,Labor Market,-0.545,22

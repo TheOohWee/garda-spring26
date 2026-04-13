@@ -1,0 +1,6 @@
+Rank,Region,Composite_Score_Adjusted,Coverage,Trade_Action
+1,LatAm,0.7,2,Long
+2,Europe,0.6499999999999999,1,Neutral
+3,UK,0.35,1,Neutral
+4,US,0.32633915411009523,3,Neutral
+5,Japan,0.2525790349417637,3,Short

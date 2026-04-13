@@ -1,0 +1,361 @@
+Operator
+
+Good day, ladies and gentlemen, and thank you for standing by. Welcome to the Suncor Energy second quarter 2022 results conference call. [Operator instructions] At this time, I would now like to hand the conference over to your host today, Mr. Trevor Bell, vice president of investor relations.
+
+Please go ahead.
+
+Trevor Bell -- Vice President, Investor Relations
+
+Thank you, operator, and good morning. Welcome to Suncor's second quarter earnings call. With me this morning are Kris Smith, interim president and chief executive officer; and Alister Cowan, chief financial officer. Please note that today's comments contain forward-looking information.
+
+The actual results may differ materially from the expected results because of various risk factors and assumptions that are described in our second quarter earnings release as well as in our current annual information form. Both of those are available on SEDAR, EDGAR and our website, suncor.com. Certain financial measures referred to in these comments are not prescribed by Canadian GAAP. For a description of these financial measures, please see our second quarter's earnings release.
+
+Following formal remarks, we'll open up the call to some questions. Now, I'll hand it over to Kris for his opening remarks.
+
+Kris Smith -- Interim President and Chief Executive Officer
+
+Great. Thanks, Trevor, and thanks to everyone for joining us today for our quarterly results call. As previously announced, I've been asked by our board to lead our company forward during this period of transition. I've been with Suncor for 22 years, and I've held various operational business roles across the company.
+
+But since this is my first time speaking on Suncor's earnings call, I'd like to briefly introduce myself and discuss my priorities. During my time with the company, I've worked in our oil sands, downstream and corporate divisions as well as in both our Canadian and U.S. businesses. And for the past 10 years, I led the company's downstream business, which is the most profitable in North America on a per barrel basis.
+
+I have a great appreciation and understanding of Suncor's assets, business and people, and we'll be drawing on that experience to lead the company through this period with a focus on rebuilding confidence in Suncor. To be clear, as interim CEO, my mandate is not to simply maintain the status quo, but to work with our board, executive team and all of our employees to make the changes necessary to improve our performance and deliver the value you expect. I believe it's important to step back and clearly assess where we are, confirm what is going well, identify what needs to be different and keep the momentum moving forward through executing the changes necessary to accelerate our progress toward improved performance. Safety is the most important value at Suncor, and our safety record is unacceptable, and improvements must be made.
+
+This was brought home by the recent death at our base plant sites in the mine area. I want to express how deeply saddened we are by this loss, and I am fully committed to doing everything necessary to build a better safety culture and improve performance so that everyone at Suncor goes home safely each and every day. To that end, my number one priority is improving our safety and operating performance. To me, safety and operating performance are strongly connected.
+
+We cannot have great operating performance without great safety. It's simply non-negotiable Safety is not only living up to our core values, but integral to delivering the industry-leading operating and financial performance we expect. I'll speak to this in a bit more detail later in our call. In addition to driving improvement in our safety and operating performance, I want to be clear, our strategy and debt reduction and shareholder return commitments and priorities are not changing.
+
+Suncor's strategy, which is fully endorsed and supported by our board, is to optimize and sustain our base business while increasing shareholder returns, reducing our carbon footprint and prudently investing in lower carbon energy. The capital allocation framework, as outlined last quarter, will support increasing shareholder returns. We announced a 12% dividend increase in the first quarter. And by quarter end, we've already repurchased half the targeted buyback of 10% of our public float.
+
+And once net debt reaches $12 billion, which we expect in the second half of the year, we remain committed to further increasing shareholder returns to 75% of excess funds after capital expenditures and dividends. Physical integration and Suncor's unparalleled integrated asset base will continue to be an area of strength that we will optimize to unlock incremental shareholder value, as demonstrated by our second quarter results. However, we are reviewing options for our retail business to ensure that we are maximizing the long-term value of that business for our shareholders, and we will disclose the results of this process in the fourth quarter. We also remain focused on delivering on our free funds flow growth initiative and unlocking synergies with Syncrude.
+
+And while we have to acknowledge headwinds from higher commodity costs and inflation, including in our mining costs, we continue to make very good progress on our initiatives. We continue to optimize our portfolio to ensure our business is set up to deliver superior long-term returns to our shareholders. To that end, we have signed a sales agreement for the Norway assets for gross proceeds of approximately $400 million, which we expect to receive on closing later this year. As well, we have moved into the final round in our sale of our wind assets, and we're seeing very strong market interest.
+
+And we've begun the sales process for our U.K. North Sea assets. All of these actions are to improve fit and focus in our portfolio aligned with our strategy. And finally, we will continue to advance our strategies to meet our long-term carbon reduction objectives and develop new low-carbon businesses, ensuring that we prudently manage investments in those areas.
+
+In summary, you should expect me to drive improvement in the safe and reliable execution of our operations while advancing our strategy, strengthening our balance sheet and growing returns to our shareholders. Now, let's take a look at our second quarter results. In the second quarter of 2022, Suncor reported the highest quarterly adjusted funds from operations in its history at approximately $5.3 billion or $3.80 per share as well as free funds flow after capital expenditures of $4.1 billion or $2.88 per share. And we returned record adjusted fund flow right back to our shareholders.
+
+Upstream realizations were on par with WTI, and downstream captured strong product market values with near 100% market capture. Both of these things highlight the strength and competitive advantage of our integrated model and our focus on higher-value products beyond vision. Our upstream production of 720,000 barrels per day reflects both planned and unplanned events in the quarter. oil sands operations production of 365,000 barrels per day included planned maintenance of Firebag and Upgrader 2.
+
+While the significant 10-year turnaround at Firebag, which was the largest in its history, completed with solid execution and a smaller production impact than expected, our production from this area of the business was below our expectations due to unplanned events at our MacKay River in situ operations and base plant Upgrader 1. At the same time, we achieved 189,000 barrels per day production at Syncrude, which exceeded our plan for the quarter. And we produced 87,000 barrels per day of Fort Hills, which is in line with our plans and reflects planned maintenance at that asset. And we produced 79,000 barrels per day in our offshore segment.
+
+Looking at our downstream results. We generated record adjusted funds from operations on both the LIFO and the FIFO basis. Our throughput of 389,000 barrels per day reflects planned maintenance activities across all our Canadian refineries as well as unplanned at the Commerce City refinery, which had approximately a 15,000 barrel per day impact on the quarter. And we have no further planned major maintenance in our downstream segment for the balance of the year.
+
+Now, let me turn to our full year guidance. After a careful review, we've updated our annual production guidance to 740,000 to 760,000 barrels per day, reflecting the performance year-to-date July and our expectation for the remainder of the year. As well, we've updated our capital guidance to a range of $4.9 billion to $5.2 billion for 2022. This increase in capital reflects the White Rose offshore project restart and our increased working interest in that project as well as increased spend during turnarounds and maintenance to improve safety and reliability and general inflationary pressures that we're seeing across the portfolio.
+
+And with that, I will pass it to Alister to walk through the financial highlights.
+
+Alister Cowan -- Chief Financial Officer & Executive Vice President
+
+Thanks, Kris. As you just noted, this quarter was the highest ever adjusted funds from operating quarter for the company at approximately $5.3 billion or $3.80 per share. Second quarter adjusted funds flow was strong and a record in oil sands in downstream where they were approximately 25% and 30% better than prior periods, prior records, respectively. We returned $3.2 billion or nearly 60% of adjusted funds from operations through dividends and share buybacks back to shareholders.
+
+For this quarter, we focused on share buybacks over debt reductions and bought back nearly 4% of the public float. Our net debt did increase due to the FX translation loss from the weaker Canadian dollar. However, our second half 2022 cash generation will allow us to achieve a $12 billion net debt target this year and continue to execute on our share buyback program. While the market conditions were exceptionally strong during the quarter, it is our strong asset base and the physical integration between them that drives industry-leading realizations and margin capture.
+
+Our SCO our risk price realized was CAD 141 per barrel, and the bitumen average price realized was CAD 120 barrels per barrel. I note that realizations on both price trended above line benchmarks due to the investments in our marketing and logistics capabilities, which forms an integral part of our $2 billion free funds flow improvements. For downstream, this has been an exceptional business environment, which is reflected in our results. Our before tax $2.1 billion of downstream adjusted funds from operations includes approximately $500 million of FIFO gains.
+
+On a LIFO basis, the $1.6 billion of results had a significant increase from the prior quarter and reflect nearly 100% margin capture of these exceptional market conditions despite the planned maintenance across all our Canadian refineries. These margins are captured by prioritizing the highest margin channel and the flexibility within our network. To place the second quarter performance in perspective, we beat our prior adjusted funds from operations record by over 30%. And this was achieved even with our planned maintenance and with the summer travel and driving season yet to occur.
+
+Again, I have to credit the performance of our logistics and marketing team and assets in achieving this performance. Lastly, I'd also like to reiterate that our capital allocation policy remains on track to increase to 75% of excess funds toward share buybacks once the $12 billion net debt target is achieved. And we are confident in achieving that later in the second half of this year. I'll now pass it back to Kris for some closing remarks.
+
+Kris Smith -- Interim President and Chief Executive Officer
+
+Thank you very much, Alister. As I mentioned earlier, my number one focus is improving Suncor's safety and operating performance. I've been deeply engaged with the management team and our improvement plan and its execution to drive that improvement and strengthen our safety culture. We completed independent safety assessment last year, and we're clear on what we need to do to improve our safety performance.
+
+We do not need more diagnosis, but what we do need to do is execute. And my goal is to deliver on this execution with focus and at an accelerated pace. I'll be working with my team on delivering a clear accelerated safety improvement plan that is focused on building a stronger safety culture, strengthening our risk management systems and improving contractor safety performance. And in my view, foundational to this will be engaging and enabling our front line to deliver safe work each and every day.
+
+I will also be working with my team to make sure we have the right organizational structure, capabilities and talent in place across the business to drive operational excellence. We've already taken many steps in this regard, including assembling a strong central operational risk management team staffed by experienced operating people as well as making key senior leadership changes in our oil sands and downstream businesses. I'll continue to make sure that we have the right people, systems and structures to drive our performance forward. And I will be focused on reducing complexity and driving organizational focus across the company to deliver operating excellence, capital discipline and our free funds growth commitments.
+
+And as you know, our compensation systems are tied strongly to our performance, including environmental, safety, operating and cost performance. I'm going to be working with the board and our executive team to further strengthen the connection between safety performance and compensation, supporting our organizational focus on reducing serious injuries and eliminating fatalities. Again, to be clear, my commitment is to guide all company efforts and focus on improving our safety and operating performance while executing our long-term strategies, strengthening our balance sheet and growing long-term returns to shareholders. To put it simply, what we need to do is get back to basics with focus and follow through, and that's exactly what we're going to do.
+
+Finally, we plan to hold the recently deferred Investor Operational Day in the fall. At which time, we'll describe our safety and operational improvement plans and actions in more detail. An announcement of the date of that presentation will be coming out shortly. And with that, Trevor, I'll turn it back over to you.
+
+Trevor Bell -- Vice President, Investor Relations
+
+Thank you, Kris and Alister. I'll turn the call back to the operator to take some questions. Operator?
+
+Questions & Answers:
+
+Operator
+
+[Operator instructions] Our first question or comment comes from the line of Greg Pardy from RBC Capital Markets. Mr. Pardy, your line is open.
+
+Greg Pardy -- RBC Capital Markets -- Analyst
+
+Hey, thanks. Good morning. And Kris, good to connect again. Thanks for the rundown.
+
+I know you're going to talk in more depth around the safety initiatives, but can you perhaps just shed some light on maybe what you've uncovered, whether it's from a causality perspective, and perhaps just what some of the safety reset initiatives are underway right now?
+
+Kris Smith -- Interim President and Chief Executive Officer
+
+Yeah, thanks for the question, Greg. And good to connect as well too. As I mentioned in the remarks, we did some in-depth safety assessments last year, and particularly related to the fatalities that we had in the mine tailings areas of our business. And out of that safety assessment took a number of recommendations and started a number of actions.
+
+And so there's been a number of things underway. And examples would be -- and we've talked about this in the past -- investment in technologies to make operations in that part of the business inherently safer, collision avoidance technologies, deep management technologies, as well as team has been working doing full review of high-risk areas in that part of the business to validate controls and working with the teams who are working in those areas as well. And in addition, we're strengthening our risk management systems from the center, working with those areas of the company. As I look at it and as we've been working with the team, we need to continue the momentum on those things.
+
+We need to see where we can accelerate the pace, quite frankly. But the other part, in my view, that's really important is we have to engage and enable our front line. We have to work with the front line because that's where work happens. That's where the decisions happen each and every day around the work we do and managing risks, and that's working with the people managing the front line, the people doing work at the front line.
+
+And so that's going to be a big focus. Not that it wasn't, but I see that as an area that we can accelerate further because, in my view, Greg, at the end of the day, safety culture is about the work we do. It's how we do that work, and we really want to strengthen how we're doing work at the front line.
+
+Greg Pardy -- RBC Capital Markets -- Analyst
+
+OK, thanks for that. Second question is maybe, could you provide us with a current status update like not long, but just maybe just some quick hits on where base oil sands, Fort Hills and Syncrude would sort of be sitting right now? Like are they at full rates? Are there any issues we should be aware of?
+
+Kris Smith -- Interim President and Chief Executive Officer
+
+Yeah. And maybe I'll cover a little bit of Q2 and then talking to where we are right now, Greg, and just bridge into it. But as we looked at the second quarter, we saw strong performance in Syncrude, and we're continuing to see that as we move into the quarter. And they obviously have moved into their large turnaround event, and it's off to a very good start.
+
+Fort Hills in line with plans -- planned maintenance last year, and coming out of that maintenance, continuing with our expectations on plan. And as well our in situ operations have returned from the incident at MacKay River in the second quarter and then Firebag completed its turnaround and has moved forward into the third quarter at capacity. The issue has been in base plant. That's what we saw in the second quarter.
+
+We saw it in U1 upgrading with some reliability issues, and we saw it in the front end and mine extraction. Those issues, some of them are persisting into the second quarter. In U1, they're going to get addressed in the upcoming maintenance event, which we've also pulled some of the work from Q4 into the event, so we can create a really clean fourth quarter as well. And then the front-end issues that we're seeing in mine extraction, while we've been resolving them, they are persisting into the third quarter, they'll get resolved as well.
+
+So the way I would think about it, Greg, is our Q3 -- so we have large maintenance in Syncrude, as you know. We have maintenance going on in U1. The other operations, as I mentioned, are on plan. And so we're going to be -- you can expect Q3 to look similar to Q2.
+
+And then we're going to be setting up -- we have no maintenance in front of us going into Q4.
+
+Greg Pardy -- RBC Capital Markets -- Analyst
+
+OK, understood. Thanks very much, Kris, and good luck.
+
+Kris Smith -- Interim President and Chief Executive Officer
+
+Thanks very much, Greg.
+
+Operator
+
+Thank you. Our next question or comment comes from the line of Manav Gupta from Credit Suisse. Mr. Gupta, your line is open.
+
+Manav Gupta -- Credit Suisse -- Analyst
+
+Good morning, guys. My question is a quick one. The slight increase in capex does look like more of an adjustment. Can you help us understand what part of it was some inflation and then what part of it was the decision to go back into West White Rose? If you could give us some clarifying comments.
+
+Kris Smith -- Interim President and Chief Executive Officer
+
+Yeah. No, thanks very much for the question. So yes, we did adjust our capital guidance up. And as I mentioned in my remarks, there's really three factors driving that, the West White Rose Project restart and our increased working interest in that project.
+
+Recall as well that when we took the increased working interest, we did get proceeds from the operator for taking that on, which offset a good portion of our capital in this year -- from that project this year. As well, we have increased spend related to turnarounds and maintenance year to date, and that relates to found work as well as decisions to undertake other work so that we could ensure we're improving safety and reliability or strengthen it in those assets. And then thirdly is the general inflationary pressure. So to give you some sense of sort of the magnitude about -- half the forecast or guided increase is inflationary pressures, and the other half is related to those other two buckets.
+
+Manav Gupta -- Credit Suisse -- Analyst
+
+Perfect, sir. And a quick follow-up here. You have been very clear that once you kind of get to that $12 billion, 75% of the free cash would be moving toward buyback. But when we look at the second quarter, it looks like you're already on that run rate where close to 75% of the free cash is moving toward buyback.
+
+Could you just comment on the pace of buybacks, which was very strong in the second quarter?
+
+Alister Cowan -- Chief Financial Officer & Executive Vice President
+
+Yeah. Thanks, Manav. It's Alister. I'll take that one.
+
+Yeah, f you look at the second quarter, we focused on the buybacks. Our capital allocation policy is really on an annual basis. We'll pick and choose whether it's debt or reduction in our buybacks in any particular month or quarter. We made the decision to focus on buybacks in the second quarter.
+
+You'll see it move strongly in the third and fourth quarters to taking debt down. It's just really a function of cash flow generation and where we think the opportunities are from an economic perspective. We felt they were strongly in the buybacks area. With the rising interest rates, obviously, the second half will make bond redemption cheaper than in the first half, so economically better.
+
+And then we have more cash flow generation in the second half, particularly with asset sales coming in.
+
+Manav Gupta -- Credit Suisse -- Analyst
+
+Perfect. Thank you, sir and we look forward to meeting you again in the fall event. Thank you.
+
+Operator
+
+Thank you. Our next question or comment comes from the line of Dennis Fong from CIBC. Your line is open.
+
+Dennis Fong -- CIBC World Markets -- Analyst
+
+Hi. Good morning, and thanks for taking my question. Maybe the first one to build off of what Greg was asking on and a little bit of what Manav is asking on. Just with respect to the capex measures associated with improvement of safety and reliability and so forth.
+
+I was curious as to -- has that changed necessarily any of the timing? I know in a previous conference call, there was a discussion around installation of anticollision technology. Has that been brought forward at all just given some of the changes with capital spending?
+
+Kris Smith -- Interim President and Chief Executive Officer
+
+Yeah. No, thanks, Dennis, for that question. So yeah, we do have these programs underway. And they are over a period of time to implement this technology through 2022 and '23.
+
+We're looking right now at where there's opportunities to accelerate that where it makes sense. And we're going to, obviously, be limited by the pace at which we can do it just to get the technology out into all the equipment. But right now, we're taking a look to see where are those opportunities. These aren't material -- this isn't material capital.
+
+At the end of the day, it's about how -- at what pace can we get these investments in place related to those systems.
+
+Dennis Fong -- CIBC World Markets -- Analyst
+
+Great. Thanks. And my second question here is just around the $2.15 billion of free funds flow growth. Just as you've outlined a little bit around increased capex associated with inflation as well as a component of you just mentioned the improvements in safety measures, how does that potentially impact some of the initiatives like digital mine optimization as well as kind of technology initiatives that you're going forward?
+
+Kris Smith -- Interim President and Chief Executive Officer
+
+Yeah. And thanks, Dennis. So recall, our free funds flow initiatives, there's a number of projects or initiatives that really fall into three buckets, ones that are driving revenue and margin enhancements, ones that are driving capital efficiencies and ones that are driving cost reduction. And some initiatives will span two or more of those buckets.
+
+And we're seeing certainly really good progress on a number of those fronts. And particularly on our projects early on in the program have been focused on margin and revenue enhancement. And an example would be the interconnected pipeline that we put in place, which, quite frankly, is performing better than our expectations in terms of driving value and cash. In terms of the cost side of it, I mean, we do see headwinds, obviously, right now on the cost side, inflationary pressures that I was talking about.
+
+And so that's something that will cause us to take a look at those initiatives and see, can we accelerate? Is there other things we can be doing to offset? And with respect to the technology piece, that's a big play in terms of driving efficiency and driving cash. And I give you just a few examples. We just completed our ERP implementation with SAPS 4. It was probably one of the largest ones in industry and from stem to stern upstream to downstream.
+
+We went live in April. We're now getting into the mode of sustaining that system. So then we can move into starting to optimize and get the benefit. And there's an example of using technology to drive efficiencies in the work we do in a standard way as well as our central teams technology and digital teams are working with the businesses upstream and downstream on opportunities to use data analytics and digital to drive value, particularly through revenue and margin enhancement and just operation of the business.
+
+So I think to get back to the end of your question, I think, as you're asking about the technology and digital part of it, we'll look to see where we can accelerate those, where it makes sense. One of the things I'm going to do is take a review of the portfolio of initiatives with the team to look for opportunities to accelerate and also make sure that we're focusing on the highest value ones and driving that focus on those and then looking for further opportunities just given the headwinds that we're seeing.
+
+Dennis Fong -- CIBC World Markets -- Analyst
+
+Perfect. Really appreciate the color that you provided. I'll turn it back. Thanks.
+
+Kris Smith -- Interim President and Chief Executive Officer
+
+Thanks, Dennis.
+
+Operator
+
+Thank you. Our next question comment comes from the line of Doug Leggate from Bank of America.
+
+Doug Leggate -- Bank of America Merrill Lynch -- Analyst
+
+Good morning, everyone. It's Doug Leggate from Bank of America. Thanks for hopping me on. Kris, I guess, I know that you touched on this already a couple of times, but I think you said you don't need more diligence or more reviews.
+
+You just need to execute. What, if I may, have you identified as the key differences between similar operations that your peers very different safety record? Is that something you can kind of frame to say this is where what we need to address or how would you frame those differences?
+
+Kris Smith -- Interim President and Chief Executive Officer
+
+Yeah. No, thanks very much for that, Doug. So if we go back to the safety assessments and go back to where we've seen these tragic instance happening, they're primarily -- they're in one area of the business, which is mining and tailing. And when I say we don't need more diagnosis, we've undertaken very detailed safety assessments with independent analysis, with independent experts coming in, which have outlined a number of recommendations.
+
+And as I mentioned, a few of them, technology we've already talked about as well as really understand going in and looking at our high-risk activities, heavy-to-heavy vehicle, light-to-heavy vehicle contact, working around water, the big risks that happen in that end of the business and just ensuring that our controls are robust. And then if it's not robust enough, ensuring that we get those controls in place. Those incidents, they also come down to the work that's happening and how the work is happening. So we're really focused on understanding how the work is happening at the front line, how it's being managed, how it's being executed.
+
+And so we've got loss. When I say we don't need more diagnosis, we've done a lot of assessment. We've done those comparisons. Those are the areas we need to focus in and work on, and that's exactly what we're going to do.
+
+And then the other piece, even though that's the area of the company where we've seen those issues, what we're committed to is continuing to drive and strengthen the safety culture throughout the company. And so we're not just focused in that one area of the business. We're going to continue to strengthen across the company.
+
+Doug Leggate -- Bank of America Merrill Lynch -- Analyst
+
+I know it's not an easy answer -- easy question to answer, Kris. I guess my follow-up is for Alister, but it's a pretty straightforward one, I hope. Alister, why is $9 billion the hard floor for net debt? Why is that the right number?
+
+Alister Cowan -- Chief Financial Officer & Executive Vice President
+
+That's a good question, Doug. If you actually look at it in a low commodity price environment, and we're using $35, $40 WTI, if you look back at our history, we generally have made around about $6 billion of cash flow in that environment. The commodity price, much lower crack spreads. So the $9 billion is derived from one and a half times coverage on -- we would be one and a half times our cash flow at $9 billion.
+
+I think that's a reasonable level and a low point in the cycle, gives us some scope to take upwards if it's long enough for a short period of time. But eventually the rationale for that.
+
+Doug Leggate -- Bank of America Merrill Lynch -- Analyst
+
+OK. Fair enough. Thank you very much, Alister. Thanks, guys.
+
+Alister Cowan -- Chief Financial Officer & Executive Vice President
+
+Thank you.
+
+Operator
+
+Thank you. Our next question comment comes from the line of Menno Hulshof from TD Securities. Your line is open.
+
+Menno Hulshof -- TD Securities -- Analyst
+
+Thanks for taking my question. I'll start with one on retail. Kris, I know you can't say too much given the ongoing strategic review. But as the former head of downstream, would you be able to give us your high-level thoughts on how you would expect a retail sale or spinout to impact your downstream margins and your downstream business more generally?
+
+Kris Smith -- Interim President and Chief Executive Officer
+
+Yeah. Thanks for the question, Menno. And as we've outlined, we have set up that review process. We have an independent -- we have a board committee set up and already underway undertaking that review.
+
+And the decision will be taken by the full board. And we're reviewing all the options related to that business from -- and you mentioned some of those options. And so we're going to pursue that work and support the board in that assessment through the coming months and then be in a position to have a decision and get back to you with that decision in Q4. In terms of your question with respect to how would it affect downstream margins, how would -- I mean that's one of the key pieces of doing this work and supporting the decision of the board around the business and look at these different alternatives and what -- and the value they create and the impact that they will have on the integrated model and the business and the Rack Back business as well.
+
+So that's a key aspect of doing the work and then providing that really good, clear, unbiased view of both sides of that question to come to the best decision so that when we do make the decision around the retail business, it's in the best interest of driving long-term value for the shareholders.
+
+Menno Hulshof -- TD Securities -- Analyst
+
+Perfect. Thanks,m Kris. And then the second one is for Alister and your expectation that you get to a 75% return of free cash flow by the end of the year. And I noticed that, that does include disposition proceeds.
+
+So my question is, which asset sales are included in that calculation? And I'm probably stretching here, but would you be able to give us a rough sense of how much is being modeled in terms of aggregate proceeds?
+
+Alister Cowan -- Chief Financial Officer & Executive Vice President
+
+Yes. As to your question, Menno, obviously, Norway is in there. And we'll announce that's around $400 million. We're looking at the wind and solar sale as well.
+
+I'm not going to disclose that, I mean, because obviously, we're going to come out of some negotiations.
+
+Menno Hulshof -- TD Securities -- Analyst
+
+OK. And so presumably, the U.K. would not be in there?
+
+Alister Cowan -- Chief Financial Officer & Executive Vice President
+
+No, no, absolutely not. The U.K. won't be in there. It will be a 2023 number.
+
+Menno Hulshof -- TD Securities -- Analyst
+
+OK, perfect. Thanks, Alister.
+
+Operator
+
+Thank you. Our next question or comment comes from the line of John Royall from J.P. Morgan. Mr.
+
+Royall, your line is open.
+
+John Royall -- J.P. Morgan -- Analyst
+
+Good morning, guys. Thanks for taking my question. So in refining, understood that you're done with major maintenance for the year, but just a broader question on turnarounds going forward. I'm wondering if coming out of this year, you'll be fully caught up on any deferrals of turnarounds you might have taken as a result of the pandemic? And is there anything beyond kind of normal course looking into next year? Any early look there?
+
+Kris Smith -- Interim President and Chief Executive Officer
+
+Yeah. No. Thanks for the question, John. It's pretty -- it's a straightforward answer.
+
+We don't -- we're not managing any deferrals out of the pandemic. We are on our regular turnaround cycle. And so next year, we'll -- our turnarounds will be part of that normal cycle.
+
+John Royall -- J.P. Morgan -- Analyst
+
+Great. Thank you. And then you had a big working capital headwind in 2Q. I was just wondering if you could speak to the source of that drag and maybe how much of it is price-related? And should we expect any of that to turn around in the back half of the year?
+
+Alister Cowan -- Chief Financial Officer & Executive Vice President
+
+Yeah, it's all price-related. I mean, it's really accounts receivable and our inventory valuations -- mainly repurchased inventory for the downstream. Certainly, as prices remain lower as you've seen in the last couple of weeks, we'd expect to see some of that released in Q3, Q4.
+
+John Royall -- J.P. Morgan -- Analyst
+
+Great. Thank you.
+
+Operator
+
+Thank you. Our next question or comment comes from the line of Roger Read from Wells Fargo. Mr. Read, your line is open.
+
+Roger Read -- Wells Fargo Securities -- Analyst
+
+Yeah. Thank you. Good morning.
+
+Kris Smith -- Interim President and Chief Executive Officer
+
+Good morning.
+
+Roger Read -- Wells Fargo Securities -- Analyst
+
+Hey. Good morning, Kris. I'd like to come back to the safety aspects of the company. I mean it seems like the factor that really sort of separates what's been going on at Suncor from the rest.
+
+Obviously, the board is looking for a new executive leader before the year is out or early next year. That person will want to put their stamp on it, but what do you feel you can get out or early next year -- that person will want to put their stamp on it, but what do you feel you can get done between now and then from a safety and from a culture standpoint to get the company pointed in all the right directions?
+
+Kris Smith -- Interim President and Chief Executive Officer
+
+Yeah. Thanks for that question, Roger. Listen, my focus is to drive the safety and operational improvement and to really do the things that I talked about earlier. The board will make its decision in terms of the permanent CEO and probably in that time frame you just outlined.
+
+But in the meantime, we can't stand still. And I have the full support of the board to drive the changes necessary and to engage to do the things with the executive team and all our employees to get the improved performance we're looking for.
+
+Roger Read -- Wells Fargo Securities -- Analyst
+
+Also if I could just dig into that a little bit more. Do you feel that some of the safety issues -- is it as simple as technology and an underinvestment? Or does it feel like it was more of a maybe misplaced goals, in other words, focusing on one thing, but forgetting maybe some of the other important aspects? I'm just trying to get a feel for what it really will take to correct this, whether it's done in the next six months or it's done over the next 18 months.
+
+Kris Smith -- Interim President and Chief Executive Officer
+
+Yeah. No, thanks, Roger. This isn't about -- that we had some underinvestment or missing technology. Technology is an enabler.
+
+It's one of the things that we can implement to improve our ability to manage the risks and if we do fail sales safely. And -- but that's not at its root, the issue, the fact that those systems weren't there. Similarly, this isn't -- in my view, it's not about we put the focus to the organization in the wrong places. When we look at it and come back to what I was describing earlier, it's about the execution of the work.
+
+And if I go back to the incidents that we have had, it's been how the work has been executed in the field. And we have to get -- and while technology will be a huge enabler, and we'll implement those things, and while we will absolutely be strengthening our systems and processes and procedures, but we have great systems, processes and procedures, it's really enabling and engaging to ensure that, that work is happening safely each and every day in the field. And so that's really, I think, the area, in my view, that needs focus and attention. This isn't a question of just saying we didn't invest in technology, and therefore, we had safety issues.
+
+That's not the case.
+
+Roger Read -- Wells Fargo Securities -- Analyst
+
+That's fair. I mean my experience with this is it tends to be more of a cultural issue and just sort of focusing on the right things. So I guess in the future, if you can kind of give us an idea of where that focus has shifted. And safety really being core enough to drive the changes in other processes, that will be great.
+
+Appreciate your comments. Thank you.
+
+Kris Smith -- Interim President and Chief Executive Officer
+
+Thanks, Roger.
+
+Operator
+
+Thank you. I'm showing no additional questions in the queue at this time. I'd like to turn the conference back over to Mr. Trevor Bell, vice president of investor relations.
+
+Trevor Bell -- Vice President, Investor Relations
+
+Thank you, operator, and thanks, everyone, for joining us today. If you have any follow-up questions, please reach out to myself and my team, and we're happy to answer them. Again, thank you for attending.
+
+Operator
+
+[Operator signoff]

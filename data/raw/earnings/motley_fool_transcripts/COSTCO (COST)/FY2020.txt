@@ -3,7 +3,7 @@ Fiscal Year: FY2020
 Query Used: costco (cost) fy20 earnings call transcript motley fool
 Source URL: https://www.fool.com/earnings/call-transcripts/2020/09/25/costco-wholesale-cost-q4-2020-earnings-call-transc/
 Title: Costco Wholesale (COST) Q4 2020 Earnings Call Transcript
-Fetched At (UTC): 2026-04-12T20:25:25.439916+00:00
+Fetched At (UTC): 2026-04-12T20:40:13.314718+00:00
 
 COST earnings call for the period ending Aug. 30, 2020.
 
@@ -12,7 +12,7 @@ Image source: The Motley Fool.
 Costco Wholesale 
 (
 COST
-3.17%
+3.25%
 )
 
 Q4 2020 Earnings Call

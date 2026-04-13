@@ -1,0 +1,485 @@
+Ticker: DOW CHEMICAL  (DOW)
+Fiscal Year: FY2020
+Query Used: dow chemical  (dow) fy20 earnings call transcript motley fool
+Source URL: https://www.fool.com/earnings/call-transcripts/2021/01/28/the-dow-chemical-company-dow-q4-2020-earnings-call/
+Title: The Dow Chemical Company (DOW) Q4 2020 Earnings Call Transcript
+Fetched At (UTC): 2026-04-12T21:00:33.718064+00:00
+
+DOW earnings call for the period ending December 31, 2020.
+
+Image source: The Motley Fool.
+
+The Dow Chemical Company 
+(
+DOW
++2.55%
+)
+
+Q4 2020 Earnings Call
+Jan 28, 2021, 8:00 a.m. ET
+
+Operator
+
+Good day, and welcome to the Dow fourth-quarter 2020 earnings call. [Operator instructions] Also, today's call is being recorded. I would now like to turn the call over to Colleen Kay. Please go ahead, ma'am.
+
+Colleen Kay -- Vice President of Investor Relations
+
+Good morning, everyone. Thank you for joining us to discuss the fourth-quarter financial results for Dow. We are making this call available via webcast and we have prepared slides to supplement our comments during this conference call. They are posted on the investor relations section of Dow's website and through the link to our webcast.
+
+I'm Colleen Kay, investor relations vice president for Dow. And joining me on the call today are Jim Fitterling, Dow's chairman and chief executive officer; and Howard Ungerleider, president and chief financial officer. Please read the forward-looking statement disclaimer contained in the earnings news release and slides. During our call, we will make forward-looking statements regarding our expectations or predictions about the future.
+
+Because these statements are based on current assumptions and factors that involve risks and uncertainties, our actual performance and results may differ materially from our forward-looking statements. Dow's Forms 10-Q and 10-K include detailed discussions of principal risks and uncertainties, which may cause such differences. Unless otherwise specified, all financials, where applicable, exclude significant items. We will also refer to non-GAAP measures.
+
+A reconciliation to the most directly comparable GAAP financial measure and other associated disclosures is contained in the Dow earnings release, in the slides that supplement our comments today, and on the Dow website. On Slide 2, you'll see our agenda for the call. Jim will begin with the fourth-quarter and full-year highlights and will discuss the company's operating segment performance. Howard will share an update on Sadara and then provide our market outlook and modeling guidance.
+
+He will also outline Dow's digitalization acceleration plans. Finally, Jim will provide an update on our sustainability initiatives and market growth opportunities that are helping to further advance our competitive advantage in 2021 and beyond as the economic recovery progresses. Following that, we will take your questions. With that, I will turn the call over to Jim.
+
+Jim Fitterling -- Chairman and Chief Executive Officer
+
+Thank you, Colleen, and thanks to everyone for joining us. We hope that you, your families are healthy and safe. Starting on Slide 3. In the fourth quarter, the Dow team delivered results that exceeded expectations with sales and EBIT growth year over year and a sequential net sales increase of 10%.
+
+And as the global economy and market fundamentals continue to improve, demand drove volumes above or in line with pre-COVID levels across all operating segments. We captured strong durable goods and construction demand, we grew volumes and do-it-yourself architectural coatings and home care sectors, and we continue to benefit from solid demand and pricing momentum in packaging applications, supporting a sequential net sales increase of 12% in our packaging and specialty plastics segment. This volume increase combined with improved pricing and margins, particularly in polyethylene and polyurethane applications, delivered 5% revenue growth and higher operating EBIT year over year. We supported these strong top-line results with a cash flow conversion of 93% in the quarter, driving our full-year rate up 30% versus 2019.
+
+Cash from continuing operations was $1.7 billion in the quarter, and free cash flow was $1.4 billion. Working capital was a $236 million source of cash even with increased sales. We completed the sale of select U.S. Gulf Coast marine and terminal operations and assets, delivering another strategic nonoperational cash lever.
+
+And the improved financial and operational performance at Sadara was a key contributor in delivering positive year-over-year equity earnings. We also maintained our disciplined approach to capital allocation, completing additional deleveraging as we reduced net debt by $837 million in the quarter and we continue to reward our shareholders through our industry-leading dividend. Overall, our fourth-quarter performance was a strong finish to a year where team Dow successfully overcame significant macroeconomic and other external challenges. On Slide 4 is a brief recap of our full-year achievements.
+
+We adapted quickly to the global pandemic and our agile approach to managing volatility in the markets, combined with our prudent adjustments to capital expenditures, proactive cost reductions, working capital interventions, plus delivery of unique cash levers supported demand growth year over year in packaging applications, a nearly $500 million structural improvement in working capital, a strong uplift in cash flow from operations, free cash flow of $5 billion and more than $2.6 billion in net debt reduction and continued cash returns to shareholders through our industry-leading dividend. We achieved all this, while also making significant progress toward our ambition to be the most innovative, customer-centric, inclusive, and sustainable materials science company in the world. We found new ways to serve customers in a virtual world, we launched Dow's mobility science platform to better serve an attractive market vertical, we reinforced Dow's commitment to inclusion and diversity through a bold framework to address systemic racism and inequality and followed through with actions aligned to that framework, and we launched new aggressive targets to help eliminate plastic waste and reduce carbon emissions. I'm incredibly proud of how the Dow team delivered a solid performance and showed tremendous leadership on critical issues throughout 2020.
+
+Moving to our segment performance on Slide 5. As I mentioned earlier, ongoing improvements in the macro environment drove sequential sales gains across all segments and geographies, allowing us to reach year-over-year revenue growth during the quarter for the first time since the start of the pandemic. In the packaging and specialty plastics segment, operating EBIT was $780 million, up more than $130 million versus the same quarter last year and sequentially. Resilient demand, tight market supply, low inventory levels, and disciplined price volume management enabled strong polyethylene pricing momentum and margin expansion.
+
+Notably, operating EBIT margins expanded 180 basis points year over year and 100 basis points sequentially. Compared to the prior quarter, net sales increased 12%. Price gains continued across all regions and most applications, particularly in consumer packaging, and the business delivered higher volumes with broad-based demand growth. The packaging and specialty plastics business continued to see strong momentum through the end of the year.
+
+Sales were up year over year, primarily driven by steady volumes and improved polyethylene pricing, particularly in food and specialty packaging as well as health and hygiene applications. Compared to the prior quarter, the business delivered local price gains in all regions, including double-digit gains in the U.S., Canada, and Latin America. Moving to the industrial intermediates & infrastructure segment. Operating EBIT was $296 million, up $75 million year over year, and up $192 million versus the prior quarter.
+
+Supply and demand fundamentals in polyurethanes and construction chemicals as well as higher equity earnings from improved performance at Sadara drove this result. On a sequential basis, significant improvement in margin over raw materials drove operating EBIT margins up more than 500 basis points, more than offsetting typical seasonality. The polyurethane and construction and chemicals business reported a double-digit increase in net sales year over year and sequentially. The year-over-year increase was primarily due to higher local prices with gains in all regions, except Latin America.
+
+Compared to prior the quarter, sales growth was driven by strong local pricing and furniture, bedding, and appliance end markets. The industrial solutions business reported flat net sales versus the prior-year period. Currency tailwinds and higher volumes in solvents for coatings, industrial fluids, electronics, and pharma applications were offset by pricing in industrial manufacturing applications. Compared to the prior quarter, net sales were up double digits due to sequential improvement in price and volume as industrial markets continued to recover and consumer end markets remained strong.
+
+And finally, the performance materials and coatings segment reported operating EBITDA of $50 million, down year over year. Volume growth in downstream silicones and coatings applications was more than offset by price and volume declines in siloxanes. On a sequential basis, operating EBIT was down $25 million as margin expansion in silicon applications was overcome by seasonality in coatings end markets. The consumer solutions business reported a decline in net sales.
+
+The business captured solid demand growth in home care, consumer, and electronics, and high-performance building applications. These gains were more than offset by continued weak volumes in upstream siloxanes and in high-end personal care applications, such as cosmetics, as a result of paused social and workplace activities. On a sequential basis, volumes improved on recovery in mobility and transportation as well as consumer and electronics end markets. The coatings and performance monomers business achieved higher net sales year over year with volumes up double digits.
+
+The seasonality impact was moderate, and the business captured resilient demand for architectural coatings as consumers continue to focus on do-it-yourself projects at home. Sequentially, the business also experienced positive pricing momentum, particularly in acrylates which was more than offset by seasonal weather-related declines for coatings applications in the Northern Hemisphere. And now, I will turn it over to Howard for an update on Sadara, our financial outlook, and our plans for digital acceleration.
+
+Howard Ungerleider -- President and Chief Financial Officer.
+
+Thank you, Jim, and good morning, everyone. Turning to Slide 6. The strong supply and demand trends that continue to benefit our packaging and polyurethanes businesses this quarter also benefited Sadara. The joint venture again delivered improved financial and operational results, driving equity earnings higher by more than $130 million year over year.
+
+We expect solid market fundamentals and an improving economy to continue to benefit the joint venture in 2021, supported by Sadara's feedstock flexibility and enhanced global cost curve position. We are also very pleased to report that Sadara declared project completion in the fourth quarter, removing Dow's $4 billion shares of the guarantees that supported the joint venture's debt. In addition, in January of this year, Dow, Saudi Aramco, and Sadara reached an agreement in principle with the remaining lenders and sukuk investors on key terms for its debt reprofiling with formal agreements expected to be completed within the first quarter. As a result, Sadara is expected to be cash flow self-sufficient going forward.
+
+Key provisions of the reprofiling include an extension of the contractual debt maturity from 2029 to 2038; a modified repayment schedule aligned with Sadara's projected cash generation profile including a grace period until June 2026, during which interest-only payments are required; no upfront payments of principal; and limited support in the form of much lower sponsor guarantees of Sadara's reprofiled debt, in proportion of the sponsor's ownership interest. The impact to Dow's commitments is expected to include the following, which are in proportion to Dow's 35% ownership interest in Sadara: Dow will provide guarantees for $1.3 billion of Sadara's debt, effectively replacing approximately $4 billion of prior guarantees; Dow will provide guarantees for its portion of Sadara interest payments due during the grace period; our pro-rata share of any potential shortfall, which based on Sadara's current performance we do not expect, will be funded by a new $500 million revolving facility in Sadara, guaranteed by Dow, this is expected to be established in the first quarter of 2021; and finally, Dow's existing $220 million letters of credit related to the guarantee of one future Sadara debt service payment will also be canceled. As a result of these actions, the company does not expect to provide any further shareholder loans or equity contributions to Sadara. Let's now turn to our modeling guidance for the first quarter on Slide 7.
+
+We exited the fourth quarter with increasing strength which is carried over into the first quarter. The ISM manufacturing new orders index is trending at its highest level in 10 years. In addition, low-interest rates are supporting a resilient housing market and deurbanization trends are driving U.S. housing starts to their highest point since 2006.
+
+We expect sequentially higher business results in the first quarter with total sales in the range of $10.7 billion to $11.2 billion, driven by ongoing strength in our polyethylene and polyurethane value chains, improvement in our silicones franchise, and supported by our U.S. Gulf Coast ethane advantage. We will see some headwinds sequentially with higher turnaround costs and the reversal of approximately $50 million in one-time benefits from the prior quarter. In the packaging and specialty plastics segment, we entered the year with good pricing momentum, continued solid demand and elevated breakeven points for high-cost naphtha producers as a result of increasing oil prices.
+
+We expect these dynamics to be sustained through the quarter. The industrial intermediates and infrastructure segment will continue to benefit from strong consumer durables demand, supported by automotive and housing sectors and improvement in industrial end markets. These trends, combined with industry supply limitations and low inventories, should support pricing uplift, although we do see some cost increases from rising propylene pricing as well. And finally, for performance materials and coatings, we expect silicones to benefit from ongoing demand expansion in consumer end markets, particularly in electronics, home care, and mobility, where our innovation advantages will continue to allow us to capture additional growth opportunities.
+
+In coatings, we expect DIY demand to remain elevated through the first quarter as consumer home improvement trends continue. There will be some turnaround headwinds in the quarter, including the completion of a turnaround at our siloxane plant in China that we shortened in the first half of 2020 due to COVID-related labor and supply issues. Turning to Slide 8. Looking at the full year, we see strong market fundamentals in many of our key value chains continuing to drive improved operating performance year over year.
+
+And although we expect the pace of recovery to moderate, it is still likely to be an uneven quarter to quarter as the vaccine distribution and new strains evolve. As usual, we are providing you with our best full-year estimates of several income statements and cash flow items which are noted on the slide. Consistent with our capital allocation priorities and based on our improved forward outlook versus 2020, we are increasing our capital expenditure target year over year to $1.6 billion, and we are targeting an additional $1 billion in deleveraging. Sadara, as previously mentioned, will be a $350 million tailwind for the year with no planned cash contributions.
+
+We expect equity earnings to be flat year over year as the margin resiliency we see across the portfolio is offset by higher planned JV turnaround expenses. Total turnaround spending will be up versus the prior year as we continue to ensure the reliability of our facilities. And as mentioned last year, we expect our $300 million EBITDA restructuring program to be substantially complete by year-end. We are also providing a share count estimate for the year.
+
+However, assuming a sustained EBITDA improvement, we will look at reinstituting our share buyback program later in the year for the purpose of covering dilution. And finally, we expect a full-year tax rate in the 23% to 27% range. Moving to Slide 9. The events of 2020 provided an opportunity for us to rapidly accelerate our focus on the value of digitalization.
+
+Through our digital advances and capabilities, we were able to continue innovating, improving the customer experience, and optimizing our operations. It has become clear that the escalation of digital interactions and transactions driven by COVID-19 will only help us accelerate the delivery of our ambition and be an important part of our customer experience in the future. So, building on this solid foundation, today, we are announcing plans to further advance our digitalization efforts by investing in three key areas: first, expanding digital tools like machine learning and advanced digital modeling to accelerate material science innovation and put innovation capabilities directly in the hands of our customers; second, further enhancing our e-commerce buying and fulfillment experience for our customers; and third, adopting additional real-time digital manufacturing insights, operational data intelligence and demand sensing, all to enhance the productivity and reliability of our operations. We expect these actions to deliver more than $300 million in incremental annual run rate EBITDA generation by year-end 2025 with an additional one-time $100 million improvement in structural working capital efficiencies.
+
+To realize these gains, we will spend approximately $400 million over the next two years with an attractive risk-adjusted return on investment exceeding our internal hurdle rate and expected payback of less than three years. Our goal is clear, our digital acceleration will help us continue to transform how we work, and importantly, how we engage with our customers. With that, I will turn it back to Jim.
+
+Jim Fitterling -- Chairman and Chief Executive Officer
+
+Thank you, Howard, and please turn with me to Slide 10. For more than 3 decades, sustainability has been imperative to our business. And last year, we announced new breakthrough targets focused on reducing our carbon footprint and addressing plastic waste. We see these targets as a catalyst for growth and innovation.
+
+We have discussed with you our progress on key initiatives to advance the circular economy for plastics. And today, we want to provide visibility on our comprehensive approach to reducing carbon emissions. Over the past 15 years, Dow has reduced our overall emissions by 15% while growing our business. And we see a viable pathway to reduce our net annual carbon emissions by another 15% by 2030.
+
+This pathway begins with targeting further efficiencies and optimization at our sites, sourcing renewable energy and clean power, and implementing new emission management technologies. We're working with utilities and regulators to supply clean purchase power to a majority of Dow sites by 2030. We are making good progress. Last year, we increased our agreements to purchase cost-competitive renewable energy in Kentucky, Texas, Brazil, and Spain, and we are preparing for the full transition of our Terneuzen operations.
+
+We're also working to optimize the energy efficiency of our sites by lowering our energy use and developing breakthrough technologies, such as electric, ethylene steam crackers, carbon capture and sequestration, and the potential use of blue hydrogen -- Dow to be among the first in the industry to do so by 2030. We recognize that achieving these goals will also require partnerships with governments, regulatory agencies, and other external groups to support the economics of these technologies and evolve regulatory frameworks to focus on emissions reduction. Widespread support for decarbonizing emissions is driving demand across the value chain, and Dow is well placed to continue to lead and benefit from this evolution. Many Dow products lower our customers' emissions more than the carbon emissions used to produce them, like enabling lighter, safer, and more fuel-efficient automobiles; more energy-efficient buildings; and food that stays safe and fresh longer, all critical for a world set to add two billion people by 2050.
+
+Ultimately, Dow wins by making our cost to implement this transition lower than our competitors and the value of our products higher. Our objective is to establish a resilient portfolio of lower carbon footprint products to meet rising demand, capture market share, and grow value, while reducing emissions for Dow, our customers, and the planet. Moving to Slide 11. As we look to 2021 and beyond, we are well-positioned to capture additional value growth.
+
+Throughout the pandemic, new consumer behaviors emerge that have driven strong demand for our products and we expect these trends to continue benefiting Dow's consumer-led portfolio even as the pandemic diminishes. Consumers have become accustomed to new ways of purchasing and interacting, increased in-home delivery and takeout dining, paired with a heightened awareness of food hygiene and security will sustain demand strength for food and consumer packaging. The resilient housing market is creating higher demand for durable goods, such as furniture and appliances, and more time at home also leads to consumer spending on home improvement, including do-it-yourself coatings. Ongoing public caution about COVID-19, even after widespread vaccine distribution, will support continued demand for health and hygiene applications.
+
+We also believe that as vaccination rates increase and we turn the corner on the pandemic, there will be improving demand as travel, entertainment, sports, and construction industries, and other social activities return to normal. Market indicators are showing above GDP growth across several sectors, and as a result, we are beginning to see economic recovery broaden across our portfolio and in many of the end markets that we serve which is benefiting our higher-margin consumer solutions business. Similarly, this increased confidence is also improving demand in our functional polymers portfolio which serves mobility, infrastructure, and construction sectors. Finally, as we look ahead, Dow's unmatched materials science portfolio is uniquely positioned to address global megatrends and shifting post-COVID trends, providing additional higher-margin growth opportunities for Dow.
+
+Dow solutions meet increasing consumer needs for new sustainable innovations, such as post-consumer recycled plastics and renewable energy made polyethylene. In 2020, we tripled sales of products made with renewable bio-based feedstock. As the need for renewable energy increases globally, so will demand for Dow solutions that enable wind power and solar production facilities. Our heat transfer fluids are used in more than 40 large-scale concentrated solar power plants around the world.
+
+And through our DowAksa joint venture, we provide polyurethane, carbon fiber systems that deliver a stronger and lighter composite material for wind blades. Electric vehicle sales are on the rise with 2021 growth projections exceeding 2020 records. And our mobility science platform focuses on delivering innovative products to enhance automobile connectivity, lightweighting, comfort, safety, and sustainability. Lastly, we see meaningful opportunities to support the rollout of 5G broadband networks.
+
+For example, last year, we launched new high-performance thermal gel that promotes both environmental sustainability and efficient assembly of essential 5G infrastructure. Underpinning these tailwinds are the global foundational advantages and discipline that set Dow apart. Our unmatched portfolio, global scale, low-cost structure, and industry-leading feedstock flexibility give us a competitive edge. Further, the actions that we took in 2020 to bolster our financial position, including the execution of our restructuring program and our disciplined focus on cash generation provides the financial strength and flexibility to support our growth trajectory in line with our financial and operating playbook.
+
+To close, 2020 was a challenging year for our world. But I could not be more proud of team Dow's performance nor could I be more confident in our future. Dow's competitive advantages are clear, we have significant growth opportunities ahead of us, and the actions that we have taken position us to outperform our peers. With that, I will turn it back to Colleen to open up the Q&A.
+
+Colleen Kay -- Vice President of Investor Relations
+
+Thank you, Jim. Now let's move on to your questions. I would like to remind you that our forward-looking statements apply to both our prepared remarks and the following Q&A. Operator, please provide the Q&A instructions.
+
+Operator
+
+Thank you. [Operator instructions] And our first question, we will hear from Bob Koort with Goldman Sachs.
+
+Robert Koort -- Goldman Sachs -- Analyst
+
+Thanks very much. Good morning. Jim, I was hoping maybe you could give us your -- your appraisal of what is going on, particularly in the polyethylene markets. And 2020 was certainly a surprise, the resilience of demand is quite good.
+
+And I guess, the fear of the wave of capacity over looming the industry didn't materialize. But how do you sort of see the supply demand setup looming in 2021?
+
+Jim Fitterling -- Chairman and Chief Executive Officer
+
+Yeah, Bob, I think as the year progressed, we saw a continued strong demand in polyethylene. And toward the end of the year, we saw ethylene start to tighten up and ethylene margins improve. And so that led to some pretty sharp increases in the fourth quarter. You saw PE margins were up in the fourth quarter, about $0.07 a pound in the U.S., about $0.13 in Europe, and up about $0.10 in Asia.
+
+I think, the other thing that happened was as those ethylene margins increased here, you had some wintertime activities that drove some of the cost to manufacture up in China. So you saw competing technologies like cold olefins, where coal prices were up $200 to $200 a ton, mainly because of a polar vortex and the fact that they were having some squabbles with the Australians about coal imports. So they weren't -- weren't able to get it. We also saw LNG exports and LNG demand up sharply throughout Europe and also into Asia.
+
+And so that -- that helped. Demand strength on top of the fact that you had these rising prices and inventory levels were low, really all came together to drive that. And by the way, demand still continues to look good in the first quarter, inventory levels are still low, operating rates are good. In the U.S.
+
+Gulf Coast, our operating rates were in the mid-90s in the fourth quarter. So we are going to continue to see, I think, good margins in the PE business.
+
+Operator
+
+And next, we will move to PJ Juvekar with Citi.
+
+PJ Juvekar -- Citi -- Analyst
+
+Good morning, Jim. And congratulations on your goals for sustainable energy and renewable resources. So, about this sustainable electricity that you talked about to get into your crackers, how do you plan to do that? Would you outsource all that to utilities or would you invest in renewable energy, possibly with some partners? How do you get to that goal by 2030? And what kind of capex do you need for that?
+
+Jim Fitterling -- Chairman and Chief Executive Officer
+
+Yeah. Good morning, PJ. Look, I think you think about sustainability for us from an electricity standpoint on -- on two fronts. We have a lot of electricity uses that are not for the crackers.
+
+And obviously, there, we're looking to alternatives, wind and solar, to replace current capacity. And those are cost-competitive today. And so, we have made a big move in that direction. We have about 580 megawatts of alternative energy under a contract and we are increasing every year.
+
+Our goal is to have 750 megawatts or more by 2025. And I mentioned some of the sites on the script that will go through that. The second thing I would say is in the crackers, we are looking at a combination of things, not just electrification. We have a partnership with Shell going on right now to try to prove out electric cracking.
+
+That is a longer-term development. In the near term, we are also working on a -- a form of fluidized catalytic cracking to go from ethane to ethylene. I've talked about our FCDh process to make propylene out of propane. We are piloting that in Louisiana.
+
+That will be built this year and up and running next year. And we believe that can give us a 20% reduction at least in -- in CO2 emissions and a very good scale technology. We can achieve economies of scale at maybe 150,000 tons per year kind of capex. If you look at what we are doing in parallel, we are looking at EDH.
+
+And that could have the potential to reduce our emissions by 40% or more, still using gas as a feedstock in the crackers or gas as a fuel and the crackers. So, we have got several technologies that we are looking at, and we are also looking at blue hydrogen also as a way to try to get a more concentrated CO2 stream so that we can combine that with carbon capture and sequestration to be able to reduce carbon emissions.
+
+Operator
+
+And next, we will move to Jeff Zekauskas with J.P. Morgan.
+
+Jeffrey Zekauskas -- J.P. Morgan -- Analyst
+
+Hi, thanks very much. In -- propylene is going up really quickly. Are your acrylate prices going up as fast as propylene prices are going up? That is are acrylate margins likely to be squeezed in the early part of the year or widen in the latter part of the year, how do you assess that? And for Howard, in the operating cash flow in 2020, how much of the operating cash flow came from asset sales or legal settlements?
+
+Jim Fitterling -- Chairman and Chief Executive Officer
+
+Good morning, Jeff. Let me see if I can cover propylene first, and then I will flip it over to Howard. Spot prices have increased. And it is a combination of reduced supply because ethane has been the preferred crack in the crackers and propane has been much more expensive, again due to that, you know, polar vortex I was talking about in Europe and -- and Asia, driving these prices up.
+
+That means ethane has been the crack, and so you don't have as many byproducts. And that shortest bit on propylene. And then on purpose propylene, you have had a raft of issues on -- through on purpose propylene production, which has meant there hasn't been as much there. And so that has tightened things up.
+
+I think acrylates are holding up well because demand has been good, downstream demand has been good. So there has been some price improvements. Do-it-yourself architectural coatings are growing. In fact, they were the big winner last year in terms of market share.
+
+I expect the contractor side will come back this year. Howard, do you want to talk about the cash?
+
+Howard Ungerleider -- President and Chief Financial Officer.
+
+Yeah. Good morning, Jeff. Is a two -- the two best owner infrastructure sales of a little bit more than $900 million, if you add them together between the marine one that we did this past quarter and the fourth quarter, and then the rail infrastructure that we did in the third quarter. And then I would probably top it up to $1 billion with some of the other miscellaneous land sales and asset sales that we did that were smaller.
+
+Operator
+
+Next, we will move to David Begleiter with Deutsche Bank.
+
+David Begleiter -- Deutsche Bank -- Analyst
+
+Thank you. Jim, polyurethane has a strong end to the year. How do you foresee that business progressing into Q1 and through the rest of the year, both on prices and margins? Thank you.
+
+Jim Fitterling -- Chairman and Chief Executive Officer
+
+Good morning, David. Thanks for the question. The markets that I mentioned, automotive, furniture, and bedding, appliance, and construction are very solid right now. In the energy space, the oil and gas space, it is a little bit challenging.
+
+And so we see the trajectory that we had in isocyanates and polyols in the second half continuing to move up in the first quarter due to supply limitations. It's -- it's hard to keep things on the shelves like mattresses and furniture, while we have got these strong housing drives that are going on. We -- we are seeing the automotive sector come back. Obviously, we -- we saw it big in electric vehicles, we've set records in 2020, and I think we are going to crush those in 2021.
+
+But internal combustion engine vehicle is coming back as well. And that -- and that is good demand and strong order patterns, even without some of the bigger capital-intensive markets being back on stream. So like the large-scale industrial construction, those types of markets. So, I think we're -- I think we've got a good demand pattern ahead of us.
+
+Housing starts is a very, very solid sign, highest we have seen since 2006. So, that drives a lot of content for our products.
+
+Operator
+
+And we will move on to Laurence Alexander with Jefferies.
+
+Laurence Alexander -- Jefferies -- Analyst
+
+Good morning. I guess two housekeeping questions. Can you -- it's been a while since we have had normal seasonality. So, how do you think about normal seasonality playing out with respect to Q2 and Q3, relative to Q1?
+
+Jim Fitterling -- Chairman and Chief Executive Officer
+
+Good morning, Laurence. I think I understand your question, so let me see if I get it, and then I will ask Howard in case I didn't. Normal seasonality that we would typically see a strong second quarter but having said that, we go into the first quarter this year with supply chains being relatively lean, very little inventories in -- in almost all of them. And we've got strong demand going into the first quarter.
+
+So, it feels like you have a first quarter, second quarter pretty strong season, and we typically see the second quarter and into third quarter being the strongest part of the year. I think because of tightness, you are going to continue to see that. Secondly, last year, there was a lot of unplanned activities in things like polyethylene that took a lot of capacity offline. This year, there's a lot of planned activity for turnarounds because of activity that didn't happen last year due to COVID.
+
+So you are going to have, on a planned basis, almost the same amount of capacity offline as we did last year before you ever get into any unplanned events. And those -- those things, to me mean a pretty strong start to 2021. And I'm optimistic that as the vaccination rates improve, we are going to start to see people return more to normal. And we certainly are making progress on getting people vaccinated.
+
+Anything I missed, Howard?
+
+Howard Ungerleider -- President and Chief Financial Officer.
+
+No. Maybe just to put some math on the turnaround numbers. I mean, you know, last year, we -- we really crunched down the number of turnarounds. This coming year, we will have about $400 million of higher turnaround spending.
+
+$300 million of that in our core business, about $100 million in our joint ventures. And as Jim said, that the bulk of that is going to be in Q1, Q2, and Q3. So just to factor that into a bit of a headwind, Laurence.
+
+Operator
+
+And we will move on to Vincent Andrews with Morgan Stanley.
+
+Vincent Andrews -- Morgan Stanley -- Analyst
+
+Thank you and good morning, everyone. Just looking at some of your businesses that haven't recovered as quickly. You know, the high-end personal care, it's -- it's unfortunately easy to understand why that has been sought. But I'm just wondering, you know, maybe if you could talk about how you are anticipating that coming back and when? And, in particular, if customer inventory levels, you know, I'm assuming they have been worked down pretty hard.
+
+So you know, do you -- do you think that they are going to need to rebuild before the second half, assuming, you know, the vaccines are reaching critical mass by then and hopefully, some return to normality is taking place or -- or are you more likely to see just sort of a -- a smoother recovery there? How do you -- how do you foresee that playing out? And then just as a -- as a housekeeping question, well, never mind, I will just leave it there.
+
+Jim Fitterling -- Chairman and Chief Executive Officer
+
+All right. Thanks, Vincent. I would say 2021, we are seeing strength in some of those specialty growth rates right now. So I think, building and construction are going to be up -- probably up in the 3% to 4% range.
+
+Electronics, 6% or more. Industrial, up 9%. Industrial was off quite a bit last year. Mobility, maybe up 11%.
+
+Home and personal care will still be up, even though probably not as high as 2020 because you had some of that pre-COVID buying and that surge that we saw in the third quarter, second quarter to third quarter. And I do think personal care will come back. I think it will come back probably up 4%. We are taking advantage of, you know, we had some scheduled turnaround time in the first quarter last year when the pandemic hit in China.
+
+We are actually completing that work right now in China. So that has got some siloxane capacity offline. But because building and because the high-end personal care demand hasn't been there, that's been OK. So we will get those things done in this quarter.
+
+The other thing we have been doing is debottlenecking a lot of our downstream capacity. So we've done a lot of projects downstream to get what we call our specialties business ready. And I think we're getting ahead of what will be some pent-up demand once we hit an inflection point on these vaccinations. Certainly, people are -- are tired of being at home.
+
+They want to travel. They want to get back to life as normal, and that will open things up. And we are gearing up that we should see some of that in the second half of the year.
+
+Operator
+
+And next, we will hear from Jonas Oxgaard with Bernstein.
+
+Jonas Oxgaard -- Sanford C. Bernstein -- Analyst
+
+Hey, good morning.
+
+Jim Fitterling -- Chairman and Chief Executive Officer
+
+Good morning, Jonas.
+
+Jonas Oxgaard -- Sanford C. Bernstein -- Analyst
+
+I was hoping if you could -- I was hoping you could comment on what is happening with your JVs in a bit more detail, particularly the Thai JV, for looking at your Page 14 here. Your EBITDA went down a lot, but your net income went up. And so, I'm wondering how -- well, what happened and how are you going to think about this going forward? And then on -- on Sadara, do you have -- do you have any preliminary ideas of -- of how we should be thinking about the repayment schedule?
+
+Jim Fitterling -- Chairman and Chief Executive Officer
+
+I'll -- I'll hit Thailand, and then I will have Howard cover Sadara. Thailand had some turnaround activity in the quarter, so that -- that was spending that hit them. And then, I talked a little bit about that wintertime situation. Essentially, you had a drive up in naphtha costs as all the alternatives went up and so that -- that put some squeeze on in the marketplace.
+
+So, I don't think there is anything out of the fourth-quarter results that you should look at and think that it is something you should project forward. I think it is very situational. And Howard, maybe you want to talk about Sadara and the payment schedule?
+
+Howard Ungerleider -- President and Chief Financial Officer.
+
+Yeah, Jonas, look, thanks for the question. I mean, I couldn't be prouder of the Dow, the Saudi Aramco, and the Sadara team. It is about 18-months worth of work that got us to this point where we have got the agreement in principle with the entire lending syndicate of commercial banks, ECAs as well as the sukuk investors. So, we've got a five-year great period where no principal is due until June of 2026.
+
+We've matched the principle from 2026 out to 2038 with the projected earnings and cash flows. And in terms of the next five years, on a 100% Sadara basis, you are looking at about between $300 million and $350 million of interest expense. So, our share would be about $100 million to $125 million a year. But I would say based on Sadara's current performance as well as all the plans that they have in place, they -- they will be cash flow self-sufficient for this year and going forward.
+
+So, we do not expect to put any cash into Sadara. So, that is a $350 million tailwind year on year.
+
+Operator
+
+And next, we will move to Frank Mitsch with Fermium Research.
+
+Frank Mitsch -- Fermium Research -- Analyst
+
+Hey, good morning, and a nice end to the year folks. A very impressive operating rate, Jim, you mentioned for polyethylene on the U.S. Gulf Coast. I was wondering if you could talk at a higher level of what the operating rates for Dow were by the -- roughly what they were for the various segments, and what your expectations are as we head here into -- into the first quarter? And just in -- just overall, you know, you did mention some debottleneck.
+
+There were some start-ups. How do we think about the net capacity at Dow 2021 versus 2020?
+
+Jim Fitterling -- Chairman and Chief Executive Officer
+
+Yeah. Thanks, Frank, for the question. On average, for the whole company, we were above 80% operating rates for the fourth quarter and we continue that strength into the first quarter. We were at higher levels than that in our packaging and specialty plastics business.
+
+The crackers ran very strong, as I mentioned, on the Gulf Coast. But actually, we saw good performance around the globe, and it continues to tighten up. And -- and we -- you noticed that MEG prices are also starting to rise. So that's -- so that's really making things move there.
+
+We also saw a big step up in industrial solutions. So, they're running strong and we have got new capacity coming to support their growth this year. We had less performance in siloxanes, and that is the one that has the big upside which I talked about with Vincent's question in the second half. And then polyurethanes and construction chemicals got back to the 80-plus percent operating rate in the fourth quarter, and that continues into this year.
+
+So we still have an upside to deliver. We are going to continue to run the assets hard. We have been spending on reliability to make sure that we can deliver more out of those assets. Texas 9 has been a stellar asset in terms of its production.
+
+And we have done a lot of work on debottlenecking and reliability in some of the other spaces. So I think, we are in a good room for the rest of this year.
+
+Operator
+
+And next, we will move to John Roberts with UBS.
+
+John Roberts -- UBS -- Analyst
+
+Thanks and nice quarter, guys. We're -- we're reading a lot about how much shipping activities are challenging and freight costs are up a lot. How much is it contributing to the tight markets and higher pricing? And is it impacting more than just polyethylene?
+
+Jim Fitterling -- Chairman and Chief Executive Officer
+
+Yeah, right, we've seen some shipping rates on marine pack cargo, primarily due to the fact that you have got a container dislocation. China has had some pretty high export levels. And -- and so, some empty containers have been moving back to China. Mostly that is been reported in the ag sector, not so much in the plastic sector.
+
+And I think our supply chains are pretty well stocked in terms of containers but we keep a close eye on it. So, I don't -- I don't anticipate anything that is long-lasting. I think -- I think we will work through this. And they just assigned some of the supply chain imbalances.
+
+China came back fast from COVID, and we're coming back now. And so things -- things can, from time to time, get dislocated.
+
+Operator
+
+And we'll move on to Hassan Ahmed with Alembic Global.
+
+Hassan Ahmed -- Alembic Global -- Analyst
+
+Good morning, Jim. Jim, a question around 2021 outlook. Look, I mean, as I sort of heard all your comments about, you know, the different product chains. You know, I'm taking a look at the exit pricing sort of levels for be it ethylene, polyethylene, MDI, you know, as we exited 2020, significantly higher than 2020 levels, right? Average levels.
+
+And then, you know, it seems supply demand fundamentals, ethylene, polyethylene, MDI, should tighten up through the course of 2021. You were alluding to how the turnaround schedule for spring and summer for most of these products is -- is pretty heavy, right? And there seems to be a perception that in the back half of the year, as the vaccine rollout happens, you know, people hit the streets more and the like, oil prices go up higher. So I mean, you know, as I sort of piece together all these things, it seems 2021 earnings could be significantly higher than 2020. I mean, am I missing something here? I mean what's, you now, is -- is there a fly in the ointment?
+
+Jim Fitterling -- Chairman and Chief Executive Officer
+
+Thank you for the question, Hassan. I think you are on the right path. We not only beat in the fourth quarter, but we guided higher. I want Howard to walk you through the first-quarter guidance, and I think that is instructive to the way you are looking at the year.
+
+Howard Ungerleider -- President and Chief Financial Officer.
+
+Yeah, Hassan. I mean, we -- we think about it in a very similar way as you. But I mean, look, let's -- let's start one quarter at a time. So if you go from Q4 where we printed the 178 from an EBITDA perspective and you look at your comment about margins expanding, you look at polyethylene margins, isocyanate margins, MEG margins, I would bucket about $250 million of higher EBITDA sequentially between all three of those chains just because of your point about ending the year at higher margins and margins moving up.
+
+You know then, I would say you got -- you got to take two deducts. There is about $50 million of higher turnaround spending sequentially, really related to the Zhongjian plant in China in the siloxane plant that Jim talked about in the prepared comments. And then there was about $50 million of one-time items that we had in the fourth quarter that won't recur. A couple of land sales as well as an IPO that happened that we were able to monetize in or out of our venture capital.
+
+So you know, overall, earnings are going to be up sequentially and your point is right, they should be up year on year. I think the open question, and Jim, maybe give some comments on the back half of the year. But you know, all things right now are pointing up.
+
+Jim Fitterling -- Chairman and Chief Executive Officer
+
+Yeah, I think the first half looks solid. And I -- I believe that as we get more people vaccinated around the world, I think we are going to see more economies open up and -- and things get back to more normal types of activity.
+
+Operator
+
+And next, we will hear from Kevin McCarthy with Vertical Research Partners.
+
+Kevin McCarthy -- Vertical Research Partners -- Analyst
+
+Good morning. Question for Howard on cash flow prospects for 2021. Howard, I think you already spoke to the uplift related to Sadara as well as some maintenance activity considerations. Just wondering if you could step through other non-earnings related cash considerations, such as working capital, some of the digital investments you talked about, you know, any cash required for restructuring, or other considerations that would, you know, help you or be a headwind on the cash generation front, you know, versus the impressive conversion numbers you posted for this year?
+
+Howard Ungerleider -- President and Chief Financial Officer.
+
+Yeah. I mean, look, I would point you to the full-year 2021 modeling guidance slide but just a couple of the high points. So, capex is going to be $350 million higher. Mandatory pension will be flat.
+
+You know, the restructuring program will be about a $350 million cash outflow, but we won't have any outflow. We finished the DowDuPont separation. So that -- those basically offset each other. On the digital side, we will spend about $150 million, but Sadara will be a $350 million tailwind as I talked about.
+
+The dividends from our -- from our JV companies will be down about $200 million just because we get those dividends from, you know, in about a year in arrears. So with earnings down in 2020, we will see dividends down in 2021 but that should reverse in 2022. And then I would say, you know, look, we had a number of non-operating cash flows in 2020, and we're probably not going to be able to deliver the same number because that was a big number. We delivered $5 million of -- of free cash flow out of this machine which was the best performance since 2013 on an apples-to-apples basis, as best you can construct it, but we will have additional tailwinds.
+
+So, we are working on additional structural improvements in working capital. You know, in the fourth quarter, you saw some of that shine through. We had working capital be a source of cash even though sales were up, which is hard to do. So, we will look to get another $250 million or $300 million of structural improvement in working capital.
+
+We still have the top-up payment from the second Nova litigation. That is still going through the court. So we will see if that is a 2021 event but that should still be several hundred million dollars. And then, you know, we are still working on best owner lens that doesn't sail.
+
+So, I don't have a number for you but if we are able to deliver on those projects, that should also be several hundred million dollars, probably in the back half of the year.
+
+Operator
+
+And we will move on to John McNulty with BMO Capital Markets.
+
+John McNulty -- BMO Capital Markets -- Analyst
+
+Yeah. Thanks for taking my questions. So I guess to that, the cash flows are coming in, you know, certainly stronger-than-expected and at really high levels, and the balance sheet has really been cleaned up. You've been doing this best owner approach and have sold off some assets.
+
+Looking at it from a slightly different angle, are there assets out there where Dow should be viewed as kind of the best owner? And should we think about M&A as an opportunity for you as we look forward or is the cash flow that you generate really just going to be going down to paying down debt and -- and whatever is leftover taking -- taking down the share count? How should we be thinking about that?
+
+Jim Fitterling -- Chairman and Chief Executive Officer
+
+Good morning, John. Let's walk through capital allocation priorities real quickly. Still, first and foremost, is safely and reliably operate the plants. That costs us about $1 billion a year.
+
+Continues to support that dividend, that's about $2 billion to $2.1 billion a year. We've got some further incremental deleveraging that we need to do in 2021, keep us on a trajectory with what we have committed to the rating agencies. We have got additional priorities to make sure that we are ready for the -- the, I think, the pent-up demand that is coming as we reach these vaccination rates. So we have bumped up incremental growth capex and as Howard said, we will have some cash to buy back shares toward the end of the year to cover dilution.
+
+Although if you look at our share count, we have been very steady since the spin. And now on top of that, to your point, most of the divestitures and the cash generation have been taking assets that are nonrevenue generating, where there are infrastructure companies out there today that value those and can use those as a growth platform and -- and liberating those from our balance sheet, we will continue to do that. On the other side, we will look at bolt-on M&A. We have talked about that being, you know, not in the billions but smaller.
+
+And -- and that's where we can bring in a technology or a gap in our platform and take advantage of our global footprint to really rapidly grow that as well as get that into our machine and get some economies of scale out of it. So those are some of the things we are looking at, and there are areas that are driven by the market trends that we are seeing on building and construction, mobility space, 5G, you know, these are some of the areas where we want to continue to try to build in the areas of adhesives, sealants, coatings types applications.
+
+Operator
+
+And our next question, we will hear from Chris Parkinson with Credit Suisse.
+
+Chris Parkinson -- Credit Suisse -- Analyst
+
+Great, thank you. On the PE front, obviously, throughout 2020, there is a lot of volatility in feedstock throughout the cost curve. When we look at -- when we look ahead and for normalized P&SP EBITDA, just how is your team overall thinking about the slope of the cost curve as we head into 2022 and 2023? And what are the key considerations they are monitoring? Thank you.
+
+Jim Fitterling -- Chairman and Chief Executive Officer
+
+Right. I -- I think we get back primarily to feedstock and -- and what is going to happen with feedstock volatility. And, of course, we saw such huge volatility in oil last year. Most of our feedstock is natural gas liquids.
+
+And gas production has been very resilient. And I think gas production is going to continue to be strong next year. You know, we didn't see much of a decrease last year, maybe 10%, and we are already getting back to the levels that we had prior to the COVID pandemic. The other thing that people aren't forecasting in some of the natural gas outlooks is the fact that there are so many drilled and uncompleted wells out there, and companies are moving up the learning curve on being able to get those wells completed.
+
+And so I think that is going to bring back a lot of supply in the back half of the year. Even with that ethylene tightness I talked about, even with propane going up because of wintertime, and even with naphtha going up because you didn't have as much refining capacity, the reality was ethane was still in supply, even at 75%, one million Btu crack spread. And I think it is going to continue to stay that way, that natural gas production is going to bring back more ethane to get split out here. So, I feel good about our position.
+
+We have the capability to capture that better than anybody in the industry. And I think, we are in for a year ahead where our view, natural gas is kind of range bound, and $3 -- $3 a million Btu is probably the high end.
+
+Operator
+
+And next, we will hear from Arun Viswanathan with RBC Capital Markets.
+
+Arun Viswanathan -- RBC Capital Markets -- Analyst
+
+Great. Thanks -- thanks for taking my question. Good morning, congratulations on the -- on the -- on the quarter and the year. I guess my question is back to the cash flow.
+
+So, it looks like you are guiding to about $250 million overall reductions from some of those bucket items, Howard. But EBITDA is likely to be up year on year in 2021, just given the absence of that weak Q2. So you know, you have cleaned up the balance sheet. You know, when we started this journey, I think you guys have laid out a plan to return about 65% of your free cash flow to shareholders.
+
+So, maybe you can just comment on what you think about free cash flow for '21, and why not allocate a little bit more to the capital return side, the buyback side, do you see free cash flow above that $5 billion, and again, you know, is there a preference maybe to increase toward buybacks? Thanks.
+
+Howard Ungerleider -- President and Chief Financial Officer.
+
+Yeah. I mean, Arun, good morning. What I would say is, look, our target, which has been our target since before spin is really a long-term rating agency adjusted net debt-to-EBITDA target of between 2.5 and 3. And so, you know, we're -- we're above that today by about 150 basis points.
+
+Really mainly because of the lower EBITDA as well as the lower interest rates which really drove, you know, another $1 billion increase on the -- on the pension side of the house. So we still have some work to do, and that is why we are going to do about $1 billion roughly of deleveraging. It is our target for 2021, on top of all the other things that I said. But you know, we -- we understand your point, and we agree with it.
+
+And certainly, as earnings continue to improve, we -- we will take another hard look at share buyback at a minimum to cover dilution. And then we'll see how the back half of the year goes. We will all see how some of those best owner projects that we are working on goes. And if we have excess cash, you know, we'll -- we'll be -- we'll use that excess cash aligned with Jim's capital allocation priorities that he -- that he walked through earlier.
+
+Operator
+
+And that will conclude today's question-and-answer session. At this time, I would like to turn the call back over to Colleen Kay for any additional or closing remarks.
+
+Colleen Kay -- Vice President of Investor Relations
+
+Thank you, everyone, for joining our call today. We appreciate your interest in Dow. For your reference, a copy of our transcript will be posted on Dow's website within 24 hours. This concludes our call.
+
+Have a great day.
+
+Operator
+
+[Operator signoff]
+
+Duration: 61 minutes
+
+Colleen Kay -- Vice President of Investor Relations
+
+Jim Fitterling -- Chairman and Chief Executive Officer
+
+Howard Ungerleider -- President and Chief Financial Officer.
+
+Robert Koort -- Goldman Sachs -- Analyst
+
+PJ Juvekar -- Citi -- Analyst
+
+Jeffrey Zekauskas -- J.P. Morgan -- Analyst
+
+David Begleiter -- Deutsche Bank -- Analyst
+
+Laurence Alexander -- Jefferies -- Analyst
+
+Vincent Andrews -- Morgan Stanley -- Analyst
+
+Jonas Oxgaard -- Sanford C. Bernstein -- Analyst
+
+Frank Mitsch -- Fermium Research -- Analyst
+
+John Roberts -- UBS -- Analyst
+
+Hassan Ahmed -- Alembic Global -- Analyst
+
+Kevin McCarthy -- Vertical Research Partners -- Analyst
+
+John McNulty -- BMO Capital Markets -- Analyst
+
+Chris Parkinson -- Credit Suisse -- Analyst
+
+Arun Viswanathan -- RBC Capital Markets -- Analyst
+
+More DOW analysis
+
+All earnings call transcripts
+
+This article is a transcript of this conference call produced for The Motley Fool. While we strive for our Foolish Best, there may be errors, omissions, or inaccuracies in this transcript. As with all our articles, The Motley Fool does not assume any responsibility for your use of this content, and we strongly encourage you to do your own research, including listening to the call yourself and reading the company's SEC filings. Please see our Terms and Conditions for additional details, including our Obligatory Capitalized Disclaimers of Liability.
+
+Motley Fool Transcribing has no position in any of the stocks mentioned. The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy.
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+
+Don't wait — this offer ends soon.

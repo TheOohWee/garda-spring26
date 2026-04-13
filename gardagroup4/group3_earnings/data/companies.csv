@@ -1,0 +1,16 @@
+symbol,name,region,sector,transcript_path
+NKE,NIKE Inc,North_America,Consumer_Discretionary,data/transcripts/NKE.txt
+ATAT,Atour Lifestyle Holdings ADR,Asia_Pacific,Consumer_Hotel,data/transcripts/ATAT.txt
+SBAC,SBA Communications Corp,North_America,Real_Estate_REIT,data/transcripts/SBAC.txt
+NCNO,nCino Inc,North_America,Financials_Fintech,data/transcripts/NCNO.txt
+VERI,Veritone Inc,North_America,Technology_AI,data/transcripts/VERI.txt
+XOS,Xos Inc,North_America,Industrials_EV,data/transcripts/XOS.txt
+BZ,Kanzhun Ltd ADR,Asia_Pacific,Technology_Recruitment,data/transcripts/BZ.txt
+BGS,B&G Foods Inc,North_America,Consumer_Staples,data/transcripts/BGS.txt
+GHI,Greystone Housing Impact Investors LP,North_America,Financials_Credit,data/transcripts/GHI.txt
+LEGN,Legend Biotech Corp ADR,Asia_Pacific,Healthcare,data/transcripts/LEGN.txt
+MIRM,Mirum Pharmaceuticals Inc,North_America,Healthcare,data/transcripts/MIRM.txt
+ACOG,Alpha Cognition Inc,North_America,Healthcare,data/transcripts/ACOG.txt
+JBS,JBS N.V.,Latin_America,Consumer_Staples,data/transcripts/JBS.txt
+RH,RH Restoration Hardware,North_America,Consumer_Discretionary,data/transcripts/RH.txt
+SU,Suncor Energy Inc,North_America,Energy,data/transcripts/SU.txt

@@ -1,0 +1,16 @@
+symbol,name,region,sector,word_count,theme_demand,theme_hiring,theme_pricing,theme_capex,theme_AI,theme_efficiency,earnings_composite
+NKE,NIKE Inc,North_America,Consumer_Discretionary,94,19.192,7.4569,12.5596,5.3191,7.6617,14.9021,11.1819
+ATAT,Atour Lifestyle Holdings ADR,Asia_Pacific,Consumer_Hotel,4237,1.1357,0.1903,1.8091,0.9811,0.0,0.821,0.8229
+SBAC,SBA Communications Corp,North_America,Real_Estate_REIT,6610,0.4487,0.0,0.1238,1.1622,0.396,0.0997,0.3717
+NCNO,nCino Inc,North_America,Financials_Fintech,10974,1.9648,0.1935,1.6159,0.3861,4.5107,0.5562,1.5379
+VERI,Veritone Inc,North_America,Technology_AI,101,27.7347,11.5366,13.2673,13.0515,49.7782,22.4317,22.9667
+XOS,Xos Inc,North_America,Industrials_EV,102,25.0199,4.902,25.0147,6.6725,7.0608,19.9093,14.7632
+BZ,Kanzhun Ltd ADR,Asia_Pacific,Technology_Recruitment,115,15.5139,19.7367,10.2426,6.0078,10.9461,21.8922,14.0566
+BGS,B&G Foods Inc,North_America,Consumer_Staples,92,19.3924,8.119,7.2826,7.3978,9.763,26.6829,13.1063
+GHI,Greystone Housing Impact Investors LP,North_America,Financials_Credit,6851,1.0358,0.0,1.5965,0.4571,0.0,0.0,0.5149
+LEGN,Legend Biotech Corp ADR,Asia_Pacific,Healthcare,7418,2.4486,0.0,0.1992,1.3431,0.0,0.5807,0.7619
+MIRM,Mirum Pharmaceuticals Inc,North_America,Healthcare,3918,3.2271,0.0,0.1885,0.0,0.0,0.0,0.5693
+ACOG,Alpha Cognition Inc,North_America,Healthcare,6115,4.7876,0.0,0.0,1.0151,0.0,0.0,0.9671
+JBS,JBS N.V.,Latin_America,Consumer_Staples,97,27.6459,15.4639,24.2057,6.4433,20.034,18.4598,18.7088
+RH,RH Restoration Hardware,North_America,Consumer_Discretionary,103,24.2961,3.7558,12.7981,6.7078,8.9524,8.9524,10.9104
+SU,Suncor Energy Inc,North_America,Energy,6608,0.4844,0.0,1.6634,0.7258,0.0,0.1355,0.5015

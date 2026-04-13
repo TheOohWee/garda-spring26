@@ -1,0 +1,363 @@
+Ticker: P&G (PG)
+Fiscal Year: FY2020
+Query Used: P&G (PG) FY20 earnings call transcript motley fool
+Source URL: https://www.fool.com/earnings/call-transcripts/2020/07/30/procter-gamble-co-pg-q4-2020-earnings-call-transcr.aspx
+Title: Procter & Gamble Co (PG) Q4 2020 Earnings Call Transcript
+Fetched At (UTC): 2026-04-13T00:32:45.155687+00:00
+
+PG earnings call for the period ending June 30, 2020.
+
+Image source: The Motley Fool.
+
+Procter & Gamble Co 
+(
+PG
+1.02%
+)
+
+Q4 2020 Earnings Call
+Jul 30, 2020, 8:30 a.m. ET
+
+Operator
+
+Good morning and welcome to Procter & Gamble's Quarter End Conference Call. Today's event is being recorded for replay.
+
+This discussion will include a number of forward-looking statements. If you will refer to P&G's most recent 10-K, 10-Q and 8 K reports. You will see a discussion of factors that could cause the company's actual results to differ materially from these projections. As required by Regulation-G, Procter & Gamble needs to make you aware that during the discussion, the Company will make a number of references to non-GAAP and other financial measures. Procter & Gamble believes these measures provide investors with useful perspective on underlying business trends and has posted on its Investor Relations website, www.pginvestor.com, a full reconciliation of non-GAAP financial measures.
+
+Now I will turn the call over to P&G's Vice Chairman, Chief Operating Officer and Chief Financial Officer, Jon Moeller.
+
+Jon R. Moeller -- Vice Chairman, Chief Operating Officer and Chief Financial Officer
+
+Good morning. David. Taylor, Chairman of the Board, President and Chief Executive Officer; and John Chevalier, Senior Vice President, Investor Relations join me this morning. We're back in our office in Cincinnati with our masks, appropriately distanced. We'd like to start by expressing our sincere hope that you and your families are also safe and are well. I'm going to provide an overview of company results, which continue to be strong. David will cast additional light on our immediate priorities and strategic focus areas. We will close with guidance for fiscal 2021, and of course take your questions.
+
+Fiscal 2020 was a very strong year. We grew markets and increased household penetration, driving top line growth, bottom line growth as well as market share, that's what we call balanced growth and value creation. Organic sales grew 6%. On a two year stock basis, organic sales growth has accelerated from 3% across fiscals '17 and '18%, to 6% across fiscals '18 and '19, to 11% over the last two years, indicating the underlying strength of our brands and the appropriateness of our strategy, which is driving our business. We built strong momentum in the year and a half leading up to the COVID crisis, with 6% organic sales growth in calendar year 2019, including 6% in the first half of fiscal 2020. We maintain the strong momentum in the second half of fiscal 2020, overcoming significant challenges, including the lockdown in China, closure of the travel retail, electro specialty beauty and away from home channels. Operational challenges, safely staffing our facilities and sourcing materials necessary to maintain and in some categories, significantly increased production, to serve heightened consumer cleaning health and hygiene needs.
+
+David talked at CAGNY four years ago about accelerating growth in our two largest and most profitable markets. Fiscal year 2020 U.S. organic sales grew 10%, including 5% growth in the first half of the fiscal. China grew 8%, including 13% organic growth in the first half of the year. Nine of 10 product categories grew organic sales. Home Care and Personal Healthcare up in the teens. Family Care up double digits. Fabric Care and Feminine Care up high singles. Hair Care, Skin and Personal Care and Oral Care up mid singles. Grooming up 1%, baby down 1%. 30 of our top 50 country category combinations held or grew share. eCommerce sales were up 40% for the year, up 30% in the first half and 50% in the second half. Now over $7 billion in sales, over 10% of the company total.
+
+Turning to earnings, core earnings per share were up 13%, currency-neutral core earnings per share up 17%. Within this, core gross margin expanded 170 basis points, up 190 basis points constant FX. Core operating margin grew 180 basis points, up 210 basis points, excluding currency impacts. Adjusted free cash flow productivity was 114%. We increased our dividend 6% and returned $15.2 billion of value to shareowners. $7.8 billion in dividends and $7.4 billion in share repurchase. Capping a strong year, a very strong April-June quarter. Organic sales up more than 6% on top of the base period, that was up 7%. Volume, pricing and mix each contributed to top line growth. Strong organic sales growth in our two largest markets up 19% in the U.S. and 14% in Greater China. Through our market share trends, with aggregate global value share up 50 basis points.
+
+At the bottom line, core earnings per share of $1.16, up 5% versus the prior year, up 11% on a currency neutral basis, including the seven point headwind from gains on land and small brand sales in the base period. Core gross margin up 210 basis points, up 250 ex-FX. Core operating margin up 140 basis points, up 190 ex-FX. Adjusted free cash flow productivity of 161%.
+
+Coming up, we delivered or overdelivered on each of our going-in targets for the year. Organic sales growth, core earnings-per-share growth, free cash flow productivity and cash return to shareowners. We've built strong momentum heading into the COVID crisis and arguably built this further during the challenging second half of the year. I know I speak for David and the rest of our leadership team when I say that credit for these results goes to our colleagues. The men and women of P&G who have demonstrated incredible creativity, agility and commitment to serving consumers and customers every day during these unprecedented times.
+
+We will continue to face significant challenges and perhaps a higher degree of uncertainty than any of us have ever faced. But we believe, that current consumer dynamics are integrated in mutually reinforcing strategies, and our focus on a few immediate priorities position us very well for the future. David?
+
+David S. Taylor -- Chairman of the Board, President and P&G Chief Executive Officer
+
+Thanks John. Good morning, everyone. I hope everyone is well. As we outlined last quarter, we've established three immediate priorities to guide our actions and our choices in this crisis period. Our first priority is to ensure the health and safety of the men and women we work with, our colleagues around the world. With guidance from medical professionals, we're constantly evaluating and updating the robust measures already in place to help our people who are making, packing and shipping P&G products stay safe at work. This has never been more important, as many of our facilities are running around the clock to deliver P&G products during this period of increased demand.
+
+This leads to the second priority, maximizing the availability of products to help people and their families with their cleaning, health and hygiene needs. P&G products play an essential role in helping consumers maintain proper hygiene, personal health and healthy home environments. These products are more important than ever, given the needs created by the current crisis. There is increased awareness of health and hygiene and additional time we're all spending at home.
+
+Third priority is supporting communities, relief agencies and people who are on the frontlines of this global pandemic. Millions of P&G products are being donated, helping to ensure families have basic access to everyday essentials many of us take for granted. We're providing significant financial support to numerous relief agencies around the world. We're producing hand sanitizer, face masks and face shields in P&G facilities for our internal use and also for donation to organizations in great need.
+
+Finally, we are using our marketing and communications expertise to encourage consumers to support public health measures to help flatten the curve and slow the spread of the virus. P&G is committed to the priorities of ensuring the health and safety of our employees, maximize availability of P&G products to serve consumers, and help society overcome the challenges in this period.
+
+Our integrated strategic choices remain the right ones. They serve each of our immediate priorities and build a foundation for balanced top and bottom line growth and long-term value creation. We're focused on portfolio of daily use products in categories where performance plays a significant role in brand choice. Within these categories, we've raised the bar on all aspects of superiority; product, package, consumer communication, retail execution and value.
+
+The most sustainable and profitable way to grow, is to create new business versus just taking or trading it. Superior offerings, science-based products delivered with superior packaging drive market growth, which in turn drives share, sales and profit growth. This creates a winning proposition for all concerned, pie expansion versus zero sum is the only growth our retailers care about. Growth that is incremental to the category. And if we lead category growth for superior offerings, we will mathematically build market share.
+
+We strive to communicate product and packaging benefits, with superior brand messaging. P&G was just named the number one brand marketer of the decade at the Cannes Lions festival of creativity in June. Not only has our advertising been creative, it has been increasingly effective at growing markets and building our business. I'm particularly proud of this, as it speaks to sustained excellence versus a few great ads. In addition to winning with consumers communication, we need superior retail execution. Online and in physical stores, that contributes to the growth of categories in our brands. Our superior performance in this area has been recognized in third party surveys of retailers and awards from top customers that we've been mentioned previously. Most recently, Target recognized P&G as supplier of the year across all our product categories in the store.
+
+We appreciate the recognitions we've received. What really matters is retailers improved view of P&G as a partner in joint value creation, helping retailers grow categories and create value on strong distribution, share shelf display and feature.
+
+The fifth vector, superiority is value for consumers and for customers. In performance driven categories, consumers often see the value in paying a modest premium for noticeably better product performance. We're strengthening our innovation across price tiers, with the aim of delivering superior value at each price tier where we compete.
+
+We've made investments to strengthen the long-term health and competitiveness of our brands, and we'll continue to invest to extend our margin of advantage and quality of execution, improving options for consumers around the world. The strategic need for this investment, the short-term need to manage through this crisis and ongoing need to drive balanced top and bottom line growth, including margin expansion, underscores the importance of productivity. We're driving cost savings and efficiency improvement in all facets of our business, delivering strong costs and cash productivity.
+
+Success in a highly competitive industry requires agility that comes with the mindset of constructive disruption, or willingness to change adapt and create new trends and technologies that will shape our industry for the future. And in this environment, agility and constructive disruption mindset are even more important, how can we be even safer, while both producing and helping more? What new needs must be met and in what new ways? We are fostering an ongoing mindset of constructive disruption in disruptive possibility. Our new organization structure, six industry based sector business units that manage our 10 product categories, with a differentiated approach in focus markets and enterprise markets, and very small corporate groups with best-in-class functional expertise, is also serving us well. A more empowered agile and accountable organization, with little overlap or redundancy flow into new demands, seamlessly supporting each other to deliver against our priorities around the world.
+
+These strategic choices we've made to focus and strengthen our portfolio in daily use categories where performance drives brand choice, to establish and expand the superiority of our brands; to make productivity as integral to our culture as innovation, to lead constructive disruption across the value chain, and to improve organizational focus, agility and accountability are not independent strategies, they reinforce and build on each other. When executed well, they grow markets, which in turn share sales and profit. As some examples; global home care improved this noticeable superiority from less than 60% in fiscal '18 to nearly 80% superiority this fiscal year. We invested in product performance, in packaging in each of the subcategories. Hand dish, auto dish, dish care and surface care, including launching our new micro-band 24 hour surface sanitization product in February. We step changed consumer communication, leveraging educational TV advertising, which delivered an immediate lift to the category in our brands by showing consumers more ways to use our products. We elevated in-store execution, with additional navigational and educational signage, to help the consumer choose the product that was right for them.
+
+These superiority investments have yielded strong results and most importantly, they have grown markets, both before and after the pandemic. P&G Home Care has driven over 60% of the global category of market growth and accelerated organic sales growth from low-single digits to double digits, increased profit, improved market share 1.5 points, and increased household penetration, all in the last two years. The business grew organic sales 7% in fiscal '19, 7% in the first half of fiscal '20 ahead of the crisis. We had great momentum that only accelerated in the second half of the year, with nearly 25% organic growth. [Indecipherable] Fem Care has been driving category growth through superior innovation and demand creation. Innovations focused on organics, overnight protection in teens. The Whisper brand has driven 25% of category growth, well above its 12% market share. The brand has grown market share over two points over the last three years and growing organic sales at an average rate in the high teens over this period.
+
+One more, P&G U.S. personal home care -- healthcare rather, has focused on improving the superiority across all five vectors, reaching over 80% superiority across the portfolio this year. P&G brands drove more than 25% of category growth this past year, roughly double their market share weight. Vicks, Metamucil, Pepto-Bismol, Prilosec, Align and ZzzQuil each grew share over the past three, six and 12-month periods with total U.S. P&G Personal Healthcare value share of a point or more over these time periods. U.S. personal Healthcare delivered its fourth consecutive year of organic sales growth, with high single-digit growth in fiscal '19 and double-digit growth in fiscal '20.
+
+When we think of our strategies, the success we've had behind them and an increased societal focus on health, hygiene and a clean home, all bode well for the future. The relevance of our categories and consumers lives has increased. There may be a long term, increased focus on home, more time at home, more meals at home, with related consumption impacts. The importance of noticeably superior performance potentially grows. Organizational agility, high employee engagement to meet the changing needs of consumers and retailers likely becomes more important. We believe P&G is well positioned to serve consumers' heightened needs and their changing behaviors. And to serve the changing needs of our retail and distributor partners, all of which are critical to long-term value creation.
+
+I will turn it back over to Jon to cover the outlook for fiscal 2021.
+
+Jon R. Moeller -- Vice Chairman, Chief Operating Officer and Chief Financial Officer
+
+To underscore David's comments, we like our long-term prospects, rooted in service of consumers with increasing needs. The near term though will be challenging, and is more difficult to predict. Our outlook starts with an assumption of how underlying consumer markets will develop. This by itself is highly uncertain. The reality is, that COVID cases are increasing in many parts of the world, without the resources or infrastructure to effectively manage it. We'll likely be operating without a vaccine or advanced therapeutics through fiscal '21. This could prompt tighter containment policies and dramatically reduce mobility, which would affect employment and overall incomes, potentially leading to a deeper and longer recession across large parts of the world.
+
+In the U.S., it's unclear how long we will be operating at double-digit unemployment levels and how long there will be mitigating economic stimulus available. There continues to be a social unrest and economic distress in many parts of the world, that affect the prospects for category growth. These same dynamics result in an increased cost to operate. There is also a risk of supply chain disruption of our operations or those of our suppliers, being shut down due to local mandates. Against this challenging backdrop, we're holding ourselves to an expectation of meaningful growth, top line and bottom line, and expect to be highly cash generative.
+
+We're targeting organic sales growth in the range of 2% to 4%. We expect to grow market share, in aggregate for the year and markets where growth could range from flat to around 3% value growth. We're targeting core earnings-per-share growth in 3% to 7% versus prior year core earnings per share of $5.12. The bottom line outlook reflects the full range of potential topline outcomes, it also incorporates $300 million after tax of foreign exchange headwinds, largely offset by $275 million after tax and commodity cost tailwinds. This outlook also includes a $150 million after-tax headwind, from the combination of higher interest expense and lower interest income.
+
+As you consider the quarterly cadence of the year, base period comps will play a significant role in top line trends. Organic sales growth should be stronger in the first half of the year, and moderate in the second half, as we annualize the recent acceleration in category growth. Bottom line growth should be somewhat stronger in the second half, due mainly to higher cost productivity as the year progresses.
+
+Fiscal 2021 will continue our long track record of significant cash generation and cash return to shareowners. We're targeting another year of 90% adjusted free cash flow productivity. We expect to pay approximately $8 billion in dividends and repurchase $6 billion to $8 billion of shares. This outlook is based on current market growth rate estimates, commodity prices and foreign exchange rates. Significant currency weakness, commodity cost increases, additional geopolitical disruptions, major production stoppages or additional store closures are not anticipated within this guidance range.
+
+And I'll hand it back quickly to David for closing comments.
+
+David S. Taylor -- Chairman of the Board, President and P&G Chief Executive Officer
+
+We delivered a very strong fiscal 2020, meeting or beating each of the key goals we set out at the start of the year, in a challenging and volatile market. We believe we have a bright future ahead. We have the right strategies of portfolio and daily use categories, where performance drives brand choice, superiority and products, packages consumer communication, retail execution and value, productivity in all areas of cost and cash, constructive disruption in all facets of the operation, and improved organizational focus, agility and accountability. We feel we have the right priorities to deal with immediate challenges the company is facing, ensuring the health -- employee health and safety, maximizing product availability, and helping society overcome the challenges of the crisis.
+
+We're stepping forward, not back. We're doubling down to serve consumers and communities. We're investing in the superiority of our brands and the capabilities of our organization. We're doing this in our interest, in society's interest, in the interest of our long-term shareowners, with an eye fixed on long-term balanced growth and value creation.
+
+With that, we would be happy to answer your questions.
+
+Operator
+
+[Operator Instructions]. Our first question comes from the line of Wendy Nicholson with Citi.
+
+Wendy Nicholson -- Citigroup -- Analyst
+
+Hi, good morning. Thank you. My question has to do with the enterprise markets, both from a short-term perspective, and I guess a longer term more strategic perspective. In the short term, are you seeing any of the challenges that the pandemic has sort of place in those markets? In particular, showing any signs of improvement, are the challenges alleviating? And then longer term, kind of given where things stand, are you thinking any differently about any of those markets? Are you deciding to -- sure the [Indecipherable] is maybe more negative than I mean. But change your investment philosophy with regard to any of those markets? Thanks.
+
+David S. Taylor -- Chairman of the Board, President and P&G Chief Executive Officer
+
+Wendy, I am going to make one comment, then I want to turn it to Jon, because he has direct responsibility for the enterprise markets. The comment I will make is, the organizational structure change we made has really helped us to deal with this recent pandemic. We grew in enterprise markets where they were facing just ranges of very big challenges. But if anything that's reinforced the strength of the organization of choice, and actually the possibilities we see for the future. I am going to turn it to John to talk to how we're dealing with it directly, but no, we haven't changed our long-term view on the attractiveness of the enterprise markets.
+
+Jon R. Moeller -- Vice Chairman, Chief Operating Officer and Chief Financial Officer
+
+And I'm going to take one step to the side and I will come hopefully back to the middle here. Remember that the whole -- from an organization structure context, one of the driving forces in the design, was to free up category leaders and sector CEOs to focus on the biggest opportunities, which were the focus markets where we generate 80% of our sales and 90% of our profit. And I, of course, don't want to assert direct causality, but there is nothing to indicate that it isn't exactly what's happening. So in the U.S. we grew, as we said earlier, 10% over the year and 19% in the last quarter. In China, we grew 8% over the year, 14% in the last quarter. Those are our two largest focus markets. So that part of the organization strategy is working well.
+
+We also wanted to move decision making in enterprise markets closer to consumers, competitors, customers, with the hope that we will continue to provide strong growth in those markets, both on a top and bottom line standpoint, and that continues to be the case. We grew despite all the difficulty over the last year, 3% organically on the top line. We grew 16% on the bottom line. We exited the year with only two of the enterprise markets, that's over 100 countries, losing money which is unprecedented for us, and we did that, we built profitability despite significant headwinds and while growing market share. In aggregate, the enterprise markets were up 0.2 points.
+
+But we're happy with all of that. Now to get back to the middle and answer to your questions more directly. Yes, we are facing challenges in enterprise markets as a result of the current, both health and economic crisis. And yes, that is affecting market sizes negatively, and no, that's not over and arguably continues to worsen.
+
+In terms of our long-term view on these markets, they are an incredibly important piece of the company. We generated in enterprise markets, I think we crossed $14 billion in sales this year, $1.6 billion in after-tax profit. So they are meaningful and can create value. We want to be more consistent in our efforts to do that. So we have made changes to our business models, to our cost structures, to ensure that as we grow in these markets, we can do that profitably. But we remain committed to success in these markets and highly confident we can deliver that.
+
+Operator
+
+The next question comes from the line of Kevin Grundy with Jefferies.
+
+Kevin Grundy -- Jefferies -- Analyst
+
+Hey, good morning everyone. Congratulations on a great year. Question for David, due to some organizational priorities and how these may have shifted as a result of the pandemic. So no shortage of discussion of course in the marketplace around accelerating channel shift online, more time spent working from home, which seems like it will be lasting, certainly to some degree, much bigger focus on health and wellness, broader emphasis on ESG, just to name a few. So could we discuss some of these bigger churns that we see more lasting versus those that are more transitory, and perhaps how your priorities and the organization's priorities may have shifted over the past six to 12 months, in light of these consumer shifts? Thanks.
+
+David S. Taylor -- Chairman of the Board, President and P&G Chief Executive Officer
+
+Certainly. All good questions. Many questions there. First the -- as I look at what's happened for the last couple of years. If anything, it's just reinforced the set of choices that we've made. What we are seeing and the pandemic has kind of accelerated is -- consumers that are right now moving more and more back to trusted brands. The pandemic is actually put many, many more people back in their homes. And if you think about health hygiene and cleaning categories and we've said it a lot, and sometimes I think people get tired of it, but it's categories, where performance drives brand choice really matters. And I think it matters, even more now. We were seeing that before the pandemic, as we grew very-very well in the first half of the year, 6% and we saw through the pandemic. But that focus on health hygiene and clean and having things that really matter. And one of the other points that I think of the strategy that's really working and it fits with what's going on right now, is because of the shift to eCommerce, there is tremendous pressure on retailers and frankly all participants on profitability. So if your strategy is one where innovation grows the category size, when you do that, you create the larger pie, which allows both the retailer to increase their profitability. The manufacturer, and it doesn't put the rest of the industry in a bad place, it's actually in a better place. So to me, I believe the strategy is actually moving us in the right place.
+
+You mentioned ESG. I think it's another area where P&G has particular strengths, well before it was in-vogue, P&G has always had a position of being a very strong corporate citizen. We have stood up in both social sustainability and environmental sustainability, with sustained efforts in those areas, its the way we operate, its consistent with our values. And so as there has been a greater focus on that, I think that as well matters; because consumers more and more, as well as all stakeholders want to know the values of the companies behind the brand, and I think that also plays well with the strategy.
+
+What I feel -- what I think is best about, is we have not had to make big shifts in our strategy as a result of what's happened, it has just reinforced the importance of it. And the final point I'd make, is the organizational changes that we made, which are putting more accountability closer to where consumers or customers are, in recognizing the inherent strength of our people and capability of the organization unleashing it, till we are showing sequentially stronger and stronger results and better and better activation of that strategy. And you saw going into the crisis, because the crisis accelerated trends that were happening and our people, stepped up magnificently well and beyond, trying to deliver the business. They initiated many of these projects too, can we make mask and donate them? Can we make hand sanitizers and donate some of those? Face shields we've never made, but a group -- two different groups decided they could repurpose some of our packaging equipment and turn that packaging equipment into something that could make face shields, and we shipped hundreds of thousands of face shields to the medical community. But it just shows you that we have engaged people that care about both the consumers and the communities, what they can do. So it's just accelerated the choices we've made, and Kevin, I think it put us in a very good position, coming out of the pandemic, because of the capabilities we've been developing.
+
+Operator
+
+Your next question will come from the line of Lauren Lieberman with Barclays.
+
+Lauren Lieberman -- Barclays -- Analyst
+
+Great. Thanks, good morning. One thing I wanted to ask about was the productivity, so beyond the 6% organic sales growth this quarter, the productivity was really remarkable, 440 basis points in total between cost of goods and SG&A, and that was on a very strong comparison, and on the -- more than double of run rate through the fiscal year to-date. So maybe anything about what has been done kind of differently? I know, productivity is typically strongest in the fourth quarter. But as you carry forward into '21 and beyond, are there things that you've been able to do differently, cost savings opportunities, productivity opportunities that kind of presented themselves, given the change in the environment, so we can be a bit informed about how to think about productivity going forward? Thanks.
+
+David S. Taylor -- Chairman of the Board, President and P&G Chief Executive Officer
+
+I'll make one comment. Again, I'll turn it to Jon on this one. We've talked a great deal about the fact that all buckets, all spend pools have been looked at and we've leveraged to meet both the digital ecosystem, as well as the capabilities of our organization to make substantive changes. And one of the best illustrations of that, is what happened when the pandemic hit, we started to see both attendance issues and supply challenges. We've learned time and time again, that when we ask groups of people to step up and address change, they can do it incredibly well. We've had plants that have operated at 90% of their effectiveness, with half the people in the short run, demonstrating their support there. But I'll turn it to Jon to give the specifics, but both the gross margin and operating margin to meet progress has been sustained over the last several years, and if you look forward, we see still tremendous amount in both media. We see with many of our non-consumer facing spending areas, as well as cost of goods. Jon?
+
+Jon R. Moeller -- Vice Chairman, Chief Operating Officer and Chief Financial Officer
+
+There is two comments. One, I'm glad you realized -- I know you always have, that the productivity savings do accrue more to the back half of the year than the front half of the year, because that's going to be important as you think about your quarterly cadence for estimates next year, because the same thing, the same pattern will hold true. We have learned a ton, as David was indicating, as a result of the experience we've been through the last four months. And one of the things I believe we've learned, is that there is even more opportunity than we thought. I'll just give you one simple and obvious example, travel and entertainment. We never really -- I don't think I could have imagined, that we'd be accomplishing all we are with effectively zero travel and entertainment. And that's not the right long-term answer, but the right long-term answer is not what we were doing previously. We've all become much more effective, working in very different ways with digital tools, as David indicated.
+
+I think the general comfort with digital tools that are available to us, makes it much more likely, that we will seek those tools out, in terms of improving our work efficiency and effectiveness across all of our activity systems. So there is -- David mentioned the manufacturing efficiency, which is clearly an opportunity as well. So we continue to be committed to productivity as a fundamental foundation stone and our strategy, it enables the investment and superiority, which grows markets and then flows through the income statement.
+
+Operator
+
+Next question will come from the line of Steve Powers with Deutsche Bank.
+
+Steve Powers -- Deutsche Bank -- Analyst
+
+Hey guys, good morning. So we've heard a lot of CPG companies, particularly across food and beverages, that I think across the board take this moment to more aggressively simplify based level assortments to maximize near term availability and maximize turns. I guess, can you talk about what steps you've taken to do likewise? And also, at what pace expect there to be layering in a bit more variation? I assume, hopefully you catch up, as supply constraints then start to normalize. And I guess the real question is, when you do start to layer in more variation, would you expect that to take more the form of you bringing back some of the things that you most recently cut out? Or is this an opportunity to redirect innovation of branding new sources, the new directions to best drive market growth in the future?
+
+David S. Taylor -- Chairman of the Board, President and P&G Chief Executive Officer
+
+Again, several questions. First, when the pandemic hit, yes, in some categories, we went to more simplified SKU lineups in order to maximize the capacity of the high turn items and I'm sure we and many others did that. And we learned through that as well. In some cases, there were some smaller volume SKUs that are -- meet special consumer needs and they will come back. There is also some opportunities for some continued SKU rationalization to better serve consumers to meet the retailers needs. So both of those are happening. It's very category specific on what we're doing. But I will tell you in general, there is a sharper look at, can we have a more focused portfolio with really differentiated products. So I think, yes, that will continue.
+
+The change in manufacturing to me, in order to adjust the agility needed. I think, is one of the other things that's really been an area that we were working before, but coming into the crisis and then through it, looking at business continuity plans, the total supply system, looking at the appropriate number of suppliers, in order to ensure you have the agility to react to the instantaneous capacity swings that we're seeing, I think there has all been learning in those areas. I expect on other side of this, again varying by category, but there will be some streamlining, in order to meet the needs, and in some of the categories, because there will be a sustained increase in consumption, we are looking at what we need to do, to ensure we have the right capacity to meet those needs, because I think a lot of the spike that we've seen is not going to go away in some of these categories. Consumers are developing new habits, and I think many of us believe that will last well beyond the pandemic.
+
+Operator
+
+Next question comes from the line of Dara Mohsenian with Morgan Stanley.
+
+Dara Mohsenian -- Morgan Stanley -- Analyst
+
+Thanks and hope all is well with you guys. Another quarter with very strong market share momentum, can you discuss what you're seeing in terms of competitive response from key competitors on either the ad spend from a promotion front, more toward the end of fiscal Q4, or so far in July and how do you ensure that P&G's market share momentum continues going forward, if you do experience greater competitive intensity as competitors are not going to sit still here with sharing office. And also Jon, you touched on, thoughts on consumer trade down and private label, sheer pressure potentially in this macro environment a few months ago on the Q3 call, maybe just give us an update on where we stand today versus your viewpoint a few months back? Thanks.
+
+David S. Taylor -- Chairman of the Board, President and P&G Chief Executive Officer
+
+First on the market trends, our market share, global market shares actually strengthened through the year. We were up 0.3 for the total year, 0.4 for six months, 0.5 for the past three. In terms of the last quarter and in terms of promotion intensity activity. As you would imagine, in categories where there were supply constraints, you'd see less promotion, as everybody focuses on meeting the basic supply needs of the customers and the consumers. And on the categories of Tissue Towel, which is our Family Care, Home Care, with the dish, surface and air, that's largely continued into this fiscal year, as the demand hasn't ceased and if you take the US as our largest market, one to focus on, is you know when you watch the daily news and you hear the daily news, there's just a lot of debate on how much it will open up or even stop or even go back. So I think the focus on home -- personal care, cleaning and hygiene is likely to sustain itself and so I don't expect in the short run, dramatic changes in the promotion environment. Although, again it's very category specific in many cases, very country specific.
+
+We've chosen to stay extraordinarily focused on the strategy, which is focused on investing in the superiority across the five elements we've talked, and through this last couple of years, that's consistently worked in both high promotion environments, which we see in some countries and categories and in this last three to four months when there was lower promotion because of supply constraints. And as I think about next year, there will be -- I'm sure, competitors will come in and will have innovation and there'll be changes in the promotion strategy. But we try not to get distracted from the strategy that's working, and again across the balance of countries and categories, that continues to work and I think will. Jon?
+
+Jon R. Moeller -- Vice Chairman, Chief Operating Officer and Chief Financial Officer
+
+On consumer trade down, as we've talked before, we're not immune to that and that could become an increasing dynamic going forward, to the extent unemployment grows and stimulus and support shrinks. As we've also talked, we're in a much better position to deal with that, than we have been historically. And I think the environment actually helps us as well. So let me quickly unpack that. We have focused our portfolio, as we've talked several times already in this call, in categories where performance drives brand choice. By definition then, a portion of the value equation is performance, and to the extent that we have an advantage in performance that's noticeably -- is noticeable and obvious, that, along with a fair price, albeit a small premium, is viewed as offering value. And we have much higher percentage of our portfolio that's well positioned in that context, than as we headed into the last recession.
+
+And the needs for performance; so the degree to which performance affects the consumers personal value equation vis-a-vis price, is higher than it has ever been, which also works in our favor. To-date -- this can change obviously. But to-date, if you look at private label market shares as one proxy of trade down we're not seeing it. Private label shares in aggregate across our categories in the U.S. were down 40 basis points. The last three months, they were essentially flat in Europe.
+
+Last point, we have significantly built out, not always perfectly, but we've built out our pricing ladders. We didn't have items like Tide Simply, available for consumers in the last recession and we have many more of those currently. So again, we're not immune. It's real. The best way to attack it is with performance noticeable -- mostly superior performance at a fair value, to have the right pack sizes available for consumers who are limited in terms of the cash outlay and double down on the strategy that's working versus stepping back.
+
+Operator
+
+Next question comes from the line of Nik Modi with RBC.
+
+Nik Modi -- RBC -- Analyst
+
+Good morning, everyone. Jon, I was hoping you can just give us some more context on guidance for next year on the top line, and just from a geographic perspective, just so we can understand kind of how you're thinking about the enterprise markets versus some of the focus markets and then thinking about developed Europe, that would be super helpful?
+
+Jon R. Moeller -- Vice Chairman, Chief Operating Officer and Chief Financial Officer
+
+The first piece of context I'd provide on the top line guidance for next year, because I mentioned in our prepared remarks, it's all based on what we're expecting on market growth and then we would expect to grow slightly ahead of that and continue building share. And as I mentioned, we see markets growing modestly, probably 1% to 3% and so the 2% to 4% range is consistent with building share in that environment.
+
+If we look at our own forecast Nik, for top line growth and enterprise versus the balance of the market, they're both within that range. So we're going to continue to expect not only total company growth, but focus and enterprise market growth on both the top and bottom line. Clearly in the current context, so let's just use that as a proxy for the future, we're seeing very strong growth in the U.S. and China as we've talked. If you look at the quarter, growth in Europe was much more modest, but that has picked up recently. And clearly, while we expect growth from the enterprise markets, they are currently the most challenged, just in terms of the operating environment and the economic -- both economic and health pressures that families are feeling.
+
+Operator
+
+Next question comes from the line of Olivia Tong with Bank of America.
+
+Olivia Tong -- Bank of America -- Analyst
+
+Thanks. Good morning. You guys are clearly demonstrating better execution, obviously amid your competition. So just a few questions about how you think about continuing to drive that growth. There is more that come from continuing to grow in the areas that have been disproportionately grown already, or is it more turning around underperformers or do you expect, so on the baby care what -- can you talk about what you're doing there to turn around that performance. In PD, if you could talk about the innovation pipeline, since obviously [Indecipherable] is going to be a bit challenging in the near term? And then how much of this -- you obviously talked about private label coming down, so how much of it is coming from established players versus the long tail of sort of newish brands potentially fading away?. Thank you.
+
+David S. Taylor -- Chairman of the Board, President and P&G Chief Executive Officer
+
+Olivia, first, just the last thing you said, whereas most of the coming from the established brands are long tailed. Our core is growing very well. Fabric Care is growing. Fabric Tissue Towel, Home Care, Healthcare all growing very well. Our beauty business grew very well last year. Skin care, personal care, APDO, and [Indecipherable] deodorant, all that grew well. So the core grew well and again, its central to the strategy and it's obviously the biggest part of the business, and the two biggest markets grew, our U.S. and in China.
+
+If I look forward, in order for us to be a dependable long term grower, we have to grow the core and the strategy is focused on making sure the core is healthy, and the core has to continue to extend to address new benefits that are relevant in those categories, and there's many-many examples we've given in the past of that, and certainly we get more there. The homecare example that you see out with Microban and many of the other things that occurred on the Mr. Clean brand and Febreze brand at the time. We also believe in RC and certainly some of the additional investments we've made in our P&L both, the internally developed innovation, as well as some of the acquired innovation, our track record is getting increasingly better on those as well. And this year, we have certainly some things coming out of our P&G venture. But that's a small portion of the total company. But what it does speak to, is innovation is driven core, core and more, and then in new benefit spaces, new jobs that we can do, to me, it speaks to just the whole innovation process is working in the company. But I fully expect for the year that we're going into right now, and the next several years, the core will be the biggest driver of that.
+
+And there is still significant opportunities. So what I wouldn't think is, we are in mature categories. Four years ago, people said, we are in mature categories, and now you see big established businesses and take Fabric and Home Care, that has moved from low-single digits to mid-single digits to high-single digits in many-many countries. And if you get down to the next level and look at household penetration by item, and what you see is many of them are in the 10% to 30% range -- 10% to 30%, which means majority of consumers haven't used the product in the last year and haven't experienced the new benefit of the improved performance that we've built. And we've gone back to rediscover the opportunity to build household penetration, new users grow the market size, leverage superiority to bring new users in, and then leverage additional benefits to trade people up to higher order performance. That's happened across the 10 core categories. And then, when you do it well, you grow share and probably the best example I gave earlier was in Personal Healthcare, where virtually every brand we have shared over three, six and 12 months. And it's because of new innovation that they bought to the market, that's. delighting the consumers.
+
+So core, core and more, and then our venture opportunity, is now producing new brands, with Zevo and Opte coming out this year.
+
+Operator
+
+Next question comes from the line of Rob Ottenstein with Evercore.
+
+Robert Ottenstein -- Evercore -- Analyst
+
+Great, thank you very much. If I could drill down on the U.S. e-commerce business, and if you could address three aspects; one, can you give a rough sense of the kind of growth and growth momentum in the business, kind of March to June, what percent of sales and how sticky this is looking at? And then, in response to that, what are the sort of changes that you are doing organizationally, either with the salesforce or the supply chain to meet the increased demand for eCommerce as a channel? And then finally, how do you assess your competitive advantage in eCommerce versus brick and mortar? Thank you.
+
+David S. Taylor -- Chairman of the Board, President and P&G Chief Executive Officer
+
+We'll take a cut on some of those. I'm not sure I have all the specifics. Although, some of those, we can certainly get you afterwards. The eCommerce business has been growing for now, several years in the 30% to 40% range. As you know, we are most developed in China. The U.S. is also growing extremely fast and we expect it to continue. We've adjusted and again it fits with the strategy. We've adjusted our supply chain, including our packaging capability to be able to meet the needs of eCommerce -- consumers and eCommerce aggregators that had different needs because of the -- instead of shipping in a case and a pilot load to a store, it's each going through a different path to the consumer, and that's worked well.
+
+One of the things we've worked very hard on and is present today, is we want eCommerce shares growing in absolute and we want eCommerce shares to be equal or higher than the offline shares, and we're working to have the same in profitability, and we've made very good progress on both of those as well, in the U.S. and China and in Europe, and that will continue to be a priority. We want to be agnostic to whether the consumers buy the product. In the most recent period, the U.S. eCommerce business that was up 50% in fiscal '20, we all know there is a spike driven by COVID, how much of that will sustain, we'll see, but I think many are developing new habits. So I think we are prepared for that to continue to grow at that pace and meet the consumers' needs and redevelop.
+
+The last point I'd make, additional capability because we've worked with many of the eCommerce companies in bricks and mortar to omni providers, to ensure that we minimize the cost from when we make it to when the consumer gets it working with them to reduce the transportation or last mile. All of those are active strategies we can -- other than the 50% U.S., if there is more specifics that you need, I'll ask John Chevalier to follow up with you after this meeting, to get into any more specifics by quarter.
+
+Jon R. Moeller -- Vice Chairman, Chief Operating Officer and Chief Financial Officer
+
+I think, Robert. We are -- to your question of, are we relatively advantaged within that broadly defined channel, including omni commerce and brick and click etc. I continue to believe we are. That's no reason to rest. But as you and I have talked before, it is in reality, a limited assortment environment from a practical shopping standpoint. And as a result of that, the barriers to entry are very-very high. The need to be on the first and second page of the search, preferences large established superior brands, which we have. Again no guarantee of the future and no reason to rest. But we embrace the evolution of markets toward eCommerce.
+
+Operator
+
+Your next question comes from the line of Jason English with Goldman Sachs.
+
+Cody Ross -- Goldman Sachs -- Analyst
+
+Hey, good morning everyone. Its actually Cody on for Jason this morning. Thank you for taking our questions. I just want to hit the Home Care section a little bit. You guys cited 30% growth this quarter. How does the supply/demand balance look right now across the industry? And from a supply point of view, are you guys investing in more capacity right now? And how much capacity have you seen come on already, or do you expect to come on as competitors invest in more capacity? Thank you.
+
+David S. Taylor -- Chairman of the Board, President and P&G Chief Executive Officer
+
+Okay. Cody. Let me take a couple of those and some of the data, certainly don't know what's happening with competitors on capacity. Home Care had an outstanding year. Again Home Care in our world, is dish care, surface care and hair care, so those categories and those brands globally. The category grew about 16% this year. Our results -- we grew ahead of the category and grew share.
+
+In terms of capacity, there are areas like our Microban launch that went out in February, that we are capacity constrained now, because we launched right as it was hitting, unbeknownst to us and the demand spike today, the run rate is now in the couple of hundred million dollars range, which is more than we expected at the time we launched, we expect more of a -- more typical build. Having -- although we knew it was a very attractive product, because of the sustained surface benefit, surface kill benefits it offered. In areas like Swiffer in hand dish, we're also working very hard to make sure we get inventories back up with the demand spike. You can imagine with people now fixing more meals at home, our Dawn and around the World Fairy, and our Automatic Dish, which should be cascading around the World Fairy, both of those have spiked. And we've seen the Home Care category, if I take the U.S., sometimes the category size over many of these weeks has been in the $130 million to $140 million range.
+
+We've been able to meet most of that need. There are again some specific items, where we're working very hard to increase the capacity and that will be coming on and kind of furthering [Phonetic] over the next couple of quarters, but we continue to ship very-very well and we're getting back, both shelves and eventually the customer inventory and our employees back in line, but we're not there yet, as we closed the fiscal year and certainly into July. As I've -- through this July, we have not seen that demand slow down very much yet in the Home Care area, which really bodes well for the year.
+
+Operator
+
+Next question comes from the line of Mark Astrachan with Stifel.
+
+Mark Astrachan -- Stifel -- Analyst
+
+Yeah. Thanks and good morning everybody. So wanted to touch on some of the changing consumer preference commentary and talk about SK-II in particular, and can I ask whether you still think it makes sense to own a brand with as much volatility as it has, because its relative to the base portfolio? These days obviously it's had a lot of contribution to growth in recent years. I guess maybe you reassess kind of broadly, can you kind of comment a bit about that specifically in terms of how you're thinking about the portfolio today? That'd be great, Thank you.
+
+David S. Taylor -- Chairman of the Board, President and P&G Chief Executive Officer
+
+The first question, how do we feel about SK-II? Very committed and thrilled that we have it. There was certainly a bump in the last four months that hit us hard, with mainly travel retail business. But if you look even at the last few months in China growing very nicely now, and as we go into the year, we continue to be optimistic about the brand. Consumers love the brand and we have brands focused on meeting consumer needs and SK-II does a great job. It has had several years of sustained top and bottom line growth and frankly, I'm not disclosed [Phonetic] at all by a four or five month dip, because largely the travel retail business got impacted in the markets that it competes with the consumers and where it is present, it continues to do well, and it's already starting to rebound. So now we're very committed to SK-II, and if I step back at the global skin and personal care business, which includes again, the Personal Care, APDO, Skin Care and Prestige Skin, that whole category even with what happened to SK-II, grew nicely last year in the upper mid-single digits, indicating that the broad portfolio can weather a hit like that, and it's consistently -- the global beauty has consistently been performing well for the last couple of years. and to me they are optimistic again that -- the business that was travel retail, will find itself somewhere else, with consumers looking for the brand to go, where they can find it, and we've seen that more recently with the rebound in China with SK-II.
+
+Operator
+
+Your next question comes from the line of Bill Chappell with SunTrust.
+
+Bill Chappell -- SunTrust -- Analyst
+
+Thanks. Good morning. Can you talk about kind of your outlook over the next year for the grooming category, especially kind of worldwide, I mean, how it plays out? And you have, obviously corona beards in the U.S., so nice to read that mullets are coming back in Australia over the weekend. And so, anything you see there that kind of how -- as we come out of this or is the category permanently impaired, or do you see it slowly get growth as we move into calendar '21? Any thoughts would be great.
+
+David S. Taylor -- Chairman of the Board, President and P&G Chief Executive Officer
+
+Sure. While we've seen a hit in the COVID period, grooming up through January was actually making very good progress, and even with the COVID hit and people at home and less shaving, because of people not going outside or men not going outside, it's still grew this last year. And if I take up through January, the first seven months of the year, it was growing faster. It was the fastest growth we've seen in several years. We've actually seen an increase this year in new users. We've got the fastest new user growth we've seen in many years, which means people are coming in.
+
+What we have done, though, and this is important, we have a -- certainly the male blades and razors is the biggest part of the business. But we have male and female. We have the full ladder, including disposables, which has again, grown. And now we've gotten a very fast growing appliance business, called Braun, which is growing share and is growing double-digit right now, as people have moved to a dry form in some places. And then we've launched a King C. Gillette initiative to address men with hair. So the shave category is really now embraced, the category is grooming and is taking care of people with hair, without facial hair, men-women, all price points. And is it does that, to me it's right now creating a strategy that allowed us to grow in most environments and I believe we will see, as people go back to work in offices and outside the home, we'll see a pickup in the wet shave rate. In the meantime, we'll continue to see very robust growth in dry shave, very robust growth in this King C. Gillette new brand, that addresses many of the tools needed for people with facial hair for grooming -- facial hair.
+
+So it's also a highly profitable business that continues to -- that we're very committed to long-term.
+
+Jon R. Moeller -- Vice Chairman, Chief Operating Officer and Chief Financial Officer
+
+I will give one other comment, we grew double digits in China this last year, which is another indication that as the economy came back, and while it's not post COVID, China has returned more -- to a more normal operating environment than most countries and grooming is going double digit in that country, which again tells me that the broader portfolio can and will grow in the future, increase value for the company.
+
+Operator
+
+And your final question will come from the line of Andrea Teixeira with JP Morgan.
+
+Andrea Teixeira -- JP Morgan -- Analyst
+
+Thank you for squeezing me and I'm glad to hear you are well, and congrats on the results. If you can give us the cadence of the fourth quarter exit rate or July, to-date? From your guidance it seems that business is going to restart in the U.S., but can you help us think about the assumptions for your sales curve, including a potential more mild good season ahead or just the market share momentum you spoke throughout this call, should offset the shifting, I guess, consumption dynamics? Thank you.
+
+Jon R. Moeller -- Vice Chairman, Chief Operating Officer and Chief Financial Officer
+
+Andrea, as you can probably appreciate the monthly cadence, if you will, is very different by category and by market. And it has been very volatile. Recently it's hard to make coherent sense out of it. But the overall thought that I would give you is that it has remained strong throughout. July has remained strong, but we also have to remember that all of that happened -- for instance, in the U.S. context, with significant financial stimulus. And we don't know, as we sit here today, what the future of that is going to look like, and whether it will exist. And that's just one example of the pretty dramatic unknowns that make it difficult for me to say, because July started off well, we should assume the first quarter is going to be strong. I can't say that.
+
+David S. Taylor -- Chairman of the Board, President and P&G Chief Executive Officer
+
+The one other build I'd just offer is, to a large degree, it depends on what you believe the markets in broad will grow. I think Jon's earlier statement and certainly our view is, we will grow ahead of the market and our innovation will be similar to market growth, but there are macro factors that are big enough, whether it's the recession, the COVID impact, disruptions to supply chain. They're very hard to predict. We ended the quarter with good momentum, and certainly as we go into the quarter, good momentum. The Health, Hygiene and Cleaning categories we think will be focus categories for consumers. And as your guess is as good as ours, when people will in increasing numbers, return back to offices and be working outside the home at this point in time right now, it looks like in the U.S. that's slowing down, but it varies all over the world.
+
+In aggregate, we think we're well positioned for whatever comes at us to do that and what the market will give, and we will work very hard to make sure that we continue to be good contributors to our consumers, our customers and to the communities in which we operate.
+
+Thank you and thank you all.
+
+Jon R. Moeller -- Vice Chairman, Chief Operating Officer and Chief Financial Officer
+
+Thanks everybody. John and Kerry and myself will be available the balance of the day/ We're at our normal work numbers. Feel free to contact us. I know it's a busy day for many of you. We will also be here tomorrow. Thanks.
+
+Operator
+
+[Operator Closing Remarks].
+
+Duration: 67 minutes
+
+Jon R. Moeller -- Vice Chairman, Chief Operating Officer and Chief Financial Officer
+
+David S. Taylor -- Chairman of the Board, President and P&G Chief Executive Officer
+
+Wendy Nicholson -- Citigroup -- Analyst
+
+Kevin Grundy -- Jefferies -- Analyst
+
+Lauren Lieberman -- Barclays -- Analyst
+
+Steve Powers -- Deutsche Bank -- Analyst
+
+Dara Mohsenian -- Morgan Stanley -- Analyst
+
+Nik Modi -- RBC -- Analyst
+
+Olivia Tong -- Bank of America -- Analyst
+
+Robert Ottenstein -- Evercore -- Analyst
+
+Cody Ross -- Goldman Sachs -- Analyst
+
+Mark Astrachan -- Stifel -- Analyst
+
+Bill Chappell -- SunTrust -- Analyst
+
+Andrea Teixeira -- JP Morgan -- Analyst
+
+More PG analysis
+
+All earnings call transcripts
+
+This article is a transcript of this conference call produced for The Motley Fool. While we strive for our Foolish Best, there may be errors, omissions, or inaccuracies in this transcript. As with all our articles, The Motley Fool does not assume any responsibility for your use of this content, and we strongly encourage you to do your own research, including listening to the call yourself and reading the company's SEC filings. Please see our Terms and Conditions for additional details, including our Obligatory Capitalized Disclaimers of Liability.
+
+Motley Fool Transcribers has no position in any of the stocks mentioned. The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy.
+
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+
+Our experts' top-rated cash back card just got even better. For a limited time, earn a $250 bonus after spending just $500 in the first 3 months. Plus, earn unlimited cash back and pay 0% intro APR until well into 2027.
+
+Don't wait — this offer ends soon.

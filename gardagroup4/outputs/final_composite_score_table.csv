@@ -1,0 +1,6 @@
+Region,Macro_Score,Policy_Score,Earnings_Score,AI_Score,Macro_Score_Scaled,Macro_Score_Present,Macro_Score_Contribution,Policy_Score_Scaled,Policy_Score_Present,Policy_Score_Contribution,Earnings_Score_Scaled,Earnings_Score_Present,Earnings_Score_Contribution,AI_Score_Scaled,AI_Score_Present,AI_Score_Contribution,Coverage,Composite_Score_Adjusted,Rank,Trade_Action,Regime
+LatAm,,,18.7088,13.3091,0.5,0,0.15,0.5,0,0.15,1.0,1,0.2,1.0,1,0.2,2,0.7,1,Long,Expansion
+Europe,,0.09133333333333334,,,0.5,0,0.15,1.0,1,0.3,0.5,0,0.1,0.5,0,0.1,1,0.6499999999999999,2,Neutral,Expansion
+UK,,-0.109,,,0.5,0,0.15,0.0,1,0.0,0.5,0,0.1,0.5,0,0.1,1,0.35,3,Neutral,Contraction
+US,,-0.034999999999999996,7.0355,5.4298,0.5,0,0.15,0.3693843594009984,1,0.11081530782029951,0.13499073731011485,1,0.026998147462022972,0.19262849413886385,1,0.03852569882777277,3,0.32633915411009523,4,Neutral,Contraction
+Japan,,-0.040499999999999994,5.2138,3.5499,0.5,0,0.15,0.3419301164725458,1,0.10257903494176374,0.0,1,0.0,0.0,1,0.0,3,0.2525790349417637,5,Short,Contraction

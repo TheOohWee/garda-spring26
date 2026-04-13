@@ -1,0 +1,3 @@
+Operator: TSMC quarterly conference.
+
+Executive: Revenue grew on advanced node ramp and AI accelerator demand. Utilization improved as customers restocked. Pricing reflects value of leading-edge manufacturing; we maintain technology premium. We are hiring engineers and technicians for new fabs; labor costs are rising in Taiwan and overseas sites. Capex remains high for Arizona and Japan expansions plus domestic advanced packaging. AI chip demand is the primary growth driver; we co-develop with key customers. Efficiency in yield improvement and cycle time supports margins. Geopolitical factors remain a risk, but structural demand for AI silicon is strong.

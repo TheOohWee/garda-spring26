@@ -1,0 +1,3 @@
+Operator: Microsoft earnings call.
+
+Executive: Cloud revenue growth was strong as enterprises continue to move workloads to Azure. Demand for AI services and Copilot attach is exceeding our early expectations. We are hiring aggressively in cloud and AI engineering while maintaining discipline in other functions. Pricing for premium SKUs reflects value delivered; consumption-based revenue scaled with usage. Capex rises to expand datacenter capacity for AI training and inference. We believe AI will drive long-term productivity gains for customers and for our own operations. Efficiency in sales and marketing improved through automation. Hiring remains competitive for top AI talent globally.

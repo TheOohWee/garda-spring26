@@ -2,6 +2,8 @@ from __future__ import annotations
 
 import argparse
 import csv
+import random
+import re
 import sys
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -69,8 +71,9 @@ def parse_tickers_file(path: str) -> list[str]:
 def build_queries(ticker: str, fiscal_year: int) -> list[str]:
     short_fy = str(fiscal_year)[-2:]
     return [
-        f"{ticker.lower()} fy{short_fy} earnings call transcript motley fool",
-        f"{ticker.lower()} q4 {fiscal_year} earnings call transcript motley fool",
+        f"{ticker} FY{short_fy} earnings call transcript motley fool",
+        f"{ticker} Q4 {fiscal_year} earnings call transcript motley fool",
+        f'"{ticker}" "Q4" "{fiscal_year}" earnings transcript site:fool.com',
     ]
 
 
@@ -78,7 +81,7 @@ def normalize_search_result_url(url: str) -> str:
     parsed = urlparse(url)
     qs = parse_qs(parsed.query)
 
-    if "duckduckgo.com/l/?" in url:
+    if "duckduckgo.com/l/?" in url or "duckduckgo.com" in parsed.netloc:
         uddg = qs.get("uddg", [])
         if uddg:
             return uddg[0]
@@ -101,21 +104,32 @@ def is_motley_fool_transcript_url(url: str) -> bool:
     path = parsed.path.lower()
     return (
         is_fool_host(url)
-        and "/call-transcripts/" in path
+        and (
+            "/earnings/call-transcripts/" in path
+            or "/call-transcripts/" in path
+        )
         and "/search/" not in path
     )
 
 
 def is_q4_target_year_url(url: str, fiscal_year: int) -> bool:
     path = urlparse(url).path.lower()
-    return f"q4-{fiscal_year}" in path
+    return (
+        f"q4-{fiscal_year}" in path
+        or f"q4{fiscal_year}" in path
+        or f"q4 {fiscal_year}" in path
+    )
 
 
 def pick_best_fool_link(urls: Iterable[str], fiscal_year: int) -> str | None:
+    fallback_candidates: list[str] = []
     for url in urls:
-        if is_motley_fool_transcript_url(url) and is_q4_target_year_url(url, fiscal_year):
+        if not is_motley_fool_transcript_url(url):
+            continue
+        if is_q4_target_year_url(url, fiscal_year):
             return url
-    return None
+        fallback_candidates.append(url)
+    return fallback_candidates[0] if fallback_candidates else None
 
 
 def create_driver(
@@ -131,8 +145,15 @@ def create_driver(
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
     chrome_options.add_argument("--log-level=3")
+    chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+    chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+    chrome_options.add_experimental_option("useAutomationExtension", False)
     service = Service(driver_path or ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service, options=chrome_options)
+    try:
+        driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
+    except Exception:  # noqa: BLE001
+        pass
     wait = WebDriverWait(driver, wait_seconds)
     return driver, wait
 
@@ -143,20 +164,20 @@ def collect_duckduckgo_links(driver: webdriver.Chrome, wait: WebDriverWait, quer
     try:
         wait.until(
             EC.presence_of_all_elements_located(
-                (By.CSS_SELECTOR, "a[data-testid='result-title-a'], h2 a, a[href]")
+                (By.CSS_SELECTOR, "a[data-testid='result-title-a']")
             )
         )
     except TimeoutException:
         return []
 
-    anchors = driver.find_elements(By.CSS_SELECTOR, "a[data-testid='result-title-a'], h2 a, a[href]")
+    anchors = driver.find_elements(By.CSS_SELECTOR, "a[data-testid='result-title-a']")
     urls: list[str] = []
     for anchor in anchors:
         href = anchor.get_attribute("href") or ""
         href = normalize_search_result_url(href)
         if href.startswith("http"):
             urls.append(href)
-    return urls
+    return list(dict.fromkeys(urls))
 
 
 def collect_google_links(
@@ -174,8 +195,9 @@ def collect_google_links(
     maybe_pause_for_google_robot_check(driver, query, enable_pause=pause_for_robot_check)
 
     selectors = [
+        "div#search div.g a[href]",
+        "div#search a[href][data-ved]",
         "div#search a[href]",
-        "a[href]",
     ]
     urls: list[str] = []
     for selector in selectors:
@@ -187,7 +209,7 @@ def collect_google_links(
                 urls.append(href)
         if urls:
             break
-    return urls
+    return list(dict.fromkeys(urls))
 
 
 def google_robot_check_detected(driver: webdriver.Chrome) -> bool:
@@ -231,17 +253,17 @@ def collect_bing_links(driver: webdriver.Chrome, wait: WebDriverWait, query: str
     search_url = f"https://www.bing.com/search?q={quote_plus(query)}"
     driver.get(search_url)
     try:
-        wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "li.b_algo h2 a, h2 a, a[href]")))
+        wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "li.b_algo h2 a")))
     except TimeoutException:
         return []
 
-    anchors = driver.find_elements(By.CSS_SELECTOR, "li.b_algo h2 a, h2 a, a[href]")
+    anchors = driver.find_elements(By.CSS_SELECTOR, "li.b_algo h2 a")
     urls: list[str] = []
     for anchor in anchors:
         href = anchor.get_attribute("href") or ""
         if href.startswith("http"):
             urls.append(href)
-    return urls
+    return list(dict.fromkeys(urls))
 
 
 def find_first_motley_fool_link(
@@ -252,17 +274,12 @@ def find_first_motley_fool_link(
     manual_pause_seconds: float = 0.0,
     pause_for_robot_check: bool = True,
 ) -> str | None:
-    google_best = pick_best_fool_link(
-        collect_google_links(driver, wait, query, pause_for_robot_check=pause_for_robot_check),
-        fiscal_year=fiscal_year,
-    )
+    google_urls = collect_google_links(driver, wait, query, pause_for_robot_check=pause_for_robot_check)
+    google_best = pick_best_fool_link(google_urls, fiscal_year=fiscal_year)
     if google_best:
         return google_best
 
     if manual_pause_seconds > 0:
-        search_url = f"https://www.google.com/search?hl=en&num=20&q={quote_plus(query)}"
-        driver.get(search_url)
-        maybe_pause_for_google_robot_check(driver, query, enable_pause=pause_for_robot_check)
         time.sleep(manual_pause_seconds)
         google_best_after_pause = pick_best_fool_link(
             collect_google_links(driver, wait, query, pause_for_robot_check=pause_for_robot_check),
@@ -297,10 +314,12 @@ def extract_text_with_selenium(driver: webdriver.Chrome) -> tuple[str, str]:
 
     selectors = [
         "div.article-body p",
+        "div#article-body p",
         "[data-test='article-content'] p",
         "article p",
         "div.article-content p",
         "main p",
+        "div.content p",
     ]
 
     best_text = ""
@@ -314,9 +333,32 @@ def extract_text_with_selenium(driver: webdriver.Chrome) -> tuple[str, str]:
     return title, best_text
 
 
+def wait_for_transcript_text(
+    driver: webdriver.Chrome,
+    timeout_seconds: int,
+    min_chars: int = 300,
+) -> tuple[str, str]:
+    def content_ready(_: webdriver.Chrome) -> tuple[str, str] | bool:
+        title, text = extract_text_with_selenium(driver)
+        if len(text) >= min_chars:
+            return title, text
+        return False
+
+    try:
+        result = WebDriverWait(driver, timeout_seconds, poll_frequency=0.5).until(content_ready)
+        if isinstance(result, tuple):
+            return result
+    except TimeoutException:
+        pass
+
+    return extract_text_with_selenium(driver)
+
+
 def extract_text_with_bs4(page_source: str) -> str:
     soup = BeautifulSoup(page_source, "lxml")
-    candidates = soup.select("div.article-body, [data-test='article-content'], article, main")
+    candidates = soup.select(
+        "div.article-body, div#article-body, [data-test='article-content'], article, main, div.content"
+    )
 
     best_text = ""
     for candidate in candidates:
@@ -341,9 +383,8 @@ def write_transcript_file(
     title: str,
     body_text: str,
 ) -> Path:
-    ticker_dir = output_root / ticker
-    ticker_dir.mkdir(parents=True, exist_ok=True)
-    path = ticker_dir / f"FY{fiscal_year}.txt"
+    path = transcript_output_path(output_root, ticker, fiscal_year)
+    path.parent.mkdir(parents=True, exist_ok=True)
     fetched_at = datetime.now(UTC).isoformat()
     content = (
         f"Ticker: {ticker}\n"
@@ -356,6 +397,23 @@ def write_transcript_file(
     )
     path.write_text(content, encoding="utf-8")
     return path
+
+
+def resolve_ticker_dir(output_root: Path, ticker: str) -> Path:
+    exact_path = output_root / ticker
+    if exact_path.exists() and exact_path.is_dir():
+        return exact_path
+
+    pattern = re.compile(rf"\({re.escape(ticker)}\)\s*$", re.IGNORECASE)
+    for child in output_root.iterdir():
+        if child.is_dir() and pattern.search(child.name):
+            return child
+
+    return exact_path
+
+
+def transcript_output_path(output_root: Path, ticker: str, fiscal_year: int) -> Path:
+    return resolve_ticker_dir(output_root, ticker) / f"FY{fiscal_year}.txt"
 
 
 def write_debug_snapshot(
@@ -422,6 +480,20 @@ def scrape_single_transcript(
     fetched_at = datetime.now(UTC).isoformat()
     last_no_content: ScrapeResult | None = None
     last_error: ScrapeResult | None = None
+    existing_path = transcript_output_path(output_root, ticker, fiscal_year)
+
+    if existing_path.exists():
+        return ScrapeResult(
+            ticker=ticker,
+            fiscal_year=fiscal_year,
+            query_used="",
+            url="",
+            status="skipped_existing",
+            text_path=str(existing_path),
+            char_count=existing_path.stat().st_size,
+            error="Transcript already exists; skipped re-scraping.",
+            fetched_at_utc=fetched_at,
+        )
 
     for query in build_queries(ticker, fiscal_year):
         for attempt in range(1, retries + 1):
@@ -446,13 +518,7 @@ def scrape_single_transcript(
                     break
 
                 driver.get(url)
-                time.sleep(sleep_seconds)
-
-                title, text = extract_text_with_selenium(driver)
-                render_deadline = time.time() + 12
-                while len(text) < 300 and time.time() < render_deadline:
-                    time.sleep(1)
-                    title, text = extract_text_with_selenium(driver)
+                title, text = wait_for_transcript_text(driver, timeout_seconds=8, min_chars=350)
                 if len(text) < 500:
                     text = extract_text_with_bs4(driver.page_source)
 
@@ -515,7 +581,7 @@ def scrape_single_transcript(
                         fetched_at_utc=fetched_at,
                     )
                     break
-                time.sleep(sleep_seconds)
+                time.sleep(sleep_seconds + random.uniform(0.0, 0.4))
 
     if last_no_content is not None:
         return last_no_content
@@ -561,8 +627,13 @@ def parse_args() -> argparse.Namespace:
         default="manifest.csv",
         help="Manifest CSV filename inside output directory.",
     )
-    parser.add_argument("--wait-seconds", type=int, default=15, help="Selenium explicit wait timeout.")
-    parser.add_argument("--sleep-seconds", type=float, default=1.2, help="Pause after page load.")
+    parser.add_argument("--wait-seconds", type=int, default=10, help="Selenium explicit wait timeout.")
+    parser.add_argument(
+        "--sleep-seconds",
+        type=float,
+        default=1.2,
+        help="Pause between retries after failures or partial loads.",
+    )
     parser.add_argument(
         "--manual-pause-seconds",
         type=float,
@@ -694,7 +765,10 @@ def main() -> int:
     write_manifest(manifest_path, rows)
 
     ok_count = sum(1 for r in rows if r.status == "ok")
+    skipped_count = sum(1 for r in rows if r.status == "skipped_existing")
     print(f"\nDone. Successful transcripts: {ok_count}/{len(rows)}")
+    if skipped_count:
+        print(f"Skipped existing transcripts: {skipped_count}/{len(rows)}")
     print(f"Manifest written to: {manifest_path.resolve()}")
     return 0
 
