@@ -1,0 +1,10 @@
+[scrape]
+archive_url = "https://www.fool.com/earnings-call-transcripts/"
+delay_seconds = 3.0
+max_retries = 5
+
+[clean]
+write_speakers = true
+
+[score]
+finbert_model_name = "ProsusAI/finbert"

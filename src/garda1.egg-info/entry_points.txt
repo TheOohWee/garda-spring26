@@ -1,0 +1,3 @@
+[console_scripts]
+garda1 = garda1.cli:main
+garda1-run = run_pipeline:main

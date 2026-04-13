@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+data/raw_html/
+data/speakers/
+data/transcripts/
+data/lexicons/
+data/*.db
+data/transcripts_metadata.csv
+outputs/
